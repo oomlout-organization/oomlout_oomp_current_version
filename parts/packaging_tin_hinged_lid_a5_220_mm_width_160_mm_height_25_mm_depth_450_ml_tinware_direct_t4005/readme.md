@@ -65,8 +65,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | color_first_letter_upper |  |  
 | color_name |  |  
 | color_upper |  |  
-| cost_per | £1.25 |  
-| cost_per_10 | £1.25 |  
 | depth_internal | ['21 mm'] |  
 | description_extra |  |  
 | description_extra_capital |  |  
@@ -177,6 +175,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_upper_length_4 | T400 |  
 | part_number_upper_length_5 | T4005 |  
 | part_number_upper_length_6 | T4005 |  
+| price_1 | £1.25 |  
+| price_10 | £1.25 |  
+| price_current | £1.25 |  
 | short_code |  |  
 | short_code_upper |  |  
 | size | a5_220_mm_width_160_mm_height_25_mm_depth_450_ml |  
