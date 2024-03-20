@@ -1,0 +1,173 @@
+# Eda Kicad Footprint Kicad Default Fuse Fuseholder Littelfuse Nano2 157X  
+
+note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
+
+##  part details
+
+
+
+eda
+
+### id
+* oomp_id: eda_kicad_footprint_kicad_default_fuse_fuseholder_littelfuse_nano2_157x
+  * classification: kicad_footprint
+  * type: kicad_default
+  * size: 
+  * color: 
+  * description_main: fuse
+  * description_extra: fuseholder_littelfuse_nano2_157x
+  * manufacturer: 
+  * part_number: 
+
+### other_codes
+* short_code: 
+* oomp_word: ram elephant strawberry
+* oomp_word_emoji :ram: :elephant: :strawberry:
+* md5_6_alpha: 3d68d
+* md5_6: 5643cd
+
+### all codes 
+| key | value |  
+| --- | --- |  
+| classification | kicad_footprint |  
+| classification_length_1 | k |  
+| classification_length_2 | ki |  
+| classification_length_3 | kic |  
+| classification_length_4 | kica |  
+| classification_length_5 | kicad |  
+| classification_length_6 | kicad_ |  
+| classification_name | Kicad Footprint |  
+| classification_no_space_length_1 | k |  
+| classification_no_space_length_2 | ki |  
+| classification_no_space_length_3 | kic |  
+| classification_no_space_length_4 | kica |  
+| classification_no_space_length_5 | kicad |  
+| classification_no_space_length_6 | kicadf |  
+| classification_no_space_upper_length_1 | K |  
+| classification_no_space_upper_length_2 | KI |  
+| classification_no_space_upper_length_3 | KIC |  
+| classification_no_space_upper_length_4 | KICA |  
+| classification_no_space_upper_length_5 | KICAD |  
+| classification_no_space_upper_length_6 | KICADF |  
+| classification_upper_length_1 | K |  
+| classification_upper_length_2 | KI |  
+| classification_upper_length_3 | KIC |  
+| classification_upper_length_4 | KICA |  
+| classification_upper_length_5 | KICAD |  
+| classification_upper_length_6 | KICAD_ |  
+| color |  |  
+| color_name |  |  
+| description | eda |  
+| description_extra | fuseholder_littelfuse_nano2_157x |  
+| description_extra_length_1 | f |  
+| description_extra_length_2 | fu |  
+| description_extra_length_3 | fus |  
+| description_extra_length_4 | fuse |  
+| description_extra_length_5 | fuseh |  
+| description_extra_length_6 | fuseho |  
+| description_extra_name | Fuseholder Littelfuse Nano2 157X |  
+| description_extra_no_space_length_1 | f |  
+| description_extra_no_space_length_2 | fu |  
+| description_extra_no_space_length_3 | fus |  
+| description_extra_no_space_length_4 | fuse |  
+| description_extra_no_space_length_5 | fuseh |  
+| description_extra_no_space_length_6 | fuseho |  
+| description_extra_no_space_upper_length_1 | F |  
+| description_extra_no_space_upper_length_2 | FU |  
+| description_extra_no_space_upper_length_3 | FUS |  
+| description_extra_no_space_upper_length_4 | FUSE |  
+| description_extra_no_space_upper_length_5 | FUSEH |  
+| description_extra_no_space_upper_length_6 | FUSEHO |  
+| description_extra_upper_length_1 | F |  
+| description_extra_upper_length_2 | FU |  
+| description_extra_upper_length_3 | FUS |  
+| description_extra_upper_length_4 | FUSE |  
+| description_extra_upper_length_5 | FUSEH |  
+| description_extra_upper_length_6 | FUSEHO |  
+| description_main | fuse |  
+| description_main_length_1 | f |  
+| description_main_length_2 | fu |  
+| description_main_length_3 | fus |  
+| description_main_length_4 | fuse |  
+| description_main_length_5 | fuse |  
+| description_main_length_6 | fuse |  
+| description_main_name | Fuse |  
+| description_main_no_space_length_1 | f |  
+| description_main_no_space_length_2 | fu |  
+| description_main_no_space_length_3 | fus |  
+| description_main_no_space_length_4 | fuse |  
+| description_main_no_space_length_5 | fuse |  
+| description_main_no_space_length_6 | fuse |  
+| description_main_no_space_upper_length_1 | F |  
+| description_main_no_space_upper_length_2 | FU |  
+| description_main_no_space_upper_length_3 | FUS |  
+| description_main_no_space_upper_length_4 | FUSE |  
+| description_main_no_space_upper_length_5 | FUSE |  
+| description_main_no_space_upper_length_6 | FUSE |  
+| description_main_upper_length_1 | F |  
+| description_main_upper_length_2 | FU |  
+| description_main_upper_length_3 | FUS |  
+| description_main_upper_length_4 | FUSE |  
+| description_main_upper_length_5 | FUSE |  
+| description_main_upper_length_6 | FUSE |  
+| directory | parts/eda_kicad_footprint_kicad_default_fuse_fuseholder_littelfuse_nano2_157x |  
+| footprint_id | eda_kicad_footprint_kicad_default_fuse_fuseholder_littelfuse_nano2_157x |  
+| footprint_string | {'attributes': "Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)", 'autoplaceCost180': 'None', 'autoplaceCost90': 'None', 'clearance': 'None', 'description': 'Littelfuse NANO2 holder, https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_157_datasheet.pdf.pdf', 'entryName': 'Fuseholder_Littelfuse_Nano2_157x', 'filePath': 'None', 'generator': 'pcbnew', 'graphicItems': "[FpLine(start=Position(X=-3.36, Y=-1.96, angle=None, unlocked=False), end=Position(X=-3.36, Y=-1.76, angle=None, unlocked=False), layer='F.SilkS', width=None, stroke=Stroke(width=0.12, type='solid', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-3.36, Y=-1.96, angle=None, unlocked=False), end=Position(X=3.36, Y=-1.96, angle=None, unlocked=False), layer='F.SilkS', width=None, stroke=Stroke(width=0.12, type='solid', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-3.36, Y=1.76, angle=None, unlocked=False), end=Position(X=-3.36, Y=1.96, angle=None, unlocked=False), layer='F.SilkS', width=None, stroke=Stroke(width=0.12, type='solid', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-3.36, Y=1.96, angle=None, unlocked=False), end=Position(X=3.36, Y=1.96, angle=None, unlocked=False), layer='F.SilkS', width=None, stroke=Stroke(width=0.12, type='solid', color=None), locked=False, tstamp=None), FpLine(start=Position(X=3.36, Y=-1.96, angle=None, unlocked=False), end=Position(X=3.36, Y=-1.76, angle=None, unlocked=False), layer='F.SilkS', width=None, stroke=Stroke(width=0.12, type='solid', color=None), locked=False, tstamp=None), FpLine(start=Position(X=3.36, Y=1.76, angle=None, unlocked=False), end=Position(X=3.36, Y=1.96, angle=None, unlocked=False), layer='F.SilkS', width=None, stroke=Stroke(width=0.12, type='solid', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-3.88, Y=-2.1, angle=None, unlocked=False), end=Position(X=-3.88, Y=2.1, angle=None, unlocked=False), layer='F.CrtYd', width=None, stroke=Stroke(width=0.05, type='solid', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-3.88, Y=-2.1, angle=None, unlocked=False), end=Position(X=3.88, Y=-2.1, angle=None, unlocked=False), layer='F.CrtYd', width=None, stroke=Stroke(width=0.05, type='solid', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-3.88, Y=2.1, angle=None, unlocked=False), end=Position(X=3.88, Y=2.1, angle=None, unlocked=False), layer='F.CrtYd', width=None, stroke=Stroke(width=0.05, type='solid', color=None), locked=False, tstamp=None), FpLine(start=Position(X=3.88, Y=-2.1, angle=None, unlocked=False), end=Position(X=3.88, Y=2.1, angle=None, unlocked=False), layer='F.CrtYd', width=None, stroke=Stroke(width=0.05, type='solid', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-3.25, Y=-1.85, angle=None, unlocked=False), end=Position(X=-3.25, Y=1.85, angle=None, unlocked=False), layer='F.Fab', width=None, stroke=Stroke(width=0.1, type='solid', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-3.25, Y=-1.85, angle=None, unlocked=False), end=Position(X=3.25, Y=-1.85, angle=None, unlocked=False), layer='F.Fab', width=None, stroke=Stroke(width=0.1, type='solid', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-3.25, Y=1.85, angle=None, unlocked=False), end=Position(X=3.25, Y=1.85, angle=None, unlocked=False), layer='F.Fab', width=None, stroke=Stroke(width=0.1, type='solid', color=None), locked=False, tstamp=None), FpLine(start=Position(X=3.25, Y=-1.85, angle=None, unlocked=False), end=Position(X=3.25, Y=1.85, angle=None, unlocked=False), layer='F.Fab', width=None, stroke=Stroke(width=0.1, type='solid', color=None), locked=False, tstamp=None), FpText(type='user', text='${REFERENCE}', position=Position(X=0, Y=0, angle=0, unlocked=False), layer='F.Fab', hide=False, effects=Effects(font=Font(face=None, height=1, width=1, thickness=0.15, bold=False, italic=False, lineSpacing=None, color=None), justify=Justify(horizontally=None, vertically=None, mirror=False), hide=False, href=None), tstamp=None, renderCache=None)]", 'groups': '[]', 'layer': 'F.Cu', 'libraryNickname': 'None', 'locked': 'False', 'models': "[Model(path='${KICAD8_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Littelfuse_Nano2_157x.wrl', pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0, Y=0, Z=0), hide=False)]", 'pads': "[Pad(number='1', type='smd', shape='rect', position=Position(X=-2.43, Y=0, angle=None, unlocked=False), locked=False, size=Position(X=2.4, Y=3, angle=None, unlocked=False), drill=None, layers=['F.Cu', 'F.Paste', 'F.Mask'], property=None, removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]), Pad(number='2', type='smd', shape='rect', position=Position(X=2.43, Y=0, angle=None, unlocked=False), locked=False, size=Position(X=2.4, Y=3, angle=None, unlocked=False), drill=None, layers=['F.Cu', 'F.Paste', 'F.Mask'], property=None, removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[])]", 'path': 'None', 'placed': 'False', 'position': 'None', 'properties': "{'Reference': 'REF**', 'Value': 'Fuseholder_Littelfuse_Nano2_157x', 'Footprint': '', 'Datasheet': '', 'Description': ''}", 'solderMaskMargin': 'None', 'solderPasteMargin': 'None', 'solderPasteRatio': 'None', 'tags': 'SMD Nano2 holder', 'tedit': '65faf87e', 'thermalGap': 'None', 'thermalWidth': 'None', 'tstamp': 'None', 'version': '20240108', 'zoneConnect': 'None', 'zones': '[]'} |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_fuse_fuseholder_littelfuse_nano2_157x |  
+| id | eda_kicad_footprint_kicad_default_fuse_fuseholder_littelfuse_nano2_157x |  
+| id_no_class | eda_kicad_default_fuse_fuseholder_littelfuse_nano2_157x |  
+| id_no_color | edafusefuseholderlittelfusenano2157x |  
+| id_no_size | edafusefuseholderlittelfusenano2157x |  
+| id_no_type | eda_fuse_fuseholder_littelfuse_nano2_157x |  
+| manufacturer |  |  
+| manufacturer_name |  |  
+| md5 | 5643cda6ef0f133c31d0348d956c97bd |  
+| md5_10 | 5643cda6ef |  
+| md5_10_upper | 5643CDA6EF |  
+| md5_5 | 5643c |  
+| md5_5_upper | 5643C |  
+| md5_6 | 5643cd |  
+| md5_6_alpha | 3d68d |  
+| md5_6_alpha_upper | 3D68D |  
+| md5_6_upper | 5643CD |  
+| name | Eda Kicad Footprint Kicad Default Fuse Fuseholder Littelfuse Nano2 157X |  
+| name_no_class | Eda Kicad Default Fuse Fuseholder Littelfuse Nano2 157X |  
+| name_no_color | Edafusefuseholderlittelfusenano2157X |  
+| name_no_size | Edafusefuseholderlittelfusenano2157X |  
+| name_no_type | Eda Fuse Fuseholder Littelfuse Nano2 157X |  
+| oomp_key | oomp_eda_kicad_footprint_kicad_default_fuse_fuseholder_littelfuse_nano2_157x |  
+| oomp_word | ram elephant strawberry |  
+| oomp_word_emoji | :ram: :elephant: :strawberry: |  
+| oomp_word_emoji_list | [':ram:', ':elephant:', ':strawberry:'] |  
+| oomp_word_list | ['ram', 'elephant', 'strawberry'] |  
+| part_number |  |  
+| part_number_name |  |  
+| short_name |  |  
+| size |  |  
+| size_name |  |  
+| type | kicad_default |  
+| type_length_1 | k |  
+| type_length_2 | ki |  
+| type_length_3 | kic |  
+| type_length_4 | kica |  
+| type_length_5 | kicad |  
+| type_length_6 | kicad_ |  
+| type_name | Kicad Default |  
+| type_no_space_length_1 | k |  
+| type_no_space_length_2 | ki |  
+| type_no_space_length_3 | kic |  
+| type_no_space_length_4 | kica |  
+| type_no_space_length_5 | kicad |  
+| type_no_space_length_6 | kicadd |  
+| type_no_space_upper_length_1 | K |  
+| type_no_space_upper_length_2 | KI |  
+| type_no_space_upper_length_3 | KIC |  
+| type_no_space_upper_length_4 | KICA |  
+| type_no_space_upper_length_5 | KICAD |  
+| type_no_space_upper_length_6 | KICADD |  
+| type_upper_length_1 | K |  
+| type_upper_length_2 | KI |  
+| type_upper_length_3 | KIC |  
+| type_upper_length_4 | KICA |  
+| type_upper_length_5 | KICAD |  
+| type_upper_length_6 | KICAD_ |  
