@@ -171,7 +171,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_standoff_m3_nylon_white_25_mm_length_screw_and_nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_nylon_white_25_mm_length_screw_and_nut/working)<br>[stm3sn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_nylon_white_25_mm_length_screw_and_nut/working)<br>[Hardware Standoff M3 Nylon White 25 Mm Length Screw And Nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_nylon_white_25_mm_length_screw_and_nut/working)<br><br> |  
+| markdown_full | [hardware_standoff_m3_nylon_white_25_mm_length_screw_and_nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_nylon_white_25_mm_length_screw_and_nut/working)<br>[st325sn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_nylon_white_25_mm_length_screw_and_nut/working)<br>[Hardware Standoff M3 Nylon White 25 Mm Length Screw And Nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_nylon_white_25_mm_length_screw_and_nut/working)<br><br> |  
 | markdown_short | [hardware_standoff_m3_nylon_white_25_mm_length_screw_and_nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_nylon_white_25_mm_length_screw_and_nut/working)<br><br> |  
 | md5 | 1e4b5ec9a73337702bb2ab0d659d31ce |  
 | md5_10 | 1e4b5ec9a7 |  
@@ -217,8 +217,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | stm3sn |  
-| short_code_upper | STM3SN |  
+| short_code | st325sn |  
+| short_code_upper | ST325SN |  
 | size | m3 |  
 | size_capital | M3 |  
 | size_first_letter | m |  

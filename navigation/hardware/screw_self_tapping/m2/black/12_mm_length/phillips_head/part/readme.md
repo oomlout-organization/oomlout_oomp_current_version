@@ -171,7 +171,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_screw_self_tapping_m2_black_12_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m2_black_12_mm_length_phillips_head/working)<br>[sstm2b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m2_black_12_mm_length_phillips_head/working)<br>[Hardware Screw Self Tapping M2 Black 12 Mm Length Phillips Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m2_black_12_mm_length_phillips_head/working)<br><br> |  
+| markdown_full | [hardware_screw_self_tapping_m2_black_12_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m2_black_12_mm_length_phillips_head/working)<br>[st2b12ph](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m2_black_12_mm_length_phillips_head/working)<br>[Hardware Screw Self Tapping M2 Black 12 Mm Length Phillips Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m2_black_12_mm_length_phillips_head/working)<br><br> |  
 | markdown_short | [hardware_screw_self_tapping_m2_black_12_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m2_black_12_mm_length_phillips_head/working)<br><br> |  
 | md5 | c25c84ede1b50a4cb816a9d3154bcbdf |  
 | md5_10 | c25c84ede1 |  
@@ -218,8 +218,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | sstm2b |  
-| short_code_upper | SSTM2B |  
+| short_code | st2b12ph |  
+| short_code_upper | ST2B12PH |  
 | size | m2 |  
 | size_capital | M2 |  
 | size_first_letter | m |  

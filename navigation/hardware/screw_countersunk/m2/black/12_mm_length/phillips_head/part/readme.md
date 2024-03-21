@@ -171,7 +171,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_screw_countersunk_m2_black_12_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m2_black_12_mm_length_phillips_head/working)<br>[scsm2b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m2_black_12_mm_length_phillips_head/working)<br>[Hardware Screw Countersunk M2 Black 12 Mm Length Phillips Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m2_black_12_mm_length_phillips_head/working)<br><br> |  
+| markdown_full | [hardware_screw_countersunk_m2_black_12_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m2_black_12_mm_length_phillips_head/working)<br>[cs2b12ph](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m2_black_12_mm_length_phillips_head/working)<br>[Hardware Screw Countersunk M2 Black 12 Mm Length Phillips Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m2_black_12_mm_length_phillips_head/working)<br><br> |  
 | markdown_short | [hardware_screw_countersunk_m2_black_12_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m2_black_12_mm_length_phillips_head/working)<br><br> |  
 | md5 | 92e495020481e257f0a4d6ce750afed2 |  
 | md5_10 | 92e4950204 |  
@@ -218,8 +218,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | scsm2b |  
-| short_code_upper | SCSM2B |  
+| short_code | cs2b12ph |  
+| short_code_upper | CS2B12PH |  
 | size | m2 |  
 | size_capital | M2 |  
 | size_first_letter | m |  

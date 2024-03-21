@@ -123,7 +123,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_nut_m1_locking](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m1_locking/working)<br>[num1](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m1_locking/working)<br>[Hardware Nut M1 Locking](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m1_locking/working)<br><br> |  
+| markdown_full | [hardware_nut_m1_locking](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m1_locking/working)<br>[nu1](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m1_locking/working)<br>[Hardware Nut M1 Locking](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m1_locking/working)<br><br> |  
 | markdown_short | [hardware_nut_m1_locking](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m1_locking/working)<br><br> |  
 | md5 | 189a861561a449a80ef3fa98798e9394 |  
 | md5_10 | 189a861561 |  
@@ -153,8 +153,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | num1 |  
-| short_code_upper | NUM1 |  
+| short_code | nu1 |  
+| short_code_upper | NU1 |  
 | size | m1 |  
 | size_capital | M1 |  
 | size_first_letter | m |  

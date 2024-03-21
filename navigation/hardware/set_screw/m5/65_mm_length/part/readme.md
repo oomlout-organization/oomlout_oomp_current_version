@@ -123,7 +123,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_set_screw_m5_65_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m5_65_mm_length/working)<br>[ssm5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m5_65_mm_length/working)<br>[Hardware Set Screw M5 65 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m5_65_mm_length/working)<br><br> |  
+| markdown_full | [hardware_set_screw_m5_65_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m5_65_mm_length/working)<br>[ss565](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m5_65_mm_length/working)<br>[Hardware Set Screw M5 65 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m5_65_mm_length/working)<br><br> |  
 | markdown_short | [hardware_set_screw_m5_65_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m5_65_mm_length/working)<br><br> |  
 | md5 | 6dec7581424e7871c626a652398d2b37 |  
 | md5_10 | 6dec758142 |  
@@ -170,8 +170,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | ssm5 |  
-| short_code_upper | SSM5 |  
+| short_code | ss565 |  
+| short_code_upper | SS565 |  
 | size | m5 |  
 | size_capital | M5 |  
 | size_first_letter | m |  

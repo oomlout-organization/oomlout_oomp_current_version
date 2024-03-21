@@ -123,7 +123,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_bolt_m4_40_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m4_40_mm_length/working)<br>[bm4](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m4_40_mm_length/working)<br>[Hardware Bolt M4 40 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m4_40_mm_length/working)<br><br> |  
+| markdown_full | [hardware_bolt_m4_40_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m4_40_mm_length/working)<br>[b440](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m4_40_mm_length/working)<br>[Hardware Bolt M4 40 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m4_40_mm_length/working)<br><br> |  
 | markdown_short | [hardware_bolt_m4_40_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m4_40_mm_length/working)<br><br> |  
 | md5 | 1c56d6b5f5cbe5f6f52e86441e57c58f |  
 | md5_10 | 1c56d6b5f5 |  
@@ -170,8 +170,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | bm4 |  
-| short_code_upper | BM4 |  
+| short_code | b440 |  
+| short_code_upper | B440 |  
 | size | m4 |  
 | size_capital | M4 |  
 | size_first_letter | m |  

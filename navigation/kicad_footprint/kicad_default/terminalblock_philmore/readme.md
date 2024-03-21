@@ -1,2 +1,0 @@
-* [terminalblock_philmore_tb132_1x02_p5_00mm_horizontal](terminalblock_philmore_tb132_1x02_p5_00mm_horizontal)
-* [terminalblock_philmore_tb133_1x03_p5_00mm_horizontal](terminalblock_philmore_tb133_1x03_p5_00mm_horizontal)

@@ -145,7 +145,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_white_8_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_white_8_mm_length/working)<br>[w](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_white_8_mm_length/working)<br>[Electronic Crimp Bootlace Ferrule 1 Mm Diameter Wire White 8 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_white_8_mm_length/working)<br><br> |  
+| markdown_full | [electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_white_8_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_white_8_mm_length/working)<br>[w8](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_white_8_mm_length/working)<br>[Electronic Crimp Bootlace Ferrule 1 Mm Diameter Wire White 8 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_white_8_mm_length/working)<br><br> |  
 | markdown_short | [electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_white_8_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_white_8_mm_length/working)<br><br> |  
 | md5 | 489a5a7df9db31d1ef1bf15ede27065a |  
 | md5_10 | 489a5a7df9 |  
@@ -173,8 +173,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | w |  
-| short_code_upper | W |  
+| short_code | w8 |  
+| short_code_upper | W8 |  
 | size | 1_mm_diameter_wire |  
 | size_capital | 1 mm Diameter Wire |  
 | size_first_letter | 1 |  

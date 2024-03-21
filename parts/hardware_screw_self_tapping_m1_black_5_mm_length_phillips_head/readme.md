@@ -171,7 +171,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_screw_self_tapping_m1_black_5_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m1_black_5_mm_length_phillips_head/working)<br>[sstm1b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m1_black_5_mm_length_phillips_head/working)<br>[Hardware Screw Self Tapping M1 Black 5 Mm Length Phillips Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m1_black_5_mm_length_phillips_head/working)<br><br> |  
+| markdown_full | [hardware_screw_self_tapping_m1_black_5_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m1_black_5_mm_length_phillips_head/working)<br>[st1b5ph](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m1_black_5_mm_length_phillips_head/working)<br>[Hardware Screw Self Tapping M1 Black 5 Mm Length Phillips Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m1_black_5_mm_length_phillips_head/working)<br><br> |  
 | markdown_short | [hardware_screw_self_tapping_m1_black_5_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m1_black_5_mm_length_phillips_head/working)<br><br> |  
 | md5 | 83764c1e21338a58b49b8866fe384427 |  
 | md5_10 | 83764c1e21 |  
@@ -218,8 +218,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | sstm1b |  
-| short_code_upper | SSTM1B |  
+| short_code | st1b5ph |  
+| short_code_upper | ST1B5PH |  
 | size | m1 |  
 | size_capital | M1 |  
 | size_first_letter | m |  

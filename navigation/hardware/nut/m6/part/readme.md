@@ -99,7 +99,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_nut_m6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6/working)<br>[num6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6/working)<br>[Hardware Nut M6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6/working)<br><br> |  
+| markdown_full | [hardware_nut_m6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6/working)<br>[nu6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6/working)<br>[Hardware Nut M6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6/working)<br><br> |  
 | markdown_short | [hardware_nut_m6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6/working)<br><br> |  
 | md5 | 0c5aa07f0758332d210758db9c5a2270 |  
 | md5_10 | 0c5aa07f07 |  
@@ -129,8 +129,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | num6 |  
-| short_code_upper | NUM6 |  
+| short_code | nu6 |  
+| short_code_upper | NU6 |  
 | size | m6 |  
 | size_capital | M6 |  
 | size_first_letter | m |  

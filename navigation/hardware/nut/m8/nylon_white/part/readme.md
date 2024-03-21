@@ -123,7 +123,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_nut_m8_nylon_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m8_nylon_white/working)<br>[num8](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m8_nylon_white/working)<br>[Hardware Nut M8 Nylon White](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m8_nylon_white/working)<br><br> |  
+| markdown_full | [hardware_nut_m8_nylon_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m8_nylon_white/working)<br>[nu8](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m8_nylon_white/working)<br>[Hardware Nut M8 Nylon White](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m8_nylon_white/working)<br><br> |  
 | markdown_short | [hardware_nut_m8_nylon_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m8_nylon_white/working)<br><br> |  
 | md5 | 2d39f94e9f4990e7d6dc321f9b564229 |  
 | md5_10 | 2d39f94e9f |  
@@ -153,8 +153,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | num8 |  
-| short_code_upper | NUM8 |  
+| short_code | nu8 |  
+| short_code_upper | NU8 |  
 | size | m8 |  
 | size_capital | M8 |  
 | size_first_letter | m |  

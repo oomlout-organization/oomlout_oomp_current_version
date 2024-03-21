@@ -124,7 +124,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_washer_m3_penny](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m3_penny/working)<br>[wm3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m3_penny/working)<br>[Hardware Washer M3 Penny](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m3_penny/working)<br><br> |  
+| markdown_full | [hardware_washer_m3_penny](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m3_penny/working)<br>[w3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m3_penny/working)<br>[Hardware Washer M3 Penny](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m3_penny/working)<br><br> |  
 | markdown_short | [hardware_washer_m3_penny](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m3_penny/working)<br><br> |  
 | md5 | 907fee65ae3dfcfbc74ed8be9e7de117 |  
 | md5_10 | 907fee65ae |  
@@ -166,8 +166,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | price_200_distributor_orbital_fasteners | 0.0105 |  
 | price_current | 0.0105 |  
 | quantity_current | 100 |  
-| short_code | wm3 |  
-| short_code_upper | WM3 |  
+| short_code | w3 |  
+| short_code_upper | W3 |  
 | size | m3 |  
 | size_capital | M3 |  
 | size_first_letter | m |  

@@ -171,7 +171,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_screw_socket_cap_m5_black_110_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m5_black_110_mm_length_hex_head/working)<br>[sscm5b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m5_black_110_mm_length_hex_head/working)<br>[Hardware Screw Socket Cap M5 Black 110 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m5_black_110_mm_length_hex_head/working)<br><br> |  
+| markdown_full | [hardware_screw_socket_cap_m5_black_110_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m5_black_110_mm_length_hex_head/working)<br>[sc5bh](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m5_black_110_mm_length_hex_head/working)<br>[Hardware Screw Socket Cap M5 Black 110 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m5_black_110_mm_length_hex_head/working)<br><br> |  
 | markdown_short | [hardware_screw_socket_cap_m5_black_110_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m5_black_110_mm_length_hex_head/working)<br><br> |  
 | md5 | 8510bff77da130b02332816087f81fac |  
 | md5_10 | 8510bff77d |  
@@ -218,8 +218,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | sscm5b |  
-| short_code_upper | SSCM5B |  
+| short_code | sc5bh |  
+| short_code_upper | SC5BH |  
 | size | m5 |  
 | size_capital | M5 |  
 | size_first_letter | m |  

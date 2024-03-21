@@ -171,7 +171,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_standoff_m3_black_15_mm_length_screw_and_nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_black_15_mm_length_screw_and_nut/working)<br>[stm3bsn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_black_15_mm_length_screw_and_nut/working)<br>[Hardware Standoff M3 Black 15 Mm Length Screw And Nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_black_15_mm_length_screw_and_nut/working)<br><br> |  
+| markdown_full | [hardware_standoff_m3_black_15_mm_length_screw_and_nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_black_15_mm_length_screw_and_nut/working)<br>[st3b15sn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_black_15_mm_length_screw_and_nut/working)<br>[Hardware Standoff M3 Black 15 Mm Length Screw And Nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_black_15_mm_length_screw_and_nut/working)<br><br> |  
 | markdown_short | [hardware_standoff_m3_black_15_mm_length_screw_and_nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_black_15_mm_length_screw_and_nut/working)<br><br> |  
 | md5 | 8bb07030d720371f99de540fe411922f |  
 | md5_10 | 8bb07030d7 |  
@@ -217,8 +217,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | stm3bsn |  
-| short_code_upper | STM3BSN |  
+| short_code | st3b15sn |  
+| short_code_upper | ST3B15SN |  
 | size | m3 |  
 | size_capital | M3 |  
 | size_first_letter | m |  

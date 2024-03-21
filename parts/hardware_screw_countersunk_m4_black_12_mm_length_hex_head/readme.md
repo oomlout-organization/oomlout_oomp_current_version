@@ -171,7 +171,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_screw_countersunk_m4_black_12_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m4_black_12_mm_length_hex_head/working)<br>[scsm4b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m4_black_12_mm_length_hex_head/working)<br>[Hardware Screw Countersunk M4 Black 12 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m4_black_12_mm_length_hex_head/working)<br><br> |  
+| markdown_full | [hardware_screw_countersunk_m4_black_12_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m4_black_12_mm_length_hex_head/working)<br>[cs4b12h](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m4_black_12_mm_length_hex_head/working)<br>[Hardware Screw Countersunk M4 Black 12 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m4_black_12_mm_length_hex_head/working)<br><br> |  
 | markdown_short | [hardware_screw_countersunk_m4_black_12_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m4_black_12_mm_length_hex_head/working)<br><br> |  
 | md5 | 474226c7362cd2567292941c4a713d34 |  
 | md5_10 | 474226c736 |  
@@ -218,8 +218,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | scsm4b |  
-| short_code_upper | SCSM4B |  
+| short_code | cs4b12h |  
+| short_code_upper | CS4B12H |  
 | size | m4 |  
 | size_capital | M4 |  
 | size_first_letter | m |  

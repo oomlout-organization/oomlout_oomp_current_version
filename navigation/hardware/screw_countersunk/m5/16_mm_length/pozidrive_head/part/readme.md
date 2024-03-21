@@ -147,7 +147,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_screw_countersunk_m5_16_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m5_16_mm_length_pozidrive_head/working)<br>[scsm5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m5_16_mm_length_pozidrive_head/working)<br>[Hardware Screw Countersunk M5 16 Mm Length Pozidrive Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m5_16_mm_length_pozidrive_head/working)<br><br> |  
+| markdown_full | [hardware_screw_countersunk_m5_16_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m5_16_mm_length_pozidrive_head/working)<br>[cs516pz](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m5_16_mm_length_pozidrive_head/working)<br>[Hardware Screw Countersunk M5 16 Mm Length Pozidrive Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m5_16_mm_length_pozidrive_head/working)<br><br> |  
 | markdown_short | [hardware_screw_countersunk_m5_16_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m5_16_mm_length_pozidrive_head/working)<br><br> |  
 | md5 | 9d1c28b1f38ba3ca0ce1d7b55de18503 |  
 | md5_10 | 9d1c28b1f3 |  
@@ -194,8 +194,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | scsm5 |  
-| short_code_upper | SCSM5 |  
+| short_code | cs516pz |  
+| short_code_upper | CS516PZ |  
 | size | m5 |  
 | size_capital | M5 |  
 | size_first_letter | m |  

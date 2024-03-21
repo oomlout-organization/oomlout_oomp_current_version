@@ -83,7 +83,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_or_color_upper |   |  
 | directory | parts/electronic_mounting_hole_m3 |  
 | distributors | [] |  
-| footprint | [{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_mountinghole_mountinghole_3_2mm_m3//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_mountinghole_mountinghole_3_2mm_m3', 'note': 'source footprint kicad_mountinghole_mountinghole_3_2mm_m3', 'oomp_key': 'oomp_kicad_mountinghole_mountinghole_3_2mm_m3'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_mhm3_electronic_mounting_hole_m3//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_mhm3_electronic_mounting_hole_m3', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_mhm3_electronic_mounting_hole_m3'}] |  
+| footprint | [{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_mountinghole_mountinghole_3_2mm_m3//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_mountinghole_mountinghole_3_2mm_m3', 'note': 'source footprint kicad_mountinghole_mountinghole_3_2mm_m3', 'oomp_key': 'oomp_kicad_mountinghole_mountinghole_3_2mm_m3'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_mh3_electronic_mounting_hole_m3//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_mh3_electronic_mounting_hole_m3', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_mh3_electronic_mounting_hole_m3'}] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m3 |  
 | id | electronic_mounting_hole_m3 |  
 | id_no_class | mounting_hole_m3 |  
@@ -98,7 +98,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_mounting_hole_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m3/working)<br>[mhm3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m3/working)<br>[Electronic Mounting Hole M3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m3/working)<br><br> |  
+| markdown_full | [electronic_mounting_hole_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m3/working)<br>[mh3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m3/working)<br>[Electronic Mounting Hole M3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m3/working)<br><br> |  
 | markdown_short | [electronic_mounting_hole_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m3/working)<br><br> |  
 | md5 | 872f01e756948c570b070f1966ea2f26 |  
 | md5_10 | 872f01e756 |  
@@ -127,8 +127,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | mhm3 |  
-| short_code_upper | MHM3 |  
+| short_code | mh3 |  
+| short_code_upper | MH3 |  
 | short_name | M3 Mounting Hole |  
 | size | m3 |  
 | size_capital | M3 |  

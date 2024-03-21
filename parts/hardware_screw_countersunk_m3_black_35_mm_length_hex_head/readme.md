@@ -172,7 +172,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_screw_countersunk_m3_black_35_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_35_mm_length_hex_head/working)<br>[scsm3b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_35_mm_length_hex_head/working)<br>[Hardware Screw Countersunk M3 Black 35 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_35_mm_length_hex_head/working)<br><br> |  
+| markdown_full | [hardware_screw_countersunk_m3_black_35_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_35_mm_length_hex_head/working)<br>[cs3b35h](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_35_mm_length_hex_head/working)<br>[Hardware Screw Countersunk M3 Black 35 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_35_mm_length_hex_head/working)<br><br> |  
 | markdown_short | [hardware_screw_countersunk_m3_black_35_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_35_mm_length_hex_head/working)<br><br> |  
 | md5 | 2373cb86607bf8995530bc6d13a8f807 |  
 | md5_10 | 2373cb8660 |  
@@ -234,8 +234,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | price_200_distributor_orbital_fasteners | 0.0807 |  
 | price_current | 0.0807 |  
 | quantity_current | 200 |  
-| short_code | scsm3b |  
-| short_code_upper | SCSM3B |  
+| short_code | cs3b35h |  
+| short_code_upper | CS3B35H |  
 | size | m3 |  
 | size_capital | M3 |  
 | size_first_letter | m |  

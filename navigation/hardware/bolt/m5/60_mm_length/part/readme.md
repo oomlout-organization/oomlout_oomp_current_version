@@ -123,7 +123,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_bolt_m5_60_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m5_60_mm_length/working)<br>[bm5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m5_60_mm_length/working)<br>[Hardware Bolt M5 60 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m5_60_mm_length/working)<br><br> |  
+| markdown_full | [hardware_bolt_m5_60_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m5_60_mm_length/working)<br>[b560](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m5_60_mm_length/working)<br>[Hardware Bolt M5 60 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m5_60_mm_length/working)<br><br> |  
 | markdown_short | [hardware_bolt_m5_60_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m5_60_mm_length/working)<br><br> |  
 | md5 | 69813828c187e607ef2a2867d5f7c6db |  
 | md5_10 | 69813828c1 |  
@@ -170,8 +170,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | bm5 |  
-| short_code_upper | BM5 |  
+| short_code | b560 |  
+| short_code_upper | B560 |  
 | size | m5 |  
 | size_capital | M5 |  
 | size_first_letter | m |  

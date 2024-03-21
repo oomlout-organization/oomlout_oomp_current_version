@@ -171,7 +171,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_screw_socket_cap_m6_black_90_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m6_black_90_mm_length_hex_head/working)<br>[sscm6b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m6_black_90_mm_length_hex_head/working)<br>[Hardware Screw Socket Cap M6 Black 90 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m6_black_90_mm_length_hex_head/working)<br><br> |  
+| markdown_full | [hardware_screw_socket_cap_m6_black_90_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m6_black_90_mm_length_hex_head/working)<br>[sc6b90h](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m6_black_90_mm_length_hex_head/working)<br>[Hardware Screw Socket Cap M6 Black 90 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m6_black_90_mm_length_hex_head/working)<br><br> |  
 | markdown_short | [hardware_screw_socket_cap_m6_black_90_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m6_black_90_mm_length_hex_head/working)<br><br> |  
 | md5 | 152244ed2ea05bf41c23445f0190b2d6 |  
 | md5_10 | 152244ed2e |  
@@ -218,8 +218,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | sscm6b |  
-| short_code_upper | SSCM6B |  
+| short_code | sc6b90h |  
+| short_code_upper | SC6B90H |  
 | size | m6 |  
 | size_capital | M6 |  
 | size_first_letter | m |  

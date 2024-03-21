@@ -147,7 +147,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_spacer_m3_id_7_mm_od_nylon_white_30_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_spacer_m3_id_7_mm_od_nylon_white_30_mm_length/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_spacer_m3_id_7_mm_od_nylon_white_30_mm_length/working)<br>[Hardware Spacer M3 Id 7 Mm Od Nylon White 30 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_spacer_m3_id_7_mm_od_nylon_white_30_mm_length/working)<br><br> |  
+| markdown_full | [hardware_spacer_m3_id_7_mm_od_nylon_white_30_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_spacer_m3_id_7_mm_od_nylon_white_30_mm_length/working)<br>[30](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_spacer_m3_id_7_mm_od_nylon_white_30_mm_length/working)<br>[Hardware Spacer M3 Id 7 Mm Od Nylon White 30 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_spacer_m3_id_7_mm_od_nylon_white_30_mm_length/working)<br><br> |  
 | markdown_short | [hardware_spacer_m3_id_7_mm_od_nylon_white_30_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_spacer_m3_id_7_mm_od_nylon_white_30_mm_length/working)<br><br> |  
 | md5 | b4e5229cf288ba93572f1dd85f9f10ee |  
 | md5_10 | b4e5229cf2 |  
@@ -195,8 +195,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code |  |  
-| short_code_upper |  |  
+| short_code | 30 |  
+| short_code_upper | 30 |  
 | size | m3_id_7_mm_od |  
 | size_capital | M3 Id 7 mm Od |  
 | size_first_letter | m |  

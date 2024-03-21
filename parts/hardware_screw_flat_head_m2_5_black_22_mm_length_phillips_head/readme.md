@@ -171,7 +171,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_screw_flat_head_m2_5_black_22_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m2_5_black_22_mm_length_phillips_head/working)<br>[sfb](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m2_5_black_22_mm_length_phillips_head/working)<br>[Hardware Screw Flat Head M2 5 Black 22 Mm Length Phillips Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m2_5_black_22_mm_length_phillips_head/working)<br><br> |  
+| markdown_full | [hardware_screw_flat_head_m2_5_black_22_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m2_5_black_22_mm_length_phillips_head/working)<br>[fhb22ph](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m2_5_black_22_mm_length_phillips_head/working)<br>[Hardware Screw Flat Head M2 5 Black 22 Mm Length Phillips Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m2_5_black_22_mm_length_phillips_head/working)<br><br> |  
 | markdown_short | [hardware_screw_flat_head_m2_5_black_22_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m2_5_black_22_mm_length_phillips_head/working)<br><br> |  
 | md5 | ddaa676b751286578a587f14583651ed |  
 | md5_10 | ddaa676b75 |  
@@ -219,8 +219,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | sfb |  
-| short_code_upper | SFB |  
+| short_code | fhb22ph |  
+| short_code_upper | FHB22PH |  
 | size | m2_5 |  
 | size_capital | M2.5 |  
 | size_first_letter | m |  

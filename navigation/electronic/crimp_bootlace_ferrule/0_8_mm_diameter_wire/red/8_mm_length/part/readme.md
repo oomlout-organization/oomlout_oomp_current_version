@@ -145,7 +145,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_red_8_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_red_8_mm_length/working)<br>[r](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_red_8_mm_length/working)<br>[Electronic Crimp Bootlace Ferrule 0 8 Mm Diameter Wire Red 8 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_red_8_mm_length/working)<br><br> |  
+| markdown_full | [electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_red_8_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_red_8_mm_length/working)<br>[r8](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_red_8_mm_length/working)<br>[Electronic Crimp Bootlace Ferrule 0 8 Mm Diameter Wire Red 8 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_red_8_mm_length/working)<br><br> |  
 | markdown_short | [electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_red_8_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_red_8_mm_length/working)<br><br> |  
 | md5 | f27110a92c6ce03bd57e4517bc7ee6ef |  
 | md5_10 | f27110a92c |  
@@ -173,8 +173,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | r |  
-| short_code_upper | R |  
+| short_code | r8 |  
+| short_code_upper | R8 |  
 | size | 0_8_mm_diameter_wire |  
 | size_capital | 0 8 mm Diameter Wire |  
 | size_first_letter | 0 |  

@@ -123,7 +123,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_set_screw_m4_30_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m4_30_mm_length/working)<br>[ssm4](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m4_30_mm_length/working)<br>[Hardware Set Screw M4 30 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m4_30_mm_length/working)<br><br> |  
+| markdown_full | [hardware_set_screw_m4_30_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m4_30_mm_length/working)<br>[ss430](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m4_30_mm_length/working)<br>[Hardware Set Screw M4 30 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m4_30_mm_length/working)<br><br> |  
 | markdown_short | [hardware_set_screw_m4_30_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m4_30_mm_length/working)<br><br> |  
 | md5 | 9ba04635c48afca02edd4ef6c6bf13e1 |  
 | md5_10 | 9ba04635c4 |  
@@ -170,8 +170,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | ssm4 |  
-| short_code_upper | SSM4 |  
+| short_code | ss430 |  
+| short_code_upper | SS430 |  
 | size | m4 |  
 | size_capital | M4 |  
 | size_first_letter | m |  

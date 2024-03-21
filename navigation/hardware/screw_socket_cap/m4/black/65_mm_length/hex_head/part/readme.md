@@ -171,7 +171,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_screw_socket_cap_m4_black_65_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m4_black_65_mm_length_hex_head/working)<br>[sscm4b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m4_black_65_mm_length_hex_head/working)<br>[Hardware Screw Socket Cap M4 Black 65 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m4_black_65_mm_length_hex_head/working)<br><br> |  
+| markdown_full | [hardware_screw_socket_cap_m4_black_65_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m4_black_65_mm_length_hex_head/working)<br>[sc4b65h](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m4_black_65_mm_length_hex_head/working)<br>[Hardware Screw Socket Cap M4 Black 65 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m4_black_65_mm_length_hex_head/working)<br><br> |  
 | markdown_short | [hardware_screw_socket_cap_m4_black_65_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m4_black_65_mm_length_hex_head/working)<br><br> |  
 | md5 | 63617109a2d592296a36fdd8a22bc669 |  
 | md5_10 | 63617109a2 |  
@@ -218,8 +218,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | sscm4b |  
-| short_code_upper | SSCM4B |  
+| short_code | sc4b65h |  
+| short_code_upper | SC4B65H |  
 | size | m4 |  
 | size_capital | M4 |  
 | size_first_letter | m |  

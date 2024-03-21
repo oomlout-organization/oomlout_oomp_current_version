@@ -171,7 +171,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_screw_self_tapping_m2_3_black_20_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m2_3_black_20_mm_length_phillips_head/working)<br>[sstb](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m2_3_black_20_mm_length_phillips_head/working)<br>[Hardware Screw Self Tapping M2 3 Black 20 Mm Length Phillips Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m2_3_black_20_mm_length_phillips_head/working)<br><br> |  
+| markdown_full | [hardware_screw_self_tapping_m2_3_black_20_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m2_3_black_20_mm_length_phillips_head/working)<br>[stb20ph](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m2_3_black_20_mm_length_phillips_head/working)<br>[Hardware Screw Self Tapping M2 3 Black 20 Mm Length Phillips Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m2_3_black_20_mm_length_phillips_head/working)<br><br> |  
 | markdown_short | [hardware_screw_self_tapping_m2_3_black_20_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m2_3_black_20_mm_length_phillips_head/working)<br><br> |  
 | md5 | f4e8cdcc1ced883ca046f086874c36b8 |  
 | md5_10 | f4e8cdcc1c |  
@@ -219,8 +219,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | sstb |  
-| short_code_upper | SSTB |  
+| short_code | stb20ph |  
+| short_code_upper | STB20PH |  
 | size | m2_3 |  
 | size_capital | M2.3 |  
 | size_first_letter | m |  

@@ -171,7 +171,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_screw_machine_screw_m3_nylon_white_16_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m3_nylon_white_16_mm_length_phillips_head/working)<br>[m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m3_nylon_white_16_mm_length_phillips_head/working)<br>[Hardware Screw Machine Screw M3 Nylon White 16 Mm Length Phillips Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m3_nylon_white_16_mm_length_phillips_head/working)<br><br> |  
+| markdown_full | [hardware_screw_machine_screw_m3_nylon_white_16_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m3_nylon_white_16_mm_length_phillips_head/working)<br>[316ph](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m3_nylon_white_16_mm_length_phillips_head/working)<br>[Hardware Screw Machine Screw M3 Nylon White 16 Mm Length Phillips Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m3_nylon_white_16_mm_length_phillips_head/working)<br><br> |  
 | markdown_short | [hardware_screw_machine_screw_m3_nylon_white_16_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m3_nylon_white_16_mm_length_phillips_head/working)<br><br> |  
 | md5 | 6b857c1985062e2b09a1ee1a53c20935 |  
 | md5_10 | 6b857c1985 |  
@@ -201,8 +201,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | m3 |  
-| short_code_upper | M3 |  
+| short_code | 316ph |  
+| short_code_upper | 316PH |  
 | size | m3 |  
 | size_capital | M3 |  
 | size_first_letter | m |  

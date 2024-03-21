@@ -99,7 +99,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_washer_m5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m5/working)<br>[wm5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m5/working)<br>[Hardware Washer M5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m5/working)<br><br> |  
+| markdown_full | [hardware_washer_m5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m5/working)<br>[w5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m5/working)<br>[Hardware Washer M5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m5/working)<br><br> |  
 | markdown_short | [hardware_washer_m5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m5/working)<br><br> |  
 | md5 | 6712b1aaf2d8786fe91b86e167742f5d |  
 | md5_10 | 6712b1aaf2 |  
@@ -127,8 +127,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | wm5 |  
-| short_code_upper | WM5 |  
+| short_code | w5 |  
+| short_code_upper | W5 |  
 | size | m5 |  
 | size_capital | M5 |  
 | size_first_letter | m |  

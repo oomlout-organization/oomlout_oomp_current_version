@@ -1,1 +1,0 @@
-* [dinrailadapter_3xm3_phoenixcontact_1201578](dinrailadapter_3xm3_phoenixcontact_1201578)

@@ -171,7 +171,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_standoff_m3_black_10_mm_length_screw_and_screw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_black_10_mm_length_screw_and_screw/working)<br>[stm3b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_black_10_mm_length_screw_and_screw/working)<br>[Hardware Standoff M3 Black 10 Mm Length Screw And Screw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_black_10_mm_length_screw_and_screw/working)<br><br> |  
+| markdown_full | [hardware_standoff_m3_black_10_mm_length_screw_and_screw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_black_10_mm_length_screw_and_screw/working)<br>[st3b10](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_black_10_mm_length_screw_and_screw/working)<br>[Hardware Standoff M3 Black 10 Mm Length Screw And Screw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_black_10_mm_length_screw_and_screw/working)<br><br> |  
 | markdown_short | [hardware_standoff_m3_black_10_mm_length_screw_and_screw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_black_10_mm_length_screw_and_screw/working)<br><br> |  
 | md5 | 04f4cd9c4eb972f741da235b4778f128 |  
 | md5_10 | 04f4cd9c4e |  
@@ -217,8 +217,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | stm3b |  
-| short_code_upper | STM3B |  
+| short_code | st3b10 |  
+| short_code_upper | ST3B10 |  
 | size | m3 |  
 | size_capital | M3 |  
 | size_first_letter | m |  

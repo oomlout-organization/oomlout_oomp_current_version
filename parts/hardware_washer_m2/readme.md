@@ -99,7 +99,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_washer_m2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m2/working)<br>[wm2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m2/working)<br>[Hardware Washer M2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m2/working)<br><br> |  
+| markdown_full | [hardware_washer_m2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m2/working)<br>[w2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m2/working)<br>[Hardware Washer M2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m2/working)<br><br> |  
 | markdown_short | [hardware_washer_m2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m2/working)<br><br> |  
 | md5 | a89ac90589f72dbb4aa0d1b6507ce828 |  
 | md5_10 | a89ac90589 |  
@@ -127,8 +127,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | wm2 |  
-| short_code_upper | WM2 |  
+| short_code | w2 |  
+| short_code_upper | W2 |  
 | size | m2 |  
 | size_capital | M2 |  
 | size_first_letter | m |  

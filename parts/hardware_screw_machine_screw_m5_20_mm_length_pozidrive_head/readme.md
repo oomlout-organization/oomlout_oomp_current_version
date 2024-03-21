@@ -147,7 +147,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_screw_machine_screw_m5_20_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m5_20_mm_length_pozidrive_head/working)<br>[m5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m5_20_mm_length_pozidrive_head/working)<br>[Hardware Screw Machine Screw M5 20 Mm Length Pozidrive Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m5_20_mm_length_pozidrive_head/working)<br><br> |  
+| markdown_full | [hardware_screw_machine_screw_m5_20_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m5_20_mm_length_pozidrive_head/working)<br>[520pz](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m5_20_mm_length_pozidrive_head/working)<br>[Hardware Screw Machine Screw M5 20 Mm Length Pozidrive Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m5_20_mm_length_pozidrive_head/working)<br><br> |  
 | markdown_short | [hardware_screw_machine_screw_m5_20_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m5_20_mm_length_pozidrive_head/working)<br><br> |  
 | md5 | 0a674dc484381e49a1291c0ebc553b66 |  
 | md5_10 | 0a674dc484 |  
@@ -177,8 +177,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | m5 |  
-| short_code_upper | M5 |  
+| short_code | 520pz |  
+| short_code_upper | 520PZ |  
 | size | m5 |  
 | size_capital | M5 |  
 | size_first_letter | m |  

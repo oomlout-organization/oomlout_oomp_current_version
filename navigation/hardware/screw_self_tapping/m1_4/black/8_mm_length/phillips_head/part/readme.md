@@ -171,7 +171,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_screw_self_tapping_m1_4_black_8_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m1_4_black_8_mm_length_phillips_head/working)<br>[sstb](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m1_4_black_8_mm_length_phillips_head/working)<br>[Hardware Screw Self Tapping M1 4 Black 8 Mm Length Phillips Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m1_4_black_8_mm_length_phillips_head/working)<br><br> |  
+| markdown_full | [hardware_screw_self_tapping_m1_4_black_8_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m1_4_black_8_mm_length_phillips_head/working)<br>[stb8ph](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m1_4_black_8_mm_length_phillips_head/working)<br>[Hardware Screw Self Tapping M1 4 Black 8 Mm Length Phillips Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m1_4_black_8_mm_length_phillips_head/working)<br><br> |  
 | markdown_short | [hardware_screw_self_tapping_m1_4_black_8_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m1_4_black_8_mm_length_phillips_head/working)<br><br> |  
 | md5 | e72a3500cc703860bf9c0315c3baa185 |  
 | md5_10 | e72a3500cc |  
@@ -219,8 +219,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | sstb |  
-| short_code_upper | SSTB |  
+| short_code | stb8ph |  
+| short_code_upper | STB8PH |  
 | size | m1_4 |  
 | size_capital | M1.4 |  
 | size_first_letter | m |  

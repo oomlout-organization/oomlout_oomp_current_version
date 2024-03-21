@@ -123,7 +123,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_bolt_m8_150_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m8_150_mm_length/working)<br>[bm8](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m8_150_mm_length/working)<br>[Hardware Bolt M8 150 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m8_150_mm_length/working)<br><br> |  
+| markdown_full | [hardware_bolt_m8_150_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m8_150_mm_length/working)<br>[b8](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m8_150_mm_length/working)<br>[Hardware Bolt M8 150 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m8_150_mm_length/working)<br><br> |  
 | markdown_short | [hardware_bolt_m8_150_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m8_150_mm_length/working)<br><br> |  
 | md5 | 40a884ccecd7d4546c0b81e993e4a4ef |  
 | md5_10 | 40a884ccec |  
@@ -170,8 +170,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | bm8 |  
-| short_code_upper | BM8 |  
+| short_code | b8 |  
+| short_code_upper | B8 |  
 | size | m8 |  
 | size_capital | M8 |  
 | size_first_letter | m |  

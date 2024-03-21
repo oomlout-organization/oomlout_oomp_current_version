@@ -176,7 +176,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_screw_socket_cap_m3_black_18_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_18_mm_length_hex_head/working)<br>[sscm3b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_18_mm_length_hex_head/working)<br>[Hardware Screw Socket Cap M3 Black 18 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_18_mm_length_hex_head/working)<br><br> |  
+| markdown_full | [hardware_screw_socket_cap_m3_black_18_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_18_mm_length_hex_head/working)<br>[sc3b18h](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_18_mm_length_hex_head/working)<br>[Hardware Screw Socket Cap M3 Black 18 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_18_mm_length_hex_head/working)<br><br> |  
 | markdown_short | [hardware_screw_socket_cap_m3_black_18_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_18_mm_length_hex_head/working)<br><br> |  
 | md5 | 25bfb3618f32ec63b75f8dae8bfb63b9 |  
 | md5_10 | 25bfb3618f |  
@@ -233,8 +233,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | price_200 | missing_value |  
 | price_current | missing_value |  
 | quantity_current | 200 |  
-| short_code | sscm3b |  
-| short_code_upper | SSCM3B |  
+| short_code | sc3b18h |  
+| short_code_upper | SC3B18H |  
 | size | m3 |  
 | size_capital | M3 |  
 | size_first_letter | m |  

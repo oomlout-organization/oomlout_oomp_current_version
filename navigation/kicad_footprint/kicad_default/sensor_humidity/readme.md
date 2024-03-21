@@ -1,3 +1,0 @@
-* [sensirion_dfn_4_1ep_2x2mm_p1mm_ep0_7x1_6mm](sensirion_dfn_4_1ep_2x2mm_p1mm_ep0_7x1_6mm)
-* [sensirion_dfn_4_1_5x1_5mm_p0_8mm_sht4x_nocentralpad](sensirion_dfn_4_1_5x1_5mm_p0_8mm_sht4x_nocentralpad)
-* [sensirion_dfn_8_1ep_2_5x2_5mm_p0_5mm_ep1_1x1_7mm](sensirion_dfn_8_1ep_2_5x2_5mm_p0_5mm_ep1_1x1_7mm)

@@ -1,3 +1,0 @@
-* [gan_systems_ganpx_3_5x6_6mm_drain2_93x0_6mm](gan_systems_ganpx_3_5x6_6mm_drain2_93x0_6mm)
-* [gan_systems_ganpx_3_5x6_6mm_drain3_76x0_6mm](gan_systems_ganpx_3_5x6_6mm_drain3_76x0_6mm)
-* [gan_systems_ganpx_4_7x8_4mm](gan_systems_ganpx_4_7x8_4mm)

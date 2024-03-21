@@ -147,7 +147,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth/working)<br>[wm6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth/working)<br>[Hardware Washer M6 Nylon White 12 Mm Outer Diameter 1 5 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth/working)<br><br> |  
+| markdown_full | [hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth/working)<br>[w6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth/working)<br>[Hardware Washer M6 Nylon White 12 Mm Outer Diameter 1 5 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth/working)<br><br> |  
 | markdown_short | [hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth/working)<br><br> |  
 | md5 | 60938e58186782651a8e03e69e838829 |  
 | md5_10 | 60938e5818 |  
@@ -175,8 +175,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | wm6 |  
-| short_code_upper | WM6 |  
+| short_code | w6 |  
+| short_code_upper | W6 |  
 | size | m6 |  
 | size_capital | M6 |  
 | size_first_letter | m |  

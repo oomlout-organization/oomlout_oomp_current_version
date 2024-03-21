@@ -123,7 +123,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_washer_m1_penny](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m1_penny/working)<br>[wm1](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m1_penny/working)<br>[Hardware Washer M1 Penny](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m1_penny/working)<br><br> |  
+| markdown_full | [hardware_washer_m1_penny](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m1_penny/working)<br>[w1](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m1_penny/working)<br>[Hardware Washer M1 Penny](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m1_penny/working)<br><br> |  
 | markdown_short | [hardware_washer_m1_penny](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m1_penny/working)<br><br> |  
 | md5 | 79683140dd877142cec3c06a1290d954 |  
 | md5_10 | 79683140dd |  
@@ -151,8 +151,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | wm1 |  
-| short_code_upper | WM1 |  
+| short_code | w1 |  
+| short_code_upper | W1 |  
 | size | m1 |  
 | size_capital | M1 |  
 | size_first_letter | m |  

@@ -123,7 +123,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_nut_m6_flanged](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_flanged/working)<br>[num6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_flanged/working)<br>[Hardware Nut M6 Flanged](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_flanged/working)<br><br> |  
+| markdown_full | [hardware_nut_m6_flanged](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_flanged/working)<br>[nu6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_flanged/working)<br>[Hardware Nut M6 Flanged](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_flanged/working)<br><br> |  
 | markdown_short | [hardware_nut_m6_flanged](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_flanged/working)<br><br> |  
 | md5 | d6f9c36fb047e9413f77d705eb5c2a77 |  
 | md5_10 | d6f9c36fb0 |  
@@ -153,8 +153,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| short_code | num6 |  
-| short_code_upper | NUM6 |  
+| short_code | nu6 |  
+| short_code_upper | NU6 |  
 | size | m6 |  
 | size_capital | M6 |  
 | size_first_letter | m |  
