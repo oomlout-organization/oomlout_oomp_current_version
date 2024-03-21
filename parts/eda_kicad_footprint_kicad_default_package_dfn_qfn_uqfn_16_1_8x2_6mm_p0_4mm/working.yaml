@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: uqfn_16_1_8x2_6mm_p0_4mm
-description_extra_length_1: u
-description_extra_length_2: uq
-description_extra_length_3: uqf
-description_extra_length_4: uqfn
-description_extra_length_5: uqfn_
-description_extra_length_6: uqfn_1
-description_extra_name: Uqfn 16 1 8X2 6mm P0 4mm
-description_extra_no_space_length_1: u
-description_extra_no_space_length_2: uq
-description_extra_no_space_length_3: uqf
-description_extra_no_space_length_4: uqfn
-description_extra_no_space_length_5: uqfn1
-description_extra_no_space_length_6: uqfn16
-description_extra_no_space_upper_length_1: U
-description_extra_no_space_upper_length_2: UQ
-description_extra_no_space_upper_length_3: UQF
-description_extra_no_space_upper_length_4: UQFN
-description_extra_no_space_upper_length_5: UQFN1
-description_extra_no_space_upper_length_6: UQFN16
-description_extra_upper_length_1: U
-description_extra_upper_length_2: UQ
-description_extra_upper_length_3: UQF
-description_extra_upper_length_4: UQFN
-description_extra_upper_length_5: UQFN_
-description_extra_upper_length_6: UQFN_1
 description_main: package_dfn_qfn
-description_main_length_1: p
-description_main_length_2: pa
-description_main_length_3: pac
-description_main_length_4: pack
-description_main_length_5: packa
-description_main_length_6: packag
-description_main_name: Package Dfn Qfn
-description_main_no_space_length_1: p
-description_main_no_space_length_2: pa
-description_main_no_space_length_3: pac
-description_main_no_space_length_4: pack
-description_main_no_space_length_5: packa
-description_main_no_space_length_6: packag
-description_main_no_space_upper_length_1: P
-description_main_no_space_upper_length_2: PA
-description_main_no_space_upper_length_3: PAC
-description_main_no_space_upper_length_4: PACK
-description_main_no_space_upper_length_5: PACKA
-description_main_no_space_upper_length_6: PACKAG
-description_main_upper_length_1: P
-description_main_upper_length_2: PA
-description_main_upper_length_3: PAC
-description_main_upper_length_4: PACK
-description_main_upper_length_5: PACKA
-description_main_upper_length_6: PACKAG
-directory: parts/eda_kicad_footprint_kicad_default_package_dfn_qfn_uqfn_16_1_8x2_6mm_p0_4mm
 footprint_id: eda_kicad_footprint_kicad_default_package_dfn_qfn_uqfn_16_1_8x2_6mm_p0_4mm
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -273,67 +196,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_package_dfn_qfn_uqfn_16_1_8x2_6mm_p0_4mm
 id: eda_kicad_footprint_kicad_default_package_dfn_qfn_uqfn_16_1_8x2_6mm_p0_4mm
-id_no_class: eda_kicad_default_package_dfn_qfn_uqfn_16_1_8x2_6mm_p0_4mm
-id_no_color: edapackagedfnqfnuqfn1618x26mmp04mm
-id_no_size: edapackagedfnqfnuqfn1618x26mmp04mm
-id_no_type: eda_package_dfn_qfn_uqfn_16_1_8x2_6mm_p0_4mm
 manufacturer: ''
-manufacturer_name: ''
-md5: 14f1b64fc6fd1464d89d569356b7e786
-md5_10: 14f1b64fc6
-md5_10_upper: 14F1B64FC6
-md5_5: 14f1b
-md5_5_upper: 14F1B
-md5_6: 14f1b6
-md5_6_alpha: tf3q
-md5_6_alpha_upper: TF3Q
-md5_6_upper: 14F1B6
-name: Eda Kicad Footprint Kicad Default Package Dfn Qfn Uqfn 16 1 8X2 6mm P0 4mm
-name_no_class: Eda Kicad Default Package Dfn Qfn Uqfn 16 1 8X2 6mm P0 4mm
-name_no_color: Edapackagedfnqfnuqfn1618X26mmp04mm
-name_no_size: Edapackagedfnqfnuqfn1618X26mmp04mm
-name_no_type: Eda Package Dfn Qfn Uqfn 16 1 8X2 6mm P0 4mm
-oomp_key: oomp_eda_kicad_footprint_kicad_default_package_dfn_qfn_uqfn_16_1_8x2_6mm_p0_4mm
-oomp_word: fire ticket beer
-oomp_word_emoji: ':fire: :ticket: :beer:'
-oomp_word_emoji_list:
-- ':fire:'
-- ':ticket:'
-- ':beer:'
-oomp_word_list:
-- fire
-- ticket
-- beer
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

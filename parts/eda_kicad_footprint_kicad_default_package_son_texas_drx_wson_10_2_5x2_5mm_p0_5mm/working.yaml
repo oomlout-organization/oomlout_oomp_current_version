@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: texas_drx_wson_10_2_5x2_5mm_p0_5mm
-description_extra_length_1: t
-description_extra_length_2: te
-description_extra_length_3: tex
-description_extra_length_4: texa
-description_extra_length_5: texas
-description_extra_length_6: texas_
-description_extra_name: Texas Drx Wson 10 2 5X2 5mm P0 5mm
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: te
-description_extra_no_space_length_3: tex
-description_extra_no_space_length_4: texa
-description_extra_no_space_length_5: texas
-description_extra_no_space_length_6: texasd
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TE
-description_extra_no_space_upper_length_3: TEX
-description_extra_no_space_upper_length_4: TEXA
-description_extra_no_space_upper_length_5: TEXAS
-description_extra_no_space_upper_length_6: TEXASD
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TE
-description_extra_upper_length_3: TEX
-description_extra_upper_length_4: TEXA
-description_extra_upper_length_5: TEXAS
-description_extra_upper_length_6: TEXAS_
 description_main: package_son
-description_main_length_1: p
-description_main_length_2: pa
-description_main_length_3: pac
-description_main_length_4: pack
-description_main_length_5: packa
-description_main_length_6: packag
-description_main_name: Package Son
-description_main_no_space_length_1: p
-description_main_no_space_length_2: pa
-description_main_no_space_length_3: pac
-description_main_no_space_length_4: pack
-description_main_no_space_length_5: packa
-description_main_no_space_length_6: packag
-description_main_no_space_upper_length_1: P
-description_main_no_space_upper_length_2: PA
-description_main_no_space_upper_length_3: PAC
-description_main_no_space_upper_length_4: PACK
-description_main_no_space_upper_length_5: PACKA
-description_main_no_space_upper_length_6: PACKAG
-description_main_upper_length_1: P
-description_main_upper_length_2: PA
-description_main_upper_length_3: PAC
-description_main_upper_length_4: PACK
-description_main_upper_length_5: PACKA
-description_main_upper_length_6: PACKAG
-directory: parts/eda_kicad_footprint_kicad_default_package_son_texas_drx_wson_10_2_5x2_5mm_p0_5mm
 footprint_id: eda_kicad_footprint_kicad_default_package_son_texas_drx_wson_10_2_5x2_5mm_p0_5mm
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -226,68 +149,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_package_son_texas_drx_wson_10_2_5x2_5mm_p0_5mm
 id: eda_kicad_footprint_kicad_default_package_son_texas_drx_wson_10_2_5x2_5mm_p0_5mm
-id_no_class: eda_kicad_default_package_son_texas_drx_wson_10_2_5x2_5mm_p0_5mm
-id_no_color: edapackagesontexasdrxwson1025x25mmp05mm
-id_no_size: edapackagesontexasdrxwson1025x25mmp05mm
-id_no_type: eda_package_son_texas_drx_wson_10_2_5x2_5mm_p0_5mm
 manufacturer: ''
-manufacturer_name: ''
-md5: 9c2f8a47de755b5a6e2979a3cebe717e
-md5_10: 9c2f8a47de
-md5_10_upper: 9C2F8A47DE
-md5_5: 9c2f8
-md5_5_upper: 9C2F8
-md5_6: 9c2f8a
-md5_6_alpha: 63dze
-md5_6_alpha_upper: 63DZE
-md5_6_upper: 9C2F8A
-name: Eda Kicad Footprint Kicad Default Package Son Texas Drx Wson 10 2 5X2 5mm P0
-  5mm
-name_no_class: Eda Kicad Default Package Son Texas Drx Wson 10 2 5X2 5mm P0 5mm
-name_no_color: Edapackagesontexasdrxwson1025X25mmp05mm
-name_no_size: Edapackagesontexasdrxwson1025X25mmp05mm
-name_no_type: Eda Package Son Texas Drx Wson 10 2 5X2 5mm P0 5mm
-oomp_key: oomp_eda_kicad_footprint_kicad_default_package_son_texas_drx_wson_10_2_5x2_5mm_p0_5mm
-oomp_word: spades cyclone envelope
-oomp_word_emoji: ':spades: :cyclone: :envelope:'
-oomp_word_emoji_list:
-- ':spades:'
-- ':cyclone:'
-- ':envelope:'
-oomp_word_list:
-- spades
-- cyclone
-- envelope
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

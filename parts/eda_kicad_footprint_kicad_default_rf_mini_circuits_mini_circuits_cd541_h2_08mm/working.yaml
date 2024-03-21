@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: mini_circuits_cd541_h2_08mm
-description_extra_length_1: m
-description_extra_length_2: mi
-description_extra_length_3: min
-description_extra_length_4: mini
-description_extra_length_5: mini_
-description_extra_length_6: mini_c
-description_extra_name: Mini Circuits Cd541 H2 08mm
-description_extra_no_space_length_1: m
-description_extra_no_space_length_2: mi
-description_extra_no_space_length_3: min
-description_extra_no_space_length_4: mini
-description_extra_no_space_length_5: minic
-description_extra_no_space_length_6: minici
-description_extra_no_space_upper_length_1: M
-description_extra_no_space_upper_length_2: MI
-description_extra_no_space_upper_length_3: MIN
-description_extra_no_space_upper_length_4: MINI
-description_extra_no_space_upper_length_5: MINIC
-description_extra_no_space_upper_length_6: MINICI
-description_extra_upper_length_1: M
-description_extra_upper_length_2: MI
-description_extra_upper_length_3: MIN
-description_extra_upper_length_4: MINI
-description_extra_upper_length_5: MINI_
-description_extra_upper_length_6: MINI_C
 description_main: rf_mini_circuits
-description_main_length_1: r
-description_main_length_2: rf
-description_main_length_3: rf_
-description_main_length_4: rf_m
-description_main_length_5: rf_mi
-description_main_length_6: rf_min
-description_main_name: Rf Mini Circuits
-description_main_no_space_length_1: r
-description_main_no_space_length_2: rf
-description_main_no_space_length_3: rfm
-description_main_no_space_length_4: rfmi
-description_main_no_space_length_5: rfmin
-description_main_no_space_length_6: rfmini
-description_main_no_space_upper_length_1: R
-description_main_no_space_upper_length_2: RF
-description_main_no_space_upper_length_3: RFM
-description_main_no_space_upper_length_4: RFMI
-description_main_no_space_upper_length_5: RFMIN
-description_main_no_space_upper_length_6: RFMINI
-description_main_upper_length_1: R
-description_main_upper_length_2: RF
-description_main_upper_length_3: RF_
-description_main_upper_length_4: RF_M
-description_main_upper_length_5: RF_MI
-description_main_upper_length_6: RF_MIN
-directory: parts/eda_kicad_footprint_kicad_default_rf_mini_circuits_mini_circuits_cd541_h2_08mm
 footprint_id: eda_kicad_footprint_kicad_default_rf_mini_circuits_mini_circuits_cd541_h2_08mm
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -209,67 +132,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_rf_mini_circuits_mini_circuits_cd541_h2_08mm
 id: eda_kicad_footprint_kicad_default_rf_mini_circuits_mini_circuits_cd541_h2_08mm
-id_no_class: eda_kicad_default_rf_mini_circuits_mini_circuits_cd541_h2_08mm
-id_no_color: edarfminicircuitsminicircuitscd541h208mm
-id_no_size: edarfminicircuitsminicircuitscd541h208mm
-id_no_type: eda_rf_mini_circuits_mini_circuits_cd541_h2_08mm
 manufacturer: ''
-manufacturer_name: ''
-md5: ade495765b72c487d0a861994dc4d118
-md5_10: ade495765b
-md5_10_upper: ADE495765B
-md5_5: ade49
-md5_5_upper: ADE49
-md5_6: ade495
-md5_6_alpha: 6s9ed
-md5_6_alpha_upper: 6S9ED
-md5_6_upper: ADE495
-name: Eda Kicad Footprint Kicad Default Rf Mini Circuits Mini Circuits Cd541 H2 08mm
-name_no_class: Eda Kicad Default Rf Mini Circuits Mini Circuits Cd541 H2 08mm
-name_no_color: Edarfminicircuitsminicircuitscd541H208mm
-name_no_size: Edarfminicircuitsminicircuitscd541H208mm
-name_no_type: Eda Rf Mini Circuits Mini Circuits Cd541 H2 08mm
-oomp_key: oomp_eda_kicad_footprint_kicad_default_rf_mini_circuits_mini_circuits_cd541_h2_08mm
-oomp_word: dress anchor telescope
-oomp_word_emoji: ':dress: :anchor: :telescope:'
-oomp_word_emoji_list:
-- ':dress:'
-- ':anchor:'
-- ':telescope:'
-oomp_word_list:
-- dress
-- anchor
-- telescope
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

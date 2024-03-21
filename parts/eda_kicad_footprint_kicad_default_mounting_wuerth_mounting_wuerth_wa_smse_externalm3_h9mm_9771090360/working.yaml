@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: mounting_wuerth_wa_smse_externalm3_h9mm_9771090360
-description_extra_length_1: m
-description_extra_length_2: mo
-description_extra_length_3: mou
-description_extra_length_4: moun
-description_extra_length_5: mount
-description_extra_length_6: mounti
-description_extra_name: Mounting Wuerth Wa Smse Externalm3 H9mm 9771090360
-description_extra_no_space_length_1: m
-description_extra_no_space_length_2: mo
-description_extra_no_space_length_3: mou
-description_extra_no_space_length_4: moun
-description_extra_no_space_length_5: mount
-description_extra_no_space_length_6: mounti
-description_extra_no_space_upper_length_1: M
-description_extra_no_space_upper_length_2: MO
-description_extra_no_space_upper_length_3: MOU
-description_extra_no_space_upper_length_4: MOUN
-description_extra_no_space_upper_length_5: MOUNT
-description_extra_no_space_upper_length_6: MOUNTI
-description_extra_upper_length_1: M
-description_extra_upper_length_2: MO
-description_extra_upper_length_3: MOU
-description_extra_upper_length_4: MOUN
-description_extra_upper_length_5: MOUNT
-description_extra_upper_length_6: MOUNTI
 description_main: mounting_wuerth
-description_main_length_1: m
-description_main_length_2: mo
-description_main_length_3: mou
-description_main_length_4: moun
-description_main_length_5: mount
-description_main_length_6: mounti
-description_main_name: Mounting Wuerth
-description_main_no_space_length_1: m
-description_main_no_space_length_2: mo
-description_main_no_space_length_3: mou
-description_main_no_space_length_4: moun
-description_main_no_space_length_5: mount
-description_main_no_space_length_6: mounti
-description_main_no_space_upper_length_1: M
-description_main_no_space_upper_length_2: MO
-description_main_no_space_upper_length_3: MOU
-description_main_no_space_upper_length_4: MOUN
-description_main_no_space_upper_length_5: MOUNT
-description_main_no_space_upper_length_6: MOUNTI
-description_main_upper_length_1: M
-description_main_upper_length_2: MO
-description_main_upper_length_3: MOU
-description_main_upper_length_4: MOUN
-description_main_upper_length_5: MOUNT
-description_main_upper_length_6: MOUNTI
-directory: parts/eda_kicad_footprint_kicad_default_mounting_wuerth_mounting_wuerth_wa_smse_externalm3_h9mm_9771090360
 footprint_id: eda_kicad_footprint_kicad_default_mounting_wuerth_mounting_wuerth_wa_smse_externalm3_h9mm_9771090360
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -361,69 +284,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_mounting_wuerth_mounting_wuerth_wa_smse_externalm3_h9mm_9771090360
 id: eda_kicad_footprint_kicad_default_mounting_wuerth_mounting_wuerth_wa_smse_externalm3_h9mm_9771090360
-id_no_class: eda_kicad_default_mounting_wuerth_mounting_wuerth_wa_smse_externalm3_h9mm_9771090360
-id_no_color: edamountingwuerthmountingwuerthwasmseexternalm3h9mm9771090360
-id_no_size: edamountingwuerthmountingwuerthwasmseexternalm3h9mm9771090360
-id_no_type: eda_mounting_wuerth_mounting_wuerth_wa_smse_externalm3_h9mm_9771090360
 manufacturer: ''
-manufacturer_name: ''
-md5: 21e3fd2d876a3b682fb9afc0e83be352
-md5_10: 21e3fd2d87
-md5_10_upper: 21E3FD2D87
-md5_5: 21e3f
-md5_5_upper: 21E3F
-md5_6: 21e3fd
-md5_6_alpha: 1blrx
-md5_6_alpha_upper: 1BLRX
-md5_6_upper: 21E3FD
-name: Eda Kicad Footprint Kicad Default Mounting Wuerth Mounting Wuerth Wa Smse Externalm3
-  H9mm 9771090360
-name_no_class: Eda Kicad Default Mounting Wuerth Mounting Wuerth Wa Smse Externalm3
-  H9mm 9771090360
-name_no_color: Edamountingwuerthmountingwuerthwasmseexternalm3H9mm9771090360
-name_no_size: Edamountingwuerthmountingwuerthwasmseexternalm3H9mm9771090360
-name_no_type: Eda Mounting Wuerth Mounting Wuerth Wa Smse Externalm3 H9mm 9771090360
-oomp_key: oomp_eda_kicad_footprint_kicad_default_mounting_wuerth_mounting_wuerth_wa_smse_externalm3_h9mm_9771090360
-oomp_word: feet rowboat parking
-oomp_word_emoji: ':feet: :rowboat: :parking:'
-oomp_word_emoji_list:
-- ':feet:'
-- ':rowboat:'
-- ':parking:'
-oomp_word_list:
-- feet
-- rowboat
-- parking
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

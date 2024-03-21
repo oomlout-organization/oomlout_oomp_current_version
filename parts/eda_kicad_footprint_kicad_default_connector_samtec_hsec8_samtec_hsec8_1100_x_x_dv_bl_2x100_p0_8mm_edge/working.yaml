@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: samtec_hsec8_1100_x_x_dv_bl_2x100_p0_8mm_edge
-description_extra_length_1: s
-description_extra_length_2: sa
-description_extra_length_3: sam
-description_extra_length_4: samt
-description_extra_length_5: samte
-description_extra_length_6: samtec
-description_extra_name: Samtec Hsec8 1100 X X Dv Bl 2X100 P0 8mm Edge
-description_extra_no_space_length_1: s
-description_extra_no_space_length_2: sa
-description_extra_no_space_length_3: sam
-description_extra_no_space_length_4: samt
-description_extra_no_space_length_5: samte
-description_extra_no_space_length_6: samtec
-description_extra_no_space_upper_length_1: S
-description_extra_no_space_upper_length_2: SA
-description_extra_no_space_upper_length_3: SAM
-description_extra_no_space_upper_length_4: SAMT
-description_extra_no_space_upper_length_5: SAMTE
-description_extra_no_space_upper_length_6: SAMTEC
-description_extra_upper_length_1: S
-description_extra_upper_length_2: SA
-description_extra_upper_length_3: SAM
-description_extra_upper_length_4: SAMT
-description_extra_upper_length_5: SAMTE
-description_extra_upper_length_6: SAMTEC
 description_main: connector_samtec_hsec8
-description_main_length_1: c
-description_main_length_2: co
-description_main_length_3: con
-description_main_length_4: conn
-description_main_length_5: conne
-description_main_length_6: connec
-description_main_name: Connector Samtec Hsec8
-description_main_no_space_length_1: c
-description_main_no_space_length_2: co
-description_main_no_space_length_3: con
-description_main_no_space_length_4: conn
-description_main_no_space_length_5: conne
-description_main_no_space_length_6: connec
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CO
-description_main_no_space_upper_length_3: CON
-description_main_no_space_upper_length_4: CONN
-description_main_no_space_upper_length_5: CONNE
-description_main_no_space_upper_length_6: CONNEC
-description_main_upper_length_1: C
-description_main_upper_length_2: CO
-description_main_upper_length_3: CON
-description_main_upper_length_4: CONN
-description_main_upper_length_5: CONNE
-description_main_upper_length_6: CONNEC
-directory: parts/eda_kicad_footprint_kicad_default_connector_samtec_hsec8_samtec_hsec8_1100_x_x_dv_bl_2x100_p0_8mm_edge
 footprint_id: eda_kicad_footprint_kicad_default_connector_samtec_hsec8_samtec_hsec8_1100_x_x_dv_bl_2x100_p0_8mm_edge
 footprint_string:
   attributes: Attributes(type=None, boardOnly=False, excludeFromPosFiles=True, excludeFromBom=True)
@@ -1696,70 +1619,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_connector_samtec_hsec8_samtec_hsec8_1100_x_x_dv_bl_2x100_p0_8mm_edge
 id: eda_kicad_footprint_kicad_default_connector_samtec_hsec8_samtec_hsec8_1100_x_x_dv_bl_2x100_p0_8mm_edge
-id_no_class: eda_kicad_default_connector_samtec_hsec8_samtec_hsec8_1100_x_x_dv_bl_2x100_p0_8mm_edge
-id_no_color: edaconnectorsamtechsec8samtechsec81100xxdvbl2x100p08mmedge
-id_no_size: edaconnectorsamtechsec8samtechsec81100xxdvbl2x100p08mmedge
-id_no_type: eda_connector_samtec_hsec8_samtec_hsec8_1100_x_x_dv_bl_2x100_p0_8mm_edge
 manufacturer: ''
-manufacturer_name: ''
-md5: c0618d445d3f55ef0c8d59f992e74fcc
-md5_10: c0618d445d
-md5_10_upper: C0618D445D
-md5_5: c0618
-md5_5_upper: C0618
-md5_6: c0618d
-md5_6_alpha: 7i8b1
-md5_6_alpha_upper: 7I8B1
-md5_6_upper: C0618D
-name: Eda Kicad Footprint Kicad Default Connector Samtec Hsec8 Samtec Hsec8 1100 X
-  X Dv Bl 2X100 P0 8mm Edge
-name_no_class: Eda Kicad Default Connector Samtec Hsec8 Samtec Hsec8 1100 X X Dv Bl
-  2X100 P0 8mm Edge
-name_no_color: Edaconnectorsamtechsec8Samtechsec81100Xxdvbl2X100P08mmedge
-name_no_size: Edaconnectorsamtechsec8Samtechsec81100Xxdvbl2X100P08mmedge
-name_no_type: Eda Connector Samtec Hsec8 Samtec Hsec8 1100 X X Dv Bl 2X100 P0 8mm
-  Edge
-oomp_key: oomp_eda_kicad_footprint_kicad_default_connector_samtec_hsec8_samtec_hsec8_1100_x_x_dv_bl_2x100_p0_8mm_edge
-oomp_word: bread bouquet scroll
-oomp_word_emoji: ':bread: :bouquet: :scroll:'
-oomp_word_emoji_list:
-- ':bread:'
-- ':bouquet:'
-- ':scroll:'
-oomp_word_list:
-- bread
-- bouquet
-- scroll
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

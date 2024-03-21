@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: littelfuse_package_h_xn2mm
-description_extra_length_1: l
-description_extra_length_2: li
-description_extra_length_3: lit
-description_extra_length_4: litt
-description_extra_length_5: litte
-description_extra_length_6: littel
-description_extra_name: Littelfuse Package H Xn2mm
-description_extra_no_space_length_1: l
-description_extra_no_space_length_2: li
-description_extra_no_space_length_3: lit
-description_extra_no_space_length_4: litt
-description_extra_no_space_length_5: litte
-description_extra_no_space_length_6: littel
-description_extra_no_space_upper_length_1: L
-description_extra_no_space_upper_length_2: LI
-description_extra_no_space_upper_length_3: LIT
-description_extra_no_space_upper_length_4: LITT
-description_extra_no_space_upper_length_5: LITTE
-description_extra_no_space_upper_length_6: LITTEL
-description_extra_upper_length_1: L
-description_extra_upper_length_2: LI
-description_extra_upper_length_3: LIT
-description_extra_upper_length_4: LITT
-description_extra_upper_length_5: LITTE
-description_extra_upper_length_6: LITTEL
 description_main: transistor_power_module
-description_main_length_1: t
-description_main_length_2: tr
-description_main_length_3: tra
-description_main_length_4: tran
-description_main_length_5: trans
-description_main_length_6: transi
-description_main_name: Transistor Power Module
-description_main_no_space_length_1: t
-description_main_no_space_length_2: tr
-description_main_no_space_length_3: tra
-description_main_no_space_length_4: tran
-description_main_no_space_length_5: trans
-description_main_no_space_length_6: transi
-description_main_no_space_upper_length_1: T
-description_main_no_space_upper_length_2: TR
-description_main_no_space_upper_length_3: TRA
-description_main_no_space_upper_length_4: TRAN
-description_main_no_space_upper_length_5: TRANS
-description_main_no_space_upper_length_6: TRANSI
-description_main_upper_length_1: T
-description_main_upper_length_2: TR
-description_main_upper_length_3: TRA
-description_main_upper_length_4: TRAN
-description_main_upper_length_5: TRANS
-description_main_upper_length_6: TRANSI
-directory: parts/eda_kicad_footprint_kicad_default_transistor_power_module_littelfuse_package_h_xn2mm
 footprint_id: eda_kicad_footprint_kicad_default_transistor_power_module_littelfuse_package_h_xn2mm
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -1492,68 +1415,9 @@ footprint_string:
     Y=22.319028, angle=None, unlocked=False), Position(X=82.407869, Y=21.868055, angle=None,
     unlocked=False), Position(X=82.465653, Y=21.410643, angle=None, unlocked=False)])],
     filledPolygons=[], fillSegments=None)]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_transistor_power_module_littelfuse_package_h_xn2mm
 id: eda_kicad_footprint_kicad_default_transistor_power_module_littelfuse_package_h_xn2mm
-id_no_class: eda_kicad_default_transistor_power_module_littelfuse_package_h_xn2mm
-id_no_color: edatransistorpowermodulelittelfusepackagehxn2mm
-id_no_size: edatransistorpowermodulelittelfusepackagehxn2mm
-id_no_type: eda_transistor_power_module_littelfuse_package_h_xn2mm
 manufacturer: ''
-manufacturer_name: ''
-md5: 73ca2e432738bd6d5ab1fae7fc4254aa
-md5_10: 73ca2e4327
-md5_10_upper: 73CA2E4327
-md5_5: 73ca2
-md5_5_upper: 73CA2
-md5_6: 73ca2e
-md5_6_alpha: 4in8u
-md5_6_alpha_upper: 4IN8U
-md5_6_upper: 73CA2E
-name: Eda Kicad Footprint Kicad Default Transistor Power Module Littelfuse Package
-  H Xn2mm
-name_no_class: Eda Kicad Default Transistor Power Module Littelfuse Package H Xn2mm
-name_no_color: Edatransistorpowermodulelittelfusepackagehxn2mm
-name_no_size: Edatransistorpowermodulelittelfusepackagehxn2mm
-name_no_type: Eda Transistor Power Module Littelfuse Package H Xn2mm
-oomp_key: oomp_eda_kicad_footprint_kicad_default_transistor_power_module_littelfuse_package_h_xn2mm
-oomp_word: flags cherries zap
-oomp_word_emoji: ':flags: :cherries: :zap:'
-oomp_word_emoji_list:
-- ':flags:'
-- ':cherries:'
-- ':zap:'
-oomp_word_list:
-- flags
-- cherries
-- zap
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

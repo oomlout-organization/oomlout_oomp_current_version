@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: sw_push_2p2t_toggle_ck_pva2oah5xxxxxxv2
-description_extra_length_1: s
-description_extra_length_2: sw
-description_extra_length_3: sw_
-description_extra_length_4: sw_p
-description_extra_length_5: sw_pu
-description_extra_length_6: sw_pus
-description_extra_name: Sw Push 2P2T Toggle Ck Pva2Oah5Xxxxxxv2
-description_extra_no_space_length_1: s
-description_extra_no_space_length_2: sw
-description_extra_no_space_length_3: swp
-description_extra_no_space_length_4: swpu
-description_extra_no_space_length_5: swpus
-description_extra_no_space_length_6: swpush
-description_extra_no_space_upper_length_1: S
-description_extra_no_space_upper_length_2: SW
-description_extra_no_space_upper_length_3: SWP
-description_extra_no_space_upper_length_4: SWPU
-description_extra_no_space_upper_length_5: SWPUS
-description_extra_no_space_upper_length_6: SWPUSH
-description_extra_upper_length_1: S
-description_extra_upper_length_2: SW
-description_extra_upper_length_3: SW_
-description_extra_upper_length_4: SW_P
-description_extra_upper_length_5: SW_PU
-description_extra_upper_length_6: SW_PUS
 description_main: button_switch_tht
-description_main_length_1: b
-description_main_length_2: bu
-description_main_length_3: but
-description_main_length_4: butt
-description_main_length_5: butto
-description_main_length_6: button
-description_main_name: Button Switch Tht
-description_main_no_space_length_1: b
-description_main_no_space_length_2: bu
-description_main_no_space_length_3: but
-description_main_no_space_length_4: butt
-description_main_no_space_length_5: butto
-description_main_no_space_length_6: button
-description_main_no_space_upper_length_1: B
-description_main_no_space_upper_length_2: BU
-description_main_no_space_upper_length_3: BUT
-description_main_no_space_upper_length_4: BUTT
-description_main_no_space_upper_length_5: BUTTO
-description_main_no_space_upper_length_6: BUTTON
-description_main_upper_length_1: B
-description_main_upper_length_2: BU
-description_main_upper_length_3: BUT
-description_main_upper_length_4: BUTT
-description_main_upper_length_5: BUTTO
-description_main_upper_length_6: BUTTON
-directory: parts/eda_kicad_footprint_kicad_default_button_switch_tht_sw_push_2p2t_toggle_ck_pva2oah5xxxxxxv2
 footprint_id: eda_kicad_footprint_kicad_default_button_switch_tht_sw_push_2p2t_toggle_ck_pva2oah5xxxxxxv2
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -217,67 +140,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_button_switch_tht_sw_push_2p2t_toggle_ck_pva2oah5xxxxxxv2
 id: eda_kicad_footprint_kicad_default_button_switch_tht_sw_push_2p2t_toggle_ck_pva2oah5xxxxxxv2
-id_no_class: eda_kicad_default_button_switch_tht_sw_push_2p2t_toggle_ck_pva2oah5xxxxxxv2
-id_no_color: edabuttonswitchthtswpush2p2ttoggleckpva2oah5xxxxxxv2
-id_no_size: edabuttonswitchthtswpush2p2ttoggleckpva2oah5xxxxxxv2
-id_no_type: eda_button_switch_tht_sw_push_2p2t_toggle_ck_pva2oah5xxxxxxv2
 manufacturer: ''
-manufacturer_name: ''
-md5: c5f4aef3d6923020a22dd3f172e6db40
-md5_10: c5f4aef3d6
-md5_10_upper: C5F4AEF3D6
-md5_5: c5f4a
-md5_5_upper: C5F4A
-md5_6: c5f4ae
-md5_6_alpha: 7q27i
-md5_6_alpha_upper: 7Q27I
-md5_6_upper: C5F4AE
-name: Eda Kicad Footprint Kicad Default Button Switch Tht Sw Push 2P2T Toggle Ck Pva2Oah5Xxxxxxv2
-name_no_class: Eda Kicad Default Button Switch Tht Sw Push 2P2T Toggle Ck Pva2Oah5Xxxxxxv2
-name_no_color: Edabuttonswitchthtswpush2P2Ttoggleckpva2Oah5Xxxxxxv2
-name_no_size: Edabuttonswitchthtswpush2P2Ttoggleckpva2Oah5Xxxxxxv2
-name_no_type: Eda Button Switch Tht Sw Push 2P2T Toggle Ck Pva2Oah5Xxxxxxv2
-oomp_key: oomp_eda_kicad_footprint_kicad_default_button_switch_tht_sw_push_2p2t_toggle_ck_pva2oah5xxxxxxv2
-oomp_word: candy three jeans
-oomp_word_emoji: ':candy: :three: :jeans:'
-oomp_word_emoji_list:
-- ':candy:'
-- ':three:'
-- ':jeans:'
-oomp_word_list:
-- candy
-- three
-- jeans
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

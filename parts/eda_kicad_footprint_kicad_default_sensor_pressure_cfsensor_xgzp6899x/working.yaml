@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: cfsensor_xgzp6899x
-description_extra_length_1: c
-description_extra_length_2: cf
-description_extra_length_3: cfs
-description_extra_length_4: cfse
-description_extra_length_5: cfsen
-description_extra_length_6: cfsens
-description_extra_name: Cfsensor Xgzp6899X
-description_extra_no_space_length_1: c
-description_extra_no_space_length_2: cf
-description_extra_no_space_length_3: cfs
-description_extra_no_space_length_4: cfse
-description_extra_no_space_length_5: cfsen
-description_extra_no_space_length_6: cfsens
-description_extra_no_space_upper_length_1: C
-description_extra_no_space_upper_length_2: CF
-description_extra_no_space_upper_length_3: CFS
-description_extra_no_space_upper_length_4: CFSE
-description_extra_no_space_upper_length_5: CFSEN
-description_extra_no_space_upper_length_6: CFSENS
-description_extra_upper_length_1: C
-description_extra_upper_length_2: CF
-description_extra_upper_length_3: CFS
-description_extra_upper_length_4: CFSE
-description_extra_upper_length_5: CFSEN
-description_extra_upper_length_6: CFSENS
 description_main: sensor_pressure
-description_main_length_1: s
-description_main_length_2: se
-description_main_length_3: sen
-description_main_length_4: sens
-description_main_length_5: senso
-description_main_length_6: sensor
-description_main_name: Sensor Pressure
-description_main_no_space_length_1: s
-description_main_no_space_length_2: se
-description_main_no_space_length_3: sen
-description_main_no_space_length_4: sens
-description_main_no_space_length_5: senso
-description_main_no_space_length_6: sensor
-description_main_no_space_upper_length_1: S
-description_main_no_space_upper_length_2: SE
-description_main_no_space_upper_length_3: SEN
-description_main_no_space_upper_length_4: SENS
-description_main_no_space_upper_length_5: SENSO
-description_main_no_space_upper_length_6: SENSOR
-description_main_upper_length_1: S
-description_main_upper_length_2: SE
-description_main_upper_length_3: SEN
-description_main_upper_length_4: SENS
-description_main_upper_length_5: SENSO
-description_main_upper_length_6: SENSOR
-directory: parts/eda_kicad_footprint_kicad_default_sensor_pressure_cfsensor_xgzp6899x
 footprint_id: eda_kicad_footprint_kicad_default_sensor_pressure_cfsensor_xgzp6899x
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -272,67 +195,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_sensor_pressure_cfsensor_xgzp6899x
 id: eda_kicad_footprint_kicad_default_sensor_pressure_cfsensor_xgzp6899x
-id_no_class: eda_kicad_default_sensor_pressure_cfsensor_xgzp6899x
-id_no_color: edasensorpressurecfsensorxgzp6899x
-id_no_size: edasensorpressurecfsensorxgzp6899x
-id_no_type: eda_sensor_pressure_cfsensor_xgzp6899x
 manufacturer: ''
-manufacturer_name: ''
-md5: 60c2c324b4c5ddfd99633089b1593f57
-md5_10: 60c2c324b4
-md5_10_upper: 60C2C324B4
-md5_5: 60c2c
-md5_5_upper: 60C2C
-md5_6: 60c2c3
-md5_6_alpha: 3rwzn
-md5_6_alpha_upper: 3RWZN
-md5_6_upper: 60C2C3
-name: Eda Kicad Footprint Kicad Default Sensor Pressure Cfsensor Xgzp6899X
-name_no_class: Eda Kicad Default Sensor Pressure Cfsensor Xgzp6899X
-name_no_color: Edasensorpressurecfsensorxgzp6899X
-name_no_size: Edasensorpressurecfsensorxgzp6899X
-name_no_type: Eda Sensor Pressure Cfsensor Xgzp6899X
-oomp_key: oomp_eda_kicad_footprint_kicad_default_sensor_pressure_cfsensor_xgzp6899x
-oomp_word: poodle birthday cake
-oomp_word_emoji: ':poodle: :birthday: :cake:'
-oomp_word_emoji_list:
-- ':poodle:'
-- ':birthday:'
-- ':cake:'
-oomp_word_list:
-- poodle
-- birthday
-- cake
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

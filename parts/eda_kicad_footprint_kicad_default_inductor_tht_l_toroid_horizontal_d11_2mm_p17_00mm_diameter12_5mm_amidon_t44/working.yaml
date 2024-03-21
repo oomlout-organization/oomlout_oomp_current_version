@@ -1,86 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: l_toroid_horizontal_d11_2mm_p17_00mm_diameter12_5mm_amidon_t44
-description_extra_length_1: l
-description_extra_length_2: l_
-description_extra_length_3: l_t
-description_extra_length_4: l_to
-description_extra_length_5: l_tor
-description_extra_length_6: l_toro
-description_extra_name: L Toroid Horizontal D11 2mm P17 00mm Diameter12 5mm Amidon
-  T44
-description_extra_no_space_length_1: l
-description_extra_no_space_length_2: lt
-description_extra_no_space_length_3: lto
-description_extra_no_space_length_4: ltor
-description_extra_no_space_length_5: ltoro
-description_extra_no_space_length_6: ltoroi
-description_extra_no_space_upper_length_1: L
-description_extra_no_space_upper_length_2: LT
-description_extra_no_space_upper_length_3: LTO
-description_extra_no_space_upper_length_4: LTOR
-description_extra_no_space_upper_length_5: LTORO
-description_extra_no_space_upper_length_6: LTOROI
-description_extra_upper_length_1: L
-description_extra_upper_length_2: L_
-description_extra_upper_length_3: L_T
-description_extra_upper_length_4: L_TO
-description_extra_upper_length_5: L_TOR
-description_extra_upper_length_6: L_TORO
 description_main: inductor_tht
-description_main_length_1: i
-description_main_length_2: in
-description_main_length_3: ind
-description_main_length_4: indu
-description_main_length_5: induc
-description_main_length_6: induct
-description_main_name: Inductor Tht
-description_main_no_space_length_1: i
-description_main_no_space_length_2: in
-description_main_no_space_length_3: ind
-description_main_no_space_length_4: indu
-description_main_no_space_length_5: induc
-description_main_no_space_length_6: induct
-description_main_no_space_upper_length_1: I
-description_main_no_space_upper_length_2: IN
-description_main_no_space_upper_length_3: IND
-description_main_no_space_upper_length_4: INDU
-description_main_no_space_upper_length_5: INDUC
-description_main_no_space_upper_length_6: INDUCT
-description_main_upper_length_1: I
-description_main_upper_length_2: IN
-description_main_upper_length_3: IND
-description_main_upper_length_4: INDU
-description_main_upper_length_5: INDUC
-description_main_upper_length_6: INDUCT
-directory: parts/eda_kicad_footprint_kicad_default_inductor_tht_l_toroid_horizontal_d11_2mm_p17_00mm_diameter12_5mm_amidon_t44
 footprint_id: eda_kicad_footprint_kicad_default_inductor_tht_l_toroid_horizontal_d11_2mm_p17_00mm_diameter12_5mm_amidon_t44
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -204,70 +126,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_inductor_tht_l_toroid_horizontal_d11_2mm_p17_00mm_diameter12_5mm_amidon_t44
 id: eda_kicad_footprint_kicad_default_inductor_tht_l_toroid_horizontal_d11_2mm_p17_00mm_diameter12_5mm_amidon_t44
-id_no_class: eda_kicad_default_inductor_tht_l_toroid_horizontal_d11_2mm_p17_00mm_diameter12_5mm_amidon_t44
-id_no_color: edainductorthtltoroidhorizontald112mmp1700mmdiameter125mmamidont44
-id_no_size: edainductorthtltoroidhorizontald112mmp1700mmdiameter125mmamidont44
-id_no_type: eda_inductor_tht_l_toroid_horizontal_d11_2mm_p17_00mm_diameter12_5mm_amidon_t44
 manufacturer: ''
-manufacturer_name: ''
-md5: 6cf1ef6de0035a20ac39c2ac975053b0
-md5_10: 6cf1ef6de0
-md5_10_upper: 6CF1EF6DE0
-md5_5: 6cf1e
-md5_5_upper: 6CF1E
-md5_6: 6cf1ef
-md5_6_alpha: 4914f
-md5_6_alpha_upper: 4914F
-md5_6_upper: 6CF1EF
-name: Eda Kicad Footprint Kicad Default Inductor Tht L Toroid Horizontal D11 2mm P17
-  00mm Diameter12 5mm Amidon T44
-name_no_class: Eda Kicad Default Inductor Tht L Toroid Horizontal D11 2mm P17 00mm
-  Diameter12 5mm Amidon T44
-name_no_color: Edainductorthtltoroidhorizontald112mmp1700mmdiameter125mmamidont44
-name_no_size: Edainductorthtltoroidhorizontald112mmp1700mmdiameter125mmamidont44
-name_no_type: Eda Inductor Tht L Toroid Horizontal D11 2mm P17 00mm Diameter12 5mm
-  Amidon T44
-oomp_key: oomp_eda_kicad_footprint_kicad_default_inductor_tht_l_toroid_horizontal_d11_2mm_p17_00mm_diameter12_5mm_amidon_t44
-oomp_word: blossom ticket truck
-oomp_word_emoji: ':blossom: :ticket: :truck:'
-oomp_word_emoji_list:
-- ':blossom:'
-- ':ticket:'
-- ':truck:'
-oomp_word_list:
-- blossom
-- ticket
-- truck
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: texas_swra117d_2_4ghz_left
-description_extra_length_1: t
-description_extra_length_2: te
-description_extra_length_3: tex
-description_extra_length_4: texa
-description_extra_length_5: texas
-description_extra_length_6: texas_
-description_extra_name: Texas Swra117D 2 4Ghz Left
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: te
-description_extra_no_space_length_3: tex
-description_extra_no_space_length_4: texa
-description_extra_no_space_length_5: texas
-description_extra_no_space_length_6: texass
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TE
-description_extra_no_space_upper_length_3: TEX
-description_extra_no_space_upper_length_4: TEXA
-description_extra_no_space_upper_length_5: TEXAS
-description_extra_no_space_upper_length_6: TEXASS
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TE
-description_extra_upper_length_3: TEX
-description_extra_upper_length_4: TEXA
-description_extra_upper_length_5: TEXAS
-description_extra_upper_length_6: TEXAS_
 description_main: rf_antenna
-description_main_length_1: r
-description_main_length_2: rf
-description_main_length_3: rf_
-description_main_length_4: rf_a
-description_main_length_5: rf_an
-description_main_length_6: rf_ant
-description_main_name: Rf Antenna
-description_main_no_space_length_1: r
-description_main_no_space_length_2: rf
-description_main_no_space_length_3: rfa
-description_main_no_space_length_4: rfan
-description_main_no_space_length_5: rfant
-description_main_no_space_length_6: rfante
-description_main_no_space_upper_length_1: R
-description_main_no_space_upper_length_2: RF
-description_main_no_space_upper_length_3: RFA
-description_main_no_space_upper_length_4: RFAN
-description_main_no_space_upper_length_5: RFANT
-description_main_no_space_upper_length_6: RFANTE
-description_main_upper_length_1: R
-description_main_upper_length_2: RF
-description_main_upper_length_3: RF_
-description_main_upper_length_4: RF_A
-description_main_upper_length_5: RF_AN
-description_main_upper_length_6: RF_ANT
-directory: parts/eda_kicad_footprint_kicad_default_rf_antenna_texas_swra117d_2_4ghz_left
 footprint_id: eda_kicad_footprint_kicad_default_rf_antenna_texas_swra117d_2_4ghz_left
 footprint_string:
   attributes: Attributes(type=None, boardOnly=False, excludeFromPosFiles=True, excludeFromBom=True)
@@ -209,67 +132,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_rf_antenna_texas_swra117d_2_4ghz_left
 id: eda_kicad_footprint_kicad_default_rf_antenna_texas_swra117d_2_4ghz_left
-id_no_class: eda_kicad_default_rf_antenna_texas_swra117d_2_4ghz_left
-id_no_color: edarfantennatexasswra117d24ghzleft
-id_no_size: edarfantennatexasswra117d24ghzleft
-id_no_type: eda_rf_antenna_texas_swra117d_2_4ghz_left
 manufacturer: ''
-manufacturer_name: ''
-md5: 231bf9a33fe1f7be6cc2394b89d72a1f
-md5_10: 231bf9a33f
-md5_10_upper: 231BF9A33F
-md5_5: 231bf
-md5_5_upper: 231BF
-md5_6: 231bf9
-md5_6_alpha: 1dbeh
-md5_6_alpha_upper: 1DBEH
-md5_6_upper: 231BF9
-name: Eda Kicad Footprint Kicad Default Rf Antenna Texas Swra117D 2 4Ghz Left
-name_no_class: Eda Kicad Default Rf Antenna Texas Swra117D 2 4Ghz Left
-name_no_color: Edarfantennatexasswra117D24Ghzleft
-name_no_size: Edarfantennatexasswra117D24Ghzleft
-name_no_type: Eda Rf Antenna Texas Swra117D 2 4Ghz Left
-oomp_key: oomp_eda_kicad_footprint_kicad_default_rf_antenna_texas_swra117d_2_4ghz_left
-oomp_word: kiss muscle eight
-oomp_word_emoji: ':kiss: :muscle: :eight:'
-oomp_word_emoji_list:
-- ':kiss:'
-- ':muscle:'
-- ':eight:'
-oomp_word_list:
-- kiss
-- muscle
-- eight
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

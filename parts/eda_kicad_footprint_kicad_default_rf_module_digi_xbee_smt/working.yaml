@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: digi_xbee_smt
-description_extra_length_1: d
-description_extra_length_2: di
-description_extra_length_3: dig
-description_extra_length_4: digi
-description_extra_length_5: digi_
-description_extra_length_6: digi_x
-description_extra_name: Digi Xbee SMT
-description_extra_no_space_length_1: d
-description_extra_no_space_length_2: di
-description_extra_no_space_length_3: dig
-description_extra_no_space_length_4: digi
-description_extra_no_space_length_5: digix
-description_extra_no_space_length_6: digixb
-description_extra_no_space_upper_length_1: D
-description_extra_no_space_upper_length_2: DI
-description_extra_no_space_upper_length_3: DIG
-description_extra_no_space_upper_length_4: DIGI
-description_extra_no_space_upper_length_5: DIGIX
-description_extra_no_space_upper_length_6: DIGIXB
-description_extra_upper_length_1: D
-description_extra_upper_length_2: DI
-description_extra_upper_length_3: DIG
-description_extra_upper_length_4: DIGI
-description_extra_upper_length_5: DIGI_
-description_extra_upper_length_6: DIGI_X
 description_main: rf_module
-description_main_length_1: r
-description_main_length_2: rf
-description_main_length_3: rf_
-description_main_length_4: rf_m
-description_main_length_5: rf_mo
-description_main_length_6: rf_mod
-description_main_name: Rf Module
-description_main_no_space_length_1: r
-description_main_no_space_length_2: rf
-description_main_no_space_length_3: rfm
-description_main_no_space_length_4: rfmo
-description_main_no_space_length_5: rfmod
-description_main_no_space_length_6: rfmodu
-description_main_no_space_upper_length_1: R
-description_main_no_space_upper_length_2: RF
-description_main_no_space_upper_length_3: RFM
-description_main_no_space_upper_length_4: RFMO
-description_main_no_space_upper_length_5: RFMOD
-description_main_no_space_upper_length_6: RFMODU
-description_main_upper_length_1: R
-description_main_upper_length_2: RF
-description_main_upper_length_3: RF_
-description_main_upper_length_4: RF_M
-description_main_upper_length_5: RF_MO
-description_main_upper_length_6: RF_MOD
-directory: parts/eda_kicad_footprint_kicad_default_rf_module_digi_xbee_smt
 footprint_id: eda_kicad_footprint_kicad_default_rf_module_digi_xbee_smt
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -460,67 +383,9 @@ footprint_string:
     Y=-10.6, angle=None, unlocked=False), Position(X=9.4, Y=-10.6, angle=None, unlocked=False),
     Position(X=9.4, Y=-8.3, angle=None, unlocked=False), Position(X=3, Y=-8.3, angle=None,
     unlocked=False)])], filledPolygons=[], fillSegments=None)]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_rf_module_digi_xbee_smt
 id: eda_kicad_footprint_kicad_default_rf_module_digi_xbee_smt
-id_no_class: eda_kicad_default_rf_module_digi_xbee_smt
-id_no_color: edarfmoduledigixbeesmt
-id_no_size: edarfmoduledigixbeesmt
-id_no_type: eda_rf_module_digi_xbee_smt
 manufacturer: ''
-manufacturer_name: ''
-md5: 3f7c969f262bd84599e300d40e5966c5
-md5_10: 3f7c969f26
-md5_10_upper: 3F7C969F26
-md5_5: 3f7c9
-md5_5_upper: 3F7C9
-md5_6: 3f7c96
-md5_6_alpha: 2h6dy
-md5_6_alpha_upper: 2H6DY
-md5_6_upper: 3F7C96
-name: Eda Kicad Footprint Kicad Default Rf Module Digi Xbee SMT
-name_no_class: Eda Kicad Default Rf Module Digi Xbee SMT
-name_no_color: Edarfmoduledigixbeesmt
-name_no_size: Edarfmoduledigixbeesmt
-name_no_type: Eda Rf Module Digi Xbee SMT
-oomp_key: oomp_eda_kicad_footprint_kicad_default_rf_module_digi_xbee_smt
-oomp_word: horse tv basketball
-oomp_word_emoji: ':horse: :tv: :basketball:'
-oomp_word_emoji_list:
-- ':horse:'
-- ':tv:'
-- ':basketball:'
-oomp_word_list:
-- horse
-- tv
-- basketball
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

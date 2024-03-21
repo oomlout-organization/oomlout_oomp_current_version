@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: olimex_mod_wifi_esp8266_dev
-description_extra_length_1: o
-description_extra_length_2: ol
-description_extra_length_3: oli
-description_extra_length_4: olim
-description_extra_length_5: olime
-description_extra_length_6: olimex
-description_extra_name: Olimex Mod Wifi Esp8266 Dev
-description_extra_no_space_length_1: o
-description_extra_no_space_length_2: ol
-description_extra_no_space_length_3: oli
-description_extra_no_space_length_4: olim
-description_extra_no_space_length_5: olime
-description_extra_no_space_length_6: olimex
-description_extra_no_space_upper_length_1: O
-description_extra_no_space_upper_length_2: OL
-description_extra_no_space_upper_length_3: OLI
-description_extra_no_space_upper_length_4: OLIM
-description_extra_no_space_upper_length_5: OLIME
-description_extra_no_space_upper_length_6: OLIMEX
-description_extra_upper_length_1: O
-description_extra_upper_length_2: OL
-description_extra_upper_length_3: OLI
-description_extra_upper_length_4: OLIM
-description_extra_upper_length_5: OLIME
-description_extra_upper_length_6: OLIMEX
 description_main: module
-description_main_length_1: m
-description_main_length_2: mo
-description_main_length_3: mod
-description_main_length_4: modu
-description_main_length_5: modul
-description_main_length_6: module
-description_main_name: Module
-description_main_no_space_length_1: m
-description_main_no_space_length_2: mo
-description_main_no_space_length_3: mod
-description_main_no_space_length_4: modu
-description_main_no_space_length_5: modul
-description_main_no_space_length_6: module
-description_main_no_space_upper_length_1: M
-description_main_no_space_upper_length_2: MO
-description_main_no_space_upper_length_3: MOD
-description_main_no_space_upper_length_4: MODU
-description_main_no_space_upper_length_5: MODUL
-description_main_no_space_upper_length_6: MODULE
-description_main_upper_length_1: M
-description_main_upper_length_2: MO
-description_main_upper_length_3: MOD
-description_main_upper_length_4: MODU
-description_main_upper_length_5: MODUL
-description_main_upper_length_6: MODULE
-directory: parts/eda_kicad_footprint_kicad_default_module_olimex_mod_wifi_esp8266_dev
 footprint_id: eda_kicad_footprint_kicad_default_module_olimex_mod_wifi_esp8266_dev
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -407,67 +330,9 @@ footprint_string:
     unlocked=False), Position(X=-9.525, Y=13.97, angle=None, unlocked=False), Position(X=-9.525,
     Y=11.43, angle=None, unlocked=False), Position(X=9.525, Y=11.43, angle=None, unlocked=False)])],
     filledPolygons=[], fillSegments=None)]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_module_olimex_mod_wifi_esp8266_dev
 id: eda_kicad_footprint_kicad_default_module_olimex_mod_wifi_esp8266_dev
-id_no_class: eda_kicad_default_module_olimex_mod_wifi_esp8266_dev
-id_no_color: edamoduleolimexmodwifiesp8266dev
-id_no_size: edamoduleolimexmodwifiesp8266dev
-id_no_type: eda_module_olimex_mod_wifi_esp8266_dev
 manufacturer: ''
-manufacturer_name: ''
-md5: 3a6eb99736a1ad97752dc2f3b568e540
-md5_10: 3a6eb99736
-md5_10_upper: 3A6EB99736
-md5_5: 3a6eb
-md5_5_upper: 3A6EB
-md5_6: 3a6eb9
-md5_6_alpha: 2a2t5
-md5_6_alpha_upper: 2A2T5
-md5_6_upper: 3A6EB9
-name: Eda Kicad Footprint Kicad Default Module Olimex Mod Wifi Esp8266 Dev
-name_no_class: Eda Kicad Default Module Olimex Mod Wifi Esp8266 Dev
-name_no_color: Edamoduleolimexmodwifiesp8266Dev
-name_no_size: Edamoduleolimexmodwifiesp8266Dev
-name_no_type: Eda Module Olimex Mod Wifi Esp8266 Dev
-oomp_key: oomp_eda_kicad_footprint_kicad_default_module_olimex_mod_wifi_esp8266_dev
-oomp_word: koala new_moon fries
-oomp_word_emoji: ':koala: :new_moon: :fries:'
-oomp_word_emoji_list:
-- ':koala:'
-- ':new_moon:'
-- ':fries:'
-oomp_word_list:
-- koala
-- new_moon
-- fries
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

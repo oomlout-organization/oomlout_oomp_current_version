@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: nxp_xson_16
-description_extra_length_1: n
-description_extra_length_2: nx
-description_extra_length_3: nxp
-description_extra_length_4: nxp_
-description_extra_length_5: nxp_x
-description_extra_length_6: nxp_xs
-description_extra_name: Nxp Xson 16
-description_extra_no_space_length_1: n
-description_extra_no_space_length_2: nx
-description_extra_no_space_length_3: nxp
-description_extra_no_space_length_4: nxpx
-description_extra_no_space_length_5: nxpxs
-description_extra_no_space_length_6: nxpxso
-description_extra_no_space_upper_length_1: N
-description_extra_no_space_upper_length_2: NX
-description_extra_no_space_upper_length_3: NXP
-description_extra_no_space_upper_length_4: NXPX
-description_extra_no_space_upper_length_5: NXPXS
-description_extra_no_space_upper_length_6: NXPXSO
-description_extra_upper_length_1: N
-description_extra_upper_length_2: NX
-description_extra_upper_length_3: NXP
-description_extra_upper_length_4: NXP_
-description_extra_upper_length_5: NXP_X
-description_extra_upper_length_6: NXP_XS
 description_main: package_son
-description_main_length_1: p
-description_main_length_2: pa
-description_main_length_3: pac
-description_main_length_4: pack
-description_main_length_5: packa
-description_main_length_6: packag
-description_main_name: Package Son
-description_main_no_space_length_1: p
-description_main_no_space_length_2: pa
-description_main_no_space_length_3: pac
-description_main_no_space_length_4: pack
-description_main_no_space_length_5: packa
-description_main_no_space_length_6: packag
-description_main_no_space_upper_length_1: P
-description_main_no_space_upper_length_2: PA
-description_main_no_space_upper_length_3: PAC
-description_main_no_space_upper_length_4: PACK
-description_main_no_space_upper_length_5: PACKA
-description_main_no_space_upper_length_6: PACKAG
-description_main_upper_length_1: P
-description_main_upper_length_2: PA
-description_main_upper_length_3: PAC
-description_main_upper_length_4: PACK
-description_main_upper_length_5: PACKA
-description_main_upper_length_6: PACKAG
-directory: parts/eda_kicad_footprint_kicad_default_package_son_nxp_xson_16
 footprint_id: eda_kicad_footprint_kicad_default_package_son_nxp_xson_16
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -267,67 +190,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_package_son_nxp_xson_16
 id: eda_kicad_footprint_kicad_default_package_son_nxp_xson_16
-id_no_class: eda_kicad_default_package_son_nxp_xson_16
-id_no_color: edapackagesonnxpxson16
-id_no_size: edapackagesonnxpxson16
-id_no_type: eda_package_son_nxp_xson_16
 manufacturer: ''
-manufacturer_name: ''
-md5: 3d88753003b6d9f3adffad92ccea70da
-md5_10: 3d88753003
-md5_10_upper: 3D88753003
-md5_5: 3d887
-md5_5_upper: 3D887
-md5_6: 3d8875
-md5_6_alpha: 2eflh
-md5_6_alpha_upper: 2EFLH
-md5_6_upper: 3D8875
-name: Eda Kicad Footprint Kicad Default Package Son Nxp Xson 16
-name_no_class: Eda Kicad Default Package Son Nxp Xson 16
-name_no_color: Edapackagesonnxpxson16
-name_no_size: Edapackagesonnxpxson16
-name_no_type: Eda Package Son Nxp Xson 16
-oomp_key: oomp_eda_kicad_footprint_kicad_default_package_son_nxp_xson_16
-oomp_word: cow wrench ghost
-oomp_word_emoji: ':cow: :wrench: :ghost:'
-oomp_word_emoji_list:
-- ':cow:'
-- ':wrench:'
-- ':ghost:'
-oomp_word_list:
-- cow
-- wrench
-- ghost
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

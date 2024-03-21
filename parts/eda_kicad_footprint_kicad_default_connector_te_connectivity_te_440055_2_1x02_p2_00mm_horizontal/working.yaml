@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: te_440055_2_1x02_p2_00mm_horizontal
-description_extra_length_1: t
-description_extra_length_2: te
-description_extra_length_3: te_
-description_extra_length_4: te_4
-description_extra_length_5: te_44
-description_extra_length_6: te_440
-description_extra_name: Te 440055 2 1X02 P2 00mm Horizontal
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: te
-description_extra_no_space_length_3: te4
-description_extra_no_space_length_4: te44
-description_extra_no_space_length_5: te440
-description_extra_no_space_length_6: te4400
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TE
-description_extra_no_space_upper_length_3: TE4
-description_extra_no_space_upper_length_4: TE44
-description_extra_no_space_upper_length_5: TE440
-description_extra_no_space_upper_length_6: TE4400
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TE
-description_extra_upper_length_3: TE_
-description_extra_upper_length_4: TE_4
-description_extra_upper_length_5: TE_44
-description_extra_upper_length_6: TE_440
 description_main: connector_te_connectivity
-description_main_length_1: c
-description_main_length_2: co
-description_main_length_3: con
-description_main_length_4: conn
-description_main_length_5: conne
-description_main_length_6: connec
-description_main_name: Connector Te Connectivity
-description_main_no_space_length_1: c
-description_main_no_space_length_2: co
-description_main_no_space_length_3: con
-description_main_no_space_length_4: conn
-description_main_no_space_length_5: conne
-description_main_no_space_length_6: connec
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CO
-description_main_no_space_upper_length_3: CON
-description_main_no_space_upper_length_4: CONN
-description_main_no_space_upper_length_5: CONNE
-description_main_no_space_upper_length_6: CONNEC
-description_main_upper_length_1: C
-description_main_upper_length_2: CO
-description_main_upper_length_3: CON
-description_main_upper_length_4: CONN
-description_main_upper_length_5: CONNE
-description_main_upper_length_6: CONNEC
-directory: parts/eda_kicad_footprint_kicad_default_connector_te_connectivity_te_440055_2_1x02_p2_00mm_horizontal
 footprint_id: eda_kicad_footprint_kicad_default_connector_te_connectivity_te_440055_2_1x02_p2_00mm_horizontal
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -262,69 +185,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_connector_te_connectivity_te_440055_2_1x02_p2_00mm_horizontal
 id: eda_kicad_footprint_kicad_default_connector_te_connectivity_te_440055_2_1x02_p2_00mm_horizontal
-id_no_class: eda_kicad_default_connector_te_connectivity_te_440055_2_1x02_p2_00mm_horizontal
-id_no_color: edaconnectorteconnectivityte44005521x02p200mmhorizontal
-id_no_size: edaconnectorteconnectivityte44005521x02p200mmhorizontal
-id_no_type: eda_connector_te_connectivity_te_440055_2_1x02_p2_00mm_horizontal
 manufacturer: ''
-manufacturer_name: ''
-md5: 08b360180544d8cdde41ad47ccb71463
-md5_10: 08b3601805
-md5_10_upper: 08B3601805
-md5_5: 08b36
-md5_5_upper: 08B36
-md5_6: 08b360
-md5_6_alpha: c7z4
-md5_6_alpha_upper: C7Z4
-md5_6_upper: 08B360
-name: Eda Kicad Footprint Kicad Default Connector Te Connectivity Te 440055 2 1X02
-  P2 00mm Horizontal
-name_no_class: Eda Kicad Default Connector Te Connectivity Te 440055 2 1X02 P2 00mm
-  Horizontal
-name_no_color: Edaconnectorteconnectivityte44005521X02P200mmhorizontal
-name_no_size: Edaconnectorteconnectivityte44005521X02P200mmhorizontal
-name_no_type: Eda Connector Te Connectivity Te 440055 2 1X02 P2 00mm Horizontal
-oomp_key: oomp_eda_kicad_footprint_kicad_default_connector_te_connectivity_te_440055_2_1x02_p2_00mm_horizontal
-oomp_word: scream eyeglasses poodle
-oomp_word_emoji: ':scream: :eyeglasses: :poodle:'
-oomp_word_emoji_list:
-- ':scream:'
-- ':eyeglasses:'
-- ':poodle:'
-oomp_word_list:
-- scream
-- eyeglasses
-- poodle
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

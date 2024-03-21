@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: r_0603_1608metric_pad0_98x0_95mm_handsolder
-description_extra_length_1: r
-description_extra_length_2: r_
-description_extra_length_3: r_0
-description_extra_length_4: r_06
-description_extra_length_5: r_060
-description_extra_length_6: r_0603
-description_extra_name: R 0603 1608Metric Pad0 98X0 95mm Handsolder
-description_extra_no_space_length_1: r
-description_extra_no_space_length_2: r0
-description_extra_no_space_length_3: r06
-description_extra_no_space_length_4: r060
-description_extra_no_space_length_5: r0603
-description_extra_no_space_length_6: r06031
-description_extra_no_space_upper_length_1: R
-description_extra_no_space_upper_length_2: R0
-description_extra_no_space_upper_length_3: R06
-description_extra_no_space_upper_length_4: R060
-description_extra_no_space_upper_length_5: R0603
-description_extra_no_space_upper_length_6: R06031
-description_extra_upper_length_1: R
-description_extra_upper_length_2: R_
-description_extra_upper_length_3: R_0
-description_extra_upper_length_4: R_06
-description_extra_upper_length_5: R_060
-description_extra_upper_length_6: R_0603
 description_main: resistor_smd
-description_main_length_1: r
-description_main_length_2: re
-description_main_length_3: res
-description_main_length_4: resi
-description_main_length_5: resis
-description_main_length_6: resist
-description_main_name: Resistor SMD
-description_main_no_space_length_1: r
-description_main_no_space_length_2: re
-description_main_no_space_length_3: res
-description_main_no_space_length_4: resi
-description_main_no_space_length_5: resis
-description_main_no_space_length_6: resist
-description_main_no_space_upper_length_1: R
-description_main_no_space_upper_length_2: RE
-description_main_no_space_upper_length_3: RES
-description_main_no_space_upper_length_4: RESI
-description_main_no_space_upper_length_5: RESIS
-description_main_no_space_upper_length_6: RESIST
-description_main_upper_length_1: R
-description_main_upper_length_2: RE
-description_main_upper_length_3: RES
-description_main_upper_length_4: RESI
-description_main_upper_length_5: RESIS
-description_main_upper_length_6: RESIST
-directory: parts/eda_kicad_footprint_kicad_default_resistor_smd_r_0603_1608metric_pad0_98x0_95mm_handsolder
 footprint_id: eda_kicad_footprint_kicad_default_resistor_smd_r_0603_1608metric_pad0_98x0_95mm_handsolder
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -165,68 +88,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_resistor_smd_r_0603_1608metric_pad0_98x0_95mm_handsolder
 id: eda_kicad_footprint_kicad_default_resistor_smd_r_0603_1608metric_pad0_98x0_95mm_handsolder
-id_no_class: eda_kicad_default_resistor_smd_r_0603_1608metric_pad0_98x0_95mm_handsolder
-id_no_color: edaresistorsmdr06031608metricpad098x095mmhandsolder
-id_no_size: edaresistorsmdr06031608metricpad098x095mmhandsolder
-id_no_type: eda_resistor_smd_r_0603_1608metric_pad0_98x0_95mm_handsolder
 manufacturer: ''
-manufacturer_name: ''
-md5: 43f81ed2c0771c49bd7d8fad7ec56815
-md5_10: 43f81ed2c0
-md5_10_upper: 43F81ED2C0
-md5_5: 43f81
-md5_5_upper: 43F81
-md5_6: 43f81e
-md5_6_alpha: 2nh26
-md5_6_alpha_upper: 2NH26
-md5_6_upper: 43F81E
-name: Eda Kicad Footprint Kicad Default Resistor SMD R 0603 1608Metric Pad0 98X0 95mm
-  Handsolder
-name_no_class: Eda Kicad Default Resistor SMD R 0603 1608Metric Pad0 98X0 95mm Handsolder
-name_no_color: Edaresistorsmdr06031608Metricpad098X095mmhandsolder
-name_no_size: Edaresistorsmdr06031608Metricpad098X095mmhandsolder
-name_no_type: Eda Resistor SMD R 0603 1608Metric Pad0 98X0 95mm Handsolder
-oomp_key: oomp_eda_kicad_footprint_kicad_default_resistor_smd_r_0603_1608metric_pad0_98x0_95mm_handsolder
-oomp_word: elephant seven angel
-oomp_word_emoji: ':elephant: :seven: :angel:'
-oomp_word_emoji_list:
-- ':elephant:'
-- ':seven:'
-- ':angel:'
-oomp_word_list:
-- elephant
-- seven
-- angel
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

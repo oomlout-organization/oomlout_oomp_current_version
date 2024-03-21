@@ -1,86 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: fuseholder_clip_5x20mm_littelfuse_520_inline_p20_50x5_80mm_d1_30mm_horizontal
-description_extra_length_1: f
-description_extra_length_2: fu
-description_extra_length_3: fus
-description_extra_length_4: fuse
-description_extra_length_5: fuseh
-description_extra_length_6: fuseho
-description_extra_name: Fuseholder Clip 5X20mm Littelfuse 520 Inline P20 50X5 80mm
-  D1 30mm Horizontal
-description_extra_no_space_length_1: f
-description_extra_no_space_length_2: fu
-description_extra_no_space_length_3: fus
-description_extra_no_space_length_4: fuse
-description_extra_no_space_length_5: fuseh
-description_extra_no_space_length_6: fuseho
-description_extra_no_space_upper_length_1: F
-description_extra_no_space_upper_length_2: FU
-description_extra_no_space_upper_length_3: FUS
-description_extra_no_space_upper_length_4: FUSE
-description_extra_no_space_upper_length_5: FUSEH
-description_extra_no_space_upper_length_6: FUSEHO
-description_extra_upper_length_1: F
-description_extra_upper_length_2: FU
-description_extra_upper_length_3: FUS
-description_extra_upper_length_4: FUSE
-description_extra_upper_length_5: FUSEH
-description_extra_upper_length_6: FUSEHO
 description_main: fuse
-description_main_length_1: f
-description_main_length_2: fu
-description_main_length_3: fus
-description_main_length_4: fuse
-description_main_length_5: fuse
-description_main_length_6: fuse
-description_main_name: Fuse
-description_main_no_space_length_1: f
-description_main_no_space_length_2: fu
-description_main_no_space_length_3: fus
-description_main_no_space_length_4: fuse
-description_main_no_space_length_5: fuse
-description_main_no_space_length_6: fuse
-description_main_no_space_upper_length_1: F
-description_main_no_space_upper_length_2: FU
-description_main_no_space_upper_length_3: FUS
-description_main_no_space_upper_length_4: FUSE
-description_main_no_space_upper_length_5: FUSE
-description_main_no_space_upper_length_6: FUSE
-description_main_upper_length_1: F
-description_main_upper_length_2: FU
-description_main_upper_length_3: FUS
-description_main_upper_length_4: FUSE
-description_main_upper_length_5: FUSE
-description_main_upper_length_6: FUSE
-directory: parts/eda_kicad_footprint_kicad_default_fuse_fuseholder_clip_5x20mm_littelfuse_520_inline_p20_50x5_80mm_d1_30mm_horizontal
 footprint_id: eda_kicad_footprint_kicad_default_fuse_fuseholder_clip_5x20mm_littelfuse_520_inline_p20_50x5_80mm_d1_30mm_horizontal
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -228,70 +150,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_fuse_fuseholder_clip_5x20mm_littelfuse_520_inline_p20_50x5_80mm_d1_30mm_horizontal
 id: eda_kicad_footprint_kicad_default_fuse_fuseholder_clip_5x20mm_littelfuse_520_inline_p20_50x5_80mm_d1_30mm_horizontal
-id_no_class: eda_kicad_default_fuse_fuseholder_clip_5x20mm_littelfuse_520_inline_p20_50x5_80mm_d1_30mm_horizontal
-id_no_color: edafusefuseholderclip5x20mmlittelfuse520inlinep2050x580mmd130mmhorizontal
-id_no_size: edafusefuseholderclip5x20mmlittelfuse520inlinep2050x580mmd130mmhorizontal
-id_no_type: eda_fuse_fuseholder_clip_5x20mm_littelfuse_520_inline_p20_50x5_80mm_d1_30mm_horizontal
 manufacturer: ''
-manufacturer_name: ''
-md5: cf26c80593b9b34dfdcd662b4a7b3016
-md5_10: cf26c80593
-md5_10_upper: CF26C80593
-md5_5: cf26c
-md5_5_upper: CF26C
-md5_6: cf26c8
-md5_6_alpha: 82z7s
-md5_6_alpha_upper: 82Z7S
-md5_6_upper: CF26C8
-name: Eda Kicad Footprint Kicad Default Fuse Fuseholder Clip 5X20mm Littelfuse 520
-  Inline P20 50X5 80mm D1 30mm Horizontal
-name_no_class: Eda Kicad Default Fuse Fuseholder Clip 5X20mm Littelfuse 520 Inline
-  P20 50X5 80mm D1 30mm Horizontal
-name_no_color: Edafusefuseholderclip5X20mmlittelfuse520Inlinep2050X580mmd130mmhorizontal
-name_no_size: Edafusefuseholderclip5X20mmlittelfuse520Inlinep2050X580mmd130mmhorizontal
-name_no_type: Eda Fuse Fuseholder Clip 5X20mm Littelfuse 520 Inline P20 50X5 80mm
-  D1 30mm Horizontal
-oomp_key: oomp_eda_kicad_footprint_kicad_default_fuse_fuseholder_clip_5x20mm_littelfuse_520_inline_p20_50x5_80mm_d1_30mm_horizontal
-oomp_word: melon eyes apple
-oomp_word_emoji: ':melon: :eyes: :apple:'
-oomp_word_emoji_list:
-- ':melon:'
-- ':eyes:'
-- ':apple:'
-oomp_word_list:
-- melon
-- eyes
-- apple
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

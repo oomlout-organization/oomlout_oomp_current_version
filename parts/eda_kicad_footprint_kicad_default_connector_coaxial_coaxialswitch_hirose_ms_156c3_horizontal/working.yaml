@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: coaxialswitch_hirose_ms_156c3_horizontal
-description_extra_length_1: c
-description_extra_length_2: co
-description_extra_length_3: coa
-description_extra_length_4: coax
-description_extra_length_5: coaxi
-description_extra_length_6: coaxia
-description_extra_name: Coaxialswitch Hirose Ms 156C3 Horizontal
-description_extra_no_space_length_1: c
-description_extra_no_space_length_2: co
-description_extra_no_space_length_3: coa
-description_extra_no_space_length_4: coax
-description_extra_no_space_length_5: coaxi
-description_extra_no_space_length_6: coaxia
-description_extra_no_space_upper_length_1: C
-description_extra_no_space_upper_length_2: CO
-description_extra_no_space_upper_length_3: COA
-description_extra_no_space_upper_length_4: COAX
-description_extra_no_space_upper_length_5: COAXI
-description_extra_no_space_upper_length_6: COAXIA
-description_extra_upper_length_1: C
-description_extra_upper_length_2: CO
-description_extra_upper_length_3: COA
-description_extra_upper_length_4: COAX
-description_extra_upper_length_5: COAXI
-description_extra_upper_length_6: COAXIA
 description_main: connector_coaxial
-description_main_length_1: c
-description_main_length_2: co
-description_main_length_3: con
-description_main_length_4: conn
-description_main_length_5: conne
-description_main_length_6: connec
-description_main_name: Connector Coaxial
-description_main_no_space_length_1: c
-description_main_no_space_length_2: co
-description_main_no_space_length_3: con
-description_main_no_space_length_4: conn
-description_main_no_space_length_5: conne
-description_main_no_space_length_6: connec
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CO
-description_main_no_space_upper_length_3: CON
-description_main_no_space_upper_length_4: CONN
-description_main_no_space_upper_length_5: CONNE
-description_main_no_space_upper_length_6: CONNEC
-description_main_upper_length_1: C
-description_main_upper_length_2: CO
-description_main_upper_length_3: CON
-description_main_upper_length_4: CONN
-description_main_upper_length_5: CONNE
-description_main_upper_length_6: CONNEC
-directory: parts/eda_kicad_footprint_kicad_default_connector_coaxial_coaxialswitch_hirose_ms_156c3_horizontal
 footprint_id: eda_kicad_footprint_kicad_default_connector_coaxial_coaxialswitch_hirose_ms_156c3_horizontal
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -297,68 +220,9 @@ footprint_string:
     Position(X=-0.72, Y=0, angle=None, unlocked=False), Position(X=-0.72, Y=0.25,
     angle=None, unlocked=False), Position(X=-1.2, Y=0.25, angle=None, unlocked=False),
     Position(X=-1.2, Y=0.78, angle=None, unlocked=False)])], filledPolygons=[], fillSegments=None)]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_connector_coaxial_coaxialswitch_hirose_ms_156c3_horizontal
 id: eda_kicad_footprint_kicad_default_connector_coaxial_coaxialswitch_hirose_ms_156c3_horizontal
-id_no_class: eda_kicad_default_connector_coaxial_coaxialswitch_hirose_ms_156c3_horizontal
-id_no_color: edaconnectorcoaxialcoaxialswitchhirosems156c3horizontal
-id_no_size: edaconnectorcoaxialcoaxialswitchhirosems156c3horizontal
-id_no_type: eda_connector_coaxial_coaxialswitch_hirose_ms_156c3_horizontal
 manufacturer: ''
-manufacturer_name: ''
-md5: cf0a59812fb8fa566a3ad26ec729ec57
-md5_10: cf0a59812f
-md5_10_upper: CF0A59812F
-md5_5: cf0a5
-md5_5_upper: CF0A5
-md5_6: cf0a59
-md5_6_alpha: 82tll
-md5_6_alpha_upper: 82TLL
-md5_6_upper: CF0A59
-name: Eda Kicad Footprint Kicad Default Connector Coaxial Coaxialswitch Hirose Ms
-  156C3 Horizontal
-name_no_class: Eda Kicad Default Connector Coaxial Coaxialswitch Hirose Ms 156C3 Horizontal
-name_no_color: Edaconnectorcoaxialcoaxialswitchhirosems156C3Horizontal
-name_no_size: Edaconnectorcoaxialcoaxialswitchhirosems156C3Horizontal
-name_no_type: Eda Connector Coaxial Coaxialswitch Hirose Ms 156C3 Horizontal
-oomp_key: oomp_eda_kicad_footprint_kicad_default_connector_coaxial_coaxialswitch_hirose_ms_156c3_horizontal
-oomp_word: melon sleepy dragon
-oomp_word_emoji: ':melon: :sleepy: :dragon:'
-oomp_word_emoji_list:
-- ':melon:'
-- ':sleepy:'
-- ':dragon:'
-oomp_word_list:
-- melon
-- sleepy
-- dragon
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

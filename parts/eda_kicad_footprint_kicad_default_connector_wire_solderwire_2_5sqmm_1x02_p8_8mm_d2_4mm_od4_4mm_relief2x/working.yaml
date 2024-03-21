@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: solderwire_2_5sqmm_1x02_p8_8mm_d2_4mm_od4_4mm_relief2x
-description_extra_length_1: s
-description_extra_length_2: so
-description_extra_length_3: sol
-description_extra_length_4: sold
-description_extra_length_5: solde
-description_extra_length_6: solder
-description_extra_name: Solderwire 2 5Sqmm 1X02 P8 8mm D2 4mm OD4 4mm Relief2X
-description_extra_no_space_length_1: s
-description_extra_no_space_length_2: so
-description_extra_no_space_length_3: sol
-description_extra_no_space_length_4: sold
-description_extra_no_space_length_5: solde
-description_extra_no_space_length_6: solder
-description_extra_no_space_upper_length_1: S
-description_extra_no_space_upper_length_2: SO
-description_extra_no_space_upper_length_3: SOL
-description_extra_no_space_upper_length_4: SOLD
-description_extra_no_space_upper_length_5: SOLDE
-description_extra_no_space_upper_length_6: SOLDER
-description_extra_upper_length_1: S
-description_extra_upper_length_2: SO
-description_extra_upper_length_3: SOL
-description_extra_upper_length_4: SOLD
-description_extra_upper_length_5: SOLDE
-description_extra_upper_length_6: SOLDER
 description_main: connector_wire
-description_main_length_1: c
-description_main_length_2: co
-description_main_length_3: con
-description_main_length_4: conn
-description_main_length_5: conne
-description_main_length_6: connec
-description_main_name: Connector Wire
-description_main_no_space_length_1: c
-description_main_no_space_length_2: co
-description_main_no_space_length_3: con
-description_main_no_space_length_4: conn
-description_main_no_space_length_5: conne
-description_main_no_space_length_6: connec
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CO
-description_main_no_space_upper_length_3: CON
-description_main_no_space_upper_length_4: CONN
-description_main_no_space_upper_length_5: CONNE
-description_main_no_space_upper_length_6: CONNEC
-description_main_upper_length_1: C
-description_main_upper_length_2: CO
-description_main_upper_length_3: CON
-description_main_upper_length_4: CONN
-description_main_upper_length_5: CONNE
-description_main_upper_length_6: CONNEC
-directory: parts/eda_kicad_footprint_kicad_default_connector_wire_solderwire_2_5sqmm_1x02_p8_8mm_d2_4mm_od4_4mm_relief2x
 footprint_id: eda_kicad_footprint_kicad_default_connector_wire_solderwire_2_5sqmm_1x02_p8_8mm_d2_4mm_od4_4mm_relief2x
 footprint_string:
   attributes: Attributes(type=None, boardOnly=False, excludeFromPosFiles=True, excludeFromBom=True)
@@ -314,69 +237,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_connector_wire_solderwire_2_5sqmm_1x02_p8_8mm_d2_4mm_od4_4mm_relief2x
 id: eda_kicad_footprint_kicad_default_connector_wire_solderwire_2_5sqmm_1x02_p8_8mm_d2_4mm_od4_4mm_relief2x
-id_no_class: eda_kicad_default_connector_wire_solderwire_2_5sqmm_1x02_p8_8mm_d2_4mm_od4_4mm_relief2x
-id_no_color: edaconnectorwiresolderwire25sqmm1x02p88mmd24mmod44mmrelief2x
-id_no_size: edaconnectorwiresolderwire25sqmm1x02p88mmd24mmod44mmrelief2x
-id_no_type: eda_connector_wire_solderwire_2_5sqmm_1x02_p8_8mm_d2_4mm_od4_4mm_relief2x
 manufacturer: ''
-manufacturer_name: ''
-md5: 60043b76a0846e2571ffc9da42de231e
-md5_10: 60043b76a0
-md5_10_upper: 60043B76A0
-md5_5: '60043'
-md5_5_upper: '60043'
-md5_6: 60043b
-md5_6_alpha: 3qvcr
-md5_6_alpha_upper: 3QVCR
-md5_6_upper: 60043B
-name: Eda Kicad Footprint Kicad Default Connector Wire Solderwire 2 5Sqmm 1X02 P8
-  8mm D2 4mm OD4 4mm Relief2X
-name_no_class: Eda Kicad Default Connector Wire Solderwire 2 5Sqmm 1X02 P8 8mm D2
-  4mm OD4 4mm Relief2X
-name_no_color: Edaconnectorwiresolderwire25Sqmm1X02P88mmd24mmod44mmrelief2X
-name_no_size: Edaconnectorwiresolderwire25Sqmm1X02P88mmd24mmod44mmrelief2X
-name_no_type: Eda Connector Wire Solderwire 2 5Sqmm 1X02 P8 8mm D2 4mm OD4 4mm Relief2X
-oomp_key: oomp_eda_kicad_footprint_kicad_default_connector_wire_solderwire_2_5sqmm_1x02_p8_8mm_d2_4mm_od4_4mm_relief2x
-oomp_word: poodle wink bear
-oomp_word_emoji: ':poodle: :wink: :bear:'
-oomp_word_emoji_list:
-- ':poodle:'
-- ':wink:'
-- ':bear:'
-oomp_word_list:
-- poodle
-- wink
-- bear
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

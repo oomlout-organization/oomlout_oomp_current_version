@@ -1661,6 +1661,8 @@
   * [m5](washer/m5)
     * [penny](washer/m5/penny)
   * [m6](washer/m6)
+    * [nylon_white](washer/m6/nylon_white)
+      * [12_mm_outer_diameter_1_5_mm_depth](washer/m6/nylon_white/12_mm_outer_diameter_1_5_mm_depth)
     * [penny](washer/m6/penny)
   * [m8](washer/m8)
     * [penny](washer/m8/penny)

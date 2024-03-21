@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: tsot_23_5
-description_extra_length_1: t
-description_extra_length_2: ts
-description_extra_length_3: tso
-description_extra_length_4: tsot
-description_extra_length_5: tsot_
-description_extra_length_6: tsot_2
-description_extra_name: Tsot 23 5
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: ts
-description_extra_no_space_length_3: tso
-description_extra_no_space_length_4: tsot
-description_extra_no_space_length_5: tsot2
-description_extra_no_space_length_6: tsot23
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TS
-description_extra_no_space_upper_length_3: TSO
-description_extra_no_space_upper_length_4: TSOT
-description_extra_no_space_upper_length_5: TSOT2
-description_extra_no_space_upper_length_6: TSOT23
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TS
-description_extra_upper_length_3: TSO
-description_extra_upper_length_4: TSOT
-description_extra_upper_length_5: TSOT_
-description_extra_upper_length_6: TSOT_2
 description_main: package_to_sot_smd
-description_main_length_1: p
-description_main_length_2: pa
-description_main_length_3: pac
-description_main_length_4: pack
-description_main_length_5: packa
-description_main_length_6: packag
-description_main_name: Package To Sot SMD
-description_main_no_space_length_1: p
-description_main_no_space_length_2: pa
-description_main_no_space_length_3: pac
-description_main_no_space_length_4: pack
-description_main_no_space_length_5: packa
-description_main_no_space_length_6: packag
-description_main_no_space_upper_length_1: P
-description_main_no_space_upper_length_2: PA
-description_main_no_space_upper_length_3: PAC
-description_main_no_space_upper_length_4: PACK
-description_main_no_space_upper_length_5: PACKA
-description_main_no_space_upper_length_6: PACKAG
-description_main_upper_length_1: P
-description_main_upper_length_2: PA
-description_main_upper_length_3: PAC
-description_main_upper_length_4: PACK
-description_main_upper_length_5: PACKA
-description_main_upper_length_6: PACKAG
-directory: parts/eda_kicad_footprint_kicad_default_package_to_sot_smd_tsot_23_5
 footprint_id: eda_kicad_footprint_kicad_default_package_to_sot_smd_tsot_23_5
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -196,67 +119,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_package_to_sot_smd_tsot_23_5
 id: eda_kicad_footprint_kicad_default_package_to_sot_smd_tsot_23_5
-id_no_class: eda_kicad_default_package_to_sot_smd_tsot_23_5
-id_no_color: edapackagetosotsmdtsot235
-id_no_size: edapackagetosotsmdtsot235
-id_no_type: eda_package_to_sot_smd_tsot_23_5
 manufacturer: ''
-manufacturer_name: ''
-md5: b1e4ee207e32a79e9b2e2732d3759665
-md5_10: b1e4ee207e
-md5_10_upper: B1E4EE207E
-md5_5: b1e4e
-md5_5_upper: B1E4E
-md5_6: b1e4ee
-md5_6_alpha: 6xvqm
-md5_6_alpha_upper: 6XVQM
-md5_6_upper: B1E4EE
-name: Eda Kicad Footprint Kicad Default Package To Sot SMD Tsot 23 5
-name_no_class: Eda Kicad Default Package To Sot SMD Tsot 23 5
-name_no_color: Edapackagetosotsmdtsot235
-name_no_size: Edapackagetosotsmdtsot235
-name_no_type: Eda Package To Sot SMD Tsot 23 5
-oomp_key: oomp_eda_kicad_footprint_kicad_default_package_to_sot_smd_tsot_23_5
-oomp_word: briefcase anchor ambulance
-oomp_word_emoji: ':briefcase: :anchor: :ambulance:'
-oomp_word_emoji_list:
-- ':briefcase:'
-- ':anchor:'
-- ':ambulance:'
-oomp_word_list:
-- briefcase
-- anchor
-- ambulance
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

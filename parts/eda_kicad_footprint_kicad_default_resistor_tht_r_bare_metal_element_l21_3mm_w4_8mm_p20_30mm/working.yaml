@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: r_bare_metal_element_l21_3mm_w4_8mm_p20_30mm
-description_extra_length_1: r
-description_extra_length_2: r_
-description_extra_length_3: r_b
-description_extra_length_4: r_ba
-description_extra_length_5: r_bar
-description_extra_length_6: r_bare
-description_extra_name: R Bare Metal Element L21 3mm W4 8mm P20 30mm
-description_extra_no_space_length_1: r
-description_extra_no_space_length_2: rb
-description_extra_no_space_length_3: rba
-description_extra_no_space_length_4: rbar
-description_extra_no_space_length_5: rbare
-description_extra_no_space_length_6: rbarem
-description_extra_no_space_upper_length_1: R
-description_extra_no_space_upper_length_2: RB
-description_extra_no_space_upper_length_3: RBA
-description_extra_no_space_upper_length_4: RBAR
-description_extra_no_space_upper_length_5: RBARE
-description_extra_no_space_upper_length_6: RBAREM
-description_extra_upper_length_1: R
-description_extra_upper_length_2: R_
-description_extra_upper_length_3: R_B
-description_extra_upper_length_4: R_BA
-description_extra_upper_length_5: R_BAR
-description_extra_upper_length_6: R_BARE
 description_main: resistor_tht
-description_main_length_1: r
-description_main_length_2: re
-description_main_length_3: res
-description_main_length_4: resi
-description_main_length_5: resis
-description_main_length_6: resist
-description_main_name: Resistor Tht
-description_main_no_space_length_1: r
-description_main_no_space_length_2: re
-description_main_no_space_length_3: res
-description_main_no_space_length_4: resi
-description_main_no_space_length_5: resis
-description_main_no_space_length_6: resist
-description_main_no_space_upper_length_1: R
-description_main_no_space_upper_length_2: RE
-description_main_no_space_upper_length_3: RES
-description_main_no_space_upper_length_4: RESI
-description_main_no_space_upper_length_5: RESIS
-description_main_no_space_upper_length_6: RESIST
-description_main_upper_length_1: R
-description_main_upper_length_2: RE
-description_main_upper_length_3: RES
-description_main_upper_length_4: RESI
-description_main_upper_length_5: RESIS
-description_main_upper_length_6: RESIST
-directory: parts/eda_kicad_footprint_kicad_default_resistor_tht_r_bare_metal_element_l21_3mm_w4_8mm_p20_30mm
 footprint_id: eda_kicad_footprint_kicad_default_resistor_tht_r_bare_metal_element_l21_3mm_w4_8mm_p20_30mm
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -231,69 +154,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_resistor_tht_r_bare_metal_element_l21_3mm_w4_8mm_p20_30mm
 id: eda_kicad_footprint_kicad_default_resistor_tht_r_bare_metal_element_l21_3mm_w4_8mm_p20_30mm
-id_no_class: eda_kicad_default_resistor_tht_r_bare_metal_element_l21_3mm_w4_8mm_p20_30mm
-id_no_color: edaresistorthtrbaremetalelementl213mmw48mmp2030mm
-id_no_size: edaresistorthtrbaremetalelementl213mmw48mmp2030mm
-id_no_type: eda_resistor_tht_r_bare_metal_element_l21_3mm_w4_8mm_p20_30mm
 manufacturer: ''
-manufacturer_name: ''
-md5: 3fd6dcfafa72144b8fdd93425c4f52bd
-md5_10: 3fd6dcfafa
-md5_10_upper: 3FD6DCFAFA
-md5_5: 3fd6d
-md5_5_upper: 3FD6D
-md5_6: 3fd6dc
-md5_6_alpha: 2ho7w
-md5_6_alpha_upper: 2HO7W
-md5_6_upper: 3FD6DC
-name: Eda Kicad Footprint Kicad Default Resistor Tht R Bare Metal Element L21 3mm
-  W4 8mm P20 30mm
-name_no_class: Eda Kicad Default Resistor Tht R Bare Metal Element L21 3mm W4 8mm
-  P20 30mm
-name_no_color: Edaresistorthtrbaremetalelementl213mmw48mmp2030mm
-name_no_size: Edaresistorthtrbaremetalelementl213mmw48mmp2030mm
-name_no_type: Eda Resistor Tht R Bare Metal Element L21 3mm W4 8mm P20 30mm
-oomp_key: oomp_eda_kicad_footprint_kicad_default_resistor_tht_r_bare_metal_element_l21_3mm_w4_8mm_p20_30mm
-oomp_word: horse school factory
-oomp_word_emoji: ':horse: :school: :factory:'
-oomp_word_emoji_list:
-- ':horse:'
-- ':school:'
-- ':factory:'
-oomp_word_list:
-- horse
-- school
-- factory
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

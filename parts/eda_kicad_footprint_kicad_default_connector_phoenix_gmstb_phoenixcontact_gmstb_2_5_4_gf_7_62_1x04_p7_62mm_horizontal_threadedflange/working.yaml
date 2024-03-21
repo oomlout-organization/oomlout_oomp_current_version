@@ -1,86 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: phoenixcontact_gmstb_2_5_4_gf_7_62_1x04_p7_62mm_horizontal_threadedflange
-description_extra_length_1: p
-description_extra_length_2: ph
-description_extra_length_3: pho
-description_extra_length_4: phoe
-description_extra_length_5: phoen
-description_extra_length_6: phoeni
-description_extra_name: Phoenixcontact Gmstb 2 5 4 Gf 7 62 1X04 P7 62mm Horizontal
-  Threadedflange
-description_extra_no_space_length_1: p
-description_extra_no_space_length_2: ph
-description_extra_no_space_length_3: pho
-description_extra_no_space_length_4: phoe
-description_extra_no_space_length_5: phoen
-description_extra_no_space_length_6: phoeni
-description_extra_no_space_upper_length_1: P
-description_extra_no_space_upper_length_2: PH
-description_extra_no_space_upper_length_3: PHO
-description_extra_no_space_upper_length_4: PHOE
-description_extra_no_space_upper_length_5: PHOEN
-description_extra_no_space_upper_length_6: PHOENI
-description_extra_upper_length_1: P
-description_extra_upper_length_2: PH
-description_extra_upper_length_3: PHO
-description_extra_upper_length_4: PHOE
-description_extra_upper_length_5: PHOEN
-description_extra_upper_length_6: PHOENI
 description_main: connector_phoenix_gmstb
-description_main_length_1: c
-description_main_length_2: co
-description_main_length_3: con
-description_main_length_4: conn
-description_main_length_5: conne
-description_main_length_6: connec
-description_main_name: Connector Phoenix Gmstb
-description_main_no_space_length_1: c
-description_main_no_space_length_2: co
-description_main_no_space_length_3: con
-description_main_no_space_length_4: conn
-description_main_no_space_length_5: conne
-description_main_no_space_length_6: connec
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CO
-description_main_no_space_upper_length_3: CON
-description_main_no_space_upper_length_4: CONN
-description_main_no_space_upper_length_5: CONNE
-description_main_no_space_upper_length_6: CONNEC
-description_main_upper_length_1: C
-description_main_upper_length_2: CO
-description_main_upper_length_3: CON
-description_main_upper_length_4: CONN
-description_main_upper_length_5: CONNE
-description_main_upper_length_6: CONNEC
-directory: parts/eda_kicad_footprint_kicad_default_connector_phoenix_gmstb_phoenixcontact_gmstb_2_5_4_gf_7_62_1x04_p7_62mm_horizontal_threadedflange
 footprint_id: eda_kicad_footprint_kicad_default_connector_phoenix_gmstb_phoenixcontact_gmstb_2_5_4_gf_7_62_1x04_p7_62mm_horizontal_threadedflange
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -282,70 +204,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_connector_phoenix_gmstb_phoenixcontact_gmstb_2_5_4_gf_7_62_1x04_p7_62mm_horizontal_threadedflange
 id: eda_kicad_footprint_kicad_default_connector_phoenix_gmstb_phoenixcontact_gmstb_2_5_4_gf_7_62_1x04_p7_62mm_horizontal_threadedflange
-id_no_class: eda_kicad_default_connector_phoenix_gmstb_phoenixcontact_gmstb_2_5_4_gf_7_62_1x04_p7_62mm_horizontal_threadedflange
-id_no_color: edaconnectorphoenixgmstbphoenixcontactgmstb254gf7621x04p762mmhorizontalthreadedflange
-id_no_size: edaconnectorphoenixgmstbphoenixcontactgmstb254gf7621x04p762mmhorizontalthreadedflange
-id_no_type: eda_connector_phoenix_gmstb_phoenixcontact_gmstb_2_5_4_gf_7_62_1x04_p7_62mm_horizontal_threadedflange
 manufacturer: ''
-manufacturer_name: ''
-md5: bb62559c8b214ec8f08c0e00107aeead
-md5_10: bb62559c8b
-md5_10_upper: BB62559C8B
-md5_5: bb625
-md5_5_upper: BB625
-md5_6: bb6255
-md5_6_alpha: 7b7md
-md5_6_alpha_upper: 7B7MD
-md5_6_upper: BB6255
-name: Eda Kicad Footprint Kicad Default Connector Phoenix Gmstb Phoenixcontact Gmstb
-  2 5 4 Gf 7 62 1X04 P7 62mm Horizontal Threadedflange
-name_no_class: Eda Kicad Default Connector Phoenix Gmstb Phoenixcontact Gmstb 2 5
-  4 Gf 7 62 1X04 P7 62mm Horizontal Threadedflange
-name_no_color: Edaconnectorphoenixgmstbphoenixcontactgmstb254Gf7621X04P762mmhorizontalthreadedflange
-name_no_size: Edaconnectorphoenixgmstbphoenixcontactgmstb254Gf7621X04P762mmhorizontalthreadedflange
-name_no_type: Eda Connector Phoenix Gmstb Phoenixcontact Gmstb 2 5 4 Gf 7 62 1X04
-  P7 62mm Horizontal Threadedflange
-oomp_key: oomp_eda_kicad_footprint_kicad_default_connector_phoenix_gmstb_phoenixcontact_gmstb_2_5_4_gf_7_62_1x04_p7_62mm_horizontal_threadedflange
-oomp_word: curry tulip dolphin
-oomp_word_emoji: ':curry: :tulip: :dolphin:'
-oomp_word_emoji_list:
-- ':curry:'
-- ':tulip:'
-- ':dolphin:'
-oomp_word_list:
-- curry
-- tulip
-- dolphin
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

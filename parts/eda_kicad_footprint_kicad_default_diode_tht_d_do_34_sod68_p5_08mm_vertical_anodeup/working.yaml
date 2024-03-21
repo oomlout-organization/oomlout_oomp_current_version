@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: d_do_34_sod68_p5_08mm_vertical_anodeup
-description_extra_length_1: d
-description_extra_length_2: d_
-description_extra_length_3: d_d
-description_extra_length_4: d_do
-description_extra_length_5: d_do_
-description_extra_length_6: d_do_3
-description_extra_name: D Do 34 Sod68 P5 08mm Vertical Anodeup
-description_extra_no_space_length_1: d
-description_extra_no_space_length_2: dd
-description_extra_no_space_length_3: ddo
-description_extra_no_space_length_4: ddo3
-description_extra_no_space_length_5: ddo34
-description_extra_no_space_length_6: ddo34s
-description_extra_no_space_upper_length_1: D
-description_extra_no_space_upper_length_2: DD
-description_extra_no_space_upper_length_3: DDO
-description_extra_no_space_upper_length_4: DDO3
-description_extra_no_space_upper_length_5: DDO34
-description_extra_no_space_upper_length_6: DDO34S
-description_extra_upper_length_1: D
-description_extra_upper_length_2: D_
-description_extra_upper_length_3: D_D
-description_extra_upper_length_4: D_DO
-description_extra_upper_length_5: D_DO_
-description_extra_upper_length_6: D_DO_3
 description_main: diode_tht
-description_main_length_1: d
-description_main_length_2: di
-description_main_length_3: dio
-description_main_length_4: diod
-description_main_length_5: diode
-description_main_length_6: diode_
-description_main_name: Diode Tht
-description_main_no_space_length_1: d
-description_main_no_space_length_2: di
-description_main_no_space_length_3: dio
-description_main_no_space_length_4: diod
-description_main_no_space_length_5: diode
-description_main_no_space_length_6: diodet
-description_main_no_space_upper_length_1: D
-description_main_no_space_upper_length_2: DI
-description_main_no_space_upper_length_3: DIO
-description_main_no_space_upper_length_4: DIOD
-description_main_no_space_upper_length_5: DIODE
-description_main_no_space_upper_length_6: DIODET
-description_main_upper_length_1: D
-description_main_upper_length_2: DI
-description_main_upper_length_3: DIO
-description_main_upper_length_4: DIOD
-description_main_upper_length_5: DIODE
-description_main_upper_length_6: DIODE_
-directory: parts/eda_kicad_footprint_kicad_default_diode_tht_d_do_34_sod68_p5_08mm_vertical_anodeup
 footprint_id: eda_kicad_footprint_kicad_default_diode_tht_d_do_34_sod68_p5_08mm_vertical_anodeup
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -168,67 +91,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_diode_tht_d_do_34_sod68_p5_08mm_vertical_anodeup
 id: eda_kicad_footprint_kicad_default_diode_tht_d_do_34_sod68_p5_08mm_vertical_anodeup
-id_no_class: eda_kicad_default_diode_tht_d_do_34_sod68_p5_08mm_vertical_anodeup
-id_no_color: edadiodethtddo34sod68p508mmverticalanodeup
-id_no_size: edadiodethtddo34sod68p508mmverticalanodeup
-id_no_type: eda_diode_tht_d_do_34_sod68_p5_08mm_vertical_anodeup
 manufacturer: ''
-manufacturer_name: ''
-md5: a804511c8805d7374947be6a399c0e36
-md5_10: a804511c88
-md5_10_upper: A804511C88
-md5_5: a8045
-md5_5_upper: A8045
-md5_6: a80451
-md5_6_alpha: 6k09d
-md5_6_alpha_upper: 6K09D
-md5_6_upper: A80451
-name: Eda Kicad Footprint Kicad Default Diode Tht D Do 34 Sod68 P5 08mm Vertical Anodeup
-name_no_class: Eda Kicad Default Diode Tht D Do 34 Sod68 P5 08mm Vertical Anodeup
-name_no_color: Edadiodethtddo34Sod68P508mmverticalanodeup
-name_no_size: Edadiodethtddo34Sod68P508mmverticalanodeup
-name_no_type: Eda Diode Tht D Do 34 Sod68 P5 08mm Vertical Anodeup
-oomp_key: oomp_eda_kicad_footprint_kicad_default_diode_tht_d_do_34_sod68_p5_08mm_vertical_anodeup
-oomp_word: shoe wink snail
-oomp_word_emoji: ':shoe: :wink: :snail:'
-oomp_word_emoji_list:
-- ':shoe:'
-- ':wink:'
-- ':snail:'
-oomp_word_list:
-- shoe
-- wink
-- snail
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

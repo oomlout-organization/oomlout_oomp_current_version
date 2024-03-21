@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: samtec_mecf_60_01_np_l_dv_wt_2x60_p1_27mm_socket_horizontal
-description_extra_length_1: s
-description_extra_length_2: sa
-description_extra_length_3: sam
-description_extra_length_4: samt
-description_extra_length_5: samte
-description_extra_length_6: samtec
-description_extra_name: Samtec Mecf 60 01 Np L Dv Wt 2X60 P1 27mm Socket Horizontal
-description_extra_no_space_length_1: s
-description_extra_no_space_length_2: sa
-description_extra_no_space_length_3: sam
-description_extra_no_space_length_4: samt
-description_extra_no_space_length_5: samte
-description_extra_no_space_length_6: samtec
-description_extra_no_space_upper_length_1: S
-description_extra_no_space_upper_length_2: SA
-description_extra_no_space_upper_length_3: SAM
-description_extra_no_space_upper_length_4: SAMT
-description_extra_no_space_upper_length_5: SAMTE
-description_extra_no_space_upper_length_6: SAMTEC
-description_extra_upper_length_1: S
-description_extra_upper_length_2: SA
-description_extra_upper_length_3: SAM
-description_extra_upper_length_4: SAMT
-description_extra_upper_length_5: SAMTE
-description_extra_upper_length_6: SAMTEC
 description_main: connector_pcbedge
-description_main_length_1: c
-description_main_length_2: co
-description_main_length_3: con
-description_main_length_4: conn
-description_main_length_5: conne
-description_main_length_6: connec
-description_main_name: Connector PCBedge
-description_main_no_space_length_1: c
-description_main_no_space_length_2: co
-description_main_no_space_length_3: con
-description_main_no_space_length_4: conn
-description_main_no_space_length_5: conne
-description_main_no_space_length_6: connec
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CO
-description_main_no_space_upper_length_3: CON
-description_main_no_space_upper_length_4: CONN
-description_main_no_space_upper_length_5: CONNE
-description_main_no_space_upper_length_6: CONNEC
-description_main_upper_length_1: C
-description_main_upper_length_2: CO
-description_main_upper_length_3: CON
-description_main_upper_length_4: CONN
-description_main_upper_length_5: CONNE
-description_main_upper_length_6: CONNEC
-directory: parts/eda_kicad_footprint_kicad_default_connector_pcbedge_samtec_mecf_60_01_np_l_dv_wt_2x60_p1_27mm_socket_horizontal
 footprint_id: eda_kicad_footprint_kicad_default_connector_pcbedge_samtec_mecf_60_01_np_l_dv_wt_2x60_p1_27mm_socket_horizontal
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -1031,70 +954,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_connector_pcbedge_samtec_mecf_60_01_np_l_dv_wt_2x60_p1_27mm_socket_horizontal
 id: eda_kicad_footprint_kicad_default_connector_pcbedge_samtec_mecf_60_01_np_l_dv_wt_2x60_p1_27mm_socket_horizontal
-id_no_class: eda_kicad_default_connector_pcbedge_samtec_mecf_60_01_np_l_dv_wt_2x60_p1_27mm_socket_horizontal
-id_no_color: edaconnectorpcbedgesamtecmecf6001npldvwt2x60p127mmsockethorizontal
-id_no_size: edaconnectorpcbedgesamtecmecf6001npldvwt2x60p127mmsockethorizontal
-id_no_type: eda_connector_pcbedge_samtec_mecf_60_01_np_l_dv_wt_2x60_p1_27mm_socket_horizontal
 manufacturer: ''
-manufacturer_name: ''
-md5: 7b2d4bff8a73a7d7a843f77534ce1902
-md5_10: 7b2d4bff8a
-md5_10_upper: 7B2D4BFF8A
-md5_5: 7b2d4
-md5_5_upper: 7B2D4
-md5_6: 7b2d4b
-md5_6_alpha: 4t0sr
-md5_6_alpha_upper: 4T0SR
-md5_6_upper: 7B2D4B
-name: Eda Kicad Footprint Kicad Default Connector PCBedge Samtec Mecf 60 01 Np L Dv
-  Wt 2X60 P1 27mm Socket Horizontal
-name_no_class: Eda Kicad Default Connector PCBedge Samtec Mecf 60 01 Np L Dv Wt 2X60
-  P1 27mm Socket Horizontal
-name_no_color: Edaconnectorpcbedgesamtecmecf6001Npldvwt2X60P127mmsockethorizontal
-name_no_size: Edaconnectorpcbedgesamtecmecf6001Npldvwt2X60P127mmsockethorizontal
-name_no_type: Eda Connector PCBedge Samtec Mecf 60 01 Np L Dv Wt 2X60 P1 27mm Socket
-  Horizontal
-oomp_key: oomp_eda_kicad_footprint_kicad_default_connector_pcbedge_samtec_mecf_60_01_np_l_dv_wt_2x60_p1_27mm_socket_horizontal
-oomp_word: computer snowman penguin
-oomp_word_emoji: ':computer: :snowman: :penguin:'
-oomp_word_emoji_list:
-- ':computer:'
-- ':snowman:'
-- ':penguin:'
-oomp_word_list:
-- computer
-- snowman
-- penguin
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

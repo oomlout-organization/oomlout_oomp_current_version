@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: c_rect_l7_2mm_w7_2mm_p5_00mm_fks2_fkp2_mks2_mkp2
-description_extra_length_1: c
-description_extra_length_2: c_
-description_extra_length_3: c_r
-description_extra_length_4: c_re
-description_extra_length_5: c_rec
-description_extra_length_6: c_rect
-description_extra_name: C Rect L7 2mm W7 2mm P5 00mm Fks2 Fkp2 Mks2 Mkp2
-description_extra_no_space_length_1: c
-description_extra_no_space_length_2: cr
-description_extra_no_space_length_3: cre
-description_extra_no_space_length_4: crec
-description_extra_no_space_length_5: crect
-description_extra_no_space_length_6: crectl
-description_extra_no_space_upper_length_1: C
-description_extra_no_space_upper_length_2: CR
-description_extra_no_space_upper_length_3: CRE
-description_extra_no_space_upper_length_4: CREC
-description_extra_no_space_upper_length_5: CRECT
-description_extra_no_space_upper_length_6: CRECTL
-description_extra_upper_length_1: C
-description_extra_upper_length_2: C_
-description_extra_upper_length_3: C_R
-description_extra_upper_length_4: C_RE
-description_extra_upper_length_5: C_REC
-description_extra_upper_length_6: C_RECT
 description_main: capacitor_tht
-description_main_length_1: c
-description_main_length_2: ca
-description_main_length_3: cap
-description_main_length_4: capa
-description_main_length_5: capac
-description_main_length_6: capaci
-description_main_name: Capacitor Tht
-description_main_no_space_length_1: c
-description_main_no_space_length_2: ca
-description_main_no_space_length_3: cap
-description_main_no_space_length_4: capa
-description_main_no_space_length_5: capac
-description_main_no_space_length_6: capaci
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CA
-description_main_no_space_upper_length_3: CAP
-description_main_no_space_upper_length_4: CAPA
-description_main_no_space_upper_length_5: CAPAC
-description_main_no_space_upper_length_6: CAPACI
-description_main_upper_length_1: C
-description_main_upper_length_2: CA
-description_main_upper_length_3: CAP
-description_main_upper_length_4: CAPA
-description_main_upper_length_5: CAPAC
-description_main_upper_length_6: CAPACI
-directory: parts/eda_kicad_footprint_kicad_default_capacitor_tht_c_rect_l7_2mm_w7_2mm_p5_00mm_fks2_fkp2_mks2_mkp2
 footprint_id: eda_kicad_footprint_kicad_default_capacitor_tht_c_rect_l7_2mm_w7_2mm_p5_00mm_fks2_fkp2_mks2_mkp2
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -169,69 +92,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_capacitor_tht_c_rect_l7_2mm_w7_2mm_p5_00mm_fks2_fkp2_mks2_mkp2
 id: eda_kicad_footprint_kicad_default_capacitor_tht_c_rect_l7_2mm_w7_2mm_p5_00mm_fks2_fkp2_mks2_mkp2
-id_no_class: eda_kicad_default_capacitor_tht_c_rect_l7_2mm_w7_2mm_p5_00mm_fks2_fkp2_mks2_mkp2
-id_no_color: edacapacitorthtcrectl72mmw72mmp500mmfks2fkp2mks2mkp2
-id_no_size: edacapacitorthtcrectl72mmw72mmp500mmfks2fkp2mks2mkp2
-id_no_type: eda_capacitor_tht_c_rect_l7_2mm_w7_2mm_p5_00mm_fks2_fkp2_mks2_mkp2
 manufacturer: ''
-manufacturer_name: ''
-md5: 085f85e7a5fb3ce070a56a3c7d0bf45e
-md5_10: 085f85e7a5
-md5_10_upper: 085F85E7A5
-md5_5: 085f8
-md5_5_upper: 085F8
-md5_6: 085f85
-md5_6_alpha: bret
-md5_6_alpha_upper: BRET
-md5_6_upper: 085F85
-name: Eda Kicad Footprint Kicad Default Capacitor Tht C Rect L7 2mm W7 2mm P5 00mm
-  Fks2 Fkp2 Mks2 Mkp2
-name_no_class: Eda Kicad Default Capacitor Tht C Rect L7 2mm W7 2mm P5 00mm Fks2 Fkp2
-  Mks2 Mkp2
-name_no_color: Edacapacitorthtcrectl72mmw72mmp500mmfks2Fkp2Mks2Mkp2
-name_no_size: Edacapacitorthtcrectl72mmw72mmp500mmfks2Fkp2Mks2Mkp2
-name_no_type: Eda Capacitor Tht C Rect L7 2mm W7 2mm P5 00mm Fks2 Fkp2 Mks2 Mkp2
-oomp_key: oomp_eda_kicad_footprint_kicad_default_capacitor_tht_c_rect_l7_2mm_w7_2mm_p5_00mm_fks2_fkp2_mks2_mkp2
-oomp_word: scream leopard bulb
-oomp_word_emoji: ':scream: :leopard: :bulb:'
-oomp_word_emoji_list:
-- ':scream:'
-- ':leopard:'
-- ':bulb:'
-oomp_word_list:
-- scream
-- leopard
-- bulb
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

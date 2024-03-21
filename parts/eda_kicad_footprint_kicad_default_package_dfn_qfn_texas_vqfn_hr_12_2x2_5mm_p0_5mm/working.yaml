@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: texas_vqfn_hr_12_2x2_5mm_p0_5mm
-description_extra_length_1: t
-description_extra_length_2: te
-description_extra_length_3: tex
-description_extra_length_4: texa
-description_extra_length_5: texas
-description_extra_length_6: texas_
-description_extra_name: Texas Vqfn Hr 12 2X2 5mm P0 5mm
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: te
-description_extra_no_space_length_3: tex
-description_extra_no_space_length_4: texa
-description_extra_no_space_length_5: texas
-description_extra_no_space_length_6: texasv
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TE
-description_extra_no_space_upper_length_3: TEX
-description_extra_no_space_upper_length_4: TEXA
-description_extra_no_space_upper_length_5: TEXAS
-description_extra_no_space_upper_length_6: TEXASV
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TE
-description_extra_upper_length_3: TEX
-description_extra_upper_length_4: TEXA
-description_extra_upper_length_5: TEXAS
-description_extra_upper_length_6: TEXAS_
 description_main: package_dfn_qfn
-description_main_length_1: p
-description_main_length_2: pa
-description_main_length_3: pac
-description_main_length_4: pack
-description_main_length_5: packa
-description_main_length_6: packag
-description_main_name: Package Dfn Qfn
-description_main_no_space_length_1: p
-description_main_no_space_length_2: pa
-description_main_no_space_length_3: pac
-description_main_no_space_length_4: pack
-description_main_no_space_length_5: packa
-description_main_no_space_length_6: packag
-description_main_no_space_upper_length_1: P
-description_main_no_space_upper_length_2: PA
-description_main_no_space_upper_length_3: PAC
-description_main_no_space_upper_length_4: PACK
-description_main_no_space_upper_length_5: PACKA
-description_main_no_space_upper_length_6: PACKAG
-description_main_upper_length_1: P
-description_main_upper_length_2: PA
-description_main_upper_length_3: PAC
-description_main_upper_length_4: PACK
-description_main_upper_length_5: PACKA
-description_main_upper_length_6: PACKAG
-directory: parts/eda_kicad_footprint_kicad_default_package_dfn_qfn_texas_vqfn_hr_12_2x2_5mm_p0_5mm
 footprint_id: eda_kicad_footprint_kicad_default_package_dfn_qfn_texas_vqfn_hr_12_2x2_5mm_p0_5mm
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -241,68 +164,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_package_dfn_qfn_texas_vqfn_hr_12_2x2_5mm_p0_5mm
 id: eda_kicad_footprint_kicad_default_package_dfn_qfn_texas_vqfn_hr_12_2x2_5mm_p0_5mm
-id_no_class: eda_kicad_default_package_dfn_qfn_texas_vqfn_hr_12_2x2_5mm_p0_5mm
-id_no_color: edapackagedfnqfntexasvqfnhr122x25mmp05mm
-id_no_size: edapackagedfnqfntexasvqfnhr122x25mmp05mm
-id_no_type: eda_package_dfn_qfn_texas_vqfn_hr_12_2x2_5mm_p0_5mm
 manufacturer: ''
-manufacturer_name: ''
-md5: c3ff5fd904a72169aade6919925d1803
-md5_10: c3ff5fd904
-md5_10_upper: C3FF5FD904
-md5_5: c3ff5
-md5_5_upper: C3FF5
-md5_6: c3ff5f
-md5_6_alpha: 7nb6n
-md5_6_alpha_upper: 7NB6N
-md5_6_upper: C3FF5F
-name: Eda Kicad Footprint Kicad Default Package Dfn Qfn Texas Vqfn Hr 12 2X2 5mm P0
-  5mm
-name_no_class: Eda Kicad Default Package Dfn Qfn Texas Vqfn Hr 12 2X2 5mm P0 5mm
-name_no_color: Edapackagedfnqfntexasvqfnhr122X25mmp05mm
-name_no_size: Edapackagedfnqfntexasvqfnhr122X25mmp05mm
-name_no_type: Eda Package Dfn Qfn Texas Vqfn Hr 12 2X2 5mm P0 5mm
-oomp_key: oomp_eda_kicad_footprint_kicad_default_package_dfn_qfn_texas_vqfn_hr_12_2x2_5mm_p0_5mm
-oomp_word: cake trident leopard
-oomp_word_emoji: ':cake: :trident: :leopard:'
-oomp_word_emoji_list:
-- ':cake:'
-- ':trident:'
-- ':leopard:'
-oomp_word_list:
-- cake
-- trident
-- leopard
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

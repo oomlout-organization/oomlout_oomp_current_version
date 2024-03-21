@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: dip_4_w10_16mm_longpads
-description_extra_length_1: d
-description_extra_length_2: di
-description_extra_length_3: dip
-description_extra_length_4: dip_
-description_extra_length_5: dip_4
-description_extra_length_6: dip_4_
-description_extra_name: Dip 4 W10 16mm Longpads
-description_extra_no_space_length_1: d
-description_extra_no_space_length_2: di
-description_extra_no_space_length_3: dip
-description_extra_no_space_length_4: dip4
-description_extra_no_space_length_5: dip4w
-description_extra_no_space_length_6: dip4w1
-description_extra_no_space_upper_length_1: D
-description_extra_no_space_upper_length_2: DI
-description_extra_no_space_upper_length_3: DIP
-description_extra_no_space_upper_length_4: DIP4
-description_extra_no_space_upper_length_5: DIP4W
-description_extra_no_space_upper_length_6: DIP4W1
-description_extra_upper_length_1: D
-description_extra_upper_length_2: DI
-description_extra_upper_length_3: DIP
-description_extra_upper_length_4: DIP_
-description_extra_upper_length_5: DIP_4
-description_extra_upper_length_6: DIP_4_
 description_main: package_dip
-description_main_length_1: p
-description_main_length_2: pa
-description_main_length_3: pac
-description_main_length_4: pack
-description_main_length_5: packa
-description_main_length_6: packag
-description_main_name: Package Dip
-description_main_no_space_length_1: p
-description_main_no_space_length_2: pa
-description_main_no_space_length_3: pac
-description_main_no_space_length_4: pack
-description_main_no_space_length_5: packa
-description_main_no_space_length_6: packag
-description_main_no_space_upper_length_1: P
-description_main_no_space_upper_length_2: PA
-description_main_no_space_upper_length_3: PAC
-description_main_no_space_upper_length_4: PACK
-description_main_no_space_upper_length_5: PACKA
-description_main_no_space_upper_length_6: PACKAG
-description_main_upper_length_1: P
-description_main_upper_length_2: PA
-description_main_upper_length_3: PAC
-description_main_upper_length_4: PACK
-description_main_upper_length_5: PACKA
-description_main_upper_length_6: PACKAG
-directory: parts/eda_kicad_footprint_kicad_default_package_dip_dip_4_w10_16mm_longpads
 footprint_id: eda_kicad_footprint_kicad_default_package_dip_dip_4_w10_16mm_longpads
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -195,67 +118,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_package_dip_dip_4_w10_16mm_longpads
 id: eda_kicad_footprint_kicad_default_package_dip_dip_4_w10_16mm_longpads
-id_no_class: eda_kicad_default_package_dip_dip_4_w10_16mm_longpads
-id_no_color: edapackagedipdip4w1016mmlongpads
-id_no_size: edapackagedipdip4w1016mmlongpads
-id_no_type: eda_package_dip_dip_4_w10_16mm_longpads
 manufacturer: ''
-manufacturer_name: ''
-md5: d8b744e7d4ef1027396386e55a10dce6
-md5_10: d8b744e7d4
-md5_10_upper: D8B744E7D4
-md5_5: d8b74
-md5_5_upper: D8B74
-md5_6: d8b744
-md5_6_alpha: 8gev8
-md5_6_alpha_upper: 8GEV8
-md5_6_upper: D8B744
-name: Eda Kicad Footprint Kicad Default Package Dip Dip 4 W10 16mm Longpads
-name_no_class: Eda Kicad Default Package Dip Dip 4 W10 16mm Longpads
-name_no_color: Edapackagedipdip4W1016mmlongpads
-name_no_size: Edapackagedipdip4W1016mmlongpads
-name_no_type: Eda Package Dip Dip 4 W10 16mm Longpads
-oomp_key: oomp_eda_kicad_footprint_kicad_default_package_dip_dip_4_w10_16mm_longpads
-oomp_word: hospital pizza panda_face
-oomp_word_emoji: ':hospital: :pizza: :panda_face:'
-oomp_word_emoji_list:
-- ':hospital:'
-- ':pizza:'
-- ':panda_face:'
-oomp_word_list:
-- hospital
-- pizza
-- panda_face
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

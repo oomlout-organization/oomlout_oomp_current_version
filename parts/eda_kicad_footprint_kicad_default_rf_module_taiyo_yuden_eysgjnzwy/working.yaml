@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: taiyo_yuden_eysgjnzwy
-description_extra_length_1: t
-description_extra_length_2: ta
-description_extra_length_3: tai
-description_extra_length_4: taiy
-description_extra_length_5: taiyo
-description_extra_length_6: taiyo_
-description_extra_name: Taiyo Yuden Eysgjnzwy
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: ta
-description_extra_no_space_length_3: tai
-description_extra_no_space_length_4: taiy
-description_extra_no_space_length_5: taiyo
-description_extra_no_space_length_6: taiyoy
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TA
-description_extra_no_space_upper_length_3: TAI
-description_extra_no_space_upper_length_4: TAIY
-description_extra_no_space_upper_length_5: TAIYO
-description_extra_no_space_upper_length_6: TAIYOY
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TA
-description_extra_upper_length_3: TAI
-description_extra_upper_length_4: TAIY
-description_extra_upper_length_5: TAIYO
-description_extra_upper_length_6: TAIYO_
 description_main: rf_module
-description_main_length_1: r
-description_main_length_2: rf
-description_main_length_3: rf_
-description_main_length_4: rf_m
-description_main_length_5: rf_mo
-description_main_length_6: rf_mod
-description_main_name: Rf Module
-description_main_no_space_length_1: r
-description_main_no_space_length_2: rf
-description_main_no_space_length_3: rfm
-description_main_no_space_length_4: rfmo
-description_main_no_space_length_5: rfmod
-description_main_no_space_length_6: rfmodu
-description_main_no_space_upper_length_1: R
-description_main_no_space_upper_length_2: RF
-description_main_no_space_upper_length_3: RFM
-description_main_no_space_upper_length_4: RFMO
-description_main_no_space_upper_length_5: RFMOD
-description_main_no_space_upper_length_6: RFMODU
-description_main_upper_length_1: R
-description_main_upper_length_2: RF
-description_main_upper_length_3: RF_
-description_main_upper_length_4: RF_M
-description_main_upper_length_5: RF_MO
-description_main_upper_length_6: RF_MOD
-directory: parts/eda_kicad_footprint_kicad_default_rf_module_taiyo_yuden_eysgjnzwy
 footprint_id: eda_kicad_footprint_kicad_default_rf_module_taiyo_yuden_eysgjnzwy
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -385,67 +308,9 @@ footprint_string:
     Y=2.9, angle=None, unlocked=False), Position(X=7.55, Y=2.9, angle=None, unlocked=False),
     Position(X=7.55, Y=5.65, angle=None, unlocked=False), Position(X=-7.55, Y=5.65,
     angle=None, unlocked=False)])], filledPolygons=[], fillSegments=None)]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_rf_module_taiyo_yuden_eysgjnzwy
 id: eda_kicad_footprint_kicad_default_rf_module_taiyo_yuden_eysgjnzwy
-id_no_class: eda_kicad_default_rf_module_taiyo_yuden_eysgjnzwy
-id_no_color: edarfmoduletaiyoyudeneysgjnzwy
-id_no_size: edarfmoduletaiyoyudeneysgjnzwy
-id_no_type: eda_rf_module_taiyo_yuden_eysgjnzwy
 manufacturer: ''
-manufacturer_name: ''
-md5: e218b23d72f9aa6ec5703dd2d71c26cc
-md5_10: e218b23d72
-md5_10_upper: E218B23D72
-md5_5: e218b
-md5_5_upper: E218B
-md5_6: e218b2
-md5_6_alpha: 8tl82
-md5_6_alpha_upper: 8TL82
-md5_6_upper: E218B2
-name: Eda Kicad Footprint Kicad Default Rf Module Taiyo Yuden Eysgjnzwy
-name_no_class: Eda Kicad Default Rf Module Taiyo Yuden Eysgjnzwy
-name_no_color: Edarfmoduletaiyoyudeneysgjnzwy
-name_no_size: Edarfmoduletaiyoyudeneysgjnzwy
-name_no_type: Eda Rf Module Taiyo Yuden Eysgjnzwy
-oomp_key: oomp_eda_kicad_footprint_kicad_default_rf_module_taiyo_yuden_eysgjnzwy
-oomp_word: sailboat hand handbag
-oomp_word_emoji: ':sailboat: :hand: :handbag:'
-oomp_word_emoji_list:
-- ':sailboat:'
-- ':hand:'
-- ':handbag:'
-oomp_word_list:
-- sailboat
-- hand
-- handbag
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

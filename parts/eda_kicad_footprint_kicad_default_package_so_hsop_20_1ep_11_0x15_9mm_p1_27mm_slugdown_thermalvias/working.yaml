@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: hsop_20_1ep_11_0x15_9mm_p1_27mm_slugdown_thermalvias
-description_extra_length_1: h
-description_extra_length_2: hs
-description_extra_length_3: hso
-description_extra_length_4: hsop
-description_extra_length_5: hsop_
-description_extra_length_6: hsop_2
-description_extra_name: Hsop 20 1Ep 11 0X15 9mm P1 27mm Slugdown Thermalvias
-description_extra_no_space_length_1: h
-description_extra_no_space_length_2: hs
-description_extra_no_space_length_3: hso
-description_extra_no_space_length_4: hsop
-description_extra_no_space_length_5: hsop2
-description_extra_no_space_length_6: hsop20
-description_extra_no_space_upper_length_1: H
-description_extra_no_space_upper_length_2: HS
-description_extra_no_space_upper_length_3: HSO
-description_extra_no_space_upper_length_4: HSOP
-description_extra_no_space_upper_length_5: HSOP2
-description_extra_no_space_upper_length_6: HSOP20
-description_extra_upper_length_1: H
-description_extra_upper_length_2: HS
-description_extra_upper_length_3: HSO
-description_extra_upper_length_4: HSOP
-description_extra_upper_length_5: HSOP_
-description_extra_upper_length_6: HSOP_2
 description_main: package_so
-description_main_length_1: p
-description_main_length_2: pa
-description_main_length_3: pac
-description_main_length_4: pack
-description_main_length_5: packa
-description_main_length_6: packag
-description_main_name: Package So
-description_main_no_space_length_1: p
-description_main_no_space_length_2: pa
-description_main_no_space_length_3: pac
-description_main_no_space_length_4: pack
-description_main_no_space_length_5: packa
-description_main_no_space_length_6: packag
-description_main_no_space_upper_length_1: P
-description_main_no_space_upper_length_2: PA
-description_main_no_space_upper_length_3: PAC
-description_main_no_space_upper_length_4: PACK
-description_main_no_space_upper_length_5: PACKA
-description_main_no_space_upper_length_6: PACKAG
-description_main_upper_length_1: P
-description_main_upper_length_2: PA
-description_main_upper_length_3: PAC
-description_main_upper_length_4: PACK
-description_main_upper_length_5: PACKA
-description_main_upper_length_6: PACKAG
-directory: parts/eda_kicad_footprint_kicad_default_package_so_hsop_20_1ep_11_0x15_9mm_p1_27mm_slugdown_thermalvias
 footprint_id: eda_kicad_footprint_kicad_default_package_so_hsop_20_1ep_11_0x15_9mm_p1_27mm_slugdown_thermalvias
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -496,69 +419,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_package_so_hsop_20_1ep_11_0x15_9mm_p1_27mm_slugdown_thermalvias
 id: eda_kicad_footprint_kicad_default_package_so_hsop_20_1ep_11_0x15_9mm_p1_27mm_slugdown_thermalvias
-id_no_class: eda_kicad_default_package_so_hsop_20_1ep_11_0x15_9mm_p1_27mm_slugdown_thermalvias
-id_no_color: edapackagesohsop201ep110x159mmp127mmslugdownthermalvias
-id_no_size: edapackagesohsop201ep110x159mmp127mmslugdownthermalvias
-id_no_type: eda_package_so_hsop_20_1ep_11_0x15_9mm_p1_27mm_slugdown_thermalvias
 manufacturer: ''
-manufacturer_name: ''
-md5: 015cc274815b5abd6d638fb457ffef80
-md5_10: 015cc27481
-md5_10_upper: 015CC27481
-md5_5: 015cc
-md5_5_upper: 015CC
-md5_6: 015cc2
-md5_6_alpha: 1ww2
-md5_6_alpha_upper: 1WW2
-md5_6_upper: 015CC2
-name: Eda Kicad Footprint Kicad Default Package So Hsop 20 1Ep 11 0X15 9mm P1 27mm
-  Slugdown Thermalvias
-name_no_class: Eda Kicad Default Package So Hsop 20 1Ep 11 0X15 9mm P1 27mm Slugdown
-  Thermalvias
-name_no_color: Edapackagesohsop201Ep110X159mmp127mmslugdownthermalvias
-name_no_size: Edapackagesohsop201Ep110X159mmp127mmslugdownthermalvias
-name_no_type: Eda Package So Hsop 20 1Ep 11 0X15 9mm P1 27mm Slugdown Thermalvias
-oomp_key: oomp_eda_kicad_footprint_kicad_default_package_so_hsop_20_1ep_11_0x15_9mm_p1_27mm_slugdown_thermalvias
-oomp_word: smile ox birthday
-oomp_word_emoji: ':smile: :ox: :birthday:'
-oomp_word_emoji_list:
-- ':smile:'
-- ':ox:'
-- ':birthday:'
-oomp_word_list:
-- smile
-- ox
-- birthday
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: sw_e_switch_eg1224_spdt_angled
-description_extra_length_1: s
-description_extra_length_2: sw
-description_extra_length_3: sw_
-description_extra_length_4: sw_e
-description_extra_length_5: sw_e_
-description_extra_length_6: sw_e_s
-description_extra_name: Sw E Switch Eg1224 Spdt Angled
-description_extra_no_space_length_1: s
-description_extra_no_space_length_2: sw
-description_extra_no_space_length_3: swe
-description_extra_no_space_length_4: swes
-description_extra_no_space_length_5: swesw
-description_extra_no_space_length_6: sweswi
-description_extra_no_space_upper_length_1: S
-description_extra_no_space_upper_length_2: SW
-description_extra_no_space_upper_length_3: SWE
-description_extra_no_space_upper_length_4: SWES
-description_extra_no_space_upper_length_5: SWESW
-description_extra_no_space_upper_length_6: SWESWI
-description_extra_upper_length_1: S
-description_extra_upper_length_2: SW
-description_extra_upper_length_3: SW_
-description_extra_upper_length_4: SW_E
-description_extra_upper_length_5: SW_E_
-description_extra_upper_length_6: SW_E_S
 description_main: button_switch_tht
-description_main_length_1: b
-description_main_length_2: bu
-description_main_length_3: but
-description_main_length_4: butt
-description_main_length_5: butto
-description_main_length_6: button
-description_main_name: Button Switch Tht
-description_main_no_space_length_1: b
-description_main_no_space_length_2: bu
-description_main_no_space_length_3: but
-description_main_no_space_length_4: butt
-description_main_no_space_length_5: butto
-description_main_no_space_length_6: button
-description_main_no_space_upper_length_1: B
-description_main_no_space_upper_length_2: BU
-description_main_no_space_upper_length_3: BUT
-description_main_no_space_upper_length_4: BUTT
-description_main_no_space_upper_length_5: BUTTO
-description_main_no_space_upper_length_6: BUTTON
-description_main_upper_length_1: B
-description_main_upper_length_2: BU
-description_main_upper_length_3: BUT
-description_main_upper_length_4: BUTT
-description_main_upper_length_5: BUTTO
-description_main_upper_length_6: BUTTON
-directory: parts/eda_kicad_footprint_kicad_default_button_switch_tht_sw_e_switch_eg1224_spdt_angled
 footprint_id: eda_kicad_footprint_kicad_default_button_switch_tht_sw_e_switch_eg1224_spdt_angled
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -232,68 +155,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_button_switch_tht_sw_e_switch_eg1224_spdt_angled
 id: eda_kicad_footprint_kicad_default_button_switch_tht_sw_e_switch_eg1224_spdt_angled
-id_no_class: eda_kicad_default_button_switch_tht_sw_e_switch_eg1224_spdt_angled
-id_no_color: edabuttonswitchthtsweswitcheg1224spdtangled
-id_no_size: edabuttonswitchthtsweswitcheg1224spdtangled
-id_no_type: eda_button_switch_tht_sw_e_switch_eg1224_spdt_angled
 manufacturer: ''
-manufacturer_name: ''
-md5: 492bb390c56bba843a3f23a371f95fa1
-md5_10: 492bb390c5
-md5_10_upper: 492BB390C5
-md5_5: 492bb
-md5_5_upper: 492BB
-md5_6: 492bb3
-md5_6_alpha: 2us37
-md5_6_alpha_upper: 2US37
-md5_6_upper: 492BB3
-name: Eda Kicad Footprint Kicad Default Button Switch Tht Sw E Switch Eg1224 Spdt
-  Angled
-name_no_class: Eda Kicad Default Button Switch Tht Sw E Switch Eg1224 Spdt Angled
-name_no_color: Edabuttonswitchthtsweswitcheg1224Spdtangled
-name_no_size: Edabuttonswitchthtsweswitcheg1224Spdtangled
-name_no_type: Eda Button Switch Tht Sw E Switch Eg1224 Spdt Angled
-oomp_key: oomp_eda_kicad_footprint_kicad_default_button_switch_tht_sw_e_switch_eg1224_spdt_angled
-oomp_word: hatching_chick cloud eyeglasses
-oomp_word_emoji: ':hatching_chick: :cloud: :eyeglasses:'
-oomp_word_emoji_list:
-- ':hatching_chick:'
-- ':cloud:'
-- ':eyeglasses:'
-oomp_word_list:
-- hatching_chick
-- cloud
-- eyeglasses
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: de114_rs_20
-description_extra_length_1: d
-description_extra_length_2: de
-description_extra_length_3: de1
-description_extra_length_4: de11
-description_extra_length_5: de114
-description_extra_length_6: de114_
-description_extra_name: De114 Rs 20
-description_extra_no_space_length_1: d
-description_extra_no_space_length_2: de
-description_extra_no_space_length_3: de1
-description_extra_no_space_length_4: de11
-description_extra_no_space_length_5: de114
-description_extra_no_space_length_6: de114r
-description_extra_no_space_upper_length_1: D
-description_extra_no_space_upper_length_2: DE
-description_extra_no_space_upper_length_3: DE1
-description_extra_no_space_upper_length_4: DE11
-description_extra_no_space_upper_length_5: DE114
-description_extra_no_space_upper_length_6: DE114R
-description_extra_upper_length_1: D
-description_extra_upper_length_2: DE
-description_extra_upper_length_3: DE1
-description_extra_upper_length_4: DE11
-description_extra_upper_length_5: DE114
-description_extra_upper_length_6: DE114_
 description_main: display_7segment
-description_main_length_1: d
-description_main_length_2: di
-description_main_length_3: dis
-description_main_length_4: disp
-description_main_length_5: displ
-description_main_length_6: displa
-description_main_name: Display 7Segment
-description_main_no_space_length_1: d
-description_main_no_space_length_2: di
-description_main_no_space_length_3: dis
-description_main_no_space_length_4: disp
-description_main_no_space_length_5: displ
-description_main_no_space_length_6: displa
-description_main_no_space_upper_length_1: D
-description_main_no_space_upper_length_2: DI
-description_main_no_space_upper_length_3: DIS
-description_main_no_space_upper_length_4: DISP
-description_main_no_space_upper_length_5: DISPL
-description_main_no_space_upper_length_6: DISPLA
-description_main_upper_length_1: D
-description_main_upper_length_2: DI
-description_main_upper_length_3: DIS
-description_main_upper_length_4: DISP
-description_main_upper_length_5: DISPL
-description_main_upper_length_6: DISPLA
-directory: parts/eda_kicad_footprint_kicad_default_display_7segment_de114_rs_20
 footprint_id: eda_kicad_footprint_kicad_default_display_7segment_de114_rs_20
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -481,67 +404,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_display_7segment_de114_rs_20
 id: eda_kicad_footprint_kicad_default_display_7segment_de114_rs_20
-id_no_class: eda_kicad_default_display_7segment_de114_rs_20
-id_no_color: edadisplay7segmentde114rs20
-id_no_size: edadisplay7segmentde114rs20
-id_no_type: eda_display_7segment_de114_rs_20
 manufacturer: ''
-manufacturer_name: ''
-md5: b32505f2fdcc9b54ccac1bfce5549712
-md5_10: b32505f2fd
-md5_10_upper: B32505F2FD
-md5_5: b3250
-md5_5_upper: B3250
-md5_6: b32505
-md5_6_alpha: 6zmyt
-md5_6_alpha_upper: 6ZMYT
-md5_6_upper: B32505
-name: Eda Kicad Footprint Kicad Default Display 7Segment De114 Rs 20
-name_no_class: Eda Kicad Default Display 7Segment De114 Rs 20
-name_no_color: Edadisplay7Segmentde114Rs20
-name_no_size: Edadisplay7Segmentde114Rs20
-name_no_type: Eda Display 7Segment De114 Rs 20
-oomp_key: oomp_eda_kicad_footprint_kicad_default_display_7segment_de114_rs_20
-oomp_word: eyeglasses ear kissing
-oomp_word_emoji: ':eyeglasses: :ear: :kissing:'
-oomp_word_emoji_list:
-- ':eyeglasses:'
-- ':ear:'
-- ':kissing:'
-oomp_word_list:
-- eyeglasses
-- ear
-- kissing
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: coilcraft_ma5532_ae_rfid
-description_extra_length_1: c
-description_extra_length_2: co
-description_extra_length_3: coi
-description_extra_length_4: coil
-description_extra_length_5: coilc
-description_extra_length_6: coilcr
-description_extra_name: Coilcraft Ma5532 Ae Rfid
-description_extra_no_space_length_1: c
-description_extra_no_space_length_2: co
-description_extra_no_space_length_3: coi
-description_extra_no_space_length_4: coil
-description_extra_no_space_length_5: coilc
-description_extra_no_space_length_6: coilcr
-description_extra_no_space_upper_length_1: C
-description_extra_no_space_upper_length_2: CO
-description_extra_no_space_upper_length_3: COI
-description_extra_no_space_upper_length_4: COIL
-description_extra_no_space_upper_length_5: COILC
-description_extra_no_space_upper_length_6: COILCR
-description_extra_upper_length_1: C
-description_extra_upper_length_2: CO
-description_extra_upper_length_3: COI
-description_extra_upper_length_4: COIL
-description_extra_upper_length_5: COILC
-description_extra_upper_length_6: COILCR
 description_main: rf_antenna
-description_main_length_1: r
-description_main_length_2: rf
-description_main_length_3: rf_
-description_main_length_4: rf_a
-description_main_length_5: rf_an
-description_main_length_6: rf_ant
-description_main_name: Rf Antenna
-description_main_no_space_length_1: r
-description_main_no_space_length_2: rf
-description_main_no_space_length_3: rfa
-description_main_no_space_length_4: rfan
-description_main_no_space_length_5: rfant
-description_main_no_space_length_6: rfante
-description_main_no_space_upper_length_1: R
-description_main_no_space_upper_length_2: RF
-description_main_no_space_upper_length_3: RFA
-description_main_no_space_upper_length_4: RFAN
-description_main_no_space_upper_length_5: RFANT
-description_main_no_space_upper_length_6: RFANTE
-description_main_upper_length_1: R
-description_main_upper_length_2: RF
-description_main_upper_length_3: RF_
-description_main_upper_length_4: RF_A
-description_main_upper_length_5: RF_AN
-description_main_upper_length_6: RF_ANT
-directory: parts/eda_kicad_footprint_kicad_default_rf_antenna_coilcraft_ma5532_ae_rfid
 footprint_id: eda_kicad_footprint_kicad_default_rf_antenna_coilcraft_ma5532_ae_rfid
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -165,67 +88,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_rf_antenna_coilcraft_ma5532_ae_rfid
 id: eda_kicad_footprint_kicad_default_rf_antenna_coilcraft_ma5532_ae_rfid
-id_no_class: eda_kicad_default_rf_antenna_coilcraft_ma5532_ae_rfid
-id_no_color: edarfantennacoilcraftma5532aerfid
-id_no_size: edarfantennacoilcraftma5532aerfid
-id_no_type: eda_rf_antenna_coilcraft_ma5532_ae_rfid
 manufacturer: ''
-manufacturer_name: ''
-md5: 58457a0cf129b23fd6955d1e677d3346
-md5_10: 58457a0cf1
-md5_10_upper: 58457A0CF1
-md5_5: '58457'
-md5_5_upper: '58457'
-md5_6: 58457a
-md5_6_alpha: 3fzp6
-md5_6_alpha_upper: 3FZP6
-md5_6_upper: 58457A
-name: Eda Kicad Footprint Kicad Default Rf Antenna Coilcraft Ma5532 Ae Rfid
-name_no_class: Eda Kicad Default Rf Antenna Coilcraft Ma5532 Ae Rfid
-name_no_color: Edarfantennacoilcraftma5532Aerfid
-name_no_size: Edarfantennacoilcraftma5532Aerfid
-name_no_type: Eda Rf Antenna Coilcraft Ma5532 Ae Rfid
-oomp_key: oomp_eda_kicad_footprint_kicad_default_rf_antenna_coilcraft_ma5532_ae_rfid
-oomp_word: water_buffalo snake camera
-oomp_word_emoji: ':water_buffalo: :snake: :camera:'
-oomp_word_emoji_list:
-- ':water_buffalo:'
-- ':snake:'
-- ':camera:'
-oomp_word_list:
-- water_buffalo
-- snake
-- camera
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

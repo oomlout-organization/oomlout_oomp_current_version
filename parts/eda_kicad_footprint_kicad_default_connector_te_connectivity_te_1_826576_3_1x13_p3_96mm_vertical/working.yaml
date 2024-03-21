@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: te_1_826576_3_1x13_p3_96mm_vertical
-description_extra_length_1: t
-description_extra_length_2: te
-description_extra_length_3: te_
-description_extra_length_4: te_1
-description_extra_length_5: te_1_
-description_extra_length_6: te_1_8
-description_extra_name: Te 1 826576 3 1X13 P3 96mm Vertical
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: te
-description_extra_no_space_length_3: te1
-description_extra_no_space_length_4: te18
-description_extra_no_space_length_5: te182
-description_extra_no_space_length_6: te1826
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TE
-description_extra_no_space_upper_length_3: TE1
-description_extra_no_space_upper_length_4: TE18
-description_extra_no_space_upper_length_5: TE182
-description_extra_no_space_upper_length_6: TE1826
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TE
-description_extra_upper_length_3: TE_
-description_extra_upper_length_4: TE_1
-description_extra_upper_length_5: TE_1_
-description_extra_upper_length_6: TE_1_8
 description_main: connector_te_connectivity
-description_main_length_1: c
-description_main_length_2: co
-description_main_length_3: con
-description_main_length_4: conn
-description_main_length_5: conne
-description_main_length_6: connec
-description_main_name: Connector Te Connectivity
-description_main_no_space_length_1: c
-description_main_no_space_length_2: co
-description_main_no_space_length_3: con
-description_main_no_space_length_4: conn
-description_main_no_space_length_5: conne
-description_main_no_space_length_6: connec
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CO
-description_main_no_space_upper_length_3: CON
-description_main_no_space_upper_length_4: CONN
-description_main_no_space_upper_length_5: CONNE
-description_main_no_space_upper_length_6: CONNEC
-description_main_upper_length_1: C
-description_main_upper_length_2: CO
-description_main_upper_length_3: CON
-description_main_upper_length_4: CONN
-description_main_upper_length_5: CONNE
-description_main_upper_length_6: CONNEC
-directory: parts/eda_kicad_footprint_kicad_default_connector_te_connectivity_te_1_826576_3_1x13_p3_96mm_vertical
 footprint_id: eda_kicad_footprint_kicad_default_connector_te_connectivity_te_1_826576_3_1x13_p3_96mm_vertical
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -276,69 +199,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_connector_te_connectivity_te_1_826576_3_1x13_p3_96mm_vertical
 id: eda_kicad_footprint_kicad_default_connector_te_connectivity_te_1_826576_3_1x13_p3_96mm_vertical
-id_no_class: eda_kicad_default_connector_te_connectivity_te_1_826576_3_1x13_p3_96mm_vertical
-id_no_color: edaconnectorteconnectivityte182657631x13p396mmvertical
-id_no_size: edaconnectorteconnectivityte182657631x13p396mmvertical
-id_no_type: eda_connector_te_connectivity_te_1_826576_3_1x13_p3_96mm_vertical
 manufacturer: ''
-manufacturer_name: ''
-md5: fbb88fe40257a0aeb49e9a8438dec796
-md5_10: fbb88fe402
-md5_10_upper: FBB88FE402
-md5_5: fbb88
-md5_5_upper: FBB88
-md5_6: fbb88f
-md5_6_alpha: 9tkzz
-md5_6_alpha_upper: 9TKZZ
-md5_6_upper: FBB88F
-name: Eda Kicad Footprint Kicad Default Connector Te Connectivity Te 1 826576 3 1X13
-  P3 96mm Vertical
-name_no_class: Eda Kicad Default Connector Te Connectivity Te 1 826576 3 1X13 P3 96mm
-  Vertical
-name_no_color: Edaconnectorteconnectivityte182657631X13P396mmvertical
-name_no_size: Edaconnectorteconnectivityte182657631X13P396mmvertical
-name_no_type: Eda Connector Te Connectivity Te 1 826576 3 1X13 P3 96mm Vertical
-oomp_key: oomp_eda_kicad_footprint_kicad_default_connector_te_connectivity_te_1_826576_3_1x13_p3_96mm_vertical
-oomp_word: ok hamburger calendar
-oomp_word_emoji: ':ok: :hamburger: :calendar:'
-oomp_word_emoji_list:
-- ':ok:'
-- ':hamburger:'
-- ':calendar:'
-oomp_word_list:
-- ok
-- hamburger
-- calendar
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: knowles_lga_6_4_72x3_76mm
-description_extra_length_1: k
-description_extra_length_2: kn
-description_extra_length_3: kno
-description_extra_length_4: know
-description_extra_length_5: knowl
-description_extra_length_6: knowle
-description_extra_name: Knowles Lga 6 4 72X3 76mm
-description_extra_no_space_length_1: k
-description_extra_no_space_length_2: kn
-description_extra_no_space_length_3: kno
-description_extra_no_space_length_4: know
-description_extra_no_space_length_5: knowl
-description_extra_no_space_length_6: knowle
-description_extra_no_space_upper_length_1: K
-description_extra_no_space_upper_length_2: KN
-description_extra_no_space_upper_length_3: KNO
-description_extra_no_space_upper_length_4: KNOW
-description_extra_no_space_upper_length_5: KNOWL
-description_extra_no_space_upper_length_6: KNOWLE
-description_extra_upper_length_1: K
-description_extra_upper_length_2: KN
-description_extra_upper_length_3: KNO
-description_extra_upper_length_4: KNOW
-description_extra_upper_length_5: KNOWL
-description_extra_upper_length_6: KNOWLE
 description_main: sensor_audio
-description_main_length_1: s
-description_main_length_2: se
-description_main_length_3: sen
-description_main_length_4: sens
-description_main_length_5: senso
-description_main_length_6: sensor
-description_main_name: Sensor Audio
-description_main_no_space_length_1: s
-description_main_no_space_length_2: se
-description_main_no_space_length_3: sen
-description_main_no_space_length_4: sens
-description_main_no_space_length_5: senso
-description_main_no_space_length_6: sensor
-description_main_no_space_upper_length_1: S
-description_main_no_space_upper_length_2: SE
-description_main_no_space_upper_length_3: SEN
-description_main_no_space_upper_length_4: SENS
-description_main_no_space_upper_length_5: SENSO
-description_main_no_space_upper_length_6: SENSOR
-description_main_upper_length_1: S
-description_main_upper_length_2: SE
-description_main_upper_length_3: SEN
-description_main_upper_length_4: SENS
-description_main_upper_length_5: SENSO
-description_main_upper_length_6: SENSOR
-directory: parts/eda_kicad_footprint_kicad_default_sensor_audio_knowles_lga_6_4_72x3_76mm
 footprint_id: eda_kicad_footprint_kicad_default_sensor_audio_knowles_lga_6_4_72x3_76mm
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -227,67 +150,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_sensor_audio_knowles_lga_6_4_72x3_76mm
 id: eda_kicad_footprint_kicad_default_sensor_audio_knowles_lga_6_4_72x3_76mm
-id_no_class: eda_kicad_default_sensor_audio_knowles_lga_6_4_72x3_76mm
-id_no_color: edasensoraudioknowleslga6472x376mm
-id_no_size: edasensoraudioknowleslga6472x376mm
-id_no_type: eda_sensor_audio_knowles_lga_6_4_72x3_76mm
 manufacturer: ''
-manufacturer_name: ''
-md5: e4ae05014a2f27fa9a42bee5c0055da0
-md5_10: e4ae05014a
-md5_10_upper: E4AE05014A
-md5_5: e4ae0
-md5_5_upper: E4AE0
-md5_6: e4ae05
-md5_6_alpha: 8x7ut
-md5_6_alpha_upper: 8X7UT
-md5_6_upper: E4AE05
-name: Eda Kicad Footprint Kicad Default Sensor Audio Knowles Lga 6 4 72X3 76mm
-name_no_class: Eda Kicad Default Sensor Audio Knowles Lga 6 4 72X3 76mm
-name_no_color: Edasensoraudioknowleslga6472X376mm
-name_no_size: Edasensoraudioknowleslga6472X376mm
-name_no_type: Eda Sensor Audio Knowles Lga 6 4 72X3 76mm
-oomp_key: oomp_eda_kicad_footprint_kicad_default_sensor_audio_knowles_lga_6_4_72x3_76mm
-oomp_word: anchor jeans kissing
-oomp_word_emoji: ':anchor: :jeans: :kissing:'
-oomp_word_emoji_list:
-- ':anchor:'
-- ':jeans:'
-- ':kissing:'
-oomp_word_list:
-- anchor
-- jeans
-- kissing
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

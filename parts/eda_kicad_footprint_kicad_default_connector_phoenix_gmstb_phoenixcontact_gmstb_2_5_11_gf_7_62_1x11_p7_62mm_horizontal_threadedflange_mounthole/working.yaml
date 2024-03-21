@@ -1,86 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: phoenixcontact_gmstb_2_5_11_gf_7_62_1x11_p7_62mm_horizontal_threadedflange_mounthole
-description_extra_length_1: p
-description_extra_length_2: ph
-description_extra_length_3: pho
-description_extra_length_4: phoe
-description_extra_length_5: phoen
-description_extra_length_6: phoeni
-description_extra_name: Phoenixcontact Gmstb 2 5 11 Gf 7 62 1X11 P7 62mm Horizontal
-  Threadedflange Mounthole
-description_extra_no_space_length_1: p
-description_extra_no_space_length_2: ph
-description_extra_no_space_length_3: pho
-description_extra_no_space_length_4: phoe
-description_extra_no_space_length_5: phoen
-description_extra_no_space_length_6: phoeni
-description_extra_no_space_upper_length_1: P
-description_extra_no_space_upper_length_2: PH
-description_extra_no_space_upper_length_3: PHO
-description_extra_no_space_upper_length_4: PHOE
-description_extra_no_space_upper_length_5: PHOEN
-description_extra_no_space_upper_length_6: PHOENI
-description_extra_upper_length_1: P
-description_extra_upper_length_2: PH
-description_extra_upper_length_3: PHO
-description_extra_upper_length_4: PHOE
-description_extra_upper_length_5: PHOEN
-description_extra_upper_length_6: PHOENI
 description_main: connector_phoenix_gmstb
-description_main_length_1: c
-description_main_length_2: co
-description_main_length_3: con
-description_main_length_4: conn
-description_main_length_5: conne
-description_main_length_6: connec
-description_main_name: Connector Phoenix Gmstb
-description_main_no_space_length_1: c
-description_main_no_space_length_2: co
-description_main_no_space_length_3: con
-description_main_no_space_length_4: conn
-description_main_no_space_length_5: conne
-description_main_no_space_length_6: connec
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CO
-description_main_no_space_upper_length_3: CON
-description_main_no_space_upper_length_4: CONN
-description_main_no_space_upper_length_5: CONNE
-description_main_no_space_upper_length_6: CONNEC
-description_main_upper_length_1: C
-description_main_upper_length_2: CO
-description_main_upper_length_3: CON
-description_main_upper_length_4: CONN
-description_main_upper_length_5: CONNE
-description_main_upper_length_6: CONNEC
-directory: parts/eda_kicad_footprint_kicad_default_connector_phoenix_gmstb_phoenixcontact_gmstb_2_5_11_gf_7_62_1x11_p7_62mm_horizontal_threadedflange_mounthole
 footprint_id: eda_kicad_footprint_kicad_default_connector_phoenix_gmstb_phoenixcontact_gmstb_2_5_11_gf_7_62_1x11_p7_62mm_horizontal_threadedflange_mounthole
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -453,70 +375,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_connector_phoenix_gmstb_phoenixcontact_gmstb_2_5_11_gf_7_62_1x11_p7_62mm_horizontal_threadedflange_mounthole
 id: eda_kicad_footprint_kicad_default_connector_phoenix_gmstb_phoenixcontact_gmstb_2_5_11_gf_7_62_1x11_p7_62mm_horizontal_threadedflange_mounthole
-id_no_class: eda_kicad_default_connector_phoenix_gmstb_phoenixcontact_gmstb_2_5_11_gf_7_62_1x11_p7_62mm_horizontal_threadedflange_mounthole
-id_no_color: edaconnectorphoenixgmstbphoenixcontactgmstb2511gf7621x11p762mmhorizontalthreadedflangemounthole
-id_no_size: edaconnectorphoenixgmstbphoenixcontactgmstb2511gf7621x11p762mmhorizontalthreadedflangemounthole
-id_no_type: eda_connector_phoenix_gmstb_phoenixcontact_gmstb_2_5_11_gf_7_62_1x11_p7_62mm_horizontal_threadedflange_mounthole
 manufacturer: ''
-manufacturer_name: ''
-md5: d6ea08fa4e51946d04112ce5decf0b31
-md5_10: d6ea08fa4e
-md5_10_upper: D6EA08FA4E
-md5_5: d6ea0
-md5_5_upper: D6EA0
-md5_6: d6ea08
-md5_6_alpha: 8dvrc
-md5_6_alpha_upper: 8DVRC
-md5_6_upper: D6EA08
-name: Eda Kicad Footprint Kicad Default Connector Phoenix Gmstb Phoenixcontact Gmstb
-  2 5 11 Gf 7 62 1X11 P7 62mm Horizontal Threadedflange Mounthole
-name_no_class: Eda Kicad Default Connector Phoenix Gmstb Phoenixcontact Gmstb 2 5
-  11 Gf 7 62 1X11 P7 62mm Horizontal Threadedflange Mounthole
-name_no_color: Edaconnectorphoenixgmstbphoenixcontactgmstb2511Gf7621X11P762mmhorizontalthreadedflangemounthole
-name_no_size: Edaconnectorphoenixgmstbphoenixcontactgmstb2511Gf7621X11P762mmhorizontalthreadedflangemounthole
-name_no_type: Eda Connector Phoenix Gmstb Phoenixcontact Gmstb 2 5 11 Gf 7 62 1X11
-  P7 62mm Horizontal Threadedflange Mounthole
-oomp_key: oomp_eda_kicad_footprint_kicad_default_connector_phoenix_gmstb_phoenixcontact_gmstb_2_5_11_gf_7_62_1x11_p7_62mm_horizontal_threadedflange_mounthole
-oomp_word: school tractor scream
-oomp_word_emoji: ':school: :tractor: :scream:'
-oomp_word_emoji_list:
-- ':school:'
-- ':tractor:'
-- ':scream:'
-oomp_word_list:
-- school
-- tractor
-- scream
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

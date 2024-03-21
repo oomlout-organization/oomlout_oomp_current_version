@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: usb_a_molex_67643_horizontal
-description_extra_length_1: u
-description_extra_length_2: us
-description_extra_length_3: usb
-description_extra_length_4: usb_
-description_extra_length_5: usb_a
-description_extra_length_6: usb_a_
-description_extra_name: USB A Molex 67643 Horizontal
-description_extra_no_space_length_1: u
-description_extra_no_space_length_2: us
-description_extra_no_space_length_3: usb
-description_extra_no_space_length_4: usba
-description_extra_no_space_length_5: usbam
-description_extra_no_space_length_6: usbamo
-description_extra_no_space_upper_length_1: U
-description_extra_no_space_upper_length_2: US
-description_extra_no_space_upper_length_3: USB
-description_extra_no_space_upper_length_4: USBA
-description_extra_no_space_upper_length_5: USBAM
-description_extra_no_space_upper_length_6: USBAMO
-description_extra_upper_length_1: U
-description_extra_upper_length_2: US
-description_extra_upper_length_3: USB
-description_extra_upper_length_4: USB_
-description_extra_upper_length_5: USB_A
-description_extra_upper_length_6: USB_A_
 description_main: connector_usb
-description_main_length_1: c
-description_main_length_2: co
-description_main_length_3: con
-description_main_length_4: conn
-description_main_length_5: conne
-description_main_length_6: connec
-description_main_name: Connector USB
-description_main_no_space_length_1: c
-description_main_no_space_length_2: co
-description_main_no_space_length_3: con
-description_main_no_space_length_4: conn
-description_main_no_space_length_5: conne
-description_main_no_space_length_6: connec
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CO
-description_main_no_space_upper_length_3: CON
-description_main_no_space_upper_length_4: CONN
-description_main_no_space_upper_length_5: CONNE
-description_main_no_space_upper_length_6: CONNEC
-description_main_upper_length_1: C
-description_main_upper_length_2: CO
-description_main_upper_length_3: CON
-description_main_upper_length_4: CONN
-description_main_upper_length_5: CONNE
-description_main_upper_length_6: CONNEC
-directory: parts/eda_kicad_footprint_kicad_default_connector_usb_usb_a_molex_67643_horizontal
 footprint_id: eda_kicad_footprint_kicad_default_connector_usb_usb_a_molex_67643_horizontal
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -265,67 +188,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_connector_usb_usb_a_molex_67643_horizontal
 id: eda_kicad_footprint_kicad_default_connector_usb_usb_a_molex_67643_horizontal
-id_no_class: eda_kicad_default_connector_usb_usb_a_molex_67643_horizontal
-id_no_color: edaconnectorusbusbamolex67643horizontal
-id_no_size: edaconnectorusbusbamolex67643horizontal
-id_no_type: eda_connector_usb_usb_a_molex_67643_horizontal
 manufacturer: ''
-manufacturer_name: ''
-md5: 0d88e029d8b0c142dcf56a17f43be087
-md5_10: 0d88e029d8
-md5_10_upper: 0D88E029D8
-md5_5: 0d88e
-md5_5_upper: 0D88E
-md5_6: 0d88e0
-md5_6_alpha: j0f4
-md5_6_alpha_upper: J0F4
-md5_6_upper: 0D88E0
-name: Eda Kicad Footprint Kicad Default Connector USB USB A Molex 67643 Horizontal
-name_no_class: Eda Kicad Default Connector USB USB A Molex 67643 Horizontal
-name_no_color: Edaconnectorusbusbamolex67643Horizontal
-name_no_size: Edaconnectorusbusbamolex67643Horizontal
-name_no_type: Eda Connector USB USB A Molex 67643 Horizontal
-oomp_key: oomp_eda_kicad_footprint_kicad_default_connector_usb_usb_a_molex_67643_horizontal
-oomp_word: heart wrench ship
-oomp_word_emoji: ':heart: :wrench: :ship:'
-oomp_word_emoji_list:
-- ':heart:'
-- ':wrench:'
-- ':ship:'
-oomp_word_list:
-- heart
-- wrench
-- ship
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: wlcsp_4_x1_wlb0909_4_0_89x0_89mm_p0_5mm
-description_extra_length_1: w
-description_extra_length_2: wl
-description_extra_length_3: wlc
-description_extra_length_4: wlcs
-description_extra_length_5: wlcsp
-description_extra_length_6: wlcsp_
-description_extra_name: Wlcsp 4 X1 Wlb0909 4 0 89X0 89mm P0 5mm
-description_extra_no_space_length_1: w
-description_extra_no_space_length_2: wl
-description_extra_no_space_length_3: wlc
-description_extra_no_space_length_4: wlcs
-description_extra_no_space_length_5: wlcsp
-description_extra_no_space_length_6: wlcsp4
-description_extra_no_space_upper_length_1: W
-description_extra_no_space_upper_length_2: WL
-description_extra_no_space_upper_length_3: WLC
-description_extra_no_space_upper_length_4: WLCS
-description_extra_no_space_upper_length_5: WLCSP
-description_extra_no_space_upper_length_6: WLCSP4
-description_extra_upper_length_1: W
-description_extra_upper_length_2: WL
-description_extra_upper_length_3: WLC
-description_extra_upper_length_4: WLCS
-description_extra_upper_length_5: WLCSP
-description_extra_upper_length_6: WLCSP_
 description_main: package_csp
-description_main_length_1: p
-description_main_length_2: pa
-description_main_length_3: pac
-description_main_length_4: pack
-description_main_length_5: packa
-description_main_length_6: packag
-description_main_name: Package Csp
-description_main_no_space_length_1: p
-description_main_no_space_length_2: pa
-description_main_no_space_length_3: pac
-description_main_no_space_length_4: pack
-description_main_no_space_length_5: packa
-description_main_no_space_length_6: packag
-description_main_no_space_upper_length_1: P
-description_main_no_space_upper_length_2: PA
-description_main_no_space_upper_length_3: PAC
-description_main_no_space_upper_length_4: PACK
-description_main_no_space_upper_length_5: PACKA
-description_main_no_space_upper_length_6: PACKAG
-description_main_upper_length_1: P
-description_main_upper_length_2: PA
-description_main_upper_length_3: PAC
-description_main_upper_length_4: PACK
-description_main_upper_length_5: PACKA
-description_main_upper_length_6: PACKAG
-directory: parts/eda_kicad_footprint_kicad_default_package_csp_wlcsp_4_x1_wlb0909_4_0_89x0_89mm_p0_5mm
 footprint_id: eda_kicad_footprint_kicad_default_package_csp_wlcsp_4_x1_wlb0909_4_0_89x0_89mm_p0_5mm
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -189,68 +112,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_package_csp_wlcsp_4_x1_wlb0909_4_0_89x0_89mm_p0_5mm
 id: eda_kicad_footprint_kicad_default_package_csp_wlcsp_4_x1_wlb0909_4_0_89x0_89mm_p0_5mm
-id_no_class: eda_kicad_default_package_csp_wlcsp_4_x1_wlb0909_4_0_89x0_89mm_p0_5mm
-id_no_color: edapackagecspwlcsp4x1wlb09094089x089mmp05mm
-id_no_size: edapackagecspwlcsp4x1wlb09094089x089mmp05mm
-id_no_type: eda_package_csp_wlcsp_4_x1_wlb0909_4_0_89x0_89mm_p0_5mm
 manufacturer: ''
-manufacturer_name: ''
-md5: 6ab226ef48607e5304a706832ca05b1a
-md5_10: 6ab226ef48
-md5_10_upper: 6AB226EF48
-md5_5: 6ab22
-md5_5_upper: 6AB22
-md5_6: 6ab226
-md5_6_alpha: 45vdy
-md5_6_alpha_upper: 45VDY
-md5_6_upper: 6AB226
-name: Eda Kicad Footprint Kicad Default Package Csp Wlcsp 4 X1 Wlb0909 4 0 89X0 89mm
-  P0 5mm
-name_no_class: Eda Kicad Default Package Csp Wlcsp 4 X1 Wlb0909 4 0 89X0 89mm P0 5mm
-name_no_color: Edapackagecspwlcsp4X1Wlb09094089X089mmp05mm
-name_no_size: Edapackagecspwlcsp4X1Wlb09094089X089mmp05mm
-name_no_type: Eda Package Csp Wlcsp 4 X1 Wlb0909 4 0 89X0 89mm P0 5mm
-oomp_key: oomp_eda_kicad_footprint_kicad_default_package_csp_wlcsp_4_x1_wlb0909_4_0_89x0_89mm_p0_5mm
-oomp_word: palm_tree handbag eyes
-oomp_word_emoji: ':palm_tree: :handbag: :eyes:'
-oomp_word_emoji_list:
-- ':palm_tree:'
-- ':handbag:'
-- ':eyes:'
-oomp_word_list:
-- palm_tree
-- handbag
-- eyes
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

@@ -1,86 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: phoenixcontact_mcv_1_5_15_gf_3_81_1x15_p3_81mm_vertical_threadedflange_mounthole
-description_extra_length_1: p
-description_extra_length_2: ph
-description_extra_length_3: pho
-description_extra_length_4: phoe
-description_extra_length_5: phoen
-description_extra_length_6: phoeni
-description_extra_name: Phoenixcontact Mcv 1 5 15 Gf 3 81 1X15 P3 81mm Vertical Threadedflange
-  Mounthole
-description_extra_no_space_length_1: p
-description_extra_no_space_length_2: ph
-description_extra_no_space_length_3: pho
-description_extra_no_space_length_4: phoe
-description_extra_no_space_length_5: phoen
-description_extra_no_space_length_6: phoeni
-description_extra_no_space_upper_length_1: P
-description_extra_no_space_upper_length_2: PH
-description_extra_no_space_upper_length_3: PHO
-description_extra_no_space_upper_length_4: PHOE
-description_extra_no_space_upper_length_5: PHOEN
-description_extra_no_space_upper_length_6: PHOENI
-description_extra_upper_length_1: P
-description_extra_upper_length_2: PH
-description_extra_upper_length_3: PHO
-description_extra_upper_length_4: PHOE
-description_extra_upper_length_5: PHOEN
-description_extra_upper_length_6: PHOENI
 description_main: connector_phoenix_mc
-description_main_length_1: c
-description_main_length_2: co
-description_main_length_3: con
-description_main_length_4: conn
-description_main_length_5: conne
-description_main_length_6: connec
-description_main_name: Connector Phoenix Mc
-description_main_no_space_length_1: c
-description_main_no_space_length_2: co
-description_main_no_space_length_3: con
-description_main_no_space_length_4: conn
-description_main_no_space_length_5: conne
-description_main_no_space_length_6: connec
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CO
-description_main_no_space_upper_length_3: CON
-description_main_no_space_upper_length_4: CONN
-description_main_no_space_upper_length_5: CONNE
-description_main_no_space_upper_length_6: CONNEC
-description_main_upper_length_1: C
-description_main_upper_length_2: CO
-description_main_upper_length_3: CON
-description_main_upper_length_4: CONN
-description_main_upper_length_5: CONNE
-description_main_upper_length_6: CONNEC
-directory: parts/eda_kicad_footprint_kicad_default_connector_phoenix_mc_phoenixcontact_mcv_1_5_15_gf_3_81_1x15_p3_81mm_vertical_threadedflange_mounthole
 footprint_id: eda_kicad_footprint_kicad_default_connector_phoenix_mc_phoenixcontact_mcv_1_5_15_gf_3_81_1x15_p3_81mm_vertical_threadedflange_mounthole
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -970,70 +892,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_connector_phoenix_mc_phoenixcontact_mcv_1_5_15_gf_3_81_1x15_p3_81mm_vertical_threadedflange_mounthole
 id: eda_kicad_footprint_kicad_default_connector_phoenix_mc_phoenixcontact_mcv_1_5_15_gf_3_81_1x15_p3_81mm_vertical_threadedflange_mounthole
-id_no_class: eda_kicad_default_connector_phoenix_mc_phoenixcontact_mcv_1_5_15_gf_3_81_1x15_p3_81mm_vertical_threadedflange_mounthole
-id_no_color: edaconnectorphoenixmcphoenixcontactmcv1515gf3811x15p381mmverticalthreadedflangemounthole
-id_no_size: edaconnectorphoenixmcphoenixcontactmcv1515gf3811x15p381mmverticalthreadedflangemounthole
-id_no_type: eda_connector_phoenix_mc_phoenixcontact_mcv_1_5_15_gf_3_81_1x15_p3_81mm_vertical_threadedflange_mounthole
 manufacturer: ''
-manufacturer_name: ''
-md5: a21db0594bcff569b18c8ff562129e7b
-md5_10: a21db0594b
-md5_10_upper: A21DB0594B
-md5_5: a21db
-md5_5_upper: A21DB
-md5_6: a21db0
-md5_6_alpha: 6bpv4
-md5_6_alpha_upper: 6BPV4
-md5_6_upper: A21DB0
-name: Eda Kicad Footprint Kicad Default Connector Phoenix Mc Phoenixcontact Mcv 1
-  5 15 Gf 3 81 1X15 P3 81mm Vertical Threadedflange Mounthole
-name_no_class: Eda Kicad Default Connector Phoenix Mc Phoenixcontact Mcv 1 5 15 Gf
-  3 81 1X15 P3 81mm Vertical Threadedflange Mounthole
-name_no_color: Edaconnectorphoenixmcphoenixcontactmcv1515Gf3811X15P381mmverticalthreadedflangemounthole
-name_no_size: Edaconnectorphoenixmcphoenixcontactmcv1515Gf3811X15P381mmverticalthreadedflangemounthole
-name_no_type: Eda Connector Phoenix Mc Phoenixcontact Mcv 1 5 15 Gf 3 81 1X15 P3 81mm
-  Vertical Threadedflange Mounthole
-oomp_key: oomp_eda_kicad_footprint_kicad_default_connector_phoenix_mc_phoenixcontact_mcv_1_5_15_gf_3_81_1x15_p3_81mm_vertical_threadedflange_mounthole
-oomp_word: violin baby crown
-oomp_word_emoji: ':violin: :baby: :crown:'
-oomp_word_emoji_list:
-- ':violin:'
-- ':baby:'
-- ':crown:'
-oomp_word_list:
-- violin
-- baby
-- crown
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: analog_lga_16_3_25x3mm_p0_5mm_layoutborder3x5y
-description_extra_length_1: a
-description_extra_length_2: an
-description_extra_length_3: ana
-description_extra_length_4: anal
-description_extra_length_5: analo
-description_extra_length_6: analog
-description_extra_name: Analog Lga 16 3 25X3mm P0 5mm Layoutborder3X5Y
-description_extra_no_space_length_1: a
-description_extra_no_space_length_2: an
-description_extra_no_space_length_3: ana
-description_extra_no_space_length_4: anal
-description_extra_no_space_length_5: analo
-description_extra_no_space_length_6: analog
-description_extra_no_space_upper_length_1: A
-description_extra_no_space_upper_length_2: AN
-description_extra_no_space_upper_length_3: ANA
-description_extra_no_space_upper_length_4: ANAL
-description_extra_no_space_upper_length_5: ANALO
-description_extra_no_space_upper_length_6: ANALOG
-description_extra_upper_length_1: A
-description_extra_upper_length_2: AN
-description_extra_upper_length_3: ANA
-description_extra_upper_length_4: ANAL
-description_extra_upper_length_5: ANALO
-description_extra_upper_length_6: ANALOG
 description_main: sensor_motion
-description_main_length_1: s
-description_main_length_2: se
-description_main_length_3: sen
-description_main_length_4: sens
-description_main_length_5: senso
-description_main_length_6: sensor
-description_main_name: Sensor Motion
-description_main_no_space_length_1: s
-description_main_no_space_length_2: se
-description_main_no_space_length_3: sen
-description_main_no_space_length_4: sens
-description_main_no_space_length_5: senso
-description_main_no_space_length_6: sensor
-description_main_no_space_upper_length_1: S
-description_main_no_space_upper_length_2: SE
-description_main_no_space_upper_length_3: SEN
-description_main_no_space_upper_length_4: SENS
-description_main_no_space_upper_length_5: SENSO
-description_main_no_space_upper_length_6: SENSOR
-description_main_upper_length_1: S
-description_main_upper_length_2: SE
-description_main_upper_length_3: SEN
-description_main_upper_length_4: SENS
-description_main_upper_length_5: SENSO
-description_main_upper_length_6: SENSOR
-directory: parts/eda_kicad_footprint_kicad_default_sensor_motion_analog_lga_16_3_25x3mm_p0_5mm_layoutborder3x5y
 footprint_id: eda_kicad_footprint_kicad_default_sensor_motion_analog_lga_16_3_25x3mm_p0_5mm_layoutborder3x5y
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -281,68 +204,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_sensor_motion_analog_lga_16_3_25x3mm_p0_5mm_layoutborder3x5y
 id: eda_kicad_footprint_kicad_default_sensor_motion_analog_lga_16_3_25x3mm_p0_5mm_layoutborder3x5y
-id_no_class: eda_kicad_default_sensor_motion_analog_lga_16_3_25x3mm_p0_5mm_layoutborder3x5y
-id_no_color: edasensormotionanaloglga16325x3mmp05mmlayoutborder3x5y
-id_no_size: edasensormotionanaloglga16325x3mmp05mmlayoutborder3x5y
-id_no_type: eda_sensor_motion_analog_lga_16_3_25x3mm_p0_5mm_layoutborder3x5y
 manufacturer: ''
-manufacturer_name: ''
-md5: c08f938d6978c43d97f697961fc0291b
-md5_10: c08f938d69
-md5_10_upper: C08F938D69
-md5_5: c08f9
-md5_5_upper: C08F9
-md5_6: c08f93
-md5_6_alpha: 7iheb
-md5_6_alpha_upper: 7IHEB
-md5_6_upper: C08F93
-name: Eda Kicad Footprint Kicad Default Sensor Motion Analog Lga 16 3 25X3mm P0 5mm
-  Layoutborder3X5Y
-name_no_class: Eda Kicad Default Sensor Motion Analog Lga 16 3 25X3mm P0 5mm Layoutborder3X5Y
-name_no_color: Edasensormotionanaloglga16325X3mmp05mmlayoutborder3X5Y
-name_no_size: Edasensormotionanaloglga16325X3mmp05mmlayoutborder3X5Y
-name_no_type: Eda Sensor Motion Analog Lga 16 3 25X3mm P0 5mm Layoutborder3X5Y
-oomp_key: oomp_eda_kicad_footprint_kicad_default_sensor_motion_analog_lga_16_3_25x3mm_p0_5mm_layoutborder3x5y
-oomp_word: bread calendar books
-oomp_word_emoji: ':bread: :calendar: :books:'
-oomp_word_emoji_list:
-- ':bread:'
-- ':calendar:'
-- ':books:'
-oomp_word_list:
-- bread
-- calendar
-- books
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

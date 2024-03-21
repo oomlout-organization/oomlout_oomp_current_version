@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: abracon_pro_ob_471
-description_extra_length_1: a
-description_extra_length_2: ab
-description_extra_length_3: abr
-description_extra_length_4: abra
-description_extra_length_5: abrac
-description_extra_length_6: abraco
-description_extra_name: Abracon Pro Ob 471
-description_extra_no_space_length_1: a
-description_extra_no_space_length_2: ab
-description_extra_no_space_length_3: abr
-description_extra_no_space_length_4: abra
-description_extra_no_space_length_5: abrac
-description_extra_no_space_length_6: abraco
-description_extra_no_space_upper_length_1: A
-description_extra_no_space_upper_length_2: AB
-description_extra_no_space_upper_length_3: ABR
-description_extra_no_space_upper_length_4: ABRA
-description_extra_no_space_upper_length_5: ABRAC
-description_extra_no_space_upper_length_6: ABRACO
-description_extra_upper_length_1: A
-description_extra_upper_length_2: AB
-description_extra_upper_length_3: ABR
-description_extra_upper_length_4: ABRA
-description_extra_upper_length_5: ABRAC
-description_extra_upper_length_6: ABRACO
 description_main: rf_antenna
-description_main_length_1: r
-description_main_length_2: rf
-description_main_length_3: rf_
-description_main_length_4: rf_a
-description_main_length_5: rf_an
-description_main_length_6: rf_ant
-description_main_name: Rf Antenna
-description_main_no_space_length_1: r
-description_main_no_space_length_2: rf
-description_main_no_space_length_3: rfa
-description_main_no_space_length_4: rfan
-description_main_no_space_length_5: rfant
-description_main_no_space_length_6: rfante
-description_main_no_space_upper_length_1: R
-description_main_no_space_upper_length_2: RF
-description_main_no_space_upper_length_3: RFA
-description_main_no_space_upper_length_4: RFAN
-description_main_no_space_upper_length_5: RFANT
-description_main_no_space_upper_length_6: RFANTE
-description_main_upper_length_1: R
-description_main_upper_length_2: RF
-description_main_upper_length_3: RF_
-description_main_upper_length_4: RF_A
-description_main_upper_length_5: RF_AN
-description_main_upper_length_6: RF_ANT
-directory: parts/eda_kicad_footprint_kicad_default_rf_antenna_abracon_pro_ob_471
 footprint_id: eda_kicad_footprint_kicad_default_rf_antenna_abracon_pro_ob_471
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -398,67 +321,9 @@ footprint_string:
     Y=7.3, angle=None, unlocked=False), Position(X=10.05, Y=7.3, angle=None, unlocked=False),
     Position(X=10.05, Y=2.5, angle=None, unlocked=False), Position(X=13.95, Y=2.5,
     angle=None, unlocked=False)])], filledPolygons=[], fillSegments=None)]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_rf_antenna_abracon_pro_ob_471
 id: eda_kicad_footprint_kicad_default_rf_antenna_abracon_pro_ob_471
-id_no_class: eda_kicad_default_rf_antenna_abracon_pro_ob_471
-id_no_color: edarfantennaabraconproob471
-id_no_size: edarfantennaabraconproob471
-id_no_type: eda_rf_antenna_abracon_pro_ob_471
 manufacturer: ''
-manufacturer_name: ''
-md5: bfb83116319fd64230f4e01b98585a72
-md5_10: bfb8311631
-md5_10_upper: BFB8311631
-md5_5: bfb83
-md5_5_upper: BFB83
-md5_6: bfb831
-md5_6_alpha: 7haup
-md5_6_alpha_upper: 7HAUP
-md5_6_upper: BFB831
-name: Eda Kicad Footprint Kicad Default Rf Antenna Abracon Pro Ob 471
-name_no_class: Eda Kicad Default Rf Antenna Abracon Pro Ob 471
-name_no_color: Edarfantennaabraconproob471
-name_no_size: Edarfantennaabraconproob471
-name_no_type: Eda Rf Antenna Abracon Pro Ob 471
-oomp_key: oomp_eda_kicad_footprint_kicad_default_rf_antenna_abracon_pro_ob_471
-oomp_word: egg hamburger ocean
-oomp_word_emoji: ':egg: :hamburger: :ocean:'
-oomp_word_emoji_list:
-- ':egg:'
-- ':hamburger:'
-- ':ocean:'
-oomp_word_list:
-- egg
-- hamburger
-- ocean
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

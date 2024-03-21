@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: oscillator_smd_fordahl_dfas7_4pin_19_9x12_9mm
-description_extra_length_1: o
-description_extra_length_2: os
-description_extra_length_3: osc
-description_extra_length_4: osci
-description_extra_length_5: oscil
-description_extra_length_6: oscill
-description_extra_name: Oscillator SMD Fordahl Dfas7 4Pin 19 9X12 9mm
-description_extra_no_space_length_1: o
-description_extra_no_space_length_2: os
-description_extra_no_space_length_3: osc
-description_extra_no_space_length_4: osci
-description_extra_no_space_length_5: oscil
-description_extra_no_space_length_6: oscill
-description_extra_no_space_upper_length_1: O
-description_extra_no_space_upper_length_2: OS
-description_extra_no_space_upper_length_3: OSC
-description_extra_no_space_upper_length_4: OSCI
-description_extra_no_space_upper_length_5: OSCIL
-description_extra_no_space_upper_length_6: OSCILL
-description_extra_upper_length_1: O
-description_extra_upper_length_2: OS
-description_extra_upper_length_3: OSC
-description_extra_upper_length_4: OSCI
-description_extra_upper_length_5: OSCIL
-description_extra_upper_length_6: OSCILL
 description_main: oscillator
-description_main_length_1: o
-description_main_length_2: os
-description_main_length_3: osc
-description_main_length_4: osci
-description_main_length_5: oscil
-description_main_length_6: oscill
-description_main_name: Oscillator
-description_main_no_space_length_1: o
-description_main_no_space_length_2: os
-description_main_no_space_length_3: osc
-description_main_no_space_length_4: osci
-description_main_no_space_length_5: oscil
-description_main_no_space_length_6: oscill
-description_main_no_space_upper_length_1: O
-description_main_no_space_upper_length_2: OS
-description_main_no_space_upper_length_3: OSC
-description_main_no_space_upper_length_4: OSCI
-description_main_no_space_upper_length_5: OSCIL
-description_main_no_space_upper_length_6: OSCILL
-description_main_upper_length_1: O
-description_main_upper_length_2: OS
-description_main_upper_length_3: OSC
-description_main_upper_length_4: OSCI
-description_main_upper_length_5: OSCIL
-description_main_upper_length_6: OSCILL
-directory: parts/eda_kicad_footprint_kicad_default_oscillator_oscillator_smd_fordahl_dfas7_4pin_19_9x12_9mm
 footprint_id: eda_kicad_footprint_kicad_default_oscillator_oscillator_smd_fordahl_dfas7_4pin_19_9x12_9mm
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -226,69 +149,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_oscillator_oscillator_smd_fordahl_dfas7_4pin_19_9x12_9mm
 id: eda_kicad_footprint_kicad_default_oscillator_oscillator_smd_fordahl_dfas7_4pin_19_9x12_9mm
-id_no_class: eda_kicad_default_oscillator_oscillator_smd_fordahl_dfas7_4pin_19_9x12_9mm
-id_no_color: edaoscillatoroscillatorsmdfordahldfas74pin199x129mm
-id_no_size: edaoscillatoroscillatorsmdfordahldfas74pin199x129mm
-id_no_type: eda_oscillator_oscillator_smd_fordahl_dfas7_4pin_19_9x12_9mm
 manufacturer: ''
-manufacturer_name: ''
-md5: 411ba4f0ea2ff5a31e83be914037b71f
-md5_10: 411ba4f0ea
-md5_10_upper: 411BA4F0EA
-md5_5: 411ba
-md5_5_upper: 411BA
-md5_6: 411ba4
-md5_6_alpha: 2jgdg
-md5_6_alpha_upper: 2JGDG
-md5_6_upper: 411BA4
-name: Eda Kicad Footprint Kicad Default Oscillator Oscillator SMD Fordahl Dfas7 4Pin
-  19 9X12 9mm
-name_no_class: Eda Kicad Default Oscillator Oscillator SMD Fordahl Dfas7 4Pin 19 9X12
-  9mm
-name_no_color: Edaoscillatoroscillatorsmdfordahldfas74Pin199X129mm
-name_no_size: Edaoscillatoroscillatorsmdfordahldfas74Pin199X129mm
-name_no_type: Eda Oscillator Oscillator SMD Fordahl Dfas7 4Pin 19 9X12 9mm
-oomp_key: oomp_eda_kicad_footprint_kicad_default_oscillator_oscillator_smd_fordahl_dfas7_4pin_19_9x12_9mm
-oomp_word: camel muscle book
-oomp_word_emoji: ':camel: :muscle: :book:'
-oomp_word_emoji_list:
-- ':camel:'
-- ':muscle:'
-- ':book:'
-oomp_word_list:
-- camel
-- muscle
-- book
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: quectel_bg96
-description_extra_length_1: q
-description_extra_length_2: qu
-description_extra_length_3: que
-description_extra_length_4: quec
-description_extra_length_5: quect
-description_extra_length_6: quecte
-description_extra_name: Quectel Bg96
-description_extra_no_space_length_1: q
-description_extra_no_space_length_2: qu
-description_extra_no_space_length_3: que
-description_extra_no_space_length_4: quec
-description_extra_no_space_length_5: quect
-description_extra_no_space_length_6: quecte
-description_extra_no_space_upper_length_1: Q
-description_extra_no_space_upper_length_2: QU
-description_extra_no_space_upper_length_3: QUE
-description_extra_no_space_upper_length_4: QUEC
-description_extra_no_space_upper_length_5: QUECT
-description_extra_no_space_upper_length_6: QUECTE
-description_extra_upper_length_1: Q
-description_extra_upper_length_2: QU
-description_extra_upper_length_3: QUE
-description_extra_upper_length_4: QUEC
-description_extra_upper_length_5: QUECT
-description_extra_upper_length_6: QUECTE
 description_main: rf_gsm
-description_main_length_1: r
-description_main_length_2: rf
-description_main_length_3: rf_
-description_main_length_4: rf_g
-description_main_length_5: rf_gs
-description_main_length_6: rf_gsm
-description_main_name: Rf Gsm
-description_main_no_space_length_1: r
-description_main_no_space_length_2: rf
-description_main_no_space_length_3: rfg
-description_main_no_space_length_4: rfgs
-description_main_no_space_length_5: rfgsm
-description_main_no_space_length_6: rfgsm
-description_main_no_space_upper_length_1: R
-description_main_no_space_upper_length_2: RF
-description_main_no_space_upper_length_3: RFG
-description_main_no_space_upper_length_4: RFGS
-description_main_no_space_upper_length_5: RFGSM
-description_main_no_space_upper_length_6: RFGSM
-description_main_upper_length_1: R
-description_main_upper_length_2: RF
-description_main_upper_length_3: RF_
-description_main_upper_length_4: RF_G
-description_main_upper_length_5: RF_GS
-description_main_upper_length_6: RF_GSM
-directory: parts/eda_kicad_footprint_kicad_default_rf_gsm_quectel_bg96
 footprint_id: eda_kicad_footprint_kicad_default_rf_gsm_quectel_bg96
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -1585,67 +1508,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_rf_gsm_quectel_bg96
 id: eda_kicad_footprint_kicad_default_rf_gsm_quectel_bg96
-id_no_class: eda_kicad_default_rf_gsm_quectel_bg96
-id_no_color: edarfgsmquectelbg96
-id_no_size: edarfgsmquectelbg96
-id_no_type: eda_rf_gsm_quectel_bg96
 manufacturer: ''
-manufacturer_name: ''
-md5: dfb06a981e8fb4af26c8ca290295886b
-md5_10: dfb06a981e
-md5_10_upper: DFB06A981E
-md5_5: dfb06
-md5_5_upper: DFB06
-md5_6: dfb06a
-md5_6_alpha: 8q7hm
-md5_6_alpha_upper: 8Q7HM
-md5_6_upper: DFB06A
-name: Eda Kicad Footprint Kicad Default Rf Gsm Quectel Bg96
-name_no_class: Eda Kicad Default Rf Gsm Quectel Bg96
-name_no_color: Edarfgsmquectelbg96
-name_no_size: Edarfgsmquectelbg96
-name_no_type: Eda Rf Gsm Quectel Bg96
-oomp_key: oomp_eda_kicad_footprint_kicad_default_rf_gsm_quectel_bg96
-oomp_word: fountain crown palm_tree
-oomp_word_emoji: ':fountain: :crown: :palm_tree:'
-oomp_word_emoji_list:
-- ':fountain:'
-- ':crown:'
-- ':palm_tree:'
-oomp_word_list:
-- fountain
-- crown
-- palm_tree
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

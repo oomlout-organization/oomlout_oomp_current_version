@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: mmcx_molex_73415_0961_horizontal_1_0mm_pcb
-description_extra_length_1: m
-description_extra_length_2: mm
-description_extra_length_3: mmc
-description_extra_length_4: mmcx
-description_extra_length_5: mmcx_
-description_extra_length_6: mmcx_m
-description_extra_name: mmcx Molex 73415 0961 Horizontal 1 0mm PCB
-description_extra_no_space_length_1: m
-description_extra_no_space_length_2: mm
-description_extra_no_space_length_3: mmc
-description_extra_no_space_length_4: mmcx
-description_extra_no_space_length_5: mmcxm
-description_extra_no_space_length_6: mmcxmo
-description_extra_no_space_upper_length_1: M
-description_extra_no_space_upper_length_2: MM
-description_extra_no_space_upper_length_3: MMC
-description_extra_no_space_upper_length_4: MMCX
-description_extra_no_space_upper_length_5: MMCXM
-description_extra_no_space_upper_length_6: MMCXMO
-description_extra_upper_length_1: M
-description_extra_upper_length_2: MM
-description_extra_upper_length_3: MMC
-description_extra_upper_length_4: MMCX
-description_extra_upper_length_5: MMCX_
-description_extra_upper_length_6: MMCX_M
 description_main: connector_coaxial
-description_main_length_1: c
-description_main_length_2: co
-description_main_length_3: con
-description_main_length_4: conn
-description_main_length_5: conne
-description_main_length_6: connec
-description_main_name: Connector Coaxial
-description_main_no_space_length_1: c
-description_main_no_space_length_2: co
-description_main_no_space_length_3: con
-description_main_no_space_length_4: conn
-description_main_no_space_length_5: conne
-description_main_no_space_length_6: connec
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CO
-description_main_no_space_upper_length_3: CON
-description_main_no_space_upper_length_4: CONN
-description_main_no_space_upper_length_5: CONNE
-description_main_no_space_upper_length_6: CONNEC
-description_main_upper_length_1: C
-description_main_upper_length_2: CO
-description_main_upper_length_3: CON
-description_main_upper_length_4: CONN
-description_main_upper_length_5: CONNE
-description_main_upper_length_6: CONNEC
-directory: parts/eda_kicad_footprint_kicad_default_connector_coaxial_mmcx_molex_73415_0961_horizontal_1_0mm_pcb
 footprint_id: eda_kicad_footprint_kicad_default_connector_coaxial_mmcx_molex_73415_0961_horizontal_1_0mm_pcb
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -204,69 +127,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_connector_coaxial_mmcx_molex_73415_0961_horizontal_1_0mm_pcb
 id: eda_kicad_footprint_kicad_default_connector_coaxial_mmcx_molex_73415_0961_horizontal_1_0mm_pcb
-id_no_class: eda_kicad_default_connector_coaxial_mmcx_molex_73415_0961_horizontal_1_0mm_pcb
-id_no_color: edaconnectorcoaxialmmcxmolex734150961horizontal10mmpcb
-id_no_size: edaconnectorcoaxialmmcxmolex734150961horizontal10mmpcb
-id_no_type: eda_connector_coaxial_mmcx_molex_73415_0961_horizontal_1_0mm_pcb
 manufacturer: ''
-manufacturer_name: ''
-md5: 3aeff726102b9ebedf3130420ce8e117
-md5_10: 3aeff72610
-md5_10_upper: 3AEFF72610
-md5_5: 3aeff
-md5_5_upper: 3AEFF
-md5_6: 3aeff7
-md5_6_alpha: 2asc7
-md5_6_alpha_upper: 2ASC7
-md5_6_upper: 3AEFF7
-name: Eda Kicad Footprint Kicad Default Connector Coaxial mmcx Molex 73415 0961 Horizontal
-  1 0mm PCB
-name_no_class: Eda Kicad Default Connector Coaxial mmcx Molex 73415 0961 Horizontal
-  1 0mm PCB
-name_no_color: Edaconnectorcoaxialmmcxmolex734150961Horizontal10mmpcb
-name_no_size: Edaconnectorcoaxialmmcxmolex734150961Horizontal10mmpcb
-name_no_type: Eda Connector Coaxial mmcx Molex 73415 0961 Horizontal 1 0mm PCB
-oomp_key: oomp_eda_kicad_footprint_kicad_default_connector_coaxial_mmcx_molex_73415_0961_horizontal_1_0mm_pcb
-oomp_word: koala truck six
-oomp_word_emoji: ':koala: :truck: :six:'
-oomp_word_emoji_list:
-- ':koala:'
-- ':truck:'
-- ':six:'
-oomp_word_list:
-- koala
-- truck
-- six
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

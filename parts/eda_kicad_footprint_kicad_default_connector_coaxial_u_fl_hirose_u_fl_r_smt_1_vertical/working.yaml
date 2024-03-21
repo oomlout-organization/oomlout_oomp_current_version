@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: u_fl_hirose_u_fl_r_smt_1_vertical
-description_extra_length_1: u
-description_extra_length_2: u_
-description_extra_length_3: u_f
-description_extra_length_4: u_fl
-description_extra_length_5: u_fl_
-description_extra_length_6: u_fl_h
-description_extra_name: U Fl Hirose U Fl R SMT 1 Vertical
-description_extra_no_space_length_1: u
-description_extra_no_space_length_2: uf
-description_extra_no_space_length_3: ufl
-description_extra_no_space_length_4: uflh
-description_extra_no_space_length_5: uflhi
-description_extra_no_space_length_6: uflhir
-description_extra_no_space_upper_length_1: U
-description_extra_no_space_upper_length_2: UF
-description_extra_no_space_upper_length_3: UFL
-description_extra_no_space_upper_length_4: UFLH
-description_extra_no_space_upper_length_5: UFLHI
-description_extra_no_space_upper_length_6: UFLHIR
-description_extra_upper_length_1: U
-description_extra_upper_length_2: U_
-description_extra_upper_length_3: U_F
-description_extra_upper_length_4: U_FL
-description_extra_upper_length_5: U_FL_
-description_extra_upper_length_6: U_FL_H
 description_main: connector_coaxial
-description_main_length_1: c
-description_main_length_2: co
-description_main_length_3: con
-description_main_length_4: conn
-description_main_length_5: conne
-description_main_length_6: connec
-description_main_name: Connector Coaxial
-description_main_no_space_length_1: c
-description_main_no_space_length_2: co
-description_main_no_space_length_3: con
-description_main_no_space_length_4: conn
-description_main_no_space_length_5: conne
-description_main_no_space_length_6: connec
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CO
-description_main_no_space_upper_length_3: CON
-description_main_no_space_upper_length_4: CONN
-description_main_no_space_upper_length_5: CONNE
-description_main_no_space_upper_length_6: CONNEC
-description_main_upper_length_1: C
-description_main_upper_length_2: CO
-description_main_upper_length_3: CON
-description_main_upper_length_4: CONN
-description_main_upper_length_5: CONNE
-description_main_upper_length_6: CONNEC
-directory: parts/eda_kicad_footprint_kicad_default_connector_coaxial_u_fl_hirose_u_fl_r_smt_1_vertical
 footprint_id: eda_kicad_footprint_kicad_default_connector_coaxial_u_fl_hirose_u_fl_r_smt_1_vertical
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -256,68 +179,9 @@ footprint_string:
     Y=-0.95, angle=None, unlocked=False), Position(X=-0.515, Y=-0.95, angle=None,
     unlocked=False), Position(X=-0.515, Y=0.95, angle=None, unlocked=False), Position(X=1.575,
     Y=0.95, angle=None, unlocked=False)])], filledPolygons=[], fillSegments=None)]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_connector_coaxial_u_fl_hirose_u_fl_r_smt_1_vertical
 id: eda_kicad_footprint_kicad_default_connector_coaxial_u_fl_hirose_u_fl_r_smt_1_vertical
-id_no_class: eda_kicad_default_connector_coaxial_u_fl_hirose_u_fl_r_smt_1_vertical
-id_no_color: edaconnectorcoaxialuflhiroseuflrsmt1vertical
-id_no_size: edaconnectorcoaxialuflhiroseuflrsmt1vertical
-id_no_type: eda_connector_coaxial_u_fl_hirose_u_fl_r_smt_1_vertical
 manufacturer: ''
-manufacturer_name: ''
-md5: b3c2f7c08bfe6522bd14bae03aca18c7
-md5_10: b3c2f7c08b
-md5_10_upper: B3C2F7C08B
-md5_5: b3c2f
-md5_5_upper: B3C2F
-md5_6: b3c2f7
-md5_6_alpha: 70i5z
-md5_6_alpha_upper: 70I5Z
-md5_6_upper: B3C2F7
-name: Eda Kicad Footprint Kicad Default Connector Coaxial U Fl Hirose U Fl R SMT 1
-  Vertical
-name_no_class: Eda Kicad Default Connector Coaxial U Fl Hirose U Fl R SMT 1 Vertical
-name_no_color: Edaconnectorcoaxialuflhiroseuflrsmt1Vertical
-name_no_size: Edaconnectorcoaxialuflhiroseuflrsmt1Vertical
-name_no_type: Eda Connector Coaxial U Fl Hirose U Fl R SMT 1 Vertical
-oomp_key: oomp_eda_kicad_footprint_kicad_default_connector_coaxial_u_fl_hirose_u_fl_r_smt_1_vertical
-oomp_word: eyeglasses birthday six
-oomp_word_emoji: ':eyeglasses: :birthday: :six:'
-oomp_word_emoji_list:
-- ':eyeglasses:'
-- ':birthday:'
-- ':six:'
-oomp_word_list:
-- eyeglasses
-- birthday
-- six
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

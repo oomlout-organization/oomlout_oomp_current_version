@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: pinheader_1x07_p2_00mm_horizontal
-description_extra_length_1: p
-description_extra_length_2: pi
-description_extra_length_3: pin
-description_extra_length_4: pinh
-description_extra_length_5: pinhe
-description_extra_length_6: pinhea
-description_extra_name: Pinheader 1X07 P2 00mm Horizontal
-description_extra_no_space_length_1: p
-description_extra_no_space_length_2: pi
-description_extra_no_space_length_3: pin
-description_extra_no_space_length_4: pinh
-description_extra_no_space_length_5: pinhe
-description_extra_no_space_length_6: pinhea
-description_extra_no_space_upper_length_1: P
-description_extra_no_space_upper_length_2: PI
-description_extra_no_space_upper_length_3: PIN
-description_extra_no_space_upper_length_4: PINH
-description_extra_no_space_upper_length_5: PINHE
-description_extra_no_space_upper_length_6: PINHEA
-description_extra_upper_length_1: P
-description_extra_upper_length_2: PI
-description_extra_upper_length_3: PIN
-description_extra_upper_length_4: PINH
-description_extra_upper_length_5: PINHE
-description_extra_upper_length_6: PINHEA
 description_main: connector_pinheader_2_00mm
-description_main_length_1: c
-description_main_length_2: co
-description_main_length_3: con
-description_main_length_4: conn
-description_main_length_5: conne
-description_main_length_6: connec
-description_main_name: Connector Pinheader 2 00mm
-description_main_no_space_length_1: c
-description_main_no_space_length_2: co
-description_main_no_space_length_3: con
-description_main_no_space_length_4: conn
-description_main_no_space_length_5: conne
-description_main_no_space_length_6: connec
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CO
-description_main_no_space_upper_length_3: CON
-description_main_no_space_upper_length_4: CONN
-description_main_no_space_upper_length_5: CONNE
-description_main_no_space_upper_length_6: CONNEC
-description_main_upper_length_1: C
-description_main_upper_length_2: CO
-description_main_upper_length_3: CON
-description_main_upper_length_4: CONN
-description_main_upper_length_5: CONNE
-description_main_upper_length_6: CONNEC
-directory: parts/eda_kicad_footprint_kicad_default_connector_pinheader_2_00mm_pinheader_1x07_p2_00mm_horizontal
 footprint_id: eda_kicad_footprint_kicad_default_connector_pinheader_2_00mm_pinheader_1x07_p2_00mm_horizontal
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -459,69 +382,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_connector_pinheader_2_00mm_pinheader_1x07_p2_00mm_horizontal
 id: eda_kicad_footprint_kicad_default_connector_pinheader_2_00mm_pinheader_1x07_p2_00mm_horizontal
-id_no_class: eda_kicad_default_connector_pinheader_2_00mm_pinheader_1x07_p2_00mm_horizontal
-id_no_color: edaconnectorpinheader200mmpinheader1x07p200mmhorizontal
-id_no_size: edaconnectorpinheader200mmpinheader1x07p200mmhorizontal
-id_no_type: eda_connector_pinheader_2_00mm_pinheader_1x07_p2_00mm_horizontal
 manufacturer: ''
-manufacturer_name: ''
-md5: 97e53fc790b8f28ec1449bf2d82cc811
-md5_10: 97e53fc790
-md5_10_upper: 97E53FC790
-md5_5: 97e53
-md5_5_upper: 97E53
-md5_6: 97e53f
-md5_6_alpha: 5xd1b
-md5_6_alpha_upper: 5XD1B
-md5_6_upper: 97E53F
-name: Eda Kicad Footprint Kicad Default Connector Pinheader 2 00mm Pinheader 1X07
-  P2 00mm Horizontal
-name_no_class: Eda Kicad Default Connector Pinheader 2 00mm Pinheader 1X07 P2 00mm
-  Horizontal
-name_no_color: Edaconnectorpinheader200mmpinheader1X07P200mmhorizontal
-name_no_size: Edaconnectorpinheader200mmpinheader1X07P200mmhorizontal
-name_no_type: Eda Connector Pinheader 2 00mm Pinheader 1X07 P2 00mm Horizontal
-oomp_key: oomp_eda_kicad_footprint_kicad_default_connector_pinheader_2_00mm_pinheader_1x07_p2_00mm_horizontal
-oomp_word: baseball rocket horse
-oomp_word_emoji: ':baseball: :rocket: :horse:'
-oomp_word_emoji_list:
-- ':baseball:'
-- ':rocket:'
-- ':horse:'
-oomp_word_list:
-- baseball
-- rocket
-- horse
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

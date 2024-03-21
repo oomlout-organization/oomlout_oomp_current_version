@@ -1,0 +1,8 @@
+* [quectel_bc66](quectel_bc66)
+* [quectel_bc95](quectel_bc95)
+* [quectel_bg96](quectel_bg96)
+* [quectel_m95](quectel_m95)
+* [simcom_sim800c](simcom_sim800c)
+* [simcom_sim900](simcom_sim900)
+* [telit_xl865](telit_xl865)
+* [ublox_sara_lga_96](ublox_sara_lga_96)

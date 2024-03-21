@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: nexperia_huson_12_uson_12_1ep_1_35x2_5mm_p0_4mm_ep0_4x2mm
-description_extra_length_1: n
-description_extra_length_2: ne
-description_extra_length_3: nex
-description_extra_length_4: nexp
-description_extra_length_5: nexpe
-description_extra_length_6: nexper
-description_extra_name: Nexperia Huson 12 Uson 12 1Ep 1 35X2 5mm P0 4mm Ep0 4X2mm
-description_extra_no_space_length_1: n
-description_extra_no_space_length_2: ne
-description_extra_no_space_length_3: nex
-description_extra_no_space_length_4: nexp
-description_extra_no_space_length_5: nexpe
-description_extra_no_space_length_6: nexper
-description_extra_no_space_upper_length_1: N
-description_extra_no_space_upper_length_2: NE
-description_extra_no_space_upper_length_3: NEX
-description_extra_no_space_upper_length_4: NEXP
-description_extra_no_space_upper_length_5: NEXPE
-description_extra_no_space_upper_length_6: NEXPER
-description_extra_upper_length_1: N
-description_extra_upper_length_2: NE
-description_extra_upper_length_3: NEX
-description_extra_upper_length_4: NEXP
-description_extra_upper_length_5: NEXPE
-description_extra_upper_length_6: NEXPER
 description_main: package_son
-description_main_length_1: p
-description_main_length_2: pa
-description_main_length_3: pac
-description_main_length_4: pack
-description_main_length_5: packa
-description_main_length_6: packag
-description_main_name: Package Son
-description_main_no_space_length_1: p
-description_main_no_space_length_2: pa
-description_main_no_space_length_3: pac
-description_main_no_space_length_4: pack
-description_main_no_space_length_5: packa
-description_main_no_space_length_6: packag
-description_main_no_space_upper_length_1: P
-description_main_no_space_upper_length_2: PA
-description_main_no_space_upper_length_3: PAC
-description_main_no_space_upper_length_4: PACK
-description_main_no_space_upper_length_5: PACKA
-description_main_no_space_upper_length_6: PACKAG
-description_main_upper_length_1: P
-description_main_upper_length_2: PA
-description_main_upper_length_3: PAC
-description_main_upper_length_4: PACK
-description_main_upper_length_5: PACKA
-description_main_upper_length_6: PACKAG
-directory: parts/eda_kicad_footprint_kicad_default_package_son_nexperia_huson_12_uson_12_1ep_1_35x2_5mm_p0_4mm_ep0_4x2mm
 footprint_id: eda_kicad_footprint_kicad_default_package_son_nexperia_huson_12_uson_12_1ep_1_35x2_5mm_p0_4mm_ep0_4x2mm
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -253,70 +176,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_package_son_nexperia_huson_12_uson_12_1ep_1_35x2_5mm_p0_4mm_ep0_4x2mm
 id: eda_kicad_footprint_kicad_default_package_son_nexperia_huson_12_uson_12_1ep_1_35x2_5mm_p0_4mm_ep0_4x2mm
-id_no_class: eda_kicad_default_package_son_nexperia_huson_12_uson_12_1ep_1_35x2_5mm_p0_4mm_ep0_4x2mm
-id_no_color: edapackagesonnexperiahuson12uson121ep135x25mmp04mmep04x2mm
-id_no_size: edapackagesonnexperiahuson12uson121ep135x25mmp04mmep04x2mm
-id_no_type: eda_package_son_nexperia_huson_12_uson_12_1ep_1_35x2_5mm_p0_4mm_ep0_4x2mm
 manufacturer: ''
-manufacturer_name: ''
-md5: 628086050f0bb9bb5e0e7789e5bd7128
-md5_10: 628086050f
-md5_10_upper: 628086050F
-md5_5: '62808'
-md5_5_upper: '62808'
-md5_6: '628086'
-md5_6_alpha: 3ud1i
-md5_6_alpha_upper: 3UD1I
-md5_6_upper: '628086'
-name: Eda Kicad Footprint Kicad Default Package Son Nexperia Huson 12 Uson 12 1Ep
-  1 35X2 5mm P0 4mm Ep0 4X2mm
-name_no_class: Eda Kicad Default Package Son Nexperia Huson 12 Uson 12 1Ep 1 35X2
-  5mm P0 4mm Ep0 4X2mm
-name_no_color: Edapackagesonnexperiahuson12Uson121Ep135X25mmp04mmep04X2mm
-name_no_size: Edapackagesonnexperiahuson12Uson121Ep135X25mmp04mmep04X2mm
-name_no_type: Eda Package Son Nexperia Huson 12 Uson 12 1Ep 1 35X2 5mm P0 4mm Ep0
-  4X2mm
-oomp_key: oomp_eda_kicad_footprint_kicad_default_package_son_nexperia_huson_12_uson_12_1ep_1_35x2_5mm_p0_4mm_ep0_4x2mm
-oomp_word: tulip hourglass bath
-oomp_word_emoji: ':tulip: :hourglass: :bath:'
-oomp_word_emoji_list:
-- ':tulip:'
-- ':hourglass:'
-- ':bath:'
-oomp_word_list:
-- tulip
-- hourglass
-- bath
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

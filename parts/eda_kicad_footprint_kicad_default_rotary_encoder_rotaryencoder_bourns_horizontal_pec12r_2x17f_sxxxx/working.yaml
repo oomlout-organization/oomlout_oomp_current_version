@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: rotaryencoder_bourns_horizontal_pec12r_2x17f_sxxxx
-description_extra_length_1: r
-description_extra_length_2: ro
-description_extra_length_3: rot
-description_extra_length_4: rota
-description_extra_length_5: rotar
-description_extra_length_6: rotary
-description_extra_name: Rotaryencoder Bourns Horizontal Pec12R 2X17F Sxxxx
-description_extra_no_space_length_1: r
-description_extra_no_space_length_2: ro
-description_extra_no_space_length_3: rot
-description_extra_no_space_length_4: rota
-description_extra_no_space_length_5: rotar
-description_extra_no_space_length_6: rotary
-description_extra_no_space_upper_length_1: R
-description_extra_no_space_upper_length_2: RO
-description_extra_no_space_upper_length_3: ROT
-description_extra_no_space_upper_length_4: ROTA
-description_extra_no_space_upper_length_5: ROTAR
-description_extra_no_space_upper_length_6: ROTARY
-description_extra_upper_length_1: R
-description_extra_upper_length_2: RO
-description_extra_upper_length_3: ROT
-description_extra_upper_length_4: ROTA
-description_extra_upper_length_5: ROTAR
-description_extra_upper_length_6: ROTARY
 description_main: rotary_encoder
-description_main_length_1: r
-description_main_length_2: ro
-description_main_length_3: rot
-description_main_length_4: rota
-description_main_length_5: rotar
-description_main_length_6: rotary
-description_main_name: Rotary Encoder
-description_main_no_space_length_1: r
-description_main_no_space_length_2: ro
-description_main_no_space_length_3: rot
-description_main_no_space_length_4: rota
-description_main_no_space_length_5: rotar
-description_main_no_space_length_6: rotary
-description_main_no_space_upper_length_1: R
-description_main_no_space_upper_length_2: RO
-description_main_no_space_upper_length_3: ROT
-description_main_no_space_upper_length_4: ROTA
-description_main_no_space_upper_length_5: ROTAR
-description_main_no_space_upper_length_6: ROTARY
-description_main_upper_length_1: R
-description_main_upper_length_2: RO
-description_main_upper_length_3: ROT
-description_main_upper_length_4: ROTA
-description_main_upper_length_5: ROTAR
-description_main_upper_length_6: ROTARY
-directory: parts/eda_kicad_footprint_kicad_default_rotary_encoder_rotaryencoder_bourns_horizontal_pec12r_2x17f_sxxxx
 footprint_id: eda_kicad_footprint_kicad_default_rotary_encoder_rotaryencoder_bourns_horizontal_pec12r_2x17f_sxxxx
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -384,69 +307,9 @@ footprint_string:
     Y=9, angle=None, unlocked=False), Position(X=6, Y=7.75, angle=None, unlocked=False),
     Position(X=5, Y=7.75, angle=None, unlocked=False), Position(X=5, Y=9, angle=None,
     unlocked=False)])], filledPolygons=[], fillSegments=None)]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_rotary_encoder_rotaryencoder_bourns_horizontal_pec12r_2x17f_sxxxx
 id: eda_kicad_footprint_kicad_default_rotary_encoder_rotaryencoder_bourns_horizontal_pec12r_2x17f_sxxxx
-id_no_class: eda_kicad_default_rotary_encoder_rotaryencoder_bourns_horizontal_pec12r_2x17f_sxxxx
-id_no_color: edarotaryencoderrotaryencoderbournshorizontalpec12r2x17fsxxxx
-id_no_size: edarotaryencoderrotaryencoderbournshorizontalpec12r2x17fsxxxx
-id_no_type: eda_rotary_encoder_rotaryencoder_bourns_horizontal_pec12r_2x17f_sxxxx
 manufacturer: ''
-manufacturer_name: ''
-md5: af9df0cbcd27df366fc7ba2da8ee9001
-md5_10: af9df0cbcd
-md5_10_upper: AF9DF0CBCD
-md5_5: af9df
-md5_5_upper: AF9DF
-md5_6: af9df0
-md5_6_alpha: 6uokw
-md5_6_alpha_upper: 6UOKW
-md5_6_upper: AF9DF0
-name: Eda Kicad Footprint Kicad Default Rotary Encoder Rotaryencoder Bourns Horizontal
-  Pec12R 2X17F Sxxxx
-name_no_class: Eda Kicad Default Rotary Encoder Rotaryencoder Bourns Horizontal Pec12R
-  2X17F Sxxxx
-name_no_color: Edarotaryencoderrotaryencoderbournshorizontalpec12R2X17Fsxxxx
-name_no_size: Edarotaryencoderrotaryencoderbournshorizontalpec12R2X17Fsxxxx
-name_no_type: Eda Rotary Encoder Rotaryencoder Bourns Horizontal Pec12R 2X17F Sxxxx
-oomp_key: oomp_eda_kicad_footprint_kicad_default_rotary_encoder_rotaryencoder_bourns_horizontal_pec12r_2x17f_sxxxx
-oomp_word: tophat hearts train
-oomp_word_emoji: ':tophat: :hearts: :train:'
-oomp_word_emoji_list:
-- ':tophat:'
-- ':hearts:'
-- ':train:'
-oomp_word_list:
-- tophat
-- hearts
-- train
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: plcc_44_tht_socket
-description_extra_length_1: p
-description_extra_length_2: pl
-description_extra_length_3: plc
-description_extra_length_4: plcc
-description_extra_length_5: plcc_
-description_extra_length_6: plcc_4
-description_extra_name: Plcc 44 Tht Socket
-description_extra_no_space_length_1: p
-description_extra_no_space_length_2: pl
-description_extra_no_space_length_3: plc
-description_extra_no_space_length_4: plcc
-description_extra_no_space_length_5: plcc4
-description_extra_no_space_length_6: plcc44
-description_extra_no_space_upper_length_1: P
-description_extra_no_space_upper_length_2: PL
-description_extra_no_space_upper_length_3: PLC
-description_extra_no_space_upper_length_4: PLCC
-description_extra_no_space_upper_length_5: PLCC4
-description_extra_no_space_upper_length_6: PLCC44
-description_extra_upper_length_1: P
-description_extra_upper_length_2: PL
-description_extra_upper_length_3: PLC
-description_extra_upper_length_4: PLCC
-description_extra_upper_length_5: PLCC_
-description_extra_upper_length_6: PLCC_4
 description_main: package_lcc
-description_main_length_1: p
-description_main_length_2: pa
-description_main_length_3: pac
-description_main_length_4: pack
-description_main_length_5: packa
-description_main_length_6: packag
-description_main_name: Package Lcc
-description_main_no_space_length_1: p
-description_main_no_space_length_2: pa
-description_main_no_space_length_3: pac
-description_main_no_space_length_4: pack
-description_main_no_space_length_5: packa
-description_main_no_space_length_6: packag
-description_main_no_space_upper_length_1: P
-description_main_no_space_upper_length_2: PA
-description_main_no_space_upper_length_3: PAC
-description_main_no_space_upper_length_4: PACK
-description_main_no_space_upper_length_5: PACKA
-description_main_no_space_upper_length_6: PACKAG
-description_main_upper_length_1: P
-description_main_upper_length_2: PA
-description_main_upper_length_3: PAC
-description_main_upper_length_4: PACK
-description_main_upper_length_5: PACKA
-description_main_upper_length_6: PACKAG
-directory: parts/eda_kicad_footprint_kicad_default_package_lcc_plcc_44_tht_socket
 footprint_id: eda_kicad_footprint_kicad_default_package_lcc_plcc_44_tht_socket
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -532,67 +455,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_package_lcc_plcc_44_tht_socket
 id: eda_kicad_footprint_kicad_default_package_lcc_plcc_44_tht_socket
-id_no_class: eda_kicad_default_package_lcc_plcc_44_tht_socket
-id_no_color: edapackagelccplcc44thtsocket
-id_no_size: edapackagelccplcc44thtsocket
-id_no_type: eda_package_lcc_plcc_44_tht_socket
 manufacturer: ''
-manufacturer_name: ''
-md5: ef7b989d8940d50a897d1931d1a3ff25
-md5_10: ef7b989d89
-md5_10_upper: EF7B989D89
-md5_5: ef7b9
-md5_5_upper: EF7B9
-md5_6: ef7b98
-md5_6_alpha: 9ce54
-md5_6_alpha_upper: 9CE54
-md5_6_upper: EF7B98
-name: Eda Kicad Footprint Kicad Default Package Lcc Plcc 44 Tht Socket
-name_no_class: Eda Kicad Default Package Lcc Plcc 44 Tht Socket
-name_no_color: Edapackagelccplcc44Thtsocket
-name_no_size: Edapackagelccplcc44Thtsocket
-name_no_type: Eda Package Lcc Plcc 44 Tht Socket
-oomp_key: oomp_eda_kicad_footprint_kicad_default_package_lcc_plcc_44_tht_socket
-oomp_word: truck computer tennis
-oomp_word_emoji: ':truck: :computer: :tennis:'
-oomp_word_emoji_list:
-- ':truck:'
-- ':computer:'
-- ':tennis:'
-oomp_word_list:
-- truck
-- computer
-- tennis
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

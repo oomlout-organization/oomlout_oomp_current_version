@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: mini_circuits_cd636_landpatternpl_035
-description_extra_length_1: m
-description_extra_length_2: mi
-description_extra_length_3: min
-description_extra_length_4: mini
-description_extra_length_5: mini_
-description_extra_length_6: mini_c
-description_extra_name: Mini Circuits Cd636 Landpatternpl 035
-description_extra_no_space_length_1: m
-description_extra_no_space_length_2: mi
-description_extra_no_space_length_3: min
-description_extra_no_space_length_4: mini
-description_extra_no_space_length_5: minic
-description_extra_no_space_length_6: minici
-description_extra_no_space_upper_length_1: M
-description_extra_no_space_upper_length_2: MI
-description_extra_no_space_upper_length_3: MIN
-description_extra_no_space_upper_length_4: MINI
-description_extra_no_space_upper_length_5: MINIC
-description_extra_no_space_upper_length_6: MINICI
-description_extra_upper_length_1: M
-description_extra_upper_length_2: MI
-description_extra_upper_length_3: MIN
-description_extra_upper_length_4: MINI
-description_extra_upper_length_5: MINI_
-description_extra_upper_length_6: MINI_C
 description_main: rf_mini_circuits
-description_main_length_1: r
-description_main_length_2: rf
-description_main_length_3: rf_
-description_main_length_4: rf_m
-description_main_length_5: rf_mi
-description_main_length_6: rf_min
-description_main_name: Rf Mini Circuits
-description_main_no_space_length_1: r
-description_main_no_space_length_2: rf
-description_main_no_space_length_3: rfm
-description_main_no_space_length_4: rfmi
-description_main_no_space_length_5: rfmin
-description_main_no_space_length_6: rfmini
-description_main_no_space_upper_length_1: R
-description_main_no_space_upper_length_2: RF
-description_main_no_space_upper_length_3: RFM
-description_main_no_space_upper_length_4: RFMI
-description_main_no_space_upper_length_5: RFMIN
-description_main_no_space_upper_length_6: RFMINI
-description_main_upper_length_1: R
-description_main_upper_length_2: RF
-description_main_upper_length_3: RF_
-description_main_upper_length_4: RF_M
-description_main_upper_length_5: RF_MI
-description_main_upper_length_6: RF_MIN
-directory: parts/eda_kicad_footprint_kicad_default_rf_mini_circuits_mini_circuits_cd636_landpatternpl_035
 footprint_id: eda_kicad_footprint_kicad_default_rf_mini_circuits_mini_circuits_cd636_landpatternpl_035
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -262,69 +185,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_rf_mini_circuits_mini_circuits_cd636_landpatternpl_035
 id: eda_kicad_footprint_kicad_default_rf_mini_circuits_mini_circuits_cd636_landpatternpl_035
-id_no_class: eda_kicad_default_rf_mini_circuits_mini_circuits_cd636_landpatternpl_035
-id_no_color: edarfminicircuitsminicircuitscd636landpatternpl035
-id_no_size: edarfminicircuitsminicircuitscd636landpatternpl035
-id_no_type: eda_rf_mini_circuits_mini_circuits_cd636_landpatternpl_035
 manufacturer: ''
-manufacturer_name: ''
-md5: e60ddfd2644bab38a4069f95cbb4a2fe
-md5_10: e60ddfd264
-md5_10_upper: E60DDFD264
-md5_5: e60dd
-md5_5_upper: E60DD
-md5_6: e60ddf
-md5_6_alpha: 8z5cv
-md5_6_alpha_upper: 8Z5CV
-md5_6_upper: E60DDF
-name: Eda Kicad Footprint Kicad Default Rf Mini Circuits Mini Circuits Cd636 Landpatternpl
-  035
-name_no_class: Eda Kicad Default Rf Mini Circuits Mini Circuits Cd636 Landpatternpl
-  035
-name_no_color: Edarfminicircuitsminicircuitscd636Landpatternpl035
-name_no_size: Edarfminicircuitsminicircuitscd636Landpatternpl035
-name_no_type: Eda Rf Mini Circuits Mini Circuits Cd636 Landpatternpl 035
-oomp_key: oomp_eda_kicad_footprint_kicad_default_rf_mini_circuits_mini_circuits_cd636_landpatternpl_035
-oomp_word: airplane heart fountain
-oomp_word_emoji: ':airplane: :heart: :fountain:'
-oomp_word_emoji_list:
-- ':airplane:'
-- ':heart:'
-- ':fountain:'
-oomp_word_list:
-- airplane
-- heart
-- fountain
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: sw_matias_6_25u
-description_extra_length_1: s
-description_extra_length_2: sw
-description_extra_length_3: sw_
-description_extra_length_4: sw_m
-description_extra_length_5: sw_ma
-description_extra_length_6: sw_mat
-description_extra_name: Sw Matias 6 25U
-description_extra_no_space_length_1: s
-description_extra_no_space_length_2: sw
-description_extra_no_space_length_3: swm
-description_extra_no_space_length_4: swma
-description_extra_no_space_length_5: swmat
-description_extra_no_space_length_6: swmati
-description_extra_no_space_upper_length_1: S
-description_extra_no_space_upper_length_2: SW
-description_extra_no_space_upper_length_3: SWM
-description_extra_no_space_upper_length_4: SWMA
-description_extra_no_space_upper_length_5: SWMAT
-description_extra_no_space_upper_length_6: SWMATI
-description_extra_upper_length_1: S
-description_extra_upper_length_2: SW
-description_extra_upper_length_3: SW_
-description_extra_upper_length_4: SW_M
-description_extra_upper_length_5: SW_MA
-description_extra_upper_length_6: SW_MAT
 description_main: button_switch_keyboard
-description_main_length_1: b
-description_main_length_2: bu
-description_main_length_3: but
-description_main_length_4: butt
-description_main_length_5: butto
-description_main_length_6: button
-description_main_name: Button Switch Keyboard
-description_main_no_space_length_1: b
-description_main_no_space_length_2: bu
-description_main_no_space_length_3: but
-description_main_no_space_length_4: butt
-description_main_no_space_length_5: butto
-description_main_no_space_length_6: button
-description_main_no_space_upper_length_1: B
-description_main_no_space_upper_length_2: BU
-description_main_no_space_upper_length_3: BUT
-description_main_no_space_upper_length_4: BUTT
-description_main_no_space_upper_length_5: BUTTO
-description_main_no_space_upper_length_6: BUTTON
-description_main_upper_length_1: B
-description_main_upper_length_2: BU
-description_main_upper_length_3: BUT
-description_main_upper_length_4: BUTT
-description_main_upper_length_5: BUTTO
-description_main_upper_length_6: BUTTON
-directory: parts/eda_kicad_footprint_kicad_default_button_switch_keyboard_sw_matias_6_25u
 footprint_id: eda_kicad_footprint_kicad_default_button_switch_keyboard_sw_matias_6_25u
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -181,67 +104,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_button_switch_keyboard_sw_matias_6_25u
 id: eda_kicad_footprint_kicad_default_button_switch_keyboard_sw_matias_6_25u
-id_no_class: eda_kicad_default_button_switch_keyboard_sw_matias_6_25u
-id_no_color: edabuttonswitchkeyboardswmatias625u
-id_no_size: edabuttonswitchkeyboardswmatias625u
-id_no_type: eda_button_switch_keyboard_sw_matias_6_25u
 manufacturer: ''
-manufacturer_name: ''
-md5: 2517de2e5be19f1945a55f3c0b5e358b
-md5_10: 2517de2e5b
-md5_10_upper: 2517DE2E5B
-md5_5: 2517d
-md5_5_upper: 2517D
-md5_6: 2517de
-md5_6_alpha: 1g3q6
-md5_6_alpha_upper: 1G3Q6
-md5_6_upper: 2517DE
-name: Eda Kicad Footprint Kicad Default Button Switch Keyboard Sw Matias 6 25U
-name_no_class: Eda Kicad Default Button Switch Keyboard Sw Matias 6 25U
-name_no_color: Edabuttonswitchkeyboardswmatias625U
-name_no_size: Edabuttonswitchkeyboardswmatias625U
-name_no_type: Eda Button Switch Keyboard Sw Matias 6 25U
-oomp_key: oomp_eda_kicad_footprint_kicad_default_button_switch_keyboard_sw_matias_6_25u
-oomp_word: ear thumbsdown rainbow
-oomp_word_emoji: ':ear: :thumbsdown: :rainbow:'
-oomp_word_emoji_list:
-- ':ear:'
-- ':thumbsdown:'
-- ':rainbow:'
-oomp_word_list:
-- ear
-- thumbsdown
-- rainbow
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

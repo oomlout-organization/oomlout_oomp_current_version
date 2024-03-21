@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: kcsc02_136
-description_extra_length_1: k
-description_extra_length_2: kc
-description_extra_length_3: kcs
-description_extra_length_4: kcsc
-description_extra_length_5: kcsc0
-description_extra_length_6: kcsc02
-description_extra_name: Kcsc02 136
-description_extra_no_space_length_1: k
-description_extra_no_space_length_2: kc
-description_extra_no_space_length_3: kcs
-description_extra_no_space_length_4: kcsc
-description_extra_no_space_length_5: kcsc0
-description_extra_no_space_length_6: kcsc02
-description_extra_no_space_upper_length_1: K
-description_extra_no_space_upper_length_2: KC
-description_extra_no_space_upper_length_3: KCS
-description_extra_no_space_upper_length_4: KCSC
-description_extra_no_space_upper_length_5: KCSC0
-description_extra_no_space_upper_length_6: KCSC02
-description_extra_upper_length_1: K
-description_extra_upper_length_2: KC
-description_extra_upper_length_3: KCS
-description_extra_upper_length_4: KCSC
-description_extra_upper_length_5: KCSC0
-description_extra_upper_length_6: KCSC02
 description_main: display_7segment
-description_main_length_1: d
-description_main_length_2: di
-description_main_length_3: dis
-description_main_length_4: disp
-description_main_length_5: displ
-description_main_length_6: displa
-description_main_name: Display 7Segment
-description_main_no_space_length_1: d
-description_main_no_space_length_2: di
-description_main_no_space_length_3: dis
-description_main_no_space_length_4: disp
-description_main_no_space_length_5: displ
-description_main_no_space_length_6: displa
-description_main_no_space_upper_length_1: D
-description_main_no_space_upper_length_2: DI
-description_main_no_space_upper_length_3: DIS
-description_main_no_space_upper_length_4: DISP
-description_main_no_space_upper_length_5: DISPL
-description_main_no_space_upper_length_6: DISPLA
-description_main_upper_length_1: D
-description_main_upper_length_2: DI
-description_main_upper_length_3: DIS
-description_main_upper_length_4: DISP
-description_main_upper_length_5: DISPL
-description_main_upper_length_6: DISPLA
-directory: parts/eda_kicad_footprint_kicad_default_display_7segment_kcsc02_136
 footprint_id: eda_kicad_footprint_kicad_default_display_7segment_kcsc02_136
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -218,67 +141,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_display_7segment_kcsc02_136
 id: eda_kicad_footprint_kicad_default_display_7segment_kcsc02_136
-id_no_class: eda_kicad_default_display_7segment_kcsc02_136
-id_no_color: edadisplay7segmentkcsc02136
-id_no_size: edadisplay7segmentkcsc02136
-id_no_type: eda_display_7segment_kcsc02_136
 manufacturer: ''
-manufacturer_name: ''
-md5: 1cca39fc5c5e56672877c020a107d643
-md5_10: 1cca39fc5c
-md5_10_upper: 1CCA39FC5C
-md5_5: 1cca3
-md5_5_upper: 1CCA3
-md5_6: 1cca39
-md5_6_alpha: 14fuh
-md5_6_alpha_upper: 14FUH
-md5_6_upper: 1CCA39
-name: Eda Kicad Footprint Kicad Default Display 7Segment Kcsc02 136
-name_no_class: Eda Kicad Default Display 7Segment Kcsc02 136
-name_no_color: Edadisplay7Segmentkcsc02136
-name_no_size: Edadisplay7Segmentkcsc02136
-name_no_type: Eda Display 7Segment Kcsc02 136
-oomp_key: oomp_eda_kicad_footprint_kicad_default_display_7segment_kcsc02_136
-oomp_word: dancer cherries tiger
-oomp_word_emoji: ':dancer: :cherries: :tiger:'
-oomp_word_emoji_list:
-- ':dancer:'
-- ':cherries:'
-- ':tiger:'
-oomp_word_list:
-- dancer
-- cherries
-- tiger
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

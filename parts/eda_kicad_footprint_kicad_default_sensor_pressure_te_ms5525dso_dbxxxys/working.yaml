@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: te_ms5525dso_dbxxxys
-description_extra_length_1: t
-description_extra_length_2: te
-description_extra_length_3: te_
-description_extra_length_4: te_m
-description_extra_length_5: te_ms
-description_extra_length_6: te_ms5
-description_extra_name: Te Ms5525Dso Dbxxxys
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: te
-description_extra_no_space_length_3: tem
-description_extra_no_space_length_4: tems
-description_extra_no_space_length_5: tems5
-description_extra_no_space_length_6: tems55
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TE
-description_extra_no_space_upper_length_3: TEM
-description_extra_no_space_upper_length_4: TEMS
-description_extra_no_space_upper_length_5: TEMS5
-description_extra_no_space_upper_length_6: TEMS55
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TE
-description_extra_upper_length_3: TE_
-description_extra_upper_length_4: TE_M
-description_extra_upper_length_5: TE_MS
-description_extra_upper_length_6: TE_MS5
 description_main: sensor_pressure
-description_main_length_1: s
-description_main_length_2: se
-description_main_length_3: sen
-description_main_length_4: sens
-description_main_length_5: senso
-description_main_length_6: sensor
-description_main_name: Sensor Pressure
-description_main_no_space_length_1: s
-description_main_no_space_length_2: se
-description_main_no_space_length_3: sen
-description_main_no_space_length_4: sens
-description_main_no_space_length_5: senso
-description_main_no_space_length_6: sensor
-description_main_no_space_upper_length_1: S
-description_main_no_space_upper_length_2: SE
-description_main_no_space_upper_length_3: SEN
-description_main_no_space_upper_length_4: SENS
-description_main_no_space_upper_length_5: SENSO
-description_main_no_space_upper_length_6: SENSOR
-description_main_upper_length_1: S
-description_main_upper_length_2: SE
-description_main_upper_length_3: SEN
-description_main_upper_length_4: SENS
-description_main_upper_length_5: SENSO
-description_main_upper_length_6: SENSOR
-directory: parts/eda_kicad_footprint_kicad_default_sensor_pressure_te_ms5525dso_dbxxxys
 footprint_id: eda_kicad_footprint_kicad_default_sensor_pressure_te_ms5525dso_dbxxxys
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -287,67 +210,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_sensor_pressure_te_ms5525dso_dbxxxys
 id: eda_kicad_footprint_kicad_default_sensor_pressure_te_ms5525dso_dbxxxys
-id_no_class: eda_kicad_default_sensor_pressure_te_ms5525dso_dbxxxys
-id_no_color: edasensorpressuretems5525dsodbxxxys
-id_no_size: edasensorpressuretems5525dsodbxxxys
-id_no_type: eda_sensor_pressure_te_ms5525dso_dbxxxys
 manufacturer: ''
-manufacturer_name: ''
-md5: 6bac87ec58551185fdf5d34ecd1c93dc
-md5_10: 6bac87ec58
-md5_10_upper: 6BAC87EC58
-md5_5: 6bac8
-md5_5_upper: 6BAC8
-md5_6: 6bac87
-md5_6_alpha: 478uf
-md5_6_alpha_upper: 478UF
-md5_6_upper: 6BAC87
-name: Eda Kicad Footprint Kicad Default Sensor Pressure Te Ms5525Dso Dbxxxys
-name_no_class: Eda Kicad Default Sensor Pressure Te Ms5525Dso Dbxxxys
-name_no_color: Edasensorpressuretems5525Dsodbxxxys
-name_no_size: Edasensorpressuretems5525Dsodbxxxys
-name_no_type: Eda Sensor Pressure Te Ms5525Dso Dbxxxys
-oomp_key: oomp_eda_kicad_footprint_kicad_default_sensor_pressure_te_ms5525dso_dbxxxys
-oomp_word: chestnut shirt toilet
-oomp_word_emoji: ':chestnut: :shirt: :toilet:'
-oomp_word_emoji_list:
-- ':chestnut:'
-- ':shirt:'
-- ':toilet:'
-oomp_word_list:
-- chestnut
-- shirt
-- toilet
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

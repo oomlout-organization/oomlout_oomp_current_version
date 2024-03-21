@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: littelfuse_polyzen_ls
-description_extra_length_1: l
-description_extra_length_2: li
-description_extra_length_3: lit
-description_extra_length_4: litt
-description_extra_length_5: litte
-description_extra_length_6: littel
-description_extra_name: Littelfuse Polyzen Ls
-description_extra_no_space_length_1: l
-description_extra_no_space_length_2: li
-description_extra_no_space_length_3: lit
-description_extra_no_space_length_4: litt
-description_extra_no_space_length_5: litte
-description_extra_no_space_length_6: littel
-description_extra_no_space_upper_length_1: L
-description_extra_no_space_upper_length_2: LI
-description_extra_no_space_upper_length_3: LIT
-description_extra_no_space_upper_length_4: LITT
-description_extra_no_space_upper_length_5: LITTE
-description_extra_no_space_upper_length_6: LITTEL
-description_extra_upper_length_1: L
-description_extra_upper_length_2: LI
-description_extra_upper_length_3: LIT
-description_extra_upper_length_4: LITT
-description_extra_upper_length_5: LITTE
-description_extra_upper_length_6: LITTEL
 description_main: diode_smd
-description_main_length_1: d
-description_main_length_2: di
-description_main_length_3: dio
-description_main_length_4: diod
-description_main_length_5: diode
-description_main_length_6: diode_
-description_main_name: Diode SMD
-description_main_no_space_length_1: d
-description_main_no_space_length_2: di
-description_main_no_space_length_3: dio
-description_main_no_space_length_4: diod
-description_main_no_space_length_5: diode
-description_main_no_space_length_6: diodes
-description_main_no_space_upper_length_1: D
-description_main_no_space_upper_length_2: DI
-description_main_no_space_upper_length_3: DIO
-description_main_no_space_upper_length_4: DIOD
-description_main_no_space_upper_length_5: DIODE
-description_main_no_space_upper_length_6: DIODES
-description_main_upper_length_1: D
-description_main_upper_length_2: DI
-description_main_upper_length_3: DIO
-description_main_upper_length_4: DIOD
-description_main_upper_length_5: DIODE
-description_main_upper_length_6: DIODE_
-directory: parts/eda_kicad_footprint_kicad_default_diode_smd_littelfuse_polyzen_ls
 footprint_id: eda_kicad_footprint_kicad_default_diode_smd_littelfuse_polyzen_ls
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -180,67 +103,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_diode_smd_littelfuse_polyzen_ls
 id: eda_kicad_footprint_kicad_default_diode_smd_littelfuse_polyzen_ls
-id_no_class: eda_kicad_default_diode_smd_littelfuse_polyzen_ls
-id_no_color: edadiodesmdlittelfusepolyzenls
-id_no_size: edadiodesmdlittelfusepolyzenls
-id_no_type: eda_diode_smd_littelfuse_polyzen_ls
 manufacturer: ''
-manufacturer_name: ''
-md5: e3d881fae66604a1677a73dc4f465c61
-md5_10: e3d881fae6
-md5_10_upper: E3D881FAE6
-md5_5: e3d88
-md5_5_upper: E3D88
-md5_6: e3d881
-md5_6_alpha: 8w1oh
-md5_6_alpha_upper: 8W1OH
-md5_6_upper: E3D881
-name: Eda Kicad Footprint Kicad Default Diode SMD Littelfuse Polyzen Ls
-name_no_class: Eda Kicad Default Diode SMD Littelfuse Polyzen Ls
-name_no_color: Edadiodesmdlittelfusepolyzenls
-name_no_size: Edadiodesmdlittelfusepolyzenls
-name_no_type: Eda Diode SMD Littelfuse Polyzen Ls
-oomp_key: oomp_eda_kicad_footprint_kicad_default_diode_smd_littelfuse_polyzen_ls
-oomp_word: rowboat hospital watch
-oomp_word_emoji: ':rowboat: :hospital: :watch:'
-oomp_word_emoji_list:
-- ':rowboat:'
-- ':hospital:'
-- ':watch:'
-oomp_word_list:
-- rowboat
-- hospital
-- watch
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

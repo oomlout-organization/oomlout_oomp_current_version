@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: gauge_10mm_type1_silkscreentop
-description_extra_length_1: g
-description_extra_length_2: ga
-description_extra_length_3: gau
-description_extra_length_4: gaug
-description_extra_length_5: gauge
-description_extra_length_6: gauge_
-description_extra_name: Gauge 10mm Type1 Silkscreentop
-description_extra_no_space_length_1: g
-description_extra_no_space_length_2: ga
-description_extra_no_space_length_3: gau
-description_extra_no_space_length_4: gaug
-description_extra_no_space_length_5: gauge
-description_extra_no_space_length_6: gauge1
-description_extra_no_space_upper_length_1: G
-description_extra_no_space_upper_length_2: GA
-description_extra_no_space_upper_length_3: GAU
-description_extra_no_space_upper_length_4: GAUG
-description_extra_no_space_upper_length_5: GAUGE
-description_extra_no_space_upper_length_6: GAUGE1
-description_extra_upper_length_1: G
-description_extra_upper_length_2: GA
-description_extra_upper_length_3: GAU
-description_extra_upper_length_4: GAUG
-description_extra_upper_length_5: GAUGE
-description_extra_upper_length_6: GAUGE_
 description_main: calibration_scale
-description_main_length_1: c
-description_main_length_2: ca
-description_main_length_3: cal
-description_main_length_4: cali
-description_main_length_5: calib
-description_main_length_6: calibr
-description_main_name: Calibration Scale
-description_main_no_space_length_1: c
-description_main_no_space_length_2: ca
-description_main_no_space_length_3: cal
-description_main_no_space_length_4: cali
-description_main_no_space_length_5: calib
-description_main_no_space_length_6: calibr
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CA
-description_main_no_space_upper_length_3: CAL
-description_main_no_space_upper_length_4: CALI
-description_main_no_space_upper_length_5: CALIB
-description_main_no_space_upper_length_6: CALIBR
-description_main_upper_length_1: C
-description_main_upper_length_2: CA
-description_main_upper_length_3: CAL
-description_main_upper_length_4: CALI
-description_main_upper_length_5: CALIB
-description_main_upper_length_6: CALIBR
-directory: parts/eda_kicad_footprint_kicad_default_calibration_scale_gauge_10mm_type1_silkscreentop
 footprint_id: eda_kicad_footprint_kicad_default_calibration_scale_gauge_10mm_type1_silkscreentop
 footprint_string:
   attributes: Attributes(type=None, boardOnly=False, excludeFromPosFiles=True, excludeFromBom=True)
@@ -166,67 +89,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_calibration_scale_gauge_10mm_type1_silkscreentop
 id: eda_kicad_footprint_kicad_default_calibration_scale_gauge_10mm_type1_silkscreentop
-id_no_class: eda_kicad_default_calibration_scale_gauge_10mm_type1_silkscreentop
-id_no_color: edacalibrationscalegauge10mmtype1silkscreentop
-id_no_size: edacalibrationscalegauge10mmtype1silkscreentop
-id_no_type: eda_calibration_scale_gauge_10mm_type1_silkscreentop
 manufacturer: ''
-manufacturer_name: ''
-md5: e90b77a8308e692cf2c9188fc6b60bb0
-md5_10: e90b77a830
-md5_10_upper: E90B77A830
-md5_5: e90b7
-md5_5_upper: E90B7
-md5_6: e90b77
-md5_6_alpha: 93cl3
-md5_6_alpha_upper: 93CL3
-md5_6_upper: E90B77
-name: Eda Kicad Footprint Kicad Default Calibration Scale Gauge 10mm Type1 Silkscreentop
-name_no_class: Eda Kicad Default Calibration Scale Gauge 10mm Type1 Silkscreentop
-name_no_color: Edacalibrationscalegauge10mmtype1Silkscreentop
-name_no_size: Edacalibrationscalegauge10mmtype1Silkscreentop
-name_no_type: Eda Calibration Scale Gauge 10mm Type1 Silkscreentop
-oomp_key: oomp_eda_kicad_footprint_kicad_default_calibration_scale_gauge_10mm_type1_silkscreentop
-oomp_word: bike sunglasses gift
-oomp_word_emoji: ':bike: :sunglasses: :gift:'
-oomp_word_emoji_list:
-- ':bike:'
-- ':sunglasses:'
-- ':gift:'
-oomp_word_list:
-- bike
-- sunglasses
-- gift
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

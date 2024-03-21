@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: c_2220_5750metric_pad1_97x5_40mm_handsolder
-description_extra_length_1: c
-description_extra_length_2: c_
-description_extra_length_3: c_2
-description_extra_length_4: c_22
-description_extra_length_5: c_222
-description_extra_length_6: c_2220
-description_extra_name: C 2220 5750Metric Pad1 97X5 40mm Handsolder
-description_extra_no_space_length_1: c
-description_extra_no_space_length_2: c2
-description_extra_no_space_length_3: c22
-description_extra_no_space_length_4: c222
-description_extra_no_space_length_5: c2220
-description_extra_no_space_length_6: c22205
-description_extra_no_space_upper_length_1: C
-description_extra_no_space_upper_length_2: C2
-description_extra_no_space_upper_length_3: C22
-description_extra_no_space_upper_length_4: C222
-description_extra_no_space_upper_length_5: C2220
-description_extra_no_space_upper_length_6: C22205
-description_extra_upper_length_1: C
-description_extra_upper_length_2: C_
-description_extra_upper_length_3: C_2
-description_extra_upper_length_4: C_22
-description_extra_upper_length_5: C_222
-description_extra_upper_length_6: C_2220
 description_main: capacitor_smd
-description_main_length_1: c
-description_main_length_2: ca
-description_main_length_3: cap
-description_main_length_4: capa
-description_main_length_5: capac
-description_main_length_6: capaci
-description_main_name: Capacitor SMD
-description_main_no_space_length_1: c
-description_main_no_space_length_2: ca
-description_main_no_space_length_3: cap
-description_main_no_space_length_4: capa
-description_main_no_space_length_5: capac
-description_main_no_space_length_6: capaci
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CA
-description_main_no_space_upper_length_3: CAP
-description_main_no_space_upper_length_4: CAPA
-description_main_no_space_upper_length_5: CAPAC
-description_main_no_space_upper_length_6: CAPACI
-description_main_upper_length_1: C
-description_main_upper_length_2: CA
-description_main_upper_length_3: CAP
-description_main_upper_length_4: CAPA
-description_main_upper_length_5: CAPAC
-description_main_upper_length_6: CAPACI
-directory: parts/eda_kicad_footprint_kicad_default_capacitor_smd_c_2220_5750metric_pad1_97x5_40mm_handsolder
 footprint_id: eda_kicad_footprint_kicad_default_capacitor_smd_c_2220_5750metric_pad1_97x5_40mm_handsolder
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -164,68 +87,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_capacitor_smd_c_2220_5750metric_pad1_97x5_40mm_handsolder
 id: eda_kicad_footprint_kicad_default_capacitor_smd_c_2220_5750metric_pad1_97x5_40mm_handsolder
-id_no_class: eda_kicad_default_capacitor_smd_c_2220_5750metric_pad1_97x5_40mm_handsolder
-id_no_color: edacapacitorsmdc22205750metricpad197x540mmhandsolder
-id_no_size: edacapacitorsmdc22205750metricpad197x540mmhandsolder
-id_no_type: eda_capacitor_smd_c_2220_5750metric_pad1_97x5_40mm_handsolder
 manufacturer: ''
-manufacturer_name: ''
-md5: 3cc9c5049a7a2571e9d414c7d53d6bad
-md5_10: 3cc9c5049a
-md5_10_upper: 3CC9C5049A
-md5_5: 3cc9c
-md5_5_upper: 3CC9C
-md5_6: 3cc9c5
-md5_6_alpha: 2ddxh
-md5_6_alpha_upper: 2DDXH
-md5_6_upper: 3CC9C5
-name: Eda Kicad Footprint Kicad Default Capacitor SMD C 2220 5750Metric Pad1 97X5
-  40mm Handsolder
-name_no_class: Eda Kicad Default Capacitor SMD C 2220 5750Metric Pad1 97X5 40mm Handsolder
-name_no_color: Edacapacitorsmdc22205750Metricpad197X540mmhandsolder
-name_no_size: Edacapacitorsmdc22205750Metricpad197X540mmhandsolder
-name_no_type: Eda Capacitor SMD C 2220 5750Metric Pad1 97X5 40mm Handsolder
-oomp_key: oomp_eda_kicad_footprint_kicad_default_capacitor_smd_c_2220_5750metric_pad1_97x5_40mm_handsolder
-oomp_word: pig lemon candy
-oomp_word_emoji: ':pig: :lemon: :candy:'
-oomp_word_emoji_list:
-- ':pig:'
-- ':lemon:'
-- ':candy:'
-oomp_word_list:
-- pig
-- lemon
-- candy
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

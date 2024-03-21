@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: relay_dpdt_finder_40_52
-description_extra_length_1: r
-description_extra_length_2: re
-description_extra_length_3: rel
-description_extra_length_4: rela
-description_extra_length_5: relay
-description_extra_length_6: relay_
-description_extra_name: Relay Dpdt Finder 40 52
-description_extra_no_space_length_1: r
-description_extra_no_space_length_2: re
-description_extra_no_space_length_3: rel
-description_extra_no_space_length_4: rela
-description_extra_no_space_length_5: relay
-description_extra_no_space_length_6: relayd
-description_extra_no_space_upper_length_1: R
-description_extra_no_space_upper_length_2: RE
-description_extra_no_space_upper_length_3: REL
-description_extra_no_space_upper_length_4: RELA
-description_extra_no_space_upper_length_5: RELAY
-description_extra_no_space_upper_length_6: RELAYD
-description_extra_upper_length_1: R
-description_extra_upper_length_2: RE
-description_extra_upper_length_3: REL
-description_extra_upper_length_4: RELA
-description_extra_upper_length_5: RELAY
-description_extra_upper_length_6: RELAY_
 description_main: relay_tht
-description_main_length_1: r
-description_main_length_2: re
-description_main_length_3: rel
-description_main_length_4: rela
-description_main_length_5: relay
-description_main_length_6: relay_
-description_main_name: Relay Tht
-description_main_no_space_length_1: r
-description_main_no_space_length_2: re
-description_main_no_space_length_3: rel
-description_main_no_space_length_4: rela
-description_main_no_space_length_5: relay
-description_main_no_space_length_6: relayt
-description_main_no_space_upper_length_1: R
-description_main_no_space_upper_length_2: RE
-description_main_no_space_upper_length_3: REL
-description_main_no_space_upper_length_4: RELA
-description_main_no_space_upper_length_5: RELAY
-description_main_no_space_upper_length_6: RELAYT
-description_main_upper_length_1: R
-description_main_upper_length_2: RE
-description_main_upper_length_3: REL
-description_main_upper_length_4: RELA
-description_main_upper_length_5: RELAY
-description_main_upper_length_6: RELAY_
-directory: parts/eda_kicad_footprint_kicad_default_relay_tht_relay_dpdt_finder_40_52
 footprint_id: eda_kicad_footprint_kicad_default_relay_tht_relay_dpdt_finder_40_52
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -256,67 +179,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_relay_tht_relay_dpdt_finder_40_52
 id: eda_kicad_footprint_kicad_default_relay_tht_relay_dpdt_finder_40_52
-id_no_class: eda_kicad_default_relay_tht_relay_dpdt_finder_40_52
-id_no_color: edarelaythtrelaydpdtfinder4052
-id_no_size: edarelaythtrelaydpdtfinder4052
-id_no_type: eda_relay_tht_relay_dpdt_finder_40_52
 manufacturer: ''
-manufacturer_name: ''
-md5: 7fed0abcbc77e0eee10f7fe0384f99b8
-md5_10: 7fed0abcbc
-md5_10_upper: 7FED0ABCBC
-md5_5: 7fed0
-md5_5_upper: 7FED0
-md5_6: 7fed0a
-md5_6_alpha: 4zoy2
-md5_6_alpha_upper: 4ZOY2
-md5_6_upper: 7FED0A
-name: Eda Kicad Footprint Kicad Default Relay Tht Relay Dpdt Finder 40 52
-name_no_class: Eda Kicad Default Relay Tht Relay Dpdt Finder 40 52
-name_no_color: Edarelaythtrelaydpdtfinder4052
-name_no_size: Edarelaythtrelaydpdtfinder4052
-name_no_type: Eda Relay Tht Relay Dpdt Finder 40 52
-oomp_key: oomp_eda_kicad_footprint_kicad_default_relay_tht_relay_dpdt_finder_40_52
-oomp_word: speaker bus sleepy
-oomp_word_emoji: ':speaker: :bus: :sleepy:'
-oomp_word_emoji_list:
-- ':speaker:'
-- ':bus:'
-- ':sleepy:'
-oomp_word_list:
-- speaker
-- bus
-- sleepy
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

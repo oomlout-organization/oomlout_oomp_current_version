@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: rj45_kycon_g7lx_a88s7_bp_xx_horizontal
-description_extra_length_1: r
-description_extra_length_2: rj
-description_extra_length_3: rj4
-description_extra_length_4: rj45
-description_extra_length_5: rj45_
-description_extra_length_6: rj45_k
-description_extra_name: Rj45 Kycon G7Lx A88S7 Bp Xx Horizontal
-description_extra_no_space_length_1: r
-description_extra_no_space_length_2: rj
-description_extra_no_space_length_3: rj4
-description_extra_no_space_length_4: rj45
-description_extra_no_space_length_5: rj45k
-description_extra_no_space_length_6: rj45ky
-description_extra_no_space_upper_length_1: R
-description_extra_no_space_upper_length_2: RJ
-description_extra_no_space_upper_length_3: RJ4
-description_extra_no_space_upper_length_4: RJ45
-description_extra_no_space_upper_length_5: RJ45K
-description_extra_no_space_upper_length_6: RJ45KY
-description_extra_upper_length_1: R
-description_extra_upper_length_2: RJ
-description_extra_upper_length_3: RJ4
-description_extra_upper_length_4: RJ45
-description_extra_upper_length_5: RJ45_
-description_extra_upper_length_6: RJ45_K
 description_main: connector_rj
-description_main_length_1: c
-description_main_length_2: co
-description_main_length_3: con
-description_main_length_4: conn
-description_main_length_5: conne
-description_main_length_6: connec
-description_main_name: Connector Rj
-description_main_no_space_length_1: c
-description_main_no_space_length_2: co
-description_main_no_space_length_3: con
-description_main_no_space_length_4: conn
-description_main_no_space_length_5: conne
-description_main_no_space_length_6: connec
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CO
-description_main_no_space_upper_length_3: CON
-description_main_no_space_upper_length_4: CONN
-description_main_no_space_upper_length_5: CONNE
-description_main_no_space_upper_length_6: CONNEC
-description_main_upper_length_1: C
-description_main_upper_length_2: CO
-description_main_upper_length_3: CON
-description_main_upper_length_4: CONN
-description_main_upper_length_5: CONNE
-description_main_upper_length_6: CONNEC
-directory: parts/eda_kicad_footprint_kicad_default_connector_rj_rj45_kycon_g7lx_a88s7_bp_xx_horizontal
 footprint_id: eda_kicad_footprint_kicad_default_connector_rj_rj45_kycon_g7lx_a88s7_bp_xx_horizontal
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -315,67 +238,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_connector_rj_rj45_kycon_g7lx_a88s7_bp_xx_horizontal
 id: eda_kicad_footprint_kicad_default_connector_rj_rj45_kycon_g7lx_a88s7_bp_xx_horizontal
-id_no_class: eda_kicad_default_connector_rj_rj45_kycon_g7lx_a88s7_bp_xx_horizontal
-id_no_color: edaconnectorrjrj45kycong7lxa88s7bpxxhorizontal
-id_no_size: edaconnectorrjrj45kycong7lxa88s7bpxxhorizontal
-id_no_type: eda_connector_rj_rj45_kycon_g7lx_a88s7_bp_xx_horizontal
 manufacturer: ''
-manufacturer_name: ''
-md5: 3f9f12f01326ab558bf22c169a258eac
-md5_10: 3f9f12f013
-md5_10_upper: 3F9F12F013
-md5_5: 3f9f1
-md5_5_upper: 3F9F1
-md5_6: 3f9f12
-md5_6_alpha: 2hd76
-md5_6_alpha_upper: 2HD76
-md5_6_upper: 3F9F12
-name: Eda Kicad Footprint Kicad Default Connector Rj Rj45 Kycon G7Lx A88S7 Bp Xx Horizontal
-name_no_class: Eda Kicad Default Connector Rj Rj45 Kycon G7Lx A88S7 Bp Xx Horizontal
-name_no_color: Edaconnectorrjrj45Kycong7Lxa88S7Bpxxhorizontal
-name_no_size: Edaconnectorrjrj45Kycong7Lxa88S7Bpxxhorizontal
-name_no_type: Eda Connector Rj Rj45 Kycon G7Lx A88S7 Bp Xx Horizontal
-oomp_key: oomp_eda_kicad_footprint_kicad_default_connector_rj_rj45_kycon_g7lx_a88s7_bp_xx_horizontal
-oomp_word: horse diamonds anger
-oomp_word_emoji: ':horse: :diamonds: :anger:'
-oomp_word_emoji_list:
-- ':horse:'
-- ':diamonds:'
-- ':anger:'
-oomp_word_list:
-- horse
-- diamonds
-- anger
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

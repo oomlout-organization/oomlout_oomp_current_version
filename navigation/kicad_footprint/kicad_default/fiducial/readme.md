@@ -1,0 +1,8 @@
+* [fiducial_0_5mm_mask1mm](fiducial_0_5mm_mask1mm)
+* [fiducial_0_5mm_mask1_5mm](fiducial_0_5mm_mask1_5mm)
+* [fiducial_0_75mm_mask1_5mm](fiducial_0_75mm_mask1_5mm)
+* [fiducial_0_75mm_mask2_25mm](fiducial_0_75mm_mask2_25mm)
+* [fiducial_1mm_mask2mm](fiducial_1mm_mask2mm)
+* [fiducial_1mm_mask3mm](fiducial_1mm_mask3mm)
+* [fiducial_1_5mm_mask3mm](fiducial_1_5mm_mask3mm)
+* [fiducial_1_5mm_mask4_5mm](fiducial_1_5mm_mask4_5mm)

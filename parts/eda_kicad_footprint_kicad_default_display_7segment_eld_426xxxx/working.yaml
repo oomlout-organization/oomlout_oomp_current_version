@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: eld_426xxxx
-description_extra_length_1: e
-description_extra_length_2: el
-description_extra_length_3: eld
-description_extra_length_4: eld_
-description_extra_length_5: eld_4
-description_extra_length_6: eld_42
-description_extra_name: Eld 426Xxxx
-description_extra_no_space_length_1: e
-description_extra_no_space_length_2: el
-description_extra_no_space_length_3: eld
-description_extra_no_space_length_4: eld4
-description_extra_no_space_length_5: eld42
-description_extra_no_space_length_6: eld426
-description_extra_no_space_upper_length_1: E
-description_extra_no_space_upper_length_2: EL
-description_extra_no_space_upper_length_3: ELD
-description_extra_no_space_upper_length_4: ELD4
-description_extra_no_space_upper_length_5: ELD42
-description_extra_no_space_upper_length_6: ELD426
-description_extra_upper_length_1: E
-description_extra_upper_length_2: EL
-description_extra_upper_length_3: ELD
-description_extra_upper_length_4: ELD_
-description_extra_upper_length_5: ELD_4
-description_extra_upper_length_6: ELD_42
 description_main: display_7segment
-description_main_length_1: d
-description_main_length_2: di
-description_main_length_3: dis
-description_main_length_4: disp
-description_main_length_5: displ
-description_main_length_6: displa
-description_main_name: Display 7Segment
-description_main_no_space_length_1: d
-description_main_no_space_length_2: di
-description_main_no_space_length_3: dis
-description_main_no_space_length_4: disp
-description_main_no_space_length_5: displ
-description_main_no_space_length_6: displa
-description_main_no_space_upper_length_1: D
-description_main_no_space_upper_length_2: DI
-description_main_no_space_upper_length_3: DIS
-description_main_no_space_upper_length_4: DISP
-description_main_no_space_upper_length_5: DISPL
-description_main_no_space_upper_length_6: DISPLA
-description_main_upper_length_1: D
-description_main_upper_length_2: DI
-description_main_upper_length_3: DIS
-description_main_upper_length_4: DISP
-description_main_upper_length_5: DISPL
-description_main_upper_length_6: DISPLA
-directory: parts/eda_kicad_footprint_kicad_default_display_7segment_eld_426xxxx
 footprint_id: eda_kicad_footprint_kicad_default_display_7segment_eld_426xxxx
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -242,67 +165,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_display_7segment_eld_426xxxx
 id: eda_kicad_footprint_kicad_default_display_7segment_eld_426xxxx
-id_no_class: eda_kicad_default_display_7segment_eld_426xxxx
-id_no_color: edadisplay7segmenteld426xxxx
-id_no_size: edadisplay7segmenteld426xxxx
-id_no_type: eda_display_7segment_eld_426xxxx
 manufacturer: ''
-manufacturer_name: ''
-md5: c4191054318b05b8f0ac7ccab1747e5d
-md5_10: c419105431
-md5_10_upper: C419105431
-md5_5: c4191
-md5_5_upper: C4191
-md5_6: c41910
-md5_6_alpha: 7ng9c
-md5_6_alpha_upper: 7NG9C
-md5_6_upper: C41910
-name: Eda Kicad Footprint Kicad Default Display 7Segment Eld 426Xxxx
-name_no_class: Eda Kicad Default Display 7Segment Eld 426Xxxx
-name_no_color: Edadisplay7Segmenteld426Xxxx
-name_no_size: Edadisplay7Segmenteld426Xxxx
-name_no_type: Eda Display 7Segment Eld 426Xxxx
-oomp_key: oomp_eda_kicad_footprint_kicad_default_display_7segment_eld_426xxxx
-oomp_word: cookie pray star
-oomp_word_emoji: ':cookie: :pray: :star:'
-oomp_word_emoji_list:
-- ':cookie:'
-- ':pray:'
-- ':star:'
-oomp_word_list:
-- cookie
-- pray
-- star
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

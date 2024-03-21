@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: resonator_smd_murata_sfska_3pin_7_9x3_8mm_handsoldering
-description_extra_length_1: r
-description_extra_length_2: re
-description_extra_length_3: res
-description_extra_length_4: reso
-description_extra_length_5: reson
-description_extra_length_6: resona
-description_extra_name: Resonator SMD Murata Sfska 3Pin 7 9X3 8mm Handsoldering
-description_extra_no_space_length_1: r
-description_extra_no_space_length_2: re
-description_extra_no_space_length_3: res
-description_extra_no_space_length_4: reso
-description_extra_no_space_length_5: reson
-description_extra_no_space_length_6: resona
-description_extra_no_space_upper_length_1: R
-description_extra_no_space_upper_length_2: RE
-description_extra_no_space_upper_length_3: RES
-description_extra_no_space_upper_length_4: RESO
-description_extra_no_space_upper_length_5: RESON
-description_extra_no_space_upper_length_6: RESONA
-description_extra_upper_length_1: R
-description_extra_upper_length_2: RE
-description_extra_upper_length_3: RES
-description_extra_upper_length_4: RESO
-description_extra_upper_length_5: RESON
-description_extra_upper_length_6: RESONA
 description_main: crystal
-description_main_length_1: c
-description_main_length_2: cr
-description_main_length_3: cry
-description_main_length_4: crys
-description_main_length_5: cryst
-description_main_length_6: crysta
-description_main_name: Crystal
-description_main_no_space_length_1: c
-description_main_no_space_length_2: cr
-description_main_no_space_length_3: cry
-description_main_no_space_length_4: crys
-description_main_no_space_length_5: cryst
-description_main_no_space_length_6: crysta
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CR
-description_main_no_space_upper_length_3: CRY
-description_main_no_space_upper_length_4: CRYS
-description_main_no_space_upper_length_5: CRYST
-description_main_no_space_upper_length_6: CRYSTA
-description_main_upper_length_1: C
-description_main_upper_length_2: CR
-description_main_upper_length_3: CRY
-description_main_upper_length_4: CRYS
-description_main_upper_length_5: CRYST
-description_main_upper_length_6: CRYSTA
-directory: parts/eda_kicad_footprint_kicad_default_crystal_resonator_smd_murata_sfska_3pin_7_9x3_8mm_handsoldering
 footprint_id: eda_kicad_footprint_kicad_default_crystal_resonator_smd_murata_sfska_3pin_7_9x3_8mm_handsoldering
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -170,69 +93,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_crystal_resonator_smd_murata_sfska_3pin_7_9x3_8mm_handsoldering
 id: eda_kicad_footprint_kicad_default_crystal_resonator_smd_murata_sfska_3pin_7_9x3_8mm_handsoldering
-id_no_class: eda_kicad_default_crystal_resonator_smd_murata_sfska_3pin_7_9x3_8mm_handsoldering
-id_no_color: edacrystalresonatorsmdmuratasfska3pin79x38mmhandsoldering
-id_no_size: edacrystalresonatorsmdmuratasfska3pin79x38mmhandsoldering
-id_no_type: eda_crystal_resonator_smd_murata_sfska_3pin_7_9x3_8mm_handsoldering
 manufacturer: ''
-manufacturer_name: ''
-md5: c6e8f356c528d65a0949dbae32f63982
-md5_10: c6e8f356c5
-md5_10_upper: C6E8F356C5
-md5_5: c6e8f
-md5_5_upper: C6E8F
-md5_6: c6e8f3
-md5_6_alpha: 7regj
-md5_6_alpha_upper: 7REGJ
-md5_6_upper: C6E8F3
-name: Eda Kicad Footprint Kicad Default Crystal Resonator SMD Murata Sfska 3Pin 7
-  9X3 8mm Handsoldering
-name_no_class: Eda Kicad Default Crystal Resonator SMD Murata Sfska 3Pin 7 9X3 8mm
-  Handsoldering
-name_no_color: Edacrystalresonatorsmdmuratasfska3Pin79X38mmhandsoldering
-name_no_size: Edacrystalresonatorsmdmuratasfska3Pin79X38mmhandsoldering
-name_no_type: Eda Crystal Resonator SMD Murata Sfska 3Pin 7 9X3 8mm Handsoldering
-oomp_key: oomp_eda_kicad_footprint_kicad_default_crystal_resonator_smd_murata_sfska_3pin_7_9x3_8mm_handsoldering
-oomp_word: lollipop tram two
-oomp_word_emoji: ':lollipop: :tram: :two:'
-oomp_word_emoji_list:
-- ':lollipop:'
-- ':tram:'
-- ':two:'
-oomp_word_list:
-- lollipop
-- tram
-- two
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

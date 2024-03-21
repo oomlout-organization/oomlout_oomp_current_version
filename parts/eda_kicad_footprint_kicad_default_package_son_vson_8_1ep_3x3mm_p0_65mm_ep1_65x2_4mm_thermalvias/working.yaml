@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: vson_8_1ep_3x3mm_p0_65mm_ep1_65x2_4mm_thermalvias
-description_extra_length_1: v
-description_extra_length_2: vs
-description_extra_length_3: vso
-description_extra_length_4: vson
-description_extra_length_5: vson_
-description_extra_length_6: vson_8
-description_extra_name: Vson 8 1Ep 3X3mm P0 65mm Ep1 65X2 4mm Thermalvias
-description_extra_no_space_length_1: v
-description_extra_no_space_length_2: vs
-description_extra_no_space_length_3: vso
-description_extra_no_space_length_4: vson
-description_extra_no_space_length_5: vson8
-description_extra_no_space_length_6: vson81
-description_extra_no_space_upper_length_1: V
-description_extra_no_space_upper_length_2: VS
-description_extra_no_space_upper_length_3: VSO
-description_extra_no_space_upper_length_4: VSON
-description_extra_no_space_upper_length_5: VSON8
-description_extra_no_space_upper_length_6: VSON81
-description_extra_upper_length_1: V
-description_extra_upper_length_2: VS
-description_extra_upper_length_3: VSO
-description_extra_upper_length_4: VSON
-description_extra_upper_length_5: VSON_
-description_extra_upper_length_6: VSON_8
 description_main: package_son
-description_main_length_1: p
-description_main_length_2: pa
-description_main_length_3: pac
-description_main_length_4: pack
-description_main_length_5: packa
-description_main_length_6: packag
-description_main_name: Package Son
-description_main_no_space_length_1: p
-description_main_no_space_length_2: pa
-description_main_no_space_length_3: pac
-description_main_no_space_length_4: pack
-description_main_no_space_length_5: packa
-description_main_no_space_length_6: packag
-description_main_no_space_upper_length_1: P
-description_main_no_space_upper_length_2: PA
-description_main_no_space_upper_length_3: PAC
-description_main_no_space_upper_length_4: PACK
-description_main_no_space_upper_length_5: PACKA
-description_main_no_space_upper_length_6: PACKAG
-description_main_upper_length_1: P
-description_main_upper_length_2: PA
-description_main_upper_length_3: PAC
-description_main_upper_length_4: PACK
-description_main_upper_length_5: PACKA
-description_main_upper_length_6: PACKAG
-directory: parts/eda_kicad_footprint_kicad_default_package_son_vson_8_1ep_3x3mm_p0_65mm_ep1_65x2_4mm_thermalvias
 footprint_id: eda_kicad_footprint_kicad_default_package_son_vson_8_1ep_3x3mm_p0_65mm_ep1_65x2_4mm_thermalvias
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -276,69 +199,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_package_son_vson_8_1ep_3x3mm_p0_65mm_ep1_65x2_4mm_thermalvias
 id: eda_kicad_footprint_kicad_default_package_son_vson_8_1ep_3x3mm_p0_65mm_ep1_65x2_4mm_thermalvias
-id_no_class: eda_kicad_default_package_son_vson_8_1ep_3x3mm_p0_65mm_ep1_65x2_4mm_thermalvias
-id_no_color: edapackagesonvson81ep3x3mmp065mmep165x24mmthermalvias
-id_no_size: edapackagesonvson81ep3x3mmp065mmep165x24mmthermalvias
-id_no_type: eda_package_son_vson_8_1ep_3x3mm_p0_65mm_ep1_65x2_4mm_thermalvias
 manufacturer: ''
-manufacturer_name: ''
-md5: ced4e57438745359a0aa081d1054caf3
-md5_10: ced4e57438
-md5_10_upper: CED4E57438
-md5_5: ced4e
-md5_5_upper: CED4E
-md5_6: ced4e5
-md5_6_alpha: 82j1h
-md5_6_alpha_upper: 82J1H
-md5_6_upper: CED4E5
-name: Eda Kicad Footprint Kicad Default Package Son Vson 8 1Ep 3X3mm P0 65mm Ep1 65X2
-  4mm Thermalvias
-name_no_class: Eda Kicad Default Package Son Vson 8 1Ep 3X3mm P0 65mm Ep1 65X2 4mm
-  Thermalvias
-name_no_color: Edapackagesonvson81Ep3X3mmp065mmep165X24mmthermalvias
-name_no_size: Edapackagesonvson81Ep3X3mmp065mmep165X24mmthermalvias
-name_no_type: Eda Package Son Vson 8 1Ep 3X3mm P0 65mm Ep1 65X2 4mm Thermalvias
-oomp_key: oomp_eda_kicad_footprint_kicad_default_package_son_vson_8_1ep_3x3mm_p0_65mm_ep1_65x2_4mm_thermalvias
-oomp_word: peach corn rocket
-oomp_word_emoji: ':peach: :corn: :rocket:'
-oomp_word_emoji_list:
-- ':peach:'
-- ':corn:'
-- ':rocket:'
-oomp_word_list:
-- peach
-- corn
-- rocket
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

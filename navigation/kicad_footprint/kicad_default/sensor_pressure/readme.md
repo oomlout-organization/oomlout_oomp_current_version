@@ -1,0 +1,7 @@
+* [cfsensor_xgzp6897x](cfsensor_xgzp6897x)
+* [cfsensor_xgzp6899x](cfsensor_xgzp6899x)
+* [freescale_98arh99066a](freescale_98arh99066a)
+* [freescale_98arh99089a](freescale_98arh99089a)
+* [honeywell_40pcxxxg1a](honeywell_40pcxxxg1a)
+* [te_ms5525dso_dbxxxys](te_ms5525dso_dbxxxys)
+* [te_ms5837_xxba](te_ms5837_xxba)

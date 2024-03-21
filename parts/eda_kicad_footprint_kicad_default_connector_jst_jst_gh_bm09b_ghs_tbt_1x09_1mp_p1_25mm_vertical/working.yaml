@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: jst_gh_bm09b_ghs_tbt_1x09_1mp_p1_25mm_vertical
-description_extra_length_1: j
-description_extra_length_2: js
-description_extra_length_3: jst
-description_extra_length_4: jst_
-description_extra_length_5: jst_g
-description_extra_length_6: jst_gh
-description_extra_name: Jst Gh Bm09B Ghs Tbt 1X09 1Mp P1 25mm Vertical
-description_extra_no_space_length_1: j
-description_extra_no_space_length_2: js
-description_extra_no_space_length_3: jst
-description_extra_no_space_length_4: jstg
-description_extra_no_space_length_5: jstgh
-description_extra_no_space_length_6: jstghb
-description_extra_no_space_upper_length_1: J
-description_extra_no_space_upper_length_2: JS
-description_extra_no_space_upper_length_3: JST
-description_extra_no_space_upper_length_4: JSTG
-description_extra_no_space_upper_length_5: JSTGH
-description_extra_no_space_upper_length_6: JSTGHB
-description_extra_upper_length_1: J
-description_extra_upper_length_2: JS
-description_extra_upper_length_3: JST
-description_extra_upper_length_4: JST_
-description_extra_upper_length_5: JST_G
-description_extra_upper_length_6: JST_GH
 description_main: connector_jst
-description_main_length_1: c
-description_main_length_2: co
-description_main_length_3: con
-description_main_length_4: conn
-description_main_length_5: conne
-description_main_length_6: connec
-description_main_name: Connector Jst
-description_main_no_space_length_1: c
-description_main_no_space_length_2: co
-description_main_no_space_length_3: con
-description_main_no_space_length_4: conn
-description_main_no_space_length_5: conne
-description_main_no_space_length_6: connec
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CO
-description_main_no_space_upper_length_3: CON
-description_main_no_space_upper_length_4: CONN
-description_main_no_space_upper_length_5: CONNE
-description_main_no_space_upper_length_6: CONNEC
-description_main_upper_length_1: C
-description_main_upper_length_2: CO
-description_main_upper_length_3: CON
-description_main_upper_length_4: CONN
-description_main_upper_length_5: CONNE
-description_main_upper_length_6: CONNEC
-directory: parts/eda_kicad_footprint_kicad_default_connector_jst_jst_gh_bm09b_ghs_tbt_1x09_1mp_p1_25mm_vertical
 footprint_id: eda_kicad_footprint_kicad_default_connector_jst_jst_gh_bm09b_ghs_tbt_1x09_1mp_p1_25mm_vertical
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -340,69 +263,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_connector_jst_jst_gh_bm09b_ghs_tbt_1x09_1mp_p1_25mm_vertical
 id: eda_kicad_footprint_kicad_default_connector_jst_jst_gh_bm09b_ghs_tbt_1x09_1mp_p1_25mm_vertical
-id_no_class: eda_kicad_default_connector_jst_jst_gh_bm09b_ghs_tbt_1x09_1mp_p1_25mm_vertical
-id_no_color: edaconnectorjstjstghbm09bghstbt1x091mpp125mmvertical
-id_no_size: edaconnectorjstjstghbm09bghstbt1x091mpp125mmvertical
-id_no_type: eda_connector_jst_jst_gh_bm09b_ghs_tbt_1x09_1mp_p1_25mm_vertical
 manufacturer: ''
-manufacturer_name: ''
-md5: 2ff6604f57f2946382400485abc2fa76
-md5_10: 2ff6604f57
-md5_10_upper: 2FF6604F57
-md5_5: 2ff66
-md5_5_upper: 2FF66
-md5_6: 2ff660
-md5_6_alpha: 1vdcw
-md5_6_alpha_upper: 1VDCW
-md5_6_upper: 2FF660
-name: Eda Kicad Footprint Kicad Default Connector Jst Jst Gh Bm09B Ghs Tbt 1X09 1Mp
-  P1 25mm Vertical
-name_no_class: Eda Kicad Default Connector Jst Jst Gh Bm09B Ghs Tbt 1X09 1Mp P1 25mm
-  Vertical
-name_no_color: Edaconnectorjstjstghbm09Bghstbt1X091Mpp125mmvertical
-name_no_size: Edaconnectorjstjstghbm09Bghstbt1X091Mpp125mmvertical
-name_no_type: Eda Connector Jst Jst Gh Bm09B Ghs Tbt 1X09 1Mp P1 25mm Vertical
-oomp_key: oomp_eda_kicad_footprint_kicad_default_connector_jst_jst_gh_bm09b_ghs_tbt_1x09_1mp_p1_25mm_vertical
-oomp_word: cyclone five poodle
-oomp_word_emoji: ':cyclone: :five: :poodle:'
-oomp_word_emoji_list:
-- ':cyclone:'
-- ':five:'
-- ':poodle:'
-oomp_word_list:
-- cyclone
-- five
-- poodle
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

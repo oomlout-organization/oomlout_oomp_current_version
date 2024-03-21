@@ -1,86 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: texas_php0048e_htqfp_48_1ep_7x7mm_p0_5mm_ep6_5x6_5mm_mask3_62x3_62mm
-description_extra_length_1: t
-description_extra_length_2: te
-description_extra_length_3: tex
-description_extra_length_4: texa
-description_extra_length_5: texas
-description_extra_length_6: texas_
-description_extra_name: Texas Php0048E Htqfp 48 1Ep 7X7mm P0 5mm Ep6 5X6 5mm Mask3
-  62X3 62mm
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: te
-description_extra_no_space_length_3: tex
-description_extra_no_space_length_4: texa
-description_extra_no_space_length_5: texas
-description_extra_no_space_length_6: texasp
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TE
-description_extra_no_space_upper_length_3: TEX
-description_extra_no_space_upper_length_4: TEXA
-description_extra_no_space_upper_length_5: TEXAS
-description_extra_no_space_upper_length_6: TEXASP
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TE
-description_extra_upper_length_3: TEX
-description_extra_upper_length_4: TEXA
-description_extra_upper_length_5: TEXAS
-description_extra_upper_length_6: TEXAS_
 description_main: package_qfp
-description_main_length_1: p
-description_main_length_2: pa
-description_main_length_3: pac
-description_main_length_4: pack
-description_main_length_5: packa
-description_main_length_6: packag
-description_main_name: Package Qfp
-description_main_no_space_length_1: p
-description_main_no_space_length_2: pa
-description_main_no_space_length_3: pac
-description_main_no_space_length_4: pack
-description_main_no_space_length_5: packa
-description_main_no_space_length_6: packag
-description_main_no_space_upper_length_1: P
-description_main_no_space_upper_length_2: PA
-description_main_no_space_upper_length_3: PAC
-description_main_no_space_upper_length_4: PACK
-description_main_no_space_upper_length_5: PACKA
-description_main_no_space_upper_length_6: PACKAG
-description_main_upper_length_1: P
-description_main_upper_length_2: PA
-description_main_upper_length_3: PAC
-description_main_upper_length_4: PACK
-description_main_upper_length_5: PACKA
-description_main_upper_length_6: PACKAG
-directory: parts/eda_kicad_footprint_kicad_default_package_qfp_texas_php0048e_htqfp_48_1ep_7x7mm_p0_5mm_ep6_5x6_5mm_mask3_62x3_62mm
 footprint_id: eda_kicad_footprint_kicad_default_package_qfp_texas_php0048e_htqfp_48_1ep_7x7mm_p0_5mm_ep6_5x6_5mm_mask3_62x3_62mm
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -586,70 +508,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_package_qfp_texas_php0048e_htqfp_48_1ep_7x7mm_p0_5mm_ep6_5x6_5mm_mask3_62x3_62mm
 id: eda_kicad_footprint_kicad_default_package_qfp_texas_php0048e_htqfp_48_1ep_7x7mm_p0_5mm_ep6_5x6_5mm_mask3_62x3_62mm
-id_no_class: eda_kicad_default_package_qfp_texas_php0048e_htqfp_48_1ep_7x7mm_p0_5mm_ep6_5x6_5mm_mask3_62x3_62mm
-id_no_color: edapackageqfptexasphp0048ehtqfp481ep7x7mmp05mmep65x65mmmask362x362mm
-id_no_size: edapackageqfptexasphp0048ehtqfp481ep7x7mmp05mmep65x65mmmask362x362mm
-id_no_type: eda_package_qfp_texas_php0048e_htqfp_48_1ep_7x7mm_p0_5mm_ep6_5x6_5mm_mask3_62x3_62mm
 manufacturer: ''
-manufacturer_name: ''
-md5: 4def4ad7b158a16fb17ca2e2df2d20ff
-md5_10: 4def4ad7b1
-md5_10_upper: 4DEF4AD7B1
-md5_5: 4def4
-md5_5_upper: 4DEF4
-md5_6: 4def4a
-md5_6_alpha: 31gzu
-md5_6_alpha_upper: 31GZU
-md5_6_upper: 4DEF4A
-name: Eda Kicad Footprint Kicad Default Package Qfp Texas Php0048E Htqfp 48 1Ep 7X7mm
-  P0 5mm Ep6 5X6 5mm Mask3 62X3 62mm
-name_no_class: Eda Kicad Default Package Qfp Texas Php0048E Htqfp 48 1Ep 7X7mm P0
-  5mm Ep6 5X6 5mm Mask3 62X3 62mm
-name_no_color: Edapackageqfptexasphp0048Ehtqfp481Ep7X7mmp05mmep65X65mmmask362X362mm
-name_no_size: Edapackageqfptexasphp0048Ehtqfp481Ep7X7mmp05mmep65X65mmmask362X362mm
-name_no_type: Eda Package Qfp Texas Php0048E Htqfp 48 1Ep 7X7mm P0 5mm Ep6 5X6 5mm
-  Mask3 62X3 62mm
-oomp_key: oomp_eda_kicad_footprint_kicad_default_package_qfp_texas_php0048e_htqfp_48_1ep_7x7mm_p0_5mm_ep6_5x6_5mm_mask3_62x3_62mm
-oomp_word: bug truck chicken
-oomp_word_emoji: ':bug: :truck: :chicken:'
-oomp_word_emoji_list:
-- ':bug:'
-- ':truck:'
-- ':chicken:'
-oomp_word_list:
-- bug
-- truck
-- chicken
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

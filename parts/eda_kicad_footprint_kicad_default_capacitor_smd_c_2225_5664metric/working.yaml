@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: c_2225_5664metric
-description_extra_length_1: c
-description_extra_length_2: c_
-description_extra_length_3: c_2
-description_extra_length_4: c_22
-description_extra_length_5: c_222
-description_extra_length_6: c_2225
-description_extra_name: C 2225 5664Metric
-description_extra_no_space_length_1: c
-description_extra_no_space_length_2: c2
-description_extra_no_space_length_3: c22
-description_extra_no_space_length_4: c222
-description_extra_no_space_length_5: c2225
-description_extra_no_space_length_6: c22255
-description_extra_no_space_upper_length_1: C
-description_extra_no_space_upper_length_2: C2
-description_extra_no_space_upper_length_3: C22
-description_extra_no_space_upper_length_4: C222
-description_extra_no_space_upper_length_5: C2225
-description_extra_no_space_upper_length_6: C22255
-description_extra_upper_length_1: C
-description_extra_upper_length_2: C_
-description_extra_upper_length_3: C_2
-description_extra_upper_length_4: C_22
-description_extra_upper_length_5: C_222
-description_extra_upper_length_6: C_2225
 description_main: capacitor_smd
-description_main_length_1: c
-description_main_length_2: ca
-description_main_length_3: cap
-description_main_length_4: capa
-description_main_length_5: capac
-description_main_length_6: capaci
-description_main_name: Capacitor SMD
-description_main_no_space_length_1: c
-description_main_no_space_length_2: ca
-description_main_no_space_length_3: cap
-description_main_no_space_length_4: capa
-description_main_no_space_length_5: capac
-description_main_no_space_length_6: capaci
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CA
-description_main_no_space_upper_length_3: CAP
-description_main_no_space_upper_length_4: CAPA
-description_main_no_space_upper_length_5: CAPAC
-description_main_no_space_upper_length_6: CAPACI
-description_main_upper_length_1: C
-description_main_upper_length_2: CA
-description_main_upper_length_3: CAP
-description_main_upper_length_4: CAPA
-description_main_upper_length_5: CAPAC
-description_main_upper_length_6: CAPACI
-directory: parts/eda_kicad_footprint_kicad_default_capacitor_smd_c_2225_5664metric
 footprint_id: eda_kicad_footprint_kicad_default_capacitor_smd_c_2225_5664metric
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -163,67 +86,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_capacitor_smd_c_2225_5664metric
 id: eda_kicad_footprint_kicad_default_capacitor_smd_c_2225_5664metric
-id_no_class: eda_kicad_default_capacitor_smd_c_2225_5664metric
-id_no_color: edacapacitorsmdc22255664metric
-id_no_size: edacapacitorsmdc22255664metric
-id_no_type: eda_capacitor_smd_c_2225_5664metric
 manufacturer: ''
-manufacturer_name: ''
-md5: ee6b12a157e01580cbf939511b6b2c1e
-md5_10: ee6b12a157
-md5_10_upper: EE6B12A157
-md5_5: ee6b1
-md5_5_upper: EE6B1
-md5_6: ee6b12
-md5_6_alpha: 9awb6
-md5_6_alpha_upper: 9AWB6
-md5_6_upper: EE6B12
-name: Eda Kicad Footprint Kicad Default Capacitor SMD C 2225 5664Metric
-name_no_class: Eda Kicad Default Capacitor SMD C 2225 5664Metric
-name_no_color: Edacapacitorsmdc22255664Metric
-name_no_size: Edacapacitorsmdc22255664Metric
-name_no_type: Eda Capacitor SMD C 2225 5664Metric
-oomp_key: oomp_eda_kicad_footprint_kicad_default_capacitor_smd_c_2225_5664metric
-oomp_word: ambulance chestnut anger
-oomp_word_emoji: ':ambulance: :chestnut: :anger:'
-oomp_word_emoji_list:
-- ':ambulance:'
-- ':chestnut:'
-- ':anger:'
-oomp_word_list:
-- ambulance
-- chestnut
-- anger
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

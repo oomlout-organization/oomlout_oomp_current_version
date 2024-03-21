@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: nidec_copal_cas_120a
-description_extra_length_1: n
-description_extra_length_2: ni
-description_extra_length_3: nid
-description_extra_length_4: nide
-description_extra_length_5: nidec
-description_extra_length_6: nidec_
-description_extra_name: Nidec Copal Cas 120A
-description_extra_no_space_length_1: n
-description_extra_no_space_length_2: ni
-description_extra_no_space_length_3: nid
-description_extra_no_space_length_4: nide
-description_extra_no_space_length_5: nidec
-description_extra_no_space_length_6: nidecc
-description_extra_no_space_upper_length_1: N
-description_extra_no_space_upper_length_2: NI
-description_extra_no_space_upper_length_3: NID
-description_extra_no_space_upper_length_4: NIDE
-description_extra_no_space_upper_length_5: NIDEC
-description_extra_no_space_upper_length_6: NIDECC
-description_extra_upper_length_1: N
-description_extra_upper_length_2: NI
-description_extra_upper_length_3: NID
-description_extra_upper_length_4: NIDE
-description_extra_upper_length_5: NIDEC
-description_extra_upper_length_6: NIDEC_
 description_main: button_switch_smd
-description_main_length_1: b
-description_main_length_2: bu
-description_main_length_3: but
-description_main_length_4: butt
-description_main_length_5: butto
-description_main_length_6: button
-description_main_name: Button Switch SMD
-description_main_no_space_length_1: b
-description_main_no_space_length_2: bu
-description_main_no_space_length_3: but
-description_main_no_space_length_4: butt
-description_main_no_space_length_5: butto
-description_main_no_space_length_6: button
-description_main_no_space_upper_length_1: B
-description_main_no_space_upper_length_2: BU
-description_main_no_space_upper_length_3: BUT
-description_main_no_space_upper_length_4: BUTT
-description_main_no_space_upper_length_5: BUTTO
-description_main_no_space_upper_length_6: BUTTON
-description_main_upper_length_1: B
-description_main_upper_length_2: BU
-description_main_upper_length_3: BUT
-description_main_upper_length_4: BUTT
-description_main_upper_length_5: BUTTO
-description_main_upper_length_6: BUTTON
-directory: parts/eda_kicad_footprint_kicad_default_button_switch_smd_nidec_copal_cas_120a
 footprint_id: eda_kicad_footprint_kicad_default_button_switch_smd_nidec_copal_cas_120a
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -176,67 +99,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_button_switch_smd_nidec_copal_cas_120a
 id: eda_kicad_footprint_kicad_default_button_switch_smd_nidec_copal_cas_120a
-id_no_class: eda_kicad_default_button_switch_smd_nidec_copal_cas_120a
-id_no_color: edabuttonswitchsmdnideccopalcas120a
-id_no_size: edabuttonswitchsmdnideccopalcas120a
-id_no_type: eda_button_switch_smd_nidec_copal_cas_120a
 manufacturer: ''
-manufacturer_name: ''
-md5: e98e3fc427971b1eecd33088f3ceaf7e
-md5_10: e98e3fc427
-md5_10_upper: E98E3FC427
-md5_5: e98e3
-md5_5_upper: E98E3
-md5_6: e98e3f
-md5_6_alpha: 942f3
-md5_6_alpha_upper: 942F3
-md5_6_upper: E98E3F
-name: Eda Kicad Footprint Kicad Default Button Switch SMD Nidec Copal Cas 120A
-name_no_class: Eda Kicad Default Button Switch SMD Nidec Copal Cas 120A
-name_no_color: Edabuttonswitchsmdnideccopalcas120A
-name_no_size: Edabuttonswitchsmdnideccopalcas120A
-name_no_type: Eda Button Switch SMD Nidec Copal Cas 120A
-oomp_key: oomp_eda_kicad_footprint_kicad_default_button_switch_smd_nidec_copal_cas_120a
-oomp_word: bike clipboard horse
-oomp_word_emoji: ':bike: :clipboard: :horse:'
-oomp_word_emoji_list:
-- ':bike:'
-- ':clipboard:'
-- ':horse:'
-oomp_word_list:
-- bike
-- clipboard
-- horse
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

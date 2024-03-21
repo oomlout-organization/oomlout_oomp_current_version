@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: pinsocket_1x33_p2_00mm_vertical
-description_extra_length_1: p
-description_extra_length_2: pi
-description_extra_length_3: pin
-description_extra_length_4: pins
-description_extra_length_5: pinso
-description_extra_length_6: pinsoc
-description_extra_name: Pinsocket 1X33 P2 00mm Vertical
-description_extra_no_space_length_1: p
-description_extra_no_space_length_2: pi
-description_extra_no_space_length_3: pin
-description_extra_no_space_length_4: pins
-description_extra_no_space_length_5: pinso
-description_extra_no_space_length_6: pinsoc
-description_extra_no_space_upper_length_1: P
-description_extra_no_space_upper_length_2: PI
-description_extra_no_space_upper_length_3: PIN
-description_extra_no_space_upper_length_4: PINS
-description_extra_no_space_upper_length_5: PINSO
-description_extra_no_space_upper_length_6: PINSOC
-description_extra_upper_length_1: P
-description_extra_upper_length_2: PI
-description_extra_upper_length_3: PIN
-description_extra_upper_length_4: PINS
-description_extra_upper_length_5: PINSO
-description_extra_upper_length_6: PINSOC
 description_main: connector_pinsocket_2_00mm
-description_main_length_1: c
-description_main_length_2: co
-description_main_length_3: con
-description_main_length_4: conn
-description_main_length_5: conne
-description_main_length_6: connec
-description_main_name: Connector Pinsocket 2 00mm
-description_main_no_space_length_1: c
-description_main_no_space_length_2: co
-description_main_no_space_length_3: con
-description_main_no_space_length_4: conn
-description_main_no_space_length_5: conne
-description_main_no_space_length_6: connec
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CO
-description_main_no_space_upper_length_3: CON
-description_main_no_space_upper_length_4: CONN
-description_main_no_space_upper_length_5: CONNE
-description_main_no_space_upper_length_6: CONNEC
-description_main_upper_length_1: C
-description_main_upper_length_2: CO
-description_main_upper_length_3: CON
-description_main_upper_length_4: CONN
-description_main_upper_length_5: CONNE
-description_main_upper_length_6: CONNEC
-directory: parts/eda_kicad_footprint_kicad_default_connector_pinsocket_2_00mm_pinsocket_1x33_p2_00mm_vertical
 footprint_id: eda_kicad_footprint_kicad_default_connector_pinsocket_2_00mm_pinsocket_1x33_p2_00mm_vertical
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -421,69 +344,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_connector_pinsocket_2_00mm_pinsocket_1x33_p2_00mm_vertical
 id: eda_kicad_footprint_kicad_default_connector_pinsocket_2_00mm_pinsocket_1x33_p2_00mm_vertical
-id_no_class: eda_kicad_default_connector_pinsocket_2_00mm_pinsocket_1x33_p2_00mm_vertical
-id_no_color: edaconnectorpinsocket200mmpinsocket1x33p200mmvertical
-id_no_size: edaconnectorpinsocket200mmpinsocket1x33p200mmvertical
-id_no_type: eda_connector_pinsocket_2_00mm_pinsocket_1x33_p2_00mm_vertical
 manufacturer: ''
-manufacturer_name: ''
-md5: 90a805ac545cfe440501515ee245f4a3
-md5_10: 90a805ac54
-md5_10_upper: 90A805AC54
-md5_5: 90a80
-md5_5_upper: 90A80
-md5_6: 90a805
-md5_6_alpha: 5n6yt
-md5_6_alpha_upper: 5N6YT
-md5_6_upper: 90A805
-name: Eda Kicad Footprint Kicad Default Connector Pinsocket 2 00mm Pinsocket 1X33
-  P2 00mm Vertical
-name_no_class: Eda Kicad Default Connector Pinsocket 2 00mm Pinsocket 1X33 P2 00mm
-  Vertical
-name_no_color: Edaconnectorpinsocket200mmpinsocket1X33P200mmvertical
-name_no_size: Edaconnectorpinsocket200mmpinsocket1X33P200mmvertical
-name_no_type: Eda Connector Pinsocket 2 00mm Pinsocket 1X33 P2 00mm Vertical
-oomp_key: oomp_eda_kicad_footprint_kicad_default_connector_pinsocket_2_00mm_pinsocket_1x33_p2_00mm_vertical
-oomp_word: scissors shoe kissing
-oomp_word_emoji: ':scissors: :shoe: :kissing:'
-oomp_word_emoji_list:
-- ':scissors:'
-- ':shoe:'
-- ':kissing:'
-oomp_word_list:
-- scissors
-- shoe
-- kissing
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

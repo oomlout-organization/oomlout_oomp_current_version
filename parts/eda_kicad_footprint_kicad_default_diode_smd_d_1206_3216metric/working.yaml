@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: d_1206_3216metric
-description_extra_length_1: d
-description_extra_length_2: d_
-description_extra_length_3: d_1
-description_extra_length_4: d_12
-description_extra_length_5: d_120
-description_extra_length_6: d_1206
-description_extra_name: D 1206 3216Metric
-description_extra_no_space_length_1: d
-description_extra_no_space_length_2: d1
-description_extra_no_space_length_3: d12
-description_extra_no_space_length_4: d120
-description_extra_no_space_length_5: d1206
-description_extra_no_space_length_6: d12063
-description_extra_no_space_upper_length_1: D
-description_extra_no_space_upper_length_2: D1
-description_extra_no_space_upper_length_3: D12
-description_extra_no_space_upper_length_4: D120
-description_extra_no_space_upper_length_5: D1206
-description_extra_no_space_upper_length_6: D12063
-description_extra_upper_length_1: D
-description_extra_upper_length_2: D_
-description_extra_upper_length_3: D_1
-description_extra_upper_length_4: D_12
-description_extra_upper_length_5: D_120
-description_extra_upper_length_6: D_1206
 description_main: diode_smd
-description_main_length_1: d
-description_main_length_2: di
-description_main_length_3: dio
-description_main_length_4: diod
-description_main_length_5: diode
-description_main_length_6: diode_
-description_main_name: Diode SMD
-description_main_no_space_length_1: d
-description_main_no_space_length_2: di
-description_main_no_space_length_3: dio
-description_main_no_space_length_4: diod
-description_main_no_space_length_5: diode
-description_main_no_space_length_6: diodes
-description_main_no_space_upper_length_1: D
-description_main_no_space_upper_length_2: DI
-description_main_no_space_upper_length_3: DIO
-description_main_no_space_upper_length_4: DIOD
-description_main_no_space_upper_length_5: DIODE
-description_main_no_space_upper_length_6: DIODES
-description_main_upper_length_1: D
-description_main_upper_length_2: DI
-description_main_upper_length_3: DIO
-description_main_upper_length_4: DIOD
-description_main_upper_length_5: DIODE
-description_main_upper_length_6: DIODE_
-directory: parts/eda_kicad_footprint_kicad_default_diode_smd_d_1206_3216metric
 footprint_id: eda_kicad_footprint_kicad_default_diode_smd_d_1206_3216metric
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -169,67 +92,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_diode_smd_d_1206_3216metric
 id: eda_kicad_footprint_kicad_default_diode_smd_d_1206_3216metric
-id_no_class: eda_kicad_default_diode_smd_d_1206_3216metric
-id_no_color: edadiodesmdd12063216metric
-id_no_size: edadiodesmdd12063216metric
-id_no_type: eda_diode_smd_d_1206_3216metric
 manufacturer: ''
-manufacturer_name: ''
-md5: 501f9ead7a921eb35be11aa3568171a1
-md5_10: 501f9ead7a
-md5_10_upper: 501F9EAD7A
-md5_5: 501f9
-md5_5_upper: 501F9
-md5_6: 501f9e
-md5_6_alpha: 34joe
-md5_6_alpha_upper: 34JOE
-md5_6_upper: 501F9E
-name: Eda Kicad Footprint Kicad Default Diode SMD D 1206 3216Metric
-name_no_class: Eda Kicad Default Diode SMD D 1206 3216Metric
-name_no_color: Edadiodesmdd12063216Metric
-name_no_size: Edadiodesmdd12063216Metric
-name_no_type: Eda Diode SMD D 1206 3216Metric
-oomp_key: oomp_eda_kicad_footprint_kicad_default_diode_smd_d_1206_3216metric
-oomp_word: beetle princess clubs
-oomp_word_emoji: ':beetle: :princess: :clubs:'
-oomp_word_emoji_list:
-- ':beetle:'
-- ':princess:'
-- ':clubs:'
-oomp_word_list:
-- beetle
-- princess
-- clubs
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

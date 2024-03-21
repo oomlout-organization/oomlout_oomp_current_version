@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: wuerth_36503305_30x30mm
-description_extra_length_1: w
-description_extra_length_2: wu
-description_extra_length_3: wue
-description_extra_length_4: wuer
-description_extra_length_5: wuert
-description_extra_length_6: wuerth
-description_extra_name: Wuerth 36503305 30X30mm
-description_extra_no_space_length_1: w
-description_extra_no_space_length_2: wu
-description_extra_no_space_length_3: wue
-description_extra_no_space_length_4: wuer
-description_extra_no_space_length_5: wuert
-description_extra_no_space_length_6: wuerth
-description_extra_no_space_upper_length_1: W
-description_extra_no_space_upper_length_2: WU
-description_extra_no_space_upper_length_3: WUE
-description_extra_no_space_upper_length_4: WUER
-description_extra_no_space_upper_length_5: WUERT
-description_extra_no_space_upper_length_6: WUERTH
-description_extra_upper_length_1: W
-description_extra_upper_length_2: WU
-description_extra_upper_length_3: WUE
-description_extra_upper_length_4: WUER
-description_extra_upper_length_5: WUERT
-description_extra_upper_length_6: WUERTH
 description_main: rf_shielding
-description_main_length_1: r
-description_main_length_2: rf
-description_main_length_3: rf_
-description_main_length_4: rf_s
-description_main_length_5: rf_sh
-description_main_length_6: rf_shi
-description_main_name: Rf Shielding
-description_main_no_space_length_1: r
-description_main_no_space_length_2: rf
-description_main_no_space_length_3: rfs
-description_main_no_space_length_4: rfsh
-description_main_no_space_length_5: rfshi
-description_main_no_space_length_6: rfshie
-description_main_no_space_upper_length_1: R
-description_main_no_space_upper_length_2: RF
-description_main_no_space_upper_length_3: RFS
-description_main_no_space_upper_length_4: RFSH
-description_main_no_space_upper_length_5: RFSHI
-description_main_no_space_upper_length_6: RFSHIE
-description_main_upper_length_1: R
-description_main_upper_length_2: RF
-description_main_upper_length_3: RF_
-description_main_upper_length_4: RF_S
-description_main_upper_length_5: RF_SH
-description_main_upper_length_6: RF_SHI
-directory: parts/eda_kicad_footprint_kicad_default_rf_shielding_wuerth_36503305_30x30mm
 footprint_id: eda_kicad_footprint_kicad_default_rf_shielding_wuerth_36503305_30x30mm
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -428,67 +351,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_rf_shielding_wuerth_36503305_30x30mm
 id: eda_kicad_footprint_kicad_default_rf_shielding_wuerth_36503305_30x30mm
-id_no_class: eda_kicad_default_rf_shielding_wuerth_36503305_30x30mm
-id_no_color: edarfshieldingwuerth3650330530x30mm
-id_no_size: edarfshieldingwuerth3650330530x30mm
-id_no_type: eda_rf_shielding_wuerth_36503305_30x30mm
 manufacturer: ''
-manufacturer_name: ''
-md5: 575b6862d4ed55a8fb6239308e1e5d7c
-md5_10: 575b6862d4
-md5_10_upper: 575B6862D4
-md5_5: 575b6
-md5_5_upper: 575B6
-md5_6: 575b68
-md5_6_alpha: 3epgo
-md5_6_alpha_upper: 3EPGO
-md5_6_upper: 575B68
-name: Eda Kicad Footprint Kicad Default Rf Shielding Wuerth 36503305 30X30mm
-name_no_class: Eda Kicad Default Rf Shielding Wuerth 36503305 30X30mm
-name_no_color: Edarfshieldingwuerth3650330530X30mm
-name_no_size: Edarfshieldingwuerth3650330530X30mm
-name_no_type: Eda Rf Shielding Wuerth 36503305 30X30mm
-oomp_key: oomp_eda_kicad_footprint_kicad_default_rf_shielding_wuerth_36503305_30x30mm
-oomp_word: rat rooster mushroom
-oomp_word_emoji: ':rat: :rooster: :mushroom:'
-oomp_word_emoji_list:
-- ':rat:'
-- ':rooster:'
-- ':mushroom:'
-oomp_word_list:
-- rat
-- rooster
-- mushroom
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

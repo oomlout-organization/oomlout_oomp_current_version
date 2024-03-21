@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: atmel_atsamr21g18_mr210ua_norfpads
-description_extra_length_1: a
-description_extra_length_2: at
-description_extra_length_3: atm
-description_extra_length_4: atme
-description_extra_length_5: atmel
-description_extra_length_6: atmel_
-description_extra_name: Atmel Atsamr21G18 Mr210Ua Norfpads
-description_extra_no_space_length_1: a
-description_extra_no_space_length_2: at
-description_extra_no_space_length_3: atm
-description_extra_no_space_length_4: atme
-description_extra_no_space_length_5: atmel
-description_extra_no_space_length_6: atmela
-description_extra_no_space_upper_length_1: A
-description_extra_no_space_upper_length_2: AT
-description_extra_no_space_upper_length_3: ATM
-description_extra_no_space_upper_length_4: ATME
-description_extra_no_space_upper_length_5: ATMEL
-description_extra_no_space_upper_length_6: ATMELA
-description_extra_upper_length_1: A
-description_extra_upper_length_2: AT
-description_extra_upper_length_3: ATM
-description_extra_upper_length_4: ATME
-description_extra_upper_length_5: ATMEL
-description_extra_upper_length_6: ATMEL_
 description_main: rf_module
-description_main_length_1: r
-description_main_length_2: rf
-description_main_length_3: rf_
-description_main_length_4: rf_m
-description_main_length_5: rf_mo
-description_main_length_6: rf_mod
-description_main_name: Rf Module
-description_main_no_space_length_1: r
-description_main_no_space_length_2: rf
-description_main_no_space_length_3: rfm
-description_main_no_space_length_4: rfmo
-description_main_no_space_length_5: rfmod
-description_main_no_space_length_6: rfmodu
-description_main_no_space_upper_length_1: R
-description_main_no_space_upper_length_2: RF
-description_main_no_space_upper_length_3: RFM
-description_main_no_space_upper_length_4: RFMO
-description_main_no_space_upper_length_5: RFMOD
-description_main_no_space_upper_length_6: RFMODU
-description_main_upper_length_1: R
-description_main_upper_length_2: RF
-description_main_upper_length_3: RF_
-description_main_upper_length_4: RF_M
-description_main_upper_length_5: RF_MO
-description_main_upper_length_6: RF_MOD
-directory: parts/eda_kicad_footprint_kicad_default_rf_module_atmel_atsamr21g18_mr210ua_norfpads
 footprint_id: eda_kicad_footprint_kicad_default_rf_module_atmel_atsamr21g18_mr210ua_norfpads
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -535,67 +458,9 @@ footprint_string:
     Position(X=8.75, Y=-5.5, angle=None, unlocked=False), Position(X=0, Y=-5.5, angle=None,
     unlocked=False), Position(X=0, Y=-9.5, angle=None, unlocked=False), Position(X=10,
     Y=-9.5, angle=None, unlocked=False)])], filledPolygons=[], fillSegments=None)]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_rf_module_atmel_atsamr21g18_mr210ua_norfpads
 id: eda_kicad_footprint_kicad_default_rf_module_atmel_atsamr21g18_mr210ua_norfpads
-id_no_class: eda_kicad_default_rf_module_atmel_atsamr21g18_mr210ua_norfpads
-id_no_color: edarfmoduleatmelatsamr21g18mr210uanorfpads
-id_no_size: edarfmoduleatmelatsamr21g18mr210uanorfpads
-id_no_type: eda_rf_module_atmel_atsamr21g18_mr210ua_norfpads
 manufacturer: ''
-manufacturer_name: ''
-md5: de400b368628e14a08c4c1512eb31a12
-md5_10: de400b3686
-md5_10_upper: DE400B3686
-md5_5: de400
-md5_5_upper: DE400
-md5_6: de400b
-md5_6_alpha: 8o6q3
-md5_6_alpha_upper: 8O6Q3
-md5_6_upper: DE400B
-name: Eda Kicad Footprint Kicad Default Rf Module Atmel Atsamr21G18 Mr210Ua Norfpads
-name_no_class: Eda Kicad Default Rf Module Atmel Atsamr21G18 Mr210Ua Norfpads
-name_no_color: Edarfmoduleatmelatsamr21G18Mr210Uanorfpads
-name_no_size: Edarfmoduleatmelatsamr21G18Mr210Uanorfpads
-name_no_type: Eda Rf Module Atmel Atsamr21G18 Mr210Ua Norfpads
-oomp_key: oomp_eda_kicad_footprint_kicad_default_rf_module_atmel_atsamr21g18_mr210ua_norfpads
-oomp_word: rainbow racehorse sunglasses
-oomp_word_emoji: ':rainbow: :racehorse: :sunglasses:'
-oomp_word_emoji_list:
-- ':rainbow:'
-- ':racehorse:'
-- ':sunglasses:'
-oomp_word_list:
-- rainbow
-- racehorse
-- sunglasses
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

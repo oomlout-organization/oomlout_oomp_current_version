@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: l_cenker_ckcs8080
-description_extra_length_1: l
-description_extra_length_2: l_
-description_extra_length_3: l_c
-description_extra_length_4: l_ce
-description_extra_length_5: l_cen
-description_extra_length_6: l_cenk
-description_extra_name: L Cenker Ckcs8080
-description_extra_no_space_length_1: l
-description_extra_no_space_length_2: lc
-description_extra_no_space_length_3: lce
-description_extra_no_space_length_4: lcen
-description_extra_no_space_length_5: lcenk
-description_extra_no_space_length_6: lcenke
-description_extra_no_space_upper_length_1: L
-description_extra_no_space_upper_length_2: LC
-description_extra_no_space_upper_length_3: LCE
-description_extra_no_space_upper_length_4: LCEN
-description_extra_no_space_upper_length_5: LCENK
-description_extra_no_space_upper_length_6: LCENKE
-description_extra_upper_length_1: L
-description_extra_upper_length_2: L_
-description_extra_upper_length_3: L_C
-description_extra_upper_length_4: L_CE
-description_extra_upper_length_5: L_CEN
-description_extra_upper_length_6: L_CENK
 description_main: inductor_smd
-description_main_length_1: i
-description_main_length_2: in
-description_main_length_3: ind
-description_main_length_4: indu
-description_main_length_5: induc
-description_main_length_6: induct
-description_main_name: Inductor SMD
-description_main_no_space_length_1: i
-description_main_no_space_length_2: in
-description_main_no_space_length_3: ind
-description_main_no_space_length_4: indu
-description_main_no_space_length_5: induc
-description_main_no_space_length_6: induct
-description_main_no_space_upper_length_1: I
-description_main_no_space_upper_length_2: IN
-description_main_no_space_upper_length_3: IND
-description_main_no_space_upper_length_4: INDU
-description_main_no_space_upper_length_5: INDUC
-description_main_no_space_upper_length_6: INDUCT
-description_main_upper_length_1: I
-description_main_upper_length_2: IN
-description_main_upper_length_3: IND
-description_main_upper_length_4: INDU
-description_main_upper_length_5: INDUC
-description_main_upper_length_6: INDUCT
-directory: parts/eda_kicad_footprint_kicad_default_inductor_smd_l_cenker_ckcs8080
 footprint_id: eda_kicad_footprint_kicad_default_inductor_smd_l_cenker_ckcs8080
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -171,67 +94,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_inductor_smd_l_cenker_ckcs8080
 id: eda_kicad_footprint_kicad_default_inductor_smd_l_cenker_ckcs8080
-id_no_class: eda_kicad_default_inductor_smd_l_cenker_ckcs8080
-id_no_color: edainductorsmdlcenkerckcs8080
-id_no_size: edainductorsmdlcenkerckcs8080
-id_no_type: eda_inductor_smd_l_cenker_ckcs8080
 manufacturer: ''
-manufacturer_name: ''
-md5: 5126228b9f34d01d90a179518c997579
-md5_10: 5126228b9f
-md5_10_upper: 5126228B9F
-md5_5: '51262'
-md5_5_upper: '51262'
-md5_6: '512622'
-md5_6_alpha: 35zj6
-md5_6_alpha_upper: 35ZJ6
-md5_6_upper: '512622'
-name: Eda Kicad Footprint Kicad Default Inductor SMD L Cenker Ckcs8080
-name_no_class: Eda Kicad Default Inductor SMD L Cenker Ckcs8080
-name_no_color: Edainductorsmdlcenkerckcs8080
-name_no_size: Edainductorsmdlcenkerckcs8080
-name_no_type: Eda Inductor SMD L Cenker Ckcs8080
-oomp_key: oomp_eda_kicad_footprint_kicad_default_inductor_smd_l_cenker_ckcs8080
-oomp_word: snail eyes lips
-oomp_word_emoji: ':snail: :eyes: :lips:'
-oomp_word_emoji_list:
-- ':snail:'
-- ':eyes:'
-- ':lips:'
-oomp_word_list:
-- snail
-- eyes
-- lips
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

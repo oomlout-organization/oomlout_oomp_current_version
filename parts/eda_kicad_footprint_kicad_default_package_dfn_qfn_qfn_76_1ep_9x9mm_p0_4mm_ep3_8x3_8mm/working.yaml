@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: qfn_76_1ep_9x9mm_p0_4mm_ep3_8x3_8mm
-description_extra_length_1: q
-description_extra_length_2: qf
-description_extra_length_3: qfn
-description_extra_length_4: qfn_
-description_extra_length_5: qfn_7
-description_extra_length_6: qfn_76
-description_extra_name: Qfn 76 1Ep 9X9mm P0 4mm Ep3 8X3 8mm
-description_extra_no_space_length_1: q
-description_extra_no_space_length_2: qf
-description_extra_no_space_length_3: qfn
-description_extra_no_space_length_4: qfn7
-description_extra_no_space_length_5: qfn76
-description_extra_no_space_length_6: qfn761
-description_extra_no_space_upper_length_1: Q
-description_extra_no_space_upper_length_2: QF
-description_extra_no_space_upper_length_3: QFN
-description_extra_no_space_upper_length_4: QFN7
-description_extra_no_space_upper_length_5: QFN76
-description_extra_no_space_upper_length_6: QFN761
-description_extra_upper_length_1: Q
-description_extra_upper_length_2: QF
-description_extra_upper_length_3: QFN
-description_extra_upper_length_4: QFN_
-description_extra_upper_length_5: QFN_7
-description_extra_upper_length_6: QFN_76
 description_main: package_dfn_qfn
-description_main_length_1: p
-description_main_length_2: pa
-description_main_length_3: pac
-description_main_length_4: pack
-description_main_length_5: packa
-description_main_length_6: packag
-description_main_name: Package Dfn Qfn
-description_main_no_space_length_1: p
-description_main_no_space_length_2: pa
-description_main_no_space_length_3: pac
-description_main_no_space_length_4: pack
-description_main_no_space_length_5: packa
-description_main_no_space_length_6: packag
-description_main_no_space_upper_length_1: P
-description_main_no_space_upper_length_2: PA
-description_main_no_space_upper_length_3: PAC
-description_main_no_space_upper_length_4: PACK
-description_main_no_space_upper_length_5: PACKA
-description_main_no_space_upper_length_6: PACKAG
-description_main_upper_length_1: P
-description_main_upper_length_2: PA
-description_main_upper_length_3: PAC
-description_main_upper_length_4: PACK
-description_main_upper_length_5: PACKA
-description_main_upper_length_6: PACKAG
-directory: parts/eda_kicad_footprint_kicad_default_package_dfn_qfn_qfn_76_1ep_9x9mm_p0_4mm_ep3_8x3_8mm
 footprint_id: eda_kicad_footprint_kicad_default_package_dfn_qfn_qfn_76_1ep_9x9mm_p0_4mm_ep3_8x3_8mm
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -773,68 +696,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_package_dfn_qfn_qfn_76_1ep_9x9mm_p0_4mm_ep3_8x3_8mm
 id: eda_kicad_footprint_kicad_default_package_dfn_qfn_qfn_76_1ep_9x9mm_p0_4mm_ep3_8x3_8mm
-id_no_class: eda_kicad_default_package_dfn_qfn_qfn_76_1ep_9x9mm_p0_4mm_ep3_8x3_8mm
-id_no_color: edapackagedfnqfnqfn761ep9x9mmp04mmep38x38mm
-id_no_size: edapackagedfnqfnqfn761ep9x9mmp04mmep38x38mm
-id_no_type: eda_package_dfn_qfn_qfn_76_1ep_9x9mm_p0_4mm_ep3_8x3_8mm
 manufacturer: ''
-manufacturer_name: ''
-md5: 68ba94aca9215f5350bd6cc1465b5640
-md5_10: 68ba94aca9
-md5_10_upper: 68BA94ACA9
-md5_5: 68ba9
-md5_5_upper: 68BA9
-md5_6: 68ba94
-md5_6_alpha: 433x0
-md5_6_alpha_upper: 433X0
-md5_6_upper: 68BA94
-name: Eda Kicad Footprint Kicad Default Package Dfn Qfn Qfn 76 1Ep 9X9mm P0 4mm Ep3
-  8X3 8mm
-name_no_class: Eda Kicad Default Package Dfn Qfn Qfn 76 1Ep 9X9mm P0 4mm Ep3 8X3 8mm
-name_no_color: Edapackagedfnqfnqfn761Ep9X9mmp04mmep38X38mm
-name_no_size: Edapackagedfnqfnqfn761Ep9X9mmp04mmep38X38mm
-name_no_type: Eda Package Dfn Qfn Qfn 76 1Ep 9X9mm P0 4mm Ep3 8X3 8mm
-oomp_key: oomp_eda_kicad_footprint_kicad_default_package_dfn_qfn_qfn_76_1ep_9x9mm_p0_4mm_ep3_8x3_8mm
-oomp_word: mushroom spaghetti microscope
-oomp_word_emoji: ':mushroom: :spaghetti: :microscope:'
-oomp_word_emoji_list:
-- ':mushroom:'
-- ':spaghetti:'
-- ':microscope:'
-oomp_word_list:
-- mushroom
-- spaghetti
-- microscope
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

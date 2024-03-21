@@ -1,86 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: bga_672_27_0x27_0mm_layout26x26_p1_0mm_ball0_6mm_pad0_5mm_nsmd
-description_extra_length_1: b
-description_extra_length_2: bg
-description_extra_length_3: bga
-description_extra_length_4: bga_
-description_extra_length_5: bga_6
-description_extra_length_6: bga_67
-description_extra_name: Bga 672 27 0X27 0mm Layout26X26 P1 0mm Ball0 6mm Pad0 5mm
-  Nsmd
-description_extra_no_space_length_1: b
-description_extra_no_space_length_2: bg
-description_extra_no_space_length_3: bga
-description_extra_no_space_length_4: bga6
-description_extra_no_space_length_5: bga67
-description_extra_no_space_length_6: bga672
-description_extra_no_space_upper_length_1: B
-description_extra_no_space_upper_length_2: BG
-description_extra_no_space_upper_length_3: BGA
-description_extra_no_space_upper_length_4: BGA6
-description_extra_no_space_upper_length_5: BGA67
-description_extra_no_space_upper_length_6: BGA672
-description_extra_upper_length_1: B
-description_extra_upper_length_2: BG
-description_extra_upper_length_3: BGA
-description_extra_upper_length_4: BGA_
-description_extra_upper_length_5: BGA_6
-description_extra_upper_length_6: BGA_67
 description_main: package_bga
-description_main_length_1: p
-description_main_length_2: pa
-description_main_length_3: pac
-description_main_length_4: pack
-description_main_length_5: packa
-description_main_length_6: packag
-description_main_name: Package Bga
-description_main_no_space_length_1: p
-description_main_no_space_length_2: pa
-description_main_no_space_length_3: pac
-description_main_no_space_length_4: pack
-description_main_no_space_length_5: packa
-description_main_no_space_length_6: packag
-description_main_no_space_upper_length_1: P
-description_main_no_space_upper_length_2: PA
-description_main_no_space_upper_length_3: PAC
-description_main_no_space_upper_length_4: PACK
-description_main_no_space_upper_length_5: PACKA
-description_main_no_space_upper_length_6: PACKAG
-description_main_upper_length_1: P
-description_main_upper_length_2: PA
-description_main_upper_length_3: PAC
-description_main_upper_length_4: PACK
-description_main_upper_length_5: PACKA
-description_main_upper_length_6: PACKAG
-directory: parts/eda_kicad_footprint_kicad_default_package_bga_bga_672_27_0x27_0mm_layout26x26_p1_0mm_ball0_6mm_pad0_5mm_nsmd
 footprint_id: eda_kicad_footprint_kicad_default_package_bga_bga_672_27_0x27_0mm_layout26x26_p1_0mm_ball0_6mm_pad0_5mm_nsmd
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -4889,70 +4811,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_package_bga_bga_672_27_0x27_0mm_layout26x26_p1_0mm_ball0_6mm_pad0_5mm_nsmd
 id: eda_kicad_footprint_kicad_default_package_bga_bga_672_27_0x27_0mm_layout26x26_p1_0mm_ball0_6mm_pad0_5mm_nsmd
-id_no_class: eda_kicad_default_package_bga_bga_672_27_0x27_0mm_layout26x26_p1_0mm_ball0_6mm_pad0_5mm_nsmd
-id_no_color: edapackagebgabga672270x270mmlayout26x26p10mmball06mmpad05mmnsmd
-id_no_size: edapackagebgabga672270x270mmlayout26x26p10mmball06mmpad05mmnsmd
-id_no_type: eda_package_bga_bga_672_27_0x27_0mm_layout26x26_p1_0mm_ball0_6mm_pad0_5mm_nsmd
 manufacturer: ''
-manufacturer_name: ''
-md5: 321a483d8ce1638ba4ed566132e4ed1a
-md5_10: 321a483d8c
-md5_10_upper: 321A483D8C
-md5_5: 321a4
-md5_5_upper: 321A4
-md5_6: 321a48
-md5_6_alpha: 1ydl4
-md5_6_alpha_upper: 1YDL4
-md5_6_upper: 321A48
-name: Eda Kicad Footprint Kicad Default Package Bga Bga 672 27 0X27 0mm Layout26X26
-  P1 0mm Ball0 6mm Pad0 5mm Nsmd
-name_no_class: Eda Kicad Default Package Bga Bga 672 27 0X27 0mm Layout26X26 P1 0mm
-  Ball0 6mm Pad0 5mm Nsmd
-name_no_color: Edapackagebgabga672270X270mmlayout26X26P10mmball06mmpad05mmnsmd
-name_no_size: Edapackagebgabga672270X270mmlayout26X26P10mmball06mmpad05mmnsmd
-name_no_type: Eda Package Bga Bga 672 27 0X27 0mm Layout26X26 P1 0mm Ball0 6mm Pad0
-  5mm Nsmd
-oomp_key: oomp_eda_kicad_footprint_kicad_default_package_bga_bga_672_27_0x27_0mm_layout26x26_p1_0mm_ball0_6mm_pad0_5mm_nsmd
-oomp_word: cat clap hatched_chick
-oomp_word_emoji: ':cat: :clap: :hatched_chick:'
-oomp_word_emoji_list:
-- ':cat:'
-- ':clap:'
-- ':hatched_chick:'
-oomp_word_list:
-- cat
-- clap
-- hatched_chick
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

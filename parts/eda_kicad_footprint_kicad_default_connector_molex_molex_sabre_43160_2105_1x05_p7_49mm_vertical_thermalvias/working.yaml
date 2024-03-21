@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: molex_sabre_43160_2105_1x05_p7_49mm_vertical_thermalvias
-description_extra_length_1: m
-description_extra_length_2: mo
-description_extra_length_3: mol
-description_extra_length_4: mole
-description_extra_length_5: molex
-description_extra_length_6: molex_
-description_extra_name: Molex Sabre 43160 2105 1X05 P7 49mm Vertical Thermalvias
-description_extra_no_space_length_1: m
-description_extra_no_space_length_2: mo
-description_extra_no_space_length_3: mol
-description_extra_no_space_length_4: mole
-description_extra_no_space_length_5: molex
-description_extra_no_space_length_6: molexs
-description_extra_no_space_upper_length_1: M
-description_extra_no_space_upper_length_2: MO
-description_extra_no_space_upper_length_3: MOL
-description_extra_no_space_upper_length_4: MOLE
-description_extra_no_space_upper_length_5: MOLEX
-description_extra_no_space_upper_length_6: MOLEXS
-description_extra_upper_length_1: M
-description_extra_upper_length_2: MO
-description_extra_upper_length_3: MOL
-description_extra_upper_length_4: MOLE
-description_extra_upper_length_5: MOLEX
-description_extra_upper_length_6: MOLEX_
 description_main: connector_molex
-description_main_length_1: c
-description_main_length_2: co
-description_main_length_3: con
-description_main_length_4: conn
-description_main_length_5: conne
-description_main_length_6: connec
-description_main_name: Connector Molex
-description_main_no_space_length_1: c
-description_main_no_space_length_2: co
-description_main_no_space_length_3: con
-description_main_no_space_length_4: conn
-description_main_no_space_length_5: conne
-description_main_no_space_length_6: connec
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CO
-description_main_no_space_upper_length_3: CON
-description_main_no_space_upper_length_4: CONN
-description_main_no_space_upper_length_5: CONNE
-description_main_no_space_upper_length_6: CONNEC
-description_main_upper_length_1: C
-description_main_upper_length_2: CO
-description_main_upper_length_3: CON
-description_main_upper_length_4: CONN
-description_main_upper_length_5: CONNE
-description_main_upper_length_6: CONNEC
-directory: parts/eda_kicad_footprint_kicad_default_connector_molex_molex_sabre_43160_2105_1x05_p7_49mm_vertical_thermalvias
 footprint_id: eda_kicad_footprint_kicad_default_connector_molex_molex_sabre_43160_2105_1x05_p7_49mm_vertical_thermalvias
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -811,69 +734,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_connector_molex_molex_sabre_43160_2105_1x05_p7_49mm_vertical_thermalvias
 id: eda_kicad_footprint_kicad_default_connector_molex_molex_sabre_43160_2105_1x05_p7_49mm_vertical_thermalvias
-id_no_class: eda_kicad_default_connector_molex_molex_sabre_43160_2105_1x05_p7_49mm_vertical_thermalvias
-id_no_color: edaconnectormolexmolexsabre4316021051x05p749mmverticalthermalvias
-id_no_size: edaconnectormolexmolexsabre4316021051x05p749mmverticalthermalvias
-id_no_type: eda_connector_molex_molex_sabre_43160_2105_1x05_p7_49mm_vertical_thermalvias
 manufacturer: ''
-manufacturer_name: ''
-md5: 19450d420ffab2222d56b115faf17fc5
-md5_10: 19450d420f
-md5_10_upper: 19450D420F
-md5_5: '19450'
-md5_5_upper: '19450'
-md5_6: 19450d
-md5_6_alpha: zhu5
-md5_6_alpha_upper: ZHU5
-md5_6_upper: 19450D
-name: Eda Kicad Footprint Kicad Default Connector Molex Molex Sabre 43160 2105 1X05
-  P7 49mm Vertical Thermalvias
-name_no_class: Eda Kicad Default Connector Molex Molex Sabre 43160 2105 1X05 P7 49mm
-  Vertical Thermalvias
-name_no_color: Edaconnectormolexmolexsabre4316021051X05P749mmverticalthermalvias
-name_no_size: Edaconnectormolexmolexsabre4316021051X05P749mmverticalthermalvias
-name_no_type: Eda Connector Molex Molex Sabre 43160 2105 1X05 P7 49mm Vertical Thermalvias
-oomp_key: oomp_eda_kicad_footprint_kicad_default_connector_molex_molex_sabre_43160_2105_1x05_p7_49mm_vertical_thermalvias
-oomp_word: pray snake heart
-oomp_word_emoji: ':pray: :snake: :heart:'
-oomp_word_emoji_list:
-- ':pray:'
-- ':snake:'
-- ':heart:'
-oomp_word_list:
-- pray
-- snake
-- heart
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

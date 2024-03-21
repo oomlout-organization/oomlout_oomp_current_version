@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: st_lfbga_448_18x18mm_layout22x22_p0_8mm
-description_extra_length_1: s
-description_extra_length_2: st
-description_extra_length_3: st_
-description_extra_length_4: st_l
-description_extra_length_5: st_lf
-description_extra_length_6: st_lfb
-description_extra_name: St Lfbga 448 18X18mm Layout22X22 P0 8mm
-description_extra_no_space_length_1: s
-description_extra_no_space_length_2: st
-description_extra_no_space_length_3: stl
-description_extra_no_space_length_4: stlf
-description_extra_no_space_length_5: stlfb
-description_extra_no_space_length_6: stlfbg
-description_extra_no_space_upper_length_1: S
-description_extra_no_space_upper_length_2: ST
-description_extra_no_space_upper_length_3: STL
-description_extra_no_space_upper_length_4: STLF
-description_extra_no_space_upper_length_5: STLFB
-description_extra_no_space_upper_length_6: STLFBG
-description_extra_upper_length_1: S
-description_extra_upper_length_2: ST
-description_extra_upper_length_3: ST_
-description_extra_upper_length_4: ST_L
-description_extra_upper_length_5: ST_LF
-description_extra_upper_length_6: ST_LFB
 description_main: package_bga
-description_main_length_1: p
-description_main_length_2: pa
-description_main_length_3: pac
-description_main_length_4: pack
-description_main_length_5: packa
-description_main_length_6: packag
-description_main_name: Package Bga
-description_main_no_space_length_1: p
-description_main_no_space_length_2: pa
-description_main_no_space_length_3: pac
-description_main_no_space_length_4: pack
-description_main_no_space_length_5: packa
-description_main_no_space_length_6: packag
-description_main_no_space_upper_length_1: P
-description_main_no_space_upper_length_2: PA
-description_main_no_space_upper_length_3: PAC
-description_main_no_space_upper_length_4: PACK
-description_main_no_space_upper_length_5: PACKA
-description_main_no_space_upper_length_6: PACKAG
-description_main_upper_length_1: P
-description_main_upper_length_2: PA
-description_main_upper_length_3: PAC
-description_main_upper_length_4: PACK
-description_main_upper_length_5: PACKA
-description_main_upper_length_6: PACKAG
-directory: parts/eda_kicad_footprint_kicad_default_package_bga_st_lfbga_448_18x18mm_layout22x22_p0_8mm
 footprint_id: eda_kicad_footprint_kicad_default_package_bga_st_lfbga_448_18x18mm_layout22x22_p0_8mm
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -3294,68 +3217,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_package_bga_st_lfbga_448_18x18mm_layout22x22_p0_8mm
 id: eda_kicad_footprint_kicad_default_package_bga_st_lfbga_448_18x18mm_layout22x22_p0_8mm
-id_no_class: eda_kicad_default_package_bga_st_lfbga_448_18x18mm_layout22x22_p0_8mm
-id_no_color: edapackagebgastlfbga44818x18mmlayout22x22p08mm
-id_no_size: edapackagebgastlfbga44818x18mmlayout22x22p08mm
-id_no_type: eda_package_bga_st_lfbga_448_18x18mm_layout22x22_p0_8mm
 manufacturer: ''
-manufacturer_name: ''
-md5: 91ff76ad2c80bf3037c9738f06b6a0a4
-md5_10: 91ff76ad2c
-md5_10_upper: 91FF76AD2C
-md5_5: 91ff7
-md5_5_upper: 91FF7
-md5_6: 91ff76
-md5_6_alpha: 5p2t2
-md5_6_alpha_upper: 5P2T2
-md5_6_upper: 91FF76
-name: Eda Kicad Footprint Kicad Default Package Bga St Lfbga 448 18X18mm Layout22X22
-  P0 8mm
-name_no_class: Eda Kicad Default Package Bga St Lfbga 448 18X18mm Layout22X22 P0 8mm
-name_no_color: Edapackagebgastlfbga44818X18mmlayout22X22P08mm
-name_no_size: Edapackagebgastlfbga44818X18mmlayout22X22P08mm
-name_no_type: Eda Package Bga St Lfbga 448 18X18mm Layout22X22 P0 8mm
-oomp_key: oomp_eda_kicad_footprint_kicad_default_package_bga_st_lfbga_448_18x18mm_layout22x22_p0_8mm
-oomp_word: pushpin trident santa
-oomp_word_emoji: ':pushpin: :trident: :santa:'
-oomp_word_emoji_list:
-- ':pushpin:'
-- ':trident:'
-- ':santa:'
-oomp_word_list:
-- pushpin
-- trident
-- santa
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

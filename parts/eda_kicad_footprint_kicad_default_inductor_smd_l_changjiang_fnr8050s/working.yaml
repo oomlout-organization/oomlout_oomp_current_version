@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: l_changjiang_fnr8050s
-description_extra_length_1: l
-description_extra_length_2: l_
-description_extra_length_3: l_c
-description_extra_length_4: l_ch
-description_extra_length_5: l_cha
-description_extra_length_6: l_chan
-description_extra_name: L Changjiang Fnr8050S
-description_extra_no_space_length_1: l
-description_extra_no_space_length_2: lc
-description_extra_no_space_length_3: lch
-description_extra_no_space_length_4: lcha
-description_extra_no_space_length_5: lchan
-description_extra_no_space_length_6: lchang
-description_extra_no_space_upper_length_1: L
-description_extra_no_space_upper_length_2: LC
-description_extra_no_space_upper_length_3: LCH
-description_extra_no_space_upper_length_4: LCHA
-description_extra_no_space_upper_length_5: LCHAN
-description_extra_no_space_upper_length_6: LCHANG
-description_extra_upper_length_1: L
-description_extra_upper_length_2: L_
-description_extra_upper_length_3: L_C
-description_extra_upper_length_4: L_CH
-description_extra_upper_length_5: L_CHA
-description_extra_upper_length_6: L_CHAN
 description_main: inductor_smd
-description_main_length_1: i
-description_main_length_2: in
-description_main_length_3: ind
-description_main_length_4: indu
-description_main_length_5: induc
-description_main_length_6: induct
-description_main_name: Inductor SMD
-description_main_no_space_length_1: i
-description_main_no_space_length_2: in
-description_main_no_space_length_3: ind
-description_main_no_space_length_4: indu
-description_main_no_space_length_5: induc
-description_main_no_space_length_6: induct
-description_main_no_space_upper_length_1: I
-description_main_no_space_upper_length_2: IN
-description_main_no_space_upper_length_3: IND
-description_main_no_space_upper_length_4: INDU
-description_main_no_space_upper_length_5: INDUC
-description_main_no_space_upper_length_6: INDUCT
-description_main_upper_length_1: I
-description_main_upper_length_2: IN
-description_main_upper_length_3: IND
-description_main_upper_length_4: INDU
-description_main_upper_length_5: INDUC
-description_main_upper_length_6: INDUCT
-directory: parts/eda_kicad_footprint_kicad_default_inductor_smd_l_changjiang_fnr8050s
 footprint_id: eda_kicad_footprint_kicad_default_inductor_smd_l_changjiang_fnr8050s
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -171,67 +94,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_inductor_smd_l_changjiang_fnr8050s
 id: eda_kicad_footprint_kicad_default_inductor_smd_l_changjiang_fnr8050s
-id_no_class: eda_kicad_default_inductor_smd_l_changjiang_fnr8050s
-id_no_color: edainductorsmdlchangjiangfnr8050s
-id_no_size: edainductorsmdlchangjiangfnr8050s
-id_no_type: eda_inductor_smd_l_changjiang_fnr8050s
 manufacturer: ''
-manufacturer_name: ''
-md5: 10eca84fd50eb48f6f12016040b21d4a
-md5_10: 10eca84fd5
-md5_10_upper: 10ECA84FD5
-md5_5: 10eca
-md5_5_upper: 10ECA
-md5_6: 10eca8
-md5_6_alpha: nru0
-md5_6_alpha_upper: NRU0
-md5_6_upper: 10ECA8
-name: Eda Kicad Footprint Kicad Default Inductor SMD L Changjiang Fnr8050S
-name_no_class: Eda Kicad Default Inductor SMD L Changjiang Fnr8050S
-name_no_color: Edainductorsmdlchangjiangfnr8050S
-name_no_size: Edainductorsmdlchangjiangfnr8050S
-name_no_type: Eda Inductor SMD L Changjiang Fnr8050S
-oomp_key: oomp_eda_kicad_footprint_kicad_default_inductor_smd_l_changjiang_fnr8050s
-oomp_word: star taxi shoe
-oomp_word_emoji: ':star: :taxi: :shoe:'
-oomp_word_emoji_list:
-- ':star:'
-- ':taxi:'
-- ':shoe:'
-oomp_word_list:
-- star
-- taxi
-- shoe
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

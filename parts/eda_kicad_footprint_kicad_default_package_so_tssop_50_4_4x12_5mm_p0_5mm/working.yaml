@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: tssop_50_4_4x12_5mm_p0_5mm
-description_extra_length_1: t
-description_extra_length_2: ts
-description_extra_length_3: tss
-description_extra_length_4: tsso
-description_extra_length_5: tssop
-description_extra_length_6: tssop_
-description_extra_name: Tssop 50 4 4X12 5mm P0 5mm
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: ts
-description_extra_no_space_length_3: tss
-description_extra_no_space_length_4: tsso
-description_extra_no_space_length_5: tssop
-description_extra_no_space_length_6: tssop5
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TS
-description_extra_no_space_upper_length_3: TSS
-description_extra_no_space_upper_length_4: TSSO
-description_extra_no_space_upper_length_5: TSSOP
-description_extra_no_space_upper_length_6: TSSOP5
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TS
-description_extra_upper_length_3: TSS
-description_extra_upper_length_4: TSSO
-description_extra_upper_length_5: TSSOP
-description_extra_upper_length_6: TSSOP_
 description_main: package_so
-description_main_length_1: p
-description_main_length_2: pa
-description_main_length_3: pac
-description_main_length_4: pack
-description_main_length_5: packa
-description_main_length_6: packag
-description_main_name: Package So
-description_main_no_space_length_1: p
-description_main_no_space_length_2: pa
-description_main_no_space_length_3: pac
-description_main_no_space_length_4: pack
-description_main_no_space_length_5: packa
-description_main_no_space_length_6: packag
-description_main_no_space_upper_length_1: P
-description_main_no_space_upper_length_2: PA
-description_main_no_space_upper_length_3: PAC
-description_main_no_space_upper_length_4: PACK
-description_main_no_space_upper_length_5: PACKA
-description_main_no_space_upper_length_6: PACKAG
-description_main_upper_length_1: P
-description_main_upper_length_2: PA
-description_main_upper_length_3: PAC
-description_main_upper_length_4: PACK
-description_main_upper_length_5: PACKA
-description_main_upper_length_6: PACKAG
-directory: parts/eda_kicad_footprint_kicad_default_package_so_tssop_50_4_4x12_5mm_p0_5mm
 footprint_id: eda_kicad_footprint_kicad_default_package_so_tssop_50_4_4x12_5mm_p0_5mm
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -511,67 +434,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_package_so_tssop_50_4_4x12_5mm_p0_5mm
 id: eda_kicad_footprint_kicad_default_package_so_tssop_50_4_4x12_5mm_p0_5mm
-id_no_class: eda_kicad_default_package_so_tssop_50_4_4x12_5mm_p0_5mm
-id_no_color: edapackagesotssop5044x125mmp05mm
-id_no_size: edapackagesotssop5044x125mmp05mm
-id_no_type: eda_package_so_tssop_50_4_4x12_5mm_p0_5mm
 manufacturer: ''
-manufacturer_name: ''
-md5: 85422e815f8bba327a68d02c1999a234
-md5_10: 85422e815f
-md5_10_upper: 85422E815F
-md5_5: '85422'
-md5_5_upper: '85422'
-md5_6: 85422e
-md5_6_alpha: 576lq
-md5_6_alpha_upper: 576LQ
-md5_6_upper: 85422E
-name: Eda Kicad Footprint Kicad Default Package So Tssop 50 4 4X12 5mm P0 5mm
-name_no_class: Eda Kicad Default Package So Tssop 50 4 4X12 5mm P0 5mm
-name_no_color: Edapackagesotssop5044X125mmp05mm
-name_no_size: Edapackagesotssop5044X125mmp05mm
-name_no_type: Eda Package So Tssop 50 4 4X12 5mm P0 5mm
-oomp_key: oomp_eda_kicad_footprint_kicad_default_package_so_tssop_50_4_4x12_5mm_p0_5mm
-oomp_word: bulb sheep zap
-oomp_word_emoji: ':bulb: :sheep: :zap:'
-oomp_word_emoji_list:
-- ':bulb:'
-- ':sheep:'
-- ':zap:'
-oomp_word_list:
-- bulb
-- sheep
-- zap
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

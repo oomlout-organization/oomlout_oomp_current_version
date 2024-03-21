@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: idc_header_2x30_p2_54mm_latch9_5mm_vertical
-description_extra_length_1: i
-description_extra_length_2: id
-description_extra_length_3: idc
-description_extra_length_4: idc_
-description_extra_length_5: idc_h
-description_extra_length_6: idc_he
-description_extra_name: IDc Header 2X30 P2 54mm Latch9 5mm Vertical
-description_extra_no_space_length_1: i
-description_extra_no_space_length_2: id
-description_extra_no_space_length_3: idc
-description_extra_no_space_length_4: idch
-description_extra_no_space_length_5: idche
-description_extra_no_space_length_6: idchea
-description_extra_no_space_upper_length_1: I
-description_extra_no_space_upper_length_2: ID
-description_extra_no_space_upper_length_3: IDC
-description_extra_no_space_upper_length_4: IDCH
-description_extra_no_space_upper_length_5: IDCHE
-description_extra_no_space_upper_length_6: IDCHEA
-description_extra_upper_length_1: I
-description_extra_upper_length_2: ID
-description_extra_upper_length_3: IDC
-description_extra_upper_length_4: IDC_
-description_extra_upper_length_5: IDC_H
-description_extra_upper_length_6: IDC_HE
 description_main: connector_idc
-description_main_length_1: c
-description_main_length_2: co
-description_main_length_3: con
-description_main_length_4: conn
-description_main_length_5: conne
-description_main_length_6: connec
-description_main_name: Connector IDc
-description_main_no_space_length_1: c
-description_main_no_space_length_2: co
-description_main_no_space_length_3: con
-description_main_no_space_length_4: conn
-description_main_no_space_length_5: conne
-description_main_no_space_length_6: connec
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CO
-description_main_no_space_upper_length_3: CON
-description_main_no_space_upper_length_4: CONN
-description_main_no_space_upper_length_5: CONNE
-description_main_no_space_upper_length_6: CONNEC
-description_main_upper_length_1: C
-description_main_upper_length_2: CO
-description_main_upper_length_3: CON
-description_main_upper_length_4: CONN
-description_main_upper_length_5: CONNE
-description_main_upper_length_6: CONNEC
-directory: parts/eda_kicad_footprint_kicad_default_connector_idc_idc_header_2x30_p2_54mm_latch9_5mm_vertical
 footprint_id: eda_kicad_footprint_kicad_default_connector_idc_idc_header_2x30_p2_54mm_latch9_5mm_vertical
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -726,69 +649,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_connector_idc_idc_header_2x30_p2_54mm_latch9_5mm_vertical
 id: eda_kicad_footprint_kicad_default_connector_idc_idc_header_2x30_p2_54mm_latch9_5mm_vertical
-id_no_class: eda_kicad_default_connector_idc_idc_header_2x30_p2_54mm_latch9_5mm_vertical
-id_no_color: edaconnectoridcidcheader2x30p254mmlatch95mmvertical
-id_no_size: edaconnectoridcidcheader2x30p254mmlatch95mmvertical
-id_no_type: eda_connector_idc_idc_header_2x30_p2_54mm_latch9_5mm_vertical
 manufacturer: ''
-manufacturer_name: ''
-md5: 700913b767ff7926ddc05cf67b1f4847
-md5_10: 700913b767
-md5_10_upper: 700913B767
-md5_5: '70091'
-md5_5_upper: '70091'
-md5_6: '700913'
-md5_6_alpha: 4ddeb
-md5_6_alpha_upper: 4DDEB
-md5_6_upper: '700913'
-name: Eda Kicad Footprint Kicad Default Connector IDc IDc Header 2X30 P2 54mm Latch9
-  5mm Vertical
-name_no_class: Eda Kicad Default Connector IDc IDc Header 2X30 P2 54mm Latch9 5mm
-  Vertical
-name_no_color: Edaconnectoridcidcheader2X30P254mmlatch95mmvertical
-name_no_size: Edaconnectoridcidcheader2X30P254mmlatch95mmvertical
-name_no_type: Eda Connector IDc IDc Header 2X30 P2 54mm Latch9 5mm Vertical
-oomp_key: oomp_eda_kicad_footprint_kicad_default_connector_idc_idc_header_2x30_p2_54mm_latch9_5mm_vertical
-oomp_word: squirrel angry question
-oomp_word_emoji: ':squirrel: :angry: :question:'
-oomp_word_emoji_list:
-- ':squirrel:'
-- ':angry:'
-- ':question:'
-oomp_word_list:
-- squirrel
-- angry
-- question
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

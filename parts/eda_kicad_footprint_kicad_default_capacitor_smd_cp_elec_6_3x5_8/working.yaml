@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: cp_elec_6_3x5_8
-description_extra_length_1: c
-description_extra_length_2: cp
-description_extra_length_3: cp_
-description_extra_length_4: cp_e
-description_extra_length_5: cp_el
-description_extra_length_6: cp_ele
-description_extra_name: Cp Elec 6 3X5 8
-description_extra_no_space_length_1: c
-description_extra_no_space_length_2: cp
-description_extra_no_space_length_3: cpe
-description_extra_no_space_length_4: cpel
-description_extra_no_space_length_5: cpele
-description_extra_no_space_length_6: cpelec
-description_extra_no_space_upper_length_1: C
-description_extra_no_space_upper_length_2: CP
-description_extra_no_space_upper_length_3: CPE
-description_extra_no_space_upper_length_4: CPEL
-description_extra_no_space_upper_length_5: CPELE
-description_extra_no_space_upper_length_6: CPELEC
-description_extra_upper_length_1: C
-description_extra_upper_length_2: CP
-description_extra_upper_length_3: CP_
-description_extra_upper_length_4: CP_E
-description_extra_upper_length_5: CP_EL
-description_extra_upper_length_6: CP_ELE
 description_main: capacitor_smd
-description_main_length_1: c
-description_main_length_2: ca
-description_main_length_3: cap
-description_main_length_4: capa
-description_main_length_5: capac
-description_main_length_6: capaci
-description_main_name: Capacitor SMD
-description_main_no_space_length_1: c
-description_main_no_space_length_2: ca
-description_main_no_space_length_3: cap
-description_main_no_space_length_4: capa
-description_main_no_space_length_5: capac
-description_main_no_space_length_6: capaci
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CA
-description_main_no_space_upper_length_3: CAP
-description_main_no_space_upper_length_4: CAPA
-description_main_no_space_upper_length_5: CAPAC
-description_main_no_space_upper_length_6: CAPACI
-description_main_upper_length_1: C
-description_main_upper_length_2: CA
-description_main_upper_length_3: CAP
-description_main_upper_length_4: CAPA
-description_main_upper_length_5: CAPAC
-description_main_upper_length_6: CAPACI
-directory: parts/eda_kicad_footprint_kicad_default_capacitor_smd_cp_elec_6_3x5_8
 footprint_id: eda_kicad_footprint_kicad_default_capacitor_smd_cp_elec_6_3x5_8
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -226,67 +149,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_capacitor_smd_cp_elec_6_3x5_8
 id: eda_kicad_footprint_kicad_default_capacitor_smd_cp_elec_6_3x5_8
-id_no_class: eda_kicad_default_capacitor_smd_cp_elec_6_3x5_8
-id_no_color: edacapacitorsmdcpelec63x58
-id_no_size: edacapacitorsmdcpelec63x58
-id_no_type: eda_capacitor_smd_cp_elec_6_3x5_8
 manufacturer: ''
-manufacturer_name: ''
-md5: 9c243eb7cc37c2edf8ea699385473b3e
-md5_10: 9c243eb7cc
-md5_10_upper: 9C243EB7CC
-md5_5: 9c243
-md5_5_upper: 9C243
-md5_6: 9c243e
-md5_6_alpha: 63br2
-md5_6_alpha_upper: 63BR2
-md5_6_upper: 9C243E
-name: Eda Kicad Footprint Kicad Default Capacitor SMD Cp Elec 6 3X5 8
-name_no_class: Eda Kicad Default Capacitor SMD Cp Elec 6 3X5 8
-name_no_color: Edacapacitorsmdcpelec63X58
-name_no_size: Edacapacitorsmdcpelec63X58
-name_no_type: Eda Capacitor SMD Cp Elec 6 3X5 8
-oomp_key: oomp_eda_kicad_footprint_kicad_default_capacitor_smd_cp_elec_6_3x5_8
-oomp_word: spades droplet monkey
-oomp_word_emoji: ':spades: :droplet: :monkey:'
-oomp_word_emoji_list:
-- ':spades:'
-- ':droplet:'
-- ':monkey:'
-oomp_word_list:
-- spades
-- droplet
-- monkey
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

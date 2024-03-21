@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: transformer_ethernet_halo_n5_so_16_7_11x12_7mm
-description_extra_length_1: t
-description_extra_length_2: tr
-description_extra_length_3: tra
-description_extra_length_4: tran
-description_extra_length_5: trans
-description_extra_length_6: transf
-description_extra_name: Transformer Ethernet Halo N5 So 16 7 11X12 7mm
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: tr
-description_extra_no_space_length_3: tra
-description_extra_no_space_length_4: tran
-description_extra_no_space_length_5: trans
-description_extra_no_space_length_6: transf
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TR
-description_extra_no_space_upper_length_3: TRA
-description_extra_no_space_upper_length_4: TRAN
-description_extra_no_space_upper_length_5: TRANS
-description_extra_no_space_upper_length_6: TRANSF
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TR
-description_extra_upper_length_3: TRA
-description_extra_upper_length_4: TRAN
-description_extra_upper_length_5: TRANS
-description_extra_upper_length_6: TRANSF
 description_main: transformer_smd
-description_main_length_1: t
-description_main_length_2: tr
-description_main_length_3: tra
-description_main_length_4: tran
-description_main_length_5: trans
-description_main_length_6: transf
-description_main_name: Transformer SMD
-description_main_no_space_length_1: t
-description_main_no_space_length_2: tr
-description_main_no_space_length_3: tra
-description_main_no_space_length_4: tran
-description_main_no_space_length_5: trans
-description_main_no_space_length_6: transf
-description_main_no_space_upper_length_1: T
-description_main_no_space_upper_length_2: TR
-description_main_no_space_upper_length_3: TRA
-description_main_no_space_upper_length_4: TRAN
-description_main_no_space_upper_length_5: TRANS
-description_main_no_space_upper_length_6: TRANSF
-description_main_upper_length_1: T
-description_main_upper_length_2: TR
-description_main_upper_length_3: TRA
-description_main_upper_length_4: TRAN
-description_main_upper_length_5: TRANS
-description_main_upper_length_6: TRANSF
-directory: parts/eda_kicad_footprint_kicad_default_transformer_smd_transformer_ethernet_halo_n5_so_16_7_11x12_7mm
 footprint_id: eda_kicad_footprint_kicad_default_transformer_smd_transformer_ethernet_halo_n5_so_16_7_11x12_7mm
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -286,69 +209,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_transformer_smd_transformer_ethernet_halo_n5_so_16_7_11x12_7mm
 id: eda_kicad_footprint_kicad_default_transformer_smd_transformer_ethernet_halo_n5_so_16_7_11x12_7mm
-id_no_class: eda_kicad_default_transformer_smd_transformer_ethernet_halo_n5_so_16_7_11x12_7mm
-id_no_color: edatransformersmdtransformerethernethalon5so16711x127mm
-id_no_size: edatransformersmdtransformerethernethalon5so16711x127mm
-id_no_type: eda_transformer_smd_transformer_ethernet_halo_n5_so_16_7_11x12_7mm
 manufacturer: ''
-manufacturer_name: ''
-md5: d242a8d02e63415bcb06921c3fece22f
-md5_10: d242a8d02e
-md5_10_upper: D242A8D02E
-md5_5: d242a
-md5_5_upper: D242A
-md5_6: d242a8
-md5_6_alpha: 87cfc
-md5_6_alpha_upper: 87CFC
-md5_6_upper: D242A8
-name: Eda Kicad Footprint Kicad Default Transformer SMD Transformer Ethernet Halo
-  N5 So 16 7 11X12 7mm
-name_no_class: Eda Kicad Default Transformer SMD Transformer Ethernet Halo N5 So 16
-  7 11X12 7mm
-name_no_color: Edatransformersmdtransformerethernethalon5So16711X127mm
-name_no_size: Edatransformersmdtransformerethernethalon5So16711X127mm
-name_no_type: Eda Transformer SMD Transformer Ethernet Halo N5 So 16 7 11X12 7mm
-oomp_key: oomp_eda_kicad_footprint_kicad_default_transformer_smd_transformer_ethernet_halo_n5_so_16_7_11x12_7mm
-oomp_word: pineapple sheep shoe
-oomp_word_emoji: ':pineapple: :sheep: :shoe:'
-oomp_word_emoji_list:
-- ':pineapple:'
-- ':sheep:'
-- ':shoe:'
-oomp_word_list:
-- pineapple
-- sheep
-- shoe
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: hirose_df11_10dp_2dsa_2x05_p2_00mm_vertical
-description_extra_length_1: h
-description_extra_length_2: hi
-description_extra_length_3: hir
-description_extra_length_4: hiro
-description_extra_length_5: hiros
-description_extra_length_6: hirose
-description_extra_name: Hirose Df11 10Dp 2Dsa 2X05 P2 00mm Vertical
-description_extra_no_space_length_1: h
-description_extra_no_space_length_2: hi
-description_extra_no_space_length_3: hir
-description_extra_no_space_length_4: hiro
-description_extra_no_space_length_5: hiros
-description_extra_no_space_length_6: hirose
-description_extra_no_space_upper_length_1: H
-description_extra_no_space_upper_length_2: HI
-description_extra_no_space_upper_length_3: HIR
-description_extra_no_space_upper_length_4: HIRO
-description_extra_no_space_upper_length_5: HIROS
-description_extra_no_space_upper_length_6: HIROSE
-description_extra_upper_length_1: H
-description_extra_upper_length_2: HI
-description_extra_upper_length_3: HIR
-description_extra_upper_length_4: HIRO
-description_extra_upper_length_5: HIROS
-description_extra_upper_length_6: HIROSE
 description_main: connector_hirose
-description_main_length_1: c
-description_main_length_2: co
-description_main_length_3: con
-description_main_length_4: conn
-description_main_length_5: conne
-description_main_length_6: connec
-description_main_name: Connector Hirose
-description_main_no_space_length_1: c
-description_main_no_space_length_2: co
-description_main_no_space_length_3: con
-description_main_no_space_length_4: conn
-description_main_no_space_length_5: conne
-description_main_no_space_length_6: connec
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CO
-description_main_no_space_upper_length_3: CON
-description_main_no_space_upper_length_4: CONN
-description_main_no_space_upper_length_5: CONNE
-description_main_no_space_upper_length_6: CONNEC
-description_main_upper_length_1: C
-description_main_upper_length_2: CO
-description_main_upper_length_3: CON
-description_main_upper_length_4: CONN
-description_main_upper_length_5: CONNE
-description_main_upper_length_6: CONNEC
-directory: parts/eda_kicad_footprint_kicad_default_connector_hirose_hirose_df11_10dp_2dsa_2x05_p2_00mm_vertical
 footprint_id: eda_kicad_footprint_kicad_default_connector_hirose_hirose_df11_10dp_2dsa_2x05_p2_00mm_vertical
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -287,69 +210,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_connector_hirose_hirose_df11_10dp_2dsa_2x05_p2_00mm_vertical
 id: eda_kicad_footprint_kicad_default_connector_hirose_hirose_df11_10dp_2dsa_2x05_p2_00mm_vertical
-id_no_class: eda_kicad_default_connector_hirose_hirose_df11_10dp_2dsa_2x05_p2_00mm_vertical
-id_no_color: edaconnectorhirosehirosedf1110dp2dsa2x05p200mmvertical
-id_no_size: edaconnectorhirosehirosedf1110dp2dsa2x05p200mmvertical
-id_no_type: eda_connector_hirose_hirose_df11_10dp_2dsa_2x05_p2_00mm_vertical
 manufacturer: ''
-manufacturer_name: ''
-md5: cf7e89e8379febc40b7e5d52d8739a9d
-md5_10: cf7e89e837
-md5_10_upper: CF7E89E837
-md5_5: cf7e8
-md5_5_upper: CF7E8
-md5_6: cf7e89
-md5_6_alpha: 83gjt
-md5_6_alpha_upper: 83GJT
-md5_6_upper: CF7E89
-name: Eda Kicad Footprint Kicad Default Connector Hirose Hirose Df11 10Dp 2Dsa 2X05
-  P2 00mm Vertical
-name_no_class: Eda Kicad Default Connector Hirose Hirose Df11 10Dp 2Dsa 2X05 P2 00mm
-  Vertical
-name_no_color: Edaconnectorhirosehirosedf1110Dp2Dsa2X05P200mmvertical
-name_no_size: Edaconnectorhirosehirosedf1110Dp2Dsa2X05P200mmvertical
-name_no_type: Eda Connector Hirose Hirose Df11 10Dp 2Dsa 2X05 P2 00mm Vertical
-oomp_key: oomp_eda_kicad_footprint_kicad_default_connector_hirose_hirose_df11_10dp_2dsa_2x05_p2_00mm_vertical
-oomp_word: melon fax hammer
-oomp_word_emoji: ':melon: :fax: :hammer:'
-oomp_word_emoji_list:
-- ':melon:'
-- ':fax:'
-- ':hammer:'
-oomp_word_list:
-- melon
-- fax
-- hammer
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

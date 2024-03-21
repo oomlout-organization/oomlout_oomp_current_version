@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: relay_spst_schrack_rp_ii_1_forma_rm3_5mm
-description_extra_length_1: r
-description_extra_length_2: re
-description_extra_length_3: rel
-description_extra_length_4: rela
-description_extra_length_5: relay
-description_extra_length_6: relay_
-description_extra_name: Relay Spst Schrack Rp Ii 1 Forma Rm3 5mm
-description_extra_no_space_length_1: r
-description_extra_no_space_length_2: re
-description_extra_no_space_length_3: rel
-description_extra_no_space_length_4: rela
-description_extra_no_space_length_5: relay
-description_extra_no_space_length_6: relays
-description_extra_no_space_upper_length_1: R
-description_extra_no_space_upper_length_2: RE
-description_extra_no_space_upper_length_3: REL
-description_extra_no_space_upper_length_4: RELA
-description_extra_no_space_upper_length_5: RELAY
-description_extra_no_space_upper_length_6: RELAYS
-description_extra_upper_length_1: R
-description_extra_upper_length_2: RE
-description_extra_upper_length_3: REL
-description_extra_upper_length_4: RELA
-description_extra_upper_length_5: RELAY
-description_extra_upper_length_6: RELAY_
 description_main: relay_tht
-description_main_length_1: r
-description_main_length_2: re
-description_main_length_3: rel
-description_main_length_4: rela
-description_main_length_5: relay
-description_main_length_6: relay_
-description_main_name: Relay Tht
-description_main_no_space_length_1: r
-description_main_no_space_length_2: re
-description_main_no_space_length_3: rel
-description_main_no_space_length_4: rela
-description_main_no_space_length_5: relay
-description_main_no_space_length_6: relayt
-description_main_no_space_upper_length_1: R
-description_main_no_space_upper_length_2: RE
-description_main_no_space_upper_length_3: REL
-description_main_no_space_upper_length_4: RELA
-description_main_no_space_upper_length_5: RELAY
-description_main_no_space_upper_length_6: RELAYT
-description_main_upper_length_1: R
-description_main_upper_length_2: RE
-description_main_upper_length_3: REL
-description_main_upper_length_4: RELA
-description_main_upper_length_5: RELAY
-description_main_upper_length_6: RELAY_
-directory: parts/eda_kicad_footprint_kicad_default_relay_tht_relay_spst_schrack_rp_ii_1_forma_rm3_5mm
 footprint_id: eda_kicad_footprint_kicad_default_relay_tht_relay_spst_schrack_rp_ii_1_forma_rm3_5mm
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -214,68 +137,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_relay_tht_relay_spst_schrack_rp_ii_1_forma_rm3_5mm
 id: eda_kicad_footprint_kicad_default_relay_tht_relay_spst_schrack_rp_ii_1_forma_rm3_5mm
-id_no_class: eda_kicad_default_relay_tht_relay_spst_schrack_rp_ii_1_forma_rm3_5mm
-id_no_color: edarelaythtrelayspstschrackrpii1formarm35mm
-id_no_size: edarelaythtrelayspstschrackrpii1formarm35mm
-id_no_type: eda_relay_tht_relay_spst_schrack_rp_ii_1_forma_rm3_5mm
 manufacturer: ''
-manufacturer_name: ''
-md5: 6af087c3c6390f27db2f0934143753c8
-md5_10: 6af087c3c6
-md5_10_upper: 6AF087C3C6
-md5_5: 6af08
-md5_5_upper: 6AF08
-md5_6: 6af087
-md5_6_alpha: 467pj
-md5_6_alpha_upper: 467PJ
-md5_6_upper: 6AF087
-name: Eda Kicad Footprint Kicad Default Relay Tht Relay Spst Schrack Rp Ii 1 Forma
-  Rm3 5mm
-name_no_class: Eda Kicad Default Relay Tht Relay Spst Schrack Rp Ii 1 Forma Rm3 5mm
-name_no_color: Edarelaythtrelayspstschrackrpii1Formarm35mm
-name_no_size: Edarelaythtrelayspstschrackrpii1Formarm35mm
-name_no_type: Eda Relay Tht Relay Spst Schrack Rp Ii 1 Forma Rm3 5mm
-oomp_key: oomp_eda_kicad_footprint_kicad_default_relay_tht_relay_spst_schrack_rp_ii_1_forma_rm3_5mm
-oomp_word: palm_tree train toilet
-oomp_word_emoji: ':palm_tree: :train: :toilet:'
-oomp_word_emoji_list:
-- ':palm_tree:'
-- ':train:'
-- ':toilet:'
-oomp_word_list:
-- palm_tree
-- train
-- toilet
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

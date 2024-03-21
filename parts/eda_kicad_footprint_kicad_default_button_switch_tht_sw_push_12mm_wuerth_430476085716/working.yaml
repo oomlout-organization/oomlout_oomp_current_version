@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: sw_push_12mm_wuerth_430476085716
-description_extra_length_1: s
-description_extra_length_2: sw
-description_extra_length_3: sw_
-description_extra_length_4: sw_p
-description_extra_length_5: sw_pu
-description_extra_length_6: sw_pus
-description_extra_name: Sw Push 12mm Wuerth 430476085716
-description_extra_no_space_length_1: s
-description_extra_no_space_length_2: sw
-description_extra_no_space_length_3: swp
-description_extra_no_space_length_4: swpu
-description_extra_no_space_length_5: swpus
-description_extra_no_space_length_6: swpush
-description_extra_no_space_upper_length_1: S
-description_extra_no_space_upper_length_2: SW
-description_extra_no_space_upper_length_3: SWP
-description_extra_no_space_upper_length_4: SWPU
-description_extra_no_space_upper_length_5: SWPUS
-description_extra_no_space_upper_length_6: SWPUSH
-description_extra_upper_length_1: S
-description_extra_upper_length_2: SW
-description_extra_upper_length_3: SW_
-description_extra_upper_length_4: SW_P
-description_extra_upper_length_5: SW_PU
-description_extra_upper_length_6: SW_PUS
 description_main: button_switch_tht
-description_main_length_1: b
-description_main_length_2: bu
-description_main_length_3: but
-description_main_length_4: butt
-description_main_length_5: butto
-description_main_length_6: button
-description_main_name: Button Switch Tht
-description_main_no_space_length_1: b
-description_main_no_space_length_2: bu
-description_main_no_space_length_3: but
-description_main_no_space_length_4: butt
-description_main_no_space_length_5: butto
-description_main_no_space_length_6: button
-description_main_no_space_upper_length_1: B
-description_main_no_space_upper_length_2: BU
-description_main_no_space_upper_length_3: BUT
-description_main_no_space_upper_length_4: BUTT
-description_main_no_space_upper_length_5: BUTTO
-description_main_no_space_upper_length_6: BUTTON
-description_main_upper_length_1: B
-description_main_upper_length_2: BU
-description_main_upper_length_3: BUT
-description_main_upper_length_4: BUTT
-description_main_upper_length_5: BUTTO
-description_main_upper_length_6: BUTTON
-directory: parts/eda_kicad_footprint_kicad_default_button_switch_tht_sw_push_12mm_wuerth_430476085716
 footprint_id: eda_kicad_footprint_kicad_default_button_switch_tht_sw_push_12mm_wuerth_430476085716
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -197,67 +120,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_button_switch_tht_sw_push_12mm_wuerth_430476085716
 id: eda_kicad_footprint_kicad_default_button_switch_tht_sw_push_12mm_wuerth_430476085716
-id_no_class: eda_kicad_default_button_switch_tht_sw_push_12mm_wuerth_430476085716
-id_no_color: edabuttonswitchthtswpush12mmwuerth430476085716
-id_no_size: edabuttonswitchthtswpush12mmwuerth430476085716
-id_no_type: eda_button_switch_tht_sw_push_12mm_wuerth_430476085716
 manufacturer: ''
-manufacturer_name: ''
-md5: 9c8c72f1e802ad9daabfb4e368cbc7ba
-md5_10: 9c8c72f1e8
-md5_10_upper: 9C8C72F1E8
-md5_5: 9c8c7
-md5_5_upper: 9C8C7
-md5_6: 9c8c72
-md5_6_alpha: 63wc2
-md5_6_alpha_upper: 63WC2
-md5_6_upper: 9C8C72
-name: Eda Kicad Footprint Kicad Default Button Switch Tht Sw Push 12mm Wuerth 430476085716
-name_no_class: Eda Kicad Default Button Switch Tht Sw Push 12mm Wuerth 430476085716
-name_no_color: Edabuttonswitchthtswpush12mmwuerth430476085716
-name_no_size: Edabuttonswitchthtswpush12mmwuerth430476085716
-name_no_type: Eda Button Switch Tht Sw Push 12mm Wuerth 430476085716
-oomp_key: oomp_eda_kicad_footprint_kicad_default_button_switch_tht_sw_push_12mm_wuerth_430476085716
-oomp_word: spades pill dolls
-oomp_word_emoji: ':spades: :pill: :dolls:'
-oomp_word_emoji_list:
-- ':spades:'
-- ':pill:'
-- ':dolls:'
-oomp_word_list:
-- spades
-- pill
-- dolls
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

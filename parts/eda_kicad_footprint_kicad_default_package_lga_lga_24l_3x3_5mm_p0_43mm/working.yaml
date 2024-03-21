@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: lga_24l_3x3_5mm_p0_43mm
-description_extra_length_1: l
-description_extra_length_2: lg
-description_extra_length_3: lga
-description_extra_length_4: lga_
-description_extra_length_5: lga_2
-description_extra_length_6: lga_24
-description_extra_name: Lga 24L 3X3 5mm P0 43mm
-description_extra_no_space_length_1: l
-description_extra_no_space_length_2: lg
-description_extra_no_space_length_3: lga
-description_extra_no_space_length_4: lga2
-description_extra_no_space_length_5: lga24
-description_extra_no_space_length_6: lga24l
-description_extra_no_space_upper_length_1: L
-description_extra_no_space_upper_length_2: LG
-description_extra_no_space_upper_length_3: LGA
-description_extra_no_space_upper_length_4: LGA2
-description_extra_no_space_upper_length_5: LGA24
-description_extra_no_space_upper_length_6: LGA24L
-description_extra_upper_length_1: L
-description_extra_upper_length_2: LG
-description_extra_upper_length_3: LGA
-description_extra_upper_length_4: LGA_
-description_extra_upper_length_5: LGA_2
-description_extra_upper_length_6: LGA_24
 description_main: package_lga
-description_main_length_1: p
-description_main_length_2: pa
-description_main_length_3: pac
-description_main_length_4: pack
-description_main_length_5: packa
-description_main_length_6: packag
-description_main_name: Package Lga
-description_main_no_space_length_1: p
-description_main_no_space_length_2: pa
-description_main_no_space_length_3: pac
-description_main_no_space_length_4: pack
-description_main_no_space_length_5: packa
-description_main_no_space_length_6: packag
-description_main_no_space_upper_length_1: P
-description_main_no_space_upper_length_2: PA
-description_main_no_space_upper_length_3: PAC
-description_main_no_space_upper_length_4: PACK
-description_main_no_space_upper_length_5: PACKA
-description_main_no_space_upper_length_6: PACKAG
-description_main_upper_length_1: P
-description_main_upper_length_2: PA
-description_main_upper_length_3: PAC
-description_main_upper_length_4: PACK
-description_main_upper_length_5: PACKA
-description_main_upper_length_6: PACKAG
-directory: parts/eda_kicad_footprint_kicad_default_package_lga_lga_24l_3x3_5mm_p0_43mm
 footprint_id: eda_kicad_footprint_kicad_default_package_lga_lga_24l_3x3_5mm_p0_43mm
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -341,67 +264,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_package_lga_lga_24l_3x3_5mm_p0_43mm
 id: eda_kicad_footprint_kicad_default_package_lga_lga_24l_3x3_5mm_p0_43mm
-id_no_class: eda_kicad_default_package_lga_lga_24l_3x3_5mm_p0_43mm
-id_no_color: edapackagelgalga24l3x35mmp043mm
-id_no_size: edapackagelgalga24l3x35mmp043mm
-id_no_type: eda_package_lga_lga_24l_3x3_5mm_p0_43mm
 manufacturer: ''
-manufacturer_name: ''
-md5: 6c6a7d7baeb579e3ac22177e8344d24e
-md5_10: 6c6a7d7bae
-md5_10_upper: 6C6A7D7BAE
-md5_5: 6c6a7
-md5_5_upper: 6C6A7
-md5_6: 6c6a7d
-md5_6_alpha: 48ad9
-md5_6_alpha_upper: 48AD9
-md5_6_upper: 6C6A7D
-name: Eda Kicad Footprint Kicad Default Package Lga Lga 24L 3X3 5mm P0 43mm
-name_no_class: Eda Kicad Default Package Lga Lga 24L 3X3 5mm P0 43mm
-name_no_color: Edapackagelgalga24L3X35mmp043mm
-name_no_size: Edapackagelgalga24L3X35mmp043mm
-name_no_type: Eda Package Lga Lga 24L 3X3 5mm P0 43mm
-oomp_key: oomp_eda_kicad_footprint_kicad_default_package_lga_lga_24l_3x3_5mm_p0_43mm
-oomp_word: blossom palm_tree phone
-oomp_word_emoji: ':blossom: :palm_tree: :phone:'
-oomp_word_emoji_list:
-- ':blossom:'
-- ':palm_tree:'
-- ':phone:'
-oomp_word_list:
-- blossom
-- palm_tree
-- phone
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

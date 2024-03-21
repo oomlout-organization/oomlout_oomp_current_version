@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: te_mate_n_lok_1_770971_x_2x05_p4_14mm_horizontal
-description_extra_length_1: t
-description_extra_length_2: te
-description_extra_length_3: te_
-description_extra_length_4: te_m
-description_extra_length_5: te_ma
-description_extra_length_6: te_mat
-description_extra_name: Te Mate N Lok 1 770971 X 2X05 P4 14mm Horizontal
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: te
-description_extra_no_space_length_3: tem
-description_extra_no_space_length_4: tema
-description_extra_no_space_length_5: temat
-description_extra_no_space_length_6: temate
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TE
-description_extra_no_space_upper_length_3: TEM
-description_extra_no_space_upper_length_4: TEMA
-description_extra_no_space_upper_length_5: TEMAT
-description_extra_no_space_upper_length_6: TEMATE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TE
-description_extra_upper_length_3: TE_
-description_extra_upper_length_4: TE_M
-description_extra_upper_length_5: TE_MA
-description_extra_upper_length_6: TE_MAT
 description_main: connector_te_connectivity
-description_main_length_1: c
-description_main_length_2: co
-description_main_length_3: con
-description_main_length_4: conn
-description_main_length_5: conne
-description_main_length_6: connec
-description_main_name: Connector Te Connectivity
-description_main_no_space_length_1: c
-description_main_no_space_length_2: co
-description_main_no_space_length_3: con
-description_main_no_space_length_4: conn
-description_main_no_space_length_5: conne
-description_main_no_space_length_6: connec
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CO
-description_main_no_space_upper_length_3: CON
-description_main_no_space_upper_length_4: CONN
-description_main_no_space_upper_length_5: CONNE
-description_main_no_space_upper_length_6: CONNEC
-description_main_upper_length_1: C
-description_main_upper_length_2: CO
-description_main_upper_length_3: CON
-description_main_upper_length_4: CONN
-description_main_upper_length_5: CONNE
-description_main_upper_length_6: CONNEC
-directory: parts/eda_kicad_footprint_kicad_default_connector_te_connectivity_te_mate_n_lok_1_770971_x_2x05_p4_14mm_horizontal
 footprint_id: eda_kicad_footprint_kicad_default_connector_te_connectivity_te_mate_n_lok_1_770971_x_2x05_p4_14mm_horizontal
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -270,70 +193,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_connector_te_connectivity_te_mate_n_lok_1_770971_x_2x05_p4_14mm_horizontal
 id: eda_kicad_footprint_kicad_default_connector_te_connectivity_te_mate_n_lok_1_770971_x_2x05_p4_14mm_horizontal
-id_no_class: eda_kicad_default_connector_te_connectivity_te_mate_n_lok_1_770971_x_2x05_p4_14mm_horizontal
-id_no_color: edaconnectorteconnectivitytematenlok1770971x2x05p414mmhorizontal
-id_no_size: edaconnectorteconnectivitytematenlok1770971x2x05p414mmhorizontal
-id_no_type: eda_connector_te_connectivity_te_mate_n_lok_1_770971_x_2x05_p4_14mm_horizontal
 manufacturer: ''
-manufacturer_name: ''
-md5: 868f2360ace6d0c584e5c7af33b1581e
-md5_10: 868f2360ac
-md5_10_upper: 868F2360AC
-md5_5: 868f2
-md5_5_upper: 868F2
-md5_6: 868f23
-md5_6_alpha: 590df
-md5_6_alpha_upper: 590DF
-md5_6_upper: 868F23
-name: Eda Kicad Footprint Kicad Default Connector Te Connectivity Te Mate N Lok 1
-  770971 X 2X05 P4 14mm Horizontal
-name_no_class: Eda Kicad Default Connector Te Connectivity Te Mate N Lok 1 770971
-  X 2X05 P4 14mm Horizontal
-name_no_color: Edaconnectorteconnectivitytematenlok1770971X2X05P414mmhorizontal
-name_no_size: Edaconnectorteconnectivitytematenlok1770971X2X05P414mmhorizontal
-name_no_type: Eda Connector Te Connectivity Te Mate N Lok 1 770971 X 2X05 P4 14mm
-  Horizontal
-oomp_key: oomp_eda_kicad_footprint_kicad_default_connector_te_connectivity_te_mate_n_lok_1_770971_x_2x05_p4_14mm_horizontal
-oomp_word: bath calendar kiss
-oomp_word_emoji: ':bath: :calendar: :kiss:'
-oomp_word_emoji_list:
-- ':bath:'
-- ':calendar:'
-- ':kiss:'
-oomp_word_list:
-- bath
-- calendar
-- kiss
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

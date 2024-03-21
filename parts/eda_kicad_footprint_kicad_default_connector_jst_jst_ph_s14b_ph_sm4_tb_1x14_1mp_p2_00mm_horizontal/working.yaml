@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: jst_ph_s14b_ph_sm4_tb_1x14_1mp_p2_00mm_horizontal
-description_extra_length_1: j
-description_extra_length_2: js
-description_extra_length_3: jst
-description_extra_length_4: jst_
-description_extra_length_5: jst_p
-description_extra_length_6: jst_ph
-description_extra_name: Jst Ph S14B Ph Sm4 Tb 1X14 1Mp P2 00mm Horizontal
-description_extra_no_space_length_1: j
-description_extra_no_space_length_2: js
-description_extra_no_space_length_3: jst
-description_extra_no_space_length_4: jstp
-description_extra_no_space_length_5: jstph
-description_extra_no_space_length_6: jstphs
-description_extra_no_space_upper_length_1: J
-description_extra_no_space_upper_length_2: JS
-description_extra_no_space_upper_length_3: JST
-description_extra_no_space_upper_length_4: JSTP
-description_extra_no_space_upper_length_5: JSTPH
-description_extra_no_space_upper_length_6: JSTPHS
-description_extra_upper_length_1: J
-description_extra_upper_length_2: JS
-description_extra_upper_length_3: JST
-description_extra_upper_length_4: JST_
-description_extra_upper_length_5: JST_P
-description_extra_upper_length_6: JST_PH
 description_main: connector_jst
-description_main_length_1: c
-description_main_length_2: co
-description_main_length_3: con
-description_main_length_4: conn
-description_main_length_5: conne
-description_main_length_6: connec
-description_main_name: Connector Jst
-description_main_no_space_length_1: c
-description_main_no_space_length_2: co
-description_main_no_space_length_3: con
-description_main_no_space_length_4: conn
-description_main_no_space_length_5: conne
-description_main_no_space_length_6: connec
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CO
-description_main_no_space_upper_length_3: CON
-description_main_no_space_upper_length_4: CONN
-description_main_no_space_upper_length_5: CONNE
-description_main_no_space_upper_length_6: CONNEC
-description_main_upper_length_1: C
-description_main_upper_length_2: CO
-description_main_upper_length_3: CON
-description_main_upper_length_4: CONN
-description_main_upper_length_5: CONNE
-description_main_upper_length_6: CONNEC
-directory: parts/eda_kicad_footprint_kicad_default_connector_jst_jst_ph_s14b_ph_sm4_tb_1x14_1mp_p2_00mm_horizontal
 footprint_id: eda_kicad_footprint_kicad_default_connector_jst_jst_ph_s14b_ph_sm4_tb_1x14_1mp_p2_00mm_horizontal
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -301,69 +224,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_connector_jst_jst_ph_s14b_ph_sm4_tb_1x14_1mp_p2_00mm_horizontal
 id: eda_kicad_footprint_kicad_default_connector_jst_jst_ph_s14b_ph_sm4_tb_1x14_1mp_p2_00mm_horizontal
-id_no_class: eda_kicad_default_connector_jst_jst_ph_s14b_ph_sm4_tb_1x14_1mp_p2_00mm_horizontal
-id_no_color: edaconnectorjstjstphs14bphsm4tb1x141mpp200mmhorizontal
-id_no_size: edaconnectorjstjstphs14bphsm4tb1x141mpp200mmhorizontal
-id_no_type: eda_connector_jst_jst_ph_s14b_ph_sm4_tb_1x14_1mp_p2_00mm_horizontal
 manufacturer: ''
-manufacturer_name: ''
-md5: 90e29b997665904f6abcd5520b4620dd
-md5_10: 90e29b9976
-md5_10_upper: 90E29B9976
-md5_5: 90e29
-md5_5_upper: 90E29
-md5_6: 90e29b
-md5_6_alpha: 5nijf
-md5_6_alpha_upper: 5NIJF
-md5_6_upper: 90E29B
-name: Eda Kicad Footprint Kicad Default Connector Jst Jst Ph S14B Ph Sm4 Tb 1X14 1Mp
-  P2 00mm Horizontal
-name_no_class: Eda Kicad Default Connector Jst Jst Ph S14B Ph Sm4 Tb 1X14 1Mp P2 00mm
-  Horizontal
-name_no_color: Edaconnectorjstjstphs14Bphsm4Tb1X141Mpp200mmhorizontal
-name_no_size: Edaconnectorjstjstphs14Bphsm4Tb1X141Mpp200mmhorizontal
-name_no_type: Eda Connector Jst Jst Ph S14B Ph Sm4 Tb 1X14 1Mp P2 00mm Horizontal
-oomp_key: oomp_eda_kicad_footprint_kicad_default_connector_jst_jst_ph_s14b_ph_sm4_tb_1x14_1mp_p2_00mm_horizontal
-oomp_word: scissors sailboat ski
-oomp_word_emoji: ':scissors: :sailboat: :ski:'
-oomp_word_emoji_list:
-- ':scissors:'
-- ':sailboat:'
-- ':ski:'
-oomp_word_list:
-- scissors
-- sailboat
-- ski
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

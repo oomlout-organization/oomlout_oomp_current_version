@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: r_2816_7142metric
-description_extra_length_1: r
-description_extra_length_2: r_
-description_extra_length_3: r_2
-description_extra_length_4: r_28
-description_extra_length_5: r_281
-description_extra_length_6: r_2816
-description_extra_name: R 2816 7142Metric
-description_extra_no_space_length_1: r
-description_extra_no_space_length_2: r2
-description_extra_no_space_length_3: r28
-description_extra_no_space_length_4: r281
-description_extra_no_space_length_5: r2816
-description_extra_no_space_length_6: r28167
-description_extra_no_space_upper_length_1: R
-description_extra_no_space_upper_length_2: R2
-description_extra_no_space_upper_length_3: R28
-description_extra_no_space_upper_length_4: R281
-description_extra_no_space_upper_length_5: R2816
-description_extra_no_space_upper_length_6: R28167
-description_extra_upper_length_1: R
-description_extra_upper_length_2: R_
-description_extra_upper_length_3: R_2
-description_extra_upper_length_4: R_28
-description_extra_upper_length_5: R_281
-description_extra_upper_length_6: R_2816
 description_main: resistor_smd
-description_main_length_1: r
-description_main_length_2: re
-description_main_length_3: res
-description_main_length_4: resi
-description_main_length_5: resis
-description_main_length_6: resist
-description_main_name: Resistor SMD
-description_main_no_space_length_1: r
-description_main_no_space_length_2: re
-description_main_no_space_length_3: res
-description_main_no_space_length_4: resi
-description_main_no_space_length_5: resis
-description_main_no_space_length_6: resist
-description_main_no_space_upper_length_1: R
-description_main_no_space_upper_length_2: RE
-description_main_no_space_upper_length_3: RES
-description_main_no_space_upper_length_4: RESI
-description_main_no_space_upper_length_5: RESIS
-description_main_no_space_upper_length_6: RESIST
-description_main_upper_length_1: R
-description_main_upper_length_2: RE
-description_main_upper_length_3: RES
-description_main_upper_length_4: RESI
-description_main_upper_length_5: RESIS
-description_main_upper_length_6: RESIST
-directory: parts/eda_kicad_footprint_kicad_default_resistor_smd_r_2816_7142metric
 footprint_id: eda_kicad_footprint_kicad_default_resistor_smd_r_2816_7142metric
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -164,67 +87,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_resistor_smd_r_2816_7142metric
 id: eda_kicad_footprint_kicad_default_resistor_smd_r_2816_7142metric
-id_no_class: eda_kicad_default_resistor_smd_r_2816_7142metric
-id_no_color: edaresistorsmdr28167142metric
-id_no_size: edaresistorsmdr28167142metric
-id_no_type: eda_resistor_smd_r_2816_7142metric
 manufacturer: ''
-manufacturer_name: ''
-md5: 29c5cabc5ab6479ceecaddad1769d628
-md5_10: 29c5cabc5a
-md5_10_upper: 29C5CABC5A
-md5_5: 29c5c
-md5_5_upper: 29C5C
-md5_6: 29c5ca
-md5_6_alpha: 1mocq
-md5_6_alpha_upper: 1MOCQ
-md5_6_upper: 29C5CA
-name: Eda Kicad Footprint Kicad Default Resistor SMD R 2816 7142Metric
-name_no_class: Eda Kicad Default Resistor SMD R 2816 7142Metric
-name_no_color: Edaresistorsmdr28167142Metric
-name_no_size: Edaresistorsmdr28167142Metric
-name_no_type: Eda Resistor SMD R 2816 7142Metric
-oomp_key: oomp_eda_kicad_footprint_kicad_default_resistor_smd_r_2816_7142metric
-oomp_word: sunny candy cherries
-oomp_word_emoji: ':sunny: :candy: :cherries:'
-oomp_word_emoji_list:
-- ':sunny:'
-- ':candy:'
-- ':cherries:'
-oomp_word_list:
-- sunny
-- candy
-- cherries
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

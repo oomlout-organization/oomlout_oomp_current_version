@@ -1,86 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: htssop_20_1ep_4_4x6_5mm_p0_65mm_ep3_4x6_5mm_mask2_75x3_43mm_thermalvias_handsolder
-description_extra_length_1: h
-description_extra_length_2: ht
-description_extra_length_3: hts
-description_extra_length_4: htss
-description_extra_length_5: htsso
-description_extra_length_6: htssop
-description_extra_name: Htssop 20 1Ep 4 4X6 5mm P0 65mm Ep3 4X6 5mm Mask2 75X3 43mm
-  Thermalvias Handsolder
-description_extra_no_space_length_1: h
-description_extra_no_space_length_2: ht
-description_extra_no_space_length_3: hts
-description_extra_no_space_length_4: htss
-description_extra_no_space_length_5: htsso
-description_extra_no_space_length_6: htssop
-description_extra_no_space_upper_length_1: H
-description_extra_no_space_upper_length_2: HT
-description_extra_no_space_upper_length_3: HTS
-description_extra_no_space_upper_length_4: HTSS
-description_extra_no_space_upper_length_5: HTSSO
-description_extra_no_space_upper_length_6: HTSSOP
-description_extra_upper_length_1: H
-description_extra_upper_length_2: HT
-description_extra_upper_length_3: HTS
-description_extra_upper_length_4: HTSS
-description_extra_upper_length_5: HTSSO
-description_extra_upper_length_6: HTSSOP
 description_main: package_so
-description_main_length_1: p
-description_main_length_2: pa
-description_main_length_3: pac
-description_main_length_4: pack
-description_main_length_5: packa
-description_main_length_6: packag
-description_main_name: Package So
-description_main_no_space_length_1: p
-description_main_no_space_length_2: pa
-description_main_no_space_length_3: pac
-description_main_no_space_length_4: pack
-description_main_no_space_length_5: packa
-description_main_no_space_length_6: packag
-description_main_no_space_upper_length_1: P
-description_main_no_space_upper_length_2: PA
-description_main_no_space_upper_length_3: PAC
-description_main_no_space_upper_length_4: PACK
-description_main_no_space_upper_length_5: PACKA
-description_main_no_space_upper_length_6: PACKAG
-description_main_upper_length_1: P
-description_main_upper_length_2: PA
-description_main_upper_length_3: PAC
-description_main_upper_length_4: PACK
-description_main_upper_length_5: PACKA
-description_main_upper_length_6: PACKAG
-directory: parts/eda_kicad_footprint_kicad_default_package_so_htssop_20_1ep_4_4x6_5mm_p0_65mm_ep3_4x6_5mm_mask2_75x3_43mm_thermalvias_handsolder
 footprint_id: eda_kicad_footprint_kicad_default_package_so_htssop_20_1ep_4_4x6_5mm_p0_65mm_ep3_4x6_5mm_mask2_75x3_43mm_thermalvias_handsolder
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -465,70 +387,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_package_so_htssop_20_1ep_4_4x6_5mm_p0_65mm_ep3_4x6_5mm_mask2_75x3_43mm_thermalvias_handsolder
 id: eda_kicad_footprint_kicad_default_package_so_htssop_20_1ep_4_4x6_5mm_p0_65mm_ep3_4x6_5mm_mask2_75x3_43mm_thermalvias_handsolder
-id_no_class: eda_kicad_default_package_so_htssop_20_1ep_4_4x6_5mm_p0_65mm_ep3_4x6_5mm_mask2_75x3_43mm_thermalvias_handsolder
-id_no_color: edapackagesohtssop201ep44x65mmp065mmep34x65mmmask275x343mmthermalviashandsolder
-id_no_size: edapackagesohtssop201ep44x65mmp065mmep34x65mmmask275x343mmthermalviashandsolder
-id_no_type: eda_package_so_htssop_20_1ep_4_4x6_5mm_p0_65mm_ep3_4x6_5mm_mask2_75x3_43mm_thermalvias_handsolder
 manufacturer: ''
-manufacturer_name: ''
-md5: 6b15c9cf2eb99d32f2bc1cabd95e6f0d
-md5_10: 6b15c9cf2e
-md5_10_upper: 6B15C9CF2E
-md5_5: 6b15c
-md5_5_upper: 6B15C
-md5_6: 6b15c9
-md5_6_alpha: 46f2h
-md5_6_alpha_upper: 46F2H
-md5_6_upper: 6B15C9
-name: Eda Kicad Footprint Kicad Default Package So Htssop 20 1Ep 4 4X6 5mm P0 65mm
-  Ep3 4X6 5mm Mask2 75X3 43mm Thermalvias Handsolder
-name_no_class: Eda Kicad Default Package So Htssop 20 1Ep 4 4X6 5mm P0 65mm Ep3 4X6
-  5mm Mask2 75X3 43mm Thermalvias Handsolder
-name_no_color: Edapackagesohtssop201Ep44X65mmp065mmep34X65mmmask275X343mmthermalviashandsolder
-name_no_size: Edapackagesohtssop201Ep44X65mmp065mmep34X65mmmask275X343mmthermalviashandsolder
-name_no_type: Eda Package So Htssop 20 1Ep 4 4X6 5mm P0 65mm Ep3 4X6 5mm Mask2 75X3
-  43mm Thermalvias Handsolder
-oomp_key: oomp_eda_kicad_footprint_kicad_default_package_so_htssop_20_1ep_4_4x6_5mm_p0_65mm_ep3_4x6_5mm_mask2_75x3_43mm_thermalvias_handsolder
-oomp_word: chestnut poop lemon
-oomp_word_emoji: ':chestnut: :poop: :lemon:'
-oomp_word_emoji_list:
-- ':chestnut:'
-- ':poop:'
-- ':lemon:'
-oomp_word_list:
-- chestnut
-- poop
-- lemon
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

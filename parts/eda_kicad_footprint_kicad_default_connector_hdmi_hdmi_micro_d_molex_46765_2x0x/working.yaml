@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: hdmi_micro_d_molex_46765_2x0x
-description_extra_length_1: h
-description_extra_length_2: hd
-description_extra_length_3: hdm
-description_extra_length_4: hdmi
-description_extra_length_5: hdmi_
-description_extra_length_6: hdmi_m
-description_extra_name: Hdmi Micro D Molex 46765 2X0X
-description_extra_no_space_length_1: h
-description_extra_no_space_length_2: hd
-description_extra_no_space_length_3: hdm
-description_extra_no_space_length_4: hdmi
-description_extra_no_space_length_5: hdmim
-description_extra_no_space_length_6: hdmimi
-description_extra_no_space_upper_length_1: H
-description_extra_no_space_upper_length_2: HD
-description_extra_no_space_upper_length_3: HDM
-description_extra_no_space_upper_length_4: HDMI
-description_extra_no_space_upper_length_5: HDMIM
-description_extra_no_space_upper_length_6: HDMIMI
-description_extra_upper_length_1: H
-description_extra_upper_length_2: HD
-description_extra_upper_length_3: HDM
-description_extra_upper_length_4: HDMI
-description_extra_upper_length_5: HDMI_
-description_extra_upper_length_6: HDMI_M
 description_main: connector_hdmi
-description_main_length_1: c
-description_main_length_2: co
-description_main_length_3: con
-description_main_length_4: conn
-description_main_length_5: conne
-description_main_length_6: connec
-description_main_name: Connector Hdmi
-description_main_no_space_length_1: c
-description_main_no_space_length_2: co
-description_main_no_space_length_3: con
-description_main_no_space_length_4: conn
-description_main_no_space_length_5: conne
-description_main_no_space_length_6: connec
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CO
-description_main_no_space_upper_length_3: CON
-description_main_no_space_upper_length_4: CONN
-description_main_no_space_upper_length_5: CONNE
-description_main_no_space_upper_length_6: CONNEC
-description_main_upper_length_1: C
-description_main_upper_length_2: CO
-description_main_upper_length_3: CON
-description_main_upper_length_4: CONN
-description_main_upper_length_5: CONNE
-description_main_upper_length_6: CONNEC
-directory: parts/eda_kicad_footprint_kicad_default_connector_hdmi_hdmi_micro_d_molex_46765_2x0x
 footprint_id: eda_kicad_footprint_kicad_default_connector_hdmi_hdmi_micro_d_molex_46765_2x0x
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -380,67 +303,9 @@ footprint_string:
     Y=-2.64, angle=None, unlocked=False), Position(X=2.35, Y=-2.64, angle=None, unlocked=False),
     Position(X=2.35, Y=1.7, angle=None, unlocked=False), Position(X=-2.35, Y=1.7,
     angle=None, unlocked=False)])], filledPolygons=[], fillSegments=None)]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_connector_hdmi_hdmi_micro_d_molex_46765_2x0x
 id: eda_kicad_footprint_kicad_default_connector_hdmi_hdmi_micro_d_molex_46765_2x0x
-id_no_class: eda_kicad_default_connector_hdmi_hdmi_micro_d_molex_46765_2x0x
-id_no_color: edaconnectorhdmihdmimicrodmolex467652x0x
-id_no_size: edaconnectorhdmihdmimicrodmolex467652x0x
-id_no_type: eda_connector_hdmi_hdmi_micro_d_molex_46765_2x0x
 manufacturer: ''
-manufacturer_name: ''
-md5: 98a91800eb42c79e7b2a7c5665db2517
-md5_10: 98a91800eb
-md5_10_upper: 98A91800EB
-md5_5: 98a91
-md5_5_upper: 98A91
-md5_6: 98a918
-md5_6_alpha: 5yfq0
-md5_6_alpha_upper: 5YFQ0
-md5_6_upper: 98A918
-name: Eda Kicad Footprint Kicad Default Connector Hdmi Hdmi Micro D Molex 46765 2X0X
-name_no_class: Eda Kicad Default Connector Hdmi Hdmi Micro D Molex 46765 2X0X
-name_no_color: Edaconnectorhdmihdmimicrodmolex467652X0X
-name_no_size: Edaconnectorhdmihdmimicrodmolex467652X0X
-name_no_type: Eda Connector Hdmi Hdmi Micro D Molex 46765 2X0X
-oomp_key: oomp_eda_kicad_footprint_kicad_default_connector_hdmi_hdmi_micro_d_molex_46765_2x0x
-oomp_word: tennis sandal hand
-oomp_word_emoji: ':tennis: :sandal: :hand:'
-oomp_word_emoji_list:
-- ':tennis:'
-- ':sandal:'
-- ':hand:'
-oomp_word_list:
-- tennis
-- sandal
-- hand
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

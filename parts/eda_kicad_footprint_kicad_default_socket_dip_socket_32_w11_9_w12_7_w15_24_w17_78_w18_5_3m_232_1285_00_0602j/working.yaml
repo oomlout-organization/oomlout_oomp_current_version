@@ -1,86 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: dip_socket_32_w11_9_w12_7_w15_24_w17_78_w18_5_3m_232_1285_00_0602j
-description_extra_length_1: d
-description_extra_length_2: di
-description_extra_length_3: dip
-description_extra_length_4: dip_
-description_extra_length_5: dip_s
-description_extra_length_6: dip_so
-description_extra_name: Dip Socket 32 W11 9 W12 7 W15 24 W17 78 W18 5 3M 232 1285
-  00 0602J
-description_extra_no_space_length_1: d
-description_extra_no_space_length_2: di
-description_extra_no_space_length_3: dip
-description_extra_no_space_length_4: dips
-description_extra_no_space_length_5: dipso
-description_extra_no_space_length_6: dipsoc
-description_extra_no_space_upper_length_1: D
-description_extra_no_space_upper_length_2: DI
-description_extra_no_space_upper_length_3: DIP
-description_extra_no_space_upper_length_4: DIPS
-description_extra_no_space_upper_length_5: DIPSO
-description_extra_no_space_upper_length_6: DIPSOC
-description_extra_upper_length_1: D
-description_extra_upper_length_2: DI
-description_extra_upper_length_3: DIP
-description_extra_upper_length_4: DIP_
-description_extra_upper_length_5: DIP_S
-description_extra_upper_length_6: DIP_SO
 description_main: socket
-description_main_length_1: s
-description_main_length_2: so
-description_main_length_3: soc
-description_main_length_4: sock
-description_main_length_5: socke
-description_main_length_6: socket
-description_main_name: Socket
-description_main_no_space_length_1: s
-description_main_no_space_length_2: so
-description_main_no_space_length_3: soc
-description_main_no_space_length_4: sock
-description_main_no_space_length_5: socke
-description_main_no_space_length_6: socket
-description_main_no_space_upper_length_1: S
-description_main_no_space_upper_length_2: SO
-description_main_no_space_upper_length_3: SOC
-description_main_no_space_upper_length_4: SOCK
-description_main_no_space_upper_length_5: SOCKE
-description_main_no_space_upper_length_6: SOCKET
-description_main_upper_length_1: S
-description_main_upper_length_2: SO
-description_main_upper_length_3: SOC
-description_main_upper_length_4: SOCK
-description_main_upper_length_5: SOCKE
-description_main_upper_length_6: SOCKET
-directory: parts/eda_kicad_footprint_kicad_default_socket_dip_socket_32_w11_9_w12_7_w15_24_w17_78_w18_5_3m_232_1285_00_0602j
 footprint_id: eda_kicad_footprint_kicad_default_socket_dip_socket_32_w11_9_w12_7_w15_24_w17_78_w18_5_3m_232_1285_00_0602j
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -470,70 +392,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_socket_dip_socket_32_w11_9_w12_7_w15_24_w17_78_w18_5_3m_232_1285_00_0602j
 id: eda_kicad_footprint_kicad_default_socket_dip_socket_32_w11_9_w12_7_w15_24_w17_78_w18_5_3m_232_1285_00_0602j
-id_no_class: eda_kicad_default_socket_dip_socket_32_w11_9_w12_7_w15_24_w17_78_w18_5_3m_232_1285_00_0602j
-id_no_color: edasocketdipsocket32w119w127w1524w1778w1853m2321285000602j
-id_no_size: edasocketdipsocket32w119w127w1524w1778w1853m2321285000602j
-id_no_type: eda_socket_dip_socket_32_w11_9_w12_7_w15_24_w17_78_w18_5_3m_232_1285_00_0602j
 manufacturer: ''
-manufacturer_name: ''
-md5: e99bf190dce78aaf95d896ebb93d9c64
-md5_10: e99bf190dc
-md5_10_upper: E99BF190DC
-md5_5: e99bf
-md5_5_upper: E99BF
-md5_6: e99bf1
-md5_6_alpha: 9454h
-md5_6_alpha_upper: 9454H
-md5_6_upper: E99BF1
-name: Eda Kicad Footprint Kicad Default Socket Dip Socket 32 W11 9 W12 7 W15 24 W17
-  78 W18 5 3M 232 1285 00 0602J
-name_no_class: Eda Kicad Default Socket Dip Socket 32 W11 9 W12 7 W15 24 W17 78 W18
-  5 3M 232 1285 00 0602J
-name_no_color: Edasocketdipsocket32W119W127W1524W1778W1853M2321285000602J
-name_no_size: Edasocketdipsocket32W119W127W1524W1778W1853M2321285000602J
-name_no_type: Eda Socket Dip Socket 32 W11 9 W12 7 W15 24 W17 78 W18 5 3M 232 1285
-  00 0602J
-oomp_key: oomp_eda_kicad_footprint_kicad_default_socket_dip_socket_32_w11_9_w12_7_w15_24_w17_78_w18_5_3m_232_1285_00_0602j
-oomp_word: bike ski ticket
-oomp_word_emoji: ':bike: :ski: :ticket:'
-oomp_word_emoji_list:
-- ':bike:'
-- ':ski:'
-- ':ticket:'
-oomp_word_list:
-- bike
-- ski
-- ticket
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: akm_cq_7
-description_extra_length_1: a
-description_extra_length_2: ak
-description_extra_length_3: akm
-description_extra_length_4: akm_
-description_extra_length_5: akm_c
-description_extra_length_6: akm_cq
-description_extra_name: Akm Cq 7
-description_extra_no_space_length_1: a
-description_extra_no_space_length_2: ak
-description_extra_no_space_length_3: akm
-description_extra_no_space_length_4: akmc
-description_extra_no_space_length_5: akmcq
-description_extra_no_space_length_6: akmcq7
-description_extra_no_space_upper_length_1: A
-description_extra_no_space_upper_length_2: AK
-description_extra_no_space_upper_length_3: AKM
-description_extra_no_space_upper_length_4: AKMC
-description_extra_no_space_upper_length_5: AKMCQ
-description_extra_no_space_upper_length_6: AKMCQ7
-description_extra_upper_length_1: A
-description_extra_upper_length_2: AK
-description_extra_upper_length_3: AKM
-description_extra_upper_length_4: AKM_
-description_extra_upper_length_5: AKM_C
-description_extra_upper_length_6: AKM_CQ
 description_main: sensor_current
-description_main_length_1: s
-description_main_length_2: se
-description_main_length_3: sen
-description_main_length_4: sens
-description_main_length_5: senso
-description_main_length_6: sensor
-description_main_name: Sensor Current
-description_main_no_space_length_1: s
-description_main_no_space_length_2: se
-description_main_no_space_length_3: sen
-description_main_no_space_length_4: sens
-description_main_no_space_length_5: senso
-description_main_no_space_length_6: sensor
-description_main_no_space_upper_length_1: S
-description_main_no_space_upper_length_2: SE
-description_main_no_space_upper_length_3: SEN
-description_main_no_space_upper_length_4: SENS
-description_main_no_space_upper_length_5: SENSO
-description_main_no_space_upper_length_6: SENSOR
-description_main_upper_length_1: S
-description_main_upper_length_2: SE
-description_main_upper_length_3: SEN
-description_main_upper_length_4: SENS
-description_main_upper_length_5: SENSO
-description_main_upper_length_6: SENSOR
-directory: parts/eda_kicad_footprint_kicad_default_sensor_current_akm_cq_7
 footprint_id: eda_kicad_footprint_kicad_default_sensor_current_akm_cq_7
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -570,67 +493,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_sensor_current_akm_cq_7
 id: eda_kicad_footprint_kicad_default_sensor_current_akm_cq_7
-id_no_class: eda_kicad_default_sensor_current_akm_cq_7
-id_no_color: edasensorcurrentakmcq7
-id_no_size: edasensorcurrentakmcq7
-id_no_type: eda_sensor_current_akm_cq_7
 manufacturer: ''
-manufacturer_name: ''
-md5: 940872338414cbdf7b4488d8d57304f1
-md5_10: '9408723384'
-md5_10_upper: '9408723384'
-md5_5: '94087'
-md5_5_upper: '94087'
-md5_6: '940872'
-md5_6_alpha: 5rxpu
-md5_6_alpha_upper: 5RXPU
-md5_6_upper: '940872'
-name: Eda Kicad Footprint Kicad Default Sensor Current Akm Cq 7
-name_no_class: Eda Kicad Default Sensor Current Akm Cq 7
-name_no_color: Edasensorcurrentakmcq7
-name_no_size: Edasensorcurrentakmcq7
-name_no_type: Eda Sensor Current Akm Cq 7
-oomp_key: oomp_eda_kicad_footprint_kicad_default_sensor_current_akm_cq_7
-oomp_word: microscope scream dolls
-oomp_word_emoji: ':microscope: :scream: :dolls:'
-oomp_word_emoji_list:
-- ':microscope:'
-- ':scream:'
-- ':dolls:'
-oomp_word_list:
-- microscope
-- scream
-- dolls
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: d_sma
-description_extra_length_1: d
-description_extra_length_2: d_
-description_extra_length_3: d_s
-description_extra_length_4: d_sm
-description_extra_length_5: d_sma
-description_extra_length_6: d_sma
-description_extra_name: D Sma
-description_extra_no_space_length_1: d
-description_extra_no_space_length_2: ds
-description_extra_no_space_length_3: dsm
-description_extra_no_space_length_4: dsma
-description_extra_no_space_length_5: dsma
-description_extra_no_space_length_6: dsma
-description_extra_no_space_upper_length_1: D
-description_extra_no_space_upper_length_2: DS
-description_extra_no_space_upper_length_3: DSM
-description_extra_no_space_upper_length_4: DSMA
-description_extra_no_space_upper_length_5: DSMA
-description_extra_no_space_upper_length_6: DSMA
-description_extra_upper_length_1: D
-description_extra_upper_length_2: D_
-description_extra_upper_length_3: D_S
-description_extra_upper_length_4: D_SM
-description_extra_upper_length_5: D_SMA
-description_extra_upper_length_6: D_SMA
 description_main: diode_smd
-description_main_length_1: d
-description_main_length_2: di
-description_main_length_3: dio
-description_main_length_4: diod
-description_main_length_5: diode
-description_main_length_6: diode_
-description_main_name: Diode SMD
-description_main_no_space_length_1: d
-description_main_no_space_length_2: di
-description_main_no_space_length_3: dio
-description_main_no_space_length_4: diod
-description_main_no_space_length_5: diode
-description_main_no_space_length_6: diodes
-description_main_no_space_upper_length_1: D
-description_main_no_space_upper_length_2: DI
-description_main_no_space_upper_length_3: DIO
-description_main_no_space_upper_length_4: DIOD
-description_main_no_space_upper_length_5: DIODE
-description_main_no_space_upper_length_6: DIODES
-description_main_upper_length_1: D
-description_main_upper_length_2: DI
-description_main_upper_length_3: DIO
-description_main_upper_length_4: DIOD
-description_main_upper_length_5: DIODE
-description_main_upper_length_6: DIODE_
-directory: parts/eda_kicad_footprint_kicad_default_diode_smd_d_sma
 footprint_id: eda_kicad_footprint_kicad_default_diode_smd_d_sma
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -180,67 +103,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_diode_smd_d_sma
 id: eda_kicad_footprint_kicad_default_diode_smd_d_sma
-id_no_class: eda_kicad_default_diode_smd_d_sma
-id_no_color: edadiodesmddsma
-id_no_size: edadiodesmddsma
-id_no_type: eda_diode_smd_d_sma
 manufacturer: ''
-manufacturer_name: ''
-md5: 9fcf2585bb12e032ad12e1953c7e41ed
-md5_10: 9fcf2585bb
-md5_10_upper: 9FCF2585BB
-md5_5: 9fcf2
-md5_5_upper: 9FCF2
-md5_6: 9fcf25
-md5_6_alpha: 68h7p
-md5_6_alpha_upper: 68H7P
-md5_6_upper: 9FCF25
-name: Eda Kicad Footprint Kicad Default Diode SMD D Sma
-name_no_class: Eda Kicad Default Diode SMD D Sma
-name_no_color: Edadiodesmddsma
-name_no_size: Edadiodesmddsma
-name_no_type: Eda Diode SMD D Sma
-oomp_key: oomp_eda_kicad_footprint_kicad_default_diode_smd_d_sma
-oomp_word: diamonds melon ear
-oomp_word_emoji: ':diamonds: :melon: :ear:'
-oomp_word_emoji_list:
-- ':diamonds:'
-- ':melon:'
-- ':ear:'
-oomp_word_list:
-- diamonds
-- melon
-- ear
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

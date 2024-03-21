@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: heltec_ht_ct62
-description_extra_length_1: h
-description_extra_length_2: he
-description_extra_length_3: hel
-description_extra_length_4: helt
-description_extra_length_5: helte
-description_extra_length_6: heltec
-description_extra_name: Heltec Ht Ct62
-description_extra_no_space_length_1: h
-description_extra_no_space_length_2: he
-description_extra_no_space_length_3: hel
-description_extra_no_space_length_4: helt
-description_extra_no_space_length_5: helte
-description_extra_no_space_length_6: heltec
-description_extra_no_space_upper_length_1: H
-description_extra_no_space_upper_length_2: HE
-description_extra_no_space_upper_length_3: HEL
-description_extra_no_space_upper_length_4: HELT
-description_extra_no_space_upper_length_5: HELTE
-description_extra_no_space_upper_length_6: HELTEC
-description_extra_upper_length_1: H
-description_extra_upper_length_2: HE
-description_extra_upper_length_3: HEL
-description_extra_upper_length_4: HELT
-description_extra_upper_length_5: HELTE
-description_extra_upper_length_6: HELTEC
 description_main: rf_module
-description_main_length_1: r
-description_main_length_2: rf
-description_main_length_3: rf_
-description_main_length_4: rf_m
-description_main_length_5: rf_mo
-description_main_length_6: rf_mod
-description_main_name: Rf Module
-description_main_no_space_length_1: r
-description_main_no_space_length_2: rf
-description_main_no_space_length_3: rfm
-description_main_no_space_length_4: rfmo
-description_main_no_space_length_5: rfmod
-description_main_no_space_length_6: rfmodu
-description_main_no_space_upper_length_1: R
-description_main_no_space_upper_length_2: RF
-description_main_no_space_upper_length_3: RFM
-description_main_no_space_upper_length_4: RFMO
-description_main_no_space_upper_length_5: RFMOD
-description_main_no_space_upper_length_6: RFMODU
-description_main_upper_length_1: R
-description_main_upper_length_2: RF
-description_main_upper_length_3: RF_
-description_main_upper_length_4: RF_M
-description_main_upper_length_5: RF_MO
-description_main_upper_length_6: RF_MOD
-directory: parts/eda_kicad_footprint_kicad_default_rf_module_heltec_ht_ct62
 footprint_id: eda_kicad_footprint_kicad_default_rf_module_heltec_ht_ct62
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -364,67 +287,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_rf_module_heltec_ht_ct62
 id: eda_kicad_footprint_kicad_default_rf_module_heltec_ht_ct62
-id_no_class: eda_kicad_default_rf_module_heltec_ht_ct62
-id_no_color: edarfmoduleheltechtct62
-id_no_size: edarfmoduleheltechtct62
-id_no_type: eda_rf_module_heltec_ht_ct62
 manufacturer: ''
-manufacturer_name: ''
-md5: 47ae0fbd37f3ef8aaca2e3eda306f585
-md5_10: 47ae0fbd37
-md5_10_upper: 47AE0FBD37
-md5_5: 47ae0
-md5_5_upper: 47AE0
-md5_6: 47ae0f
-md5_6_alpha: 2sopb
-md5_6_alpha_upper: 2SOPB
-md5_6_upper: 47AE0F
-name: Eda Kicad Footprint Kicad Default Rf Module Heltec Ht Ct62
-name_no_class: Eda Kicad Default Rf Module Heltec Ht Ct62
-name_no_color: Edarfmoduleheltechtct62
-name_no_size: Edarfmoduleheltechtct62
-name_no_type: Eda Rf Module Heltec Ht Ct62
-oomp_key: oomp_eda_kicad_footprint_kicad_default_rf_module_heltec_ht_ct62
-oomp_word: baby_chick jeans sparkles
-oomp_word_emoji: ':baby_chick: :jeans: :sparkles:'
-oomp_word_emoji_list:
-- ':baby_chick:'
-- ':jeans:'
-- ':sparkles:'
-oomp_word_list:
-- baby_chick
-- jeans
-- sparkles
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

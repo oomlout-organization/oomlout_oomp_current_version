@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: astrocast_ast50147_00
-description_extra_length_1: a
-description_extra_length_2: as
-description_extra_length_3: ast
-description_extra_length_4: astr
-description_extra_length_5: astro
-description_extra_length_6: astroc
-description_extra_name: Astrocast Ast50147 00
-description_extra_no_space_length_1: a
-description_extra_no_space_length_2: as
-description_extra_no_space_length_3: ast
-description_extra_no_space_length_4: astr
-description_extra_no_space_length_5: astro
-description_extra_no_space_length_6: astroc
-description_extra_no_space_upper_length_1: A
-description_extra_no_space_upper_length_2: AS
-description_extra_no_space_upper_length_3: AST
-description_extra_no_space_upper_length_4: ASTR
-description_extra_no_space_upper_length_5: ASTRO
-description_extra_no_space_upper_length_6: ASTROC
-description_extra_upper_length_1: A
-description_extra_upper_length_2: AS
-description_extra_upper_length_3: AST
-description_extra_upper_length_4: ASTR
-description_extra_upper_length_5: ASTRO
-description_extra_upper_length_6: ASTROC
 description_main: rf_module
-description_main_length_1: r
-description_main_length_2: rf
-description_main_length_3: rf_
-description_main_length_4: rf_m
-description_main_length_5: rf_mo
-description_main_length_6: rf_mod
-description_main_name: Rf Module
-description_main_no_space_length_1: r
-description_main_no_space_length_2: rf
-description_main_no_space_length_3: rfm
-description_main_no_space_length_4: rfmo
-description_main_no_space_length_5: rfmod
-description_main_no_space_length_6: rfmodu
-description_main_no_space_upper_length_1: R
-description_main_no_space_upper_length_2: RF
-description_main_no_space_upper_length_3: RFM
-description_main_no_space_upper_length_4: RFMO
-description_main_no_space_upper_length_5: RFMOD
-description_main_no_space_upper_length_6: RFMODU
-description_main_upper_length_1: R
-description_main_upper_length_2: RF
-description_main_upper_length_3: RF_
-description_main_upper_length_4: RF_M
-description_main_upper_length_5: RF_MO
-description_main_upper_length_6: RF_MOD
-directory: parts/eda_kicad_footprint_kicad_default_rf_module_astrocast_ast50147_00
 footprint_id: eda_kicad_footprint_kicad_default_rf_module_astrocast_ast50147_00
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -456,67 +379,9 @@ footprint_string:
     angle=None, unlocked=False), Position(X=15.55, Y=-17.55, angle=None, unlocked=False),
     Position(X=-15.55, Y=-17.55, angle=None, unlocked=False)])], filledPolygons=[],
     fillSegments=None)]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_rf_module_astrocast_ast50147_00
 id: eda_kicad_footprint_kicad_default_rf_module_astrocast_ast50147_00
-id_no_class: eda_kicad_default_rf_module_astrocast_ast50147_00
-id_no_color: edarfmoduleastrocastast5014700
-id_no_size: edarfmoduleastrocastast5014700
-id_no_type: eda_rf_module_astrocast_ast50147_00
 manufacturer: ''
-manufacturer_name: ''
-md5: f29b2edd9668064cb171313d47844a20
-md5_10: f29b2edd96
-md5_10_upper: F29B2EDD96
-md5_5: f29b2
-md5_5_upper: F29B2
-md5_6: f29b2e
-md5_6_alpha: 9gs32
-md5_6_alpha_upper: 9GS32
-md5_6_upper: F29B2E
-name: Eda Kicad Footprint Kicad Default Rf Module Astrocast Ast50147 00
-name_no_class: Eda Kicad Default Rf Module Astrocast Ast50147 00
-name_no_color: Edarfmoduleastrocastast5014700
-name_no_size: Edarfmoduleastrocastast5014700
-name_no_type: Eda Rf Module Astrocast Ast50147 00
-oomp_key: oomp_eda_kicad_footprint_kicad_default_rf_module_astrocast_ast50147_00
-oomp_word: one ski zap
-oomp_word_emoji: ':one: :ski: :zap:'
-oomp_word_emoji_list:
-- ':one:'
-- ':ski:'
-- ':zap:'
-oomp_word_list:
-- one
-- ski
-- zap
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: d_t_1_p2_54mm_vertical_anodeup
-description_extra_length_1: d
-description_extra_length_2: d_
-description_extra_length_3: d_t
-description_extra_length_4: d_t_
-description_extra_length_5: d_t_1
-description_extra_length_6: d_t_1_
-description_extra_name: D T 1 P2 54mm Vertical Anodeup
-description_extra_no_space_length_1: d
-description_extra_no_space_length_2: dt
-description_extra_no_space_length_3: dt1
-description_extra_no_space_length_4: dt1p
-description_extra_no_space_length_5: dt1p2
-description_extra_no_space_length_6: dt1p25
-description_extra_no_space_upper_length_1: D
-description_extra_no_space_upper_length_2: DT
-description_extra_no_space_upper_length_3: DT1
-description_extra_no_space_upper_length_4: DT1P
-description_extra_no_space_upper_length_5: DT1P2
-description_extra_no_space_upper_length_6: DT1P25
-description_extra_upper_length_1: D
-description_extra_upper_length_2: D_
-description_extra_upper_length_3: D_T
-description_extra_upper_length_4: D_T_
-description_extra_upper_length_5: D_T_1
-description_extra_upper_length_6: D_T_1_
 description_main: diode_tht
-description_main_length_1: d
-description_main_length_2: di
-description_main_length_3: dio
-description_main_length_4: diod
-description_main_length_5: diode
-description_main_length_6: diode_
-description_main_name: Diode Tht
-description_main_no_space_length_1: d
-description_main_no_space_length_2: di
-description_main_no_space_length_3: dio
-description_main_no_space_length_4: diod
-description_main_no_space_length_5: diode
-description_main_no_space_length_6: diodet
-description_main_no_space_upper_length_1: D
-description_main_no_space_upper_length_2: DI
-description_main_no_space_upper_length_3: DIO
-description_main_no_space_upper_length_4: DIOD
-description_main_no_space_upper_length_5: DIODE
-description_main_no_space_upper_length_6: DIODET
-description_main_upper_length_1: D
-description_main_upper_length_2: DI
-description_main_upper_length_3: DIO
-description_main_upper_length_4: DIOD
-description_main_upper_length_5: DIODE
-description_main_upper_length_6: DIODE_
-directory: parts/eda_kicad_footprint_kicad_default_diode_tht_d_t_1_p2_54mm_vertical_anodeup
 footprint_id: eda_kicad_footprint_kicad_default_diode_tht_d_t_1_p2_54mm_vertical_anodeup
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -164,67 +87,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_diode_tht_d_t_1_p2_54mm_vertical_anodeup
 id: eda_kicad_footprint_kicad_default_diode_tht_d_t_1_p2_54mm_vertical_anodeup
-id_no_class: eda_kicad_default_diode_tht_d_t_1_p2_54mm_vertical_anodeup
-id_no_color: edadiodethtdt1p254mmverticalanodeup
-id_no_size: edadiodethtdt1p254mmverticalanodeup
-id_no_type: eda_diode_tht_d_t_1_p2_54mm_vertical_anodeup
 manufacturer: ''
-manufacturer_name: ''
-md5: aaa6e9b86ea9ca30c9da8d22d62b2515
-md5_10: aaa6e9b86e
-md5_10_upper: AAA6E9B86E
-md5_5: aaa6e
-md5_5_upper: AAA6E
-md5_6: aaa6e9
-md5_6_alpha: 6npih
-md5_6_alpha_upper: 6NPIH
-md5_6_upper: AAA6E9
-name: Eda Kicad Footprint Kicad Default Diode Tht D T 1 P2 54mm Vertical Anodeup
-name_no_class: Eda Kicad Default Diode Tht D T 1 P2 54mm Vertical Anodeup
-name_no_color: Edadiodethtdt1P254mmverticalanodeup
-name_no_size: Edadiodethtdt1P254mmverticalanodeup
-name_no_type: Eda Diode Tht D T 1 P2 54mm Vertical Anodeup
-oomp_key: oomp_eda_kicad_footprint_kicad_default_diode_tht_d_t_1_p2_54mm_vertical_anodeup
-oomp_word: lipstick trumpet bike
-oomp_word_emoji: ':lipstick: :trumpet: :bike:'
-oomp_word_emoji_list:
-- ':lipstick:'
-- ':trumpet:'
-- ':bike:'
-oomp_word_list:
-- lipstick
-- trumpet
-- bike
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

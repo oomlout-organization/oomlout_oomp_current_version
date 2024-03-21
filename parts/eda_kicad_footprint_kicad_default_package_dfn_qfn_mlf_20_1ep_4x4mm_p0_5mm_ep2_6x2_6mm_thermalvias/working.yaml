@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: mlf_20_1ep_4x4mm_p0_5mm_ep2_6x2_6mm_thermalvias
-description_extra_length_1: m
-description_extra_length_2: ml
-description_extra_length_3: mlf
-description_extra_length_4: mlf_
-description_extra_length_5: mlf_2
-description_extra_length_6: mlf_20
-description_extra_name: Mlf 20 1Ep 4X4mm P0 5mm Ep2 6X2 6mm Thermalvias
-description_extra_no_space_length_1: m
-description_extra_no_space_length_2: ml
-description_extra_no_space_length_3: mlf
-description_extra_no_space_length_4: mlf2
-description_extra_no_space_length_5: mlf20
-description_extra_no_space_length_6: mlf201
-description_extra_no_space_upper_length_1: M
-description_extra_no_space_upper_length_2: ML
-description_extra_no_space_upper_length_3: MLF
-description_extra_no_space_upper_length_4: MLF2
-description_extra_no_space_upper_length_5: MLF20
-description_extra_no_space_upper_length_6: MLF201
-description_extra_upper_length_1: M
-description_extra_upper_length_2: ML
-description_extra_upper_length_3: MLF
-description_extra_upper_length_4: MLF_
-description_extra_upper_length_5: MLF_2
-description_extra_upper_length_6: MLF_20
 description_main: package_dfn_qfn
-description_main_length_1: p
-description_main_length_2: pa
-description_main_length_3: pac
-description_main_length_4: pack
-description_main_length_5: packa
-description_main_length_6: packag
-description_main_name: Package Dfn Qfn
-description_main_no_space_length_1: p
-description_main_no_space_length_2: pa
-description_main_no_space_length_3: pac
-description_main_no_space_length_4: pack
-description_main_no_space_length_5: packa
-description_main_no_space_length_6: packag
-description_main_no_space_upper_length_1: P
-description_main_no_space_upper_length_2: PA
-description_main_no_space_upper_length_3: PAC
-description_main_no_space_upper_length_4: PACK
-description_main_no_space_upper_length_5: PACKA
-description_main_no_space_upper_length_6: PACKAG
-description_main_upper_length_1: P
-description_main_upper_length_2: PA
-description_main_upper_length_3: PAC
-description_main_upper_length_4: PACK
-description_main_upper_length_5: PACKA
-description_main_upper_length_6: PACKAG
-directory: parts/eda_kicad_footprint_kicad_default_package_dfn_qfn_mlf_20_1ep_4x4mm_p0_5mm_ep2_6x2_6mm_thermalvias
 footprint_id: eda_kicad_footprint_kicad_default_package_dfn_qfn_mlf_20_1ep_4x4mm_p0_5mm_ep2_6x2_6mm_thermalvias
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -384,69 +307,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_package_dfn_qfn_mlf_20_1ep_4x4mm_p0_5mm_ep2_6x2_6mm_thermalvias
 id: eda_kicad_footprint_kicad_default_package_dfn_qfn_mlf_20_1ep_4x4mm_p0_5mm_ep2_6x2_6mm_thermalvias
-id_no_class: eda_kicad_default_package_dfn_qfn_mlf_20_1ep_4x4mm_p0_5mm_ep2_6x2_6mm_thermalvias
-id_no_color: edapackagedfnqfnmlf201ep4x4mmp05mmep26x26mmthermalvias
-id_no_size: edapackagedfnqfnmlf201ep4x4mmp05mmep26x26mmthermalvias
-id_no_type: eda_package_dfn_qfn_mlf_20_1ep_4x4mm_p0_5mm_ep2_6x2_6mm_thermalvias
 manufacturer: ''
-manufacturer_name: ''
-md5: c80477b43ad5f9c509b22b60bbe8ecd1
-md5_10: c80477b43a
-md5_10_upper: C80477B43A
-md5_5: c8047
-md5_5_upper: C8047
-md5_6: c80477
-md5_6_alpha: 7sygn
-md5_6_alpha_upper: 7SYGN
-md5_6_upper: C80477
-name: Eda Kicad Footprint Kicad Default Package Dfn Qfn Mlf 20 1Ep 4X4mm P0 5mm Ep2
-  6X2 6mm Thermalvias
-name_no_class: Eda Kicad Default Package Dfn Qfn Mlf 20 1Ep 4X4mm P0 5mm Ep2 6X2 6mm
-  Thermalvias
-name_no_color: Edapackagedfnqfnmlf201Ep4X4mmp05mmep26X26mmthermalvias
-name_no_size: Edapackagedfnqfnmlf201Ep4X4mmp05mmep26X26mmthermalvias
-name_no_type: Eda Package Dfn Qfn Mlf 20 1Ep 4X4mm P0 5mm Ep2 6X2 6mm Thermalvias
-oomp_key: oomp_eda_kicad_footprint_kicad_default_package_dfn_qfn_mlf_20_1ep_4x4mm_p0_5mm_ep2_6x2_6mm_thermalvias
-oomp_word: apple wink gift
-oomp_word_emoji: ':apple: :wink: :gift:'
-oomp_word_emoji_list:
-- ':apple:'
-- ':wink:'
-- ':gift:'
-oomp_word_list:
-- apple
-- wink
-- gift
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: r_radial_power_l12_0mm_w8_0mm_p5_00mm
-description_extra_length_1: r
-description_extra_length_2: r_
-description_extra_length_3: r_r
-description_extra_length_4: r_ra
-description_extra_length_5: r_rad
-description_extra_length_6: r_radi
-description_extra_name: R Radial Power L12 0mm W8 0mm P5 00mm
-description_extra_no_space_length_1: r
-description_extra_no_space_length_2: rr
-description_extra_no_space_length_3: rra
-description_extra_no_space_length_4: rrad
-description_extra_no_space_length_5: rradi
-description_extra_no_space_length_6: rradia
-description_extra_no_space_upper_length_1: R
-description_extra_no_space_upper_length_2: RR
-description_extra_no_space_upper_length_3: RRA
-description_extra_no_space_upper_length_4: RRAD
-description_extra_no_space_upper_length_5: RRADI
-description_extra_no_space_upper_length_6: RRADIA
-description_extra_upper_length_1: R
-description_extra_upper_length_2: R_
-description_extra_upper_length_3: R_R
-description_extra_upper_length_4: R_RA
-description_extra_upper_length_5: R_RAD
-description_extra_upper_length_6: R_RADI
 description_main: resistor_tht
-description_main_length_1: r
-description_main_length_2: re
-description_main_length_3: res
-description_main_length_4: resi
-description_main_length_5: resis
-description_main_length_6: resist
-description_main_name: Resistor Tht
-description_main_no_space_length_1: r
-description_main_no_space_length_2: re
-description_main_no_space_length_3: res
-description_main_no_space_length_4: resi
-description_main_no_space_length_5: resis
-description_main_no_space_length_6: resist
-description_main_no_space_upper_length_1: R
-description_main_no_space_upper_length_2: RE
-description_main_no_space_upper_length_3: RES
-description_main_no_space_upper_length_4: RESI
-description_main_no_space_upper_length_5: RESIS
-description_main_no_space_upper_length_6: RESIST
-description_main_upper_length_1: R
-description_main_upper_length_2: RE
-description_main_upper_length_3: RES
-description_main_upper_length_4: RESI
-description_main_upper_length_5: RESIS
-description_main_upper_length_6: RESIST
-directory: parts/eda_kicad_footprint_kicad_default_resistor_tht_r_radial_power_l12_0mm_w8_0mm_p5_00mm
 footprint_id: eda_kicad_footprint_kicad_default_resistor_tht_r_radial_power_l12_0mm_w8_0mm_p5_00mm
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -180,68 +103,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_resistor_tht_r_radial_power_l12_0mm_w8_0mm_p5_00mm
 id: eda_kicad_footprint_kicad_default_resistor_tht_r_radial_power_l12_0mm_w8_0mm_p5_00mm
-id_no_class: eda_kicad_default_resistor_tht_r_radial_power_l12_0mm_w8_0mm_p5_00mm
-id_no_color: edaresistorthtrradialpowerl120mmw80mmp500mm
-id_no_size: edaresistorthtrradialpowerl120mmw80mmp500mm
-id_no_type: eda_resistor_tht_r_radial_power_l12_0mm_w8_0mm_p5_00mm
 manufacturer: ''
-manufacturer_name: ''
-md5: 8a25caf713159c0fb0992177fa501b5d
-md5_10: 8a25caf713
-md5_10_upper: 8A25CAF713
-md5_5: 8a25c
-md5_5_upper: 8A25C
-md5_6: 8a25ca
-md5_6_alpha: 5e1u2
-md5_6_alpha_upper: 5E1U2
-md5_6_upper: 8A25CA
-name: Eda Kicad Footprint Kicad Default Resistor Tht R Radial Power L12 0mm W8 0mm
-  P5 00mm
-name_no_class: Eda Kicad Default Resistor Tht R Radial Power L12 0mm W8 0mm P5 00mm
-name_no_color: Edaresistorthtrradialpowerl120mmw80mmp500mm
-name_no_size: Edaresistorthtrradialpowerl120mmw80mmp500mm
-name_no_type: Eda Resistor Tht R Radial Power L12 0mm W8 0mm P5 00mm
-oomp_key: oomp_eda_kicad_footprint_kicad_default_resistor_tht_r_radial_power_l12_0mm_w8_0mm_p5_00mm
-oomp_word: envelope ear cherries
-oomp_word_emoji: ':envelope: :ear: :cherries:'
-oomp_word_emoji_list:
-- ':envelope:'
-- ':ear:'
-- ':cherries:'
-oomp_word_list:
-- envelope
-- ear
-- cherries
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

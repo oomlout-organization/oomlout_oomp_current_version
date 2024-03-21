@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: terminalblock_phoenix_mkds_1_5_3_5_08_1x03_p5_08mm_horizontal
-description_extra_length_1: t
-description_extra_length_2: te
-description_extra_length_3: ter
-description_extra_length_4: term
-description_extra_length_5: termi
-description_extra_length_6: termin
-description_extra_name: Terminalblock Phoenix Mkds 1 5 3 5 08 1X03 P5 08mm Horizontal
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: te
-description_extra_no_space_length_3: ter
-description_extra_no_space_length_4: term
-description_extra_no_space_length_5: termi
-description_extra_no_space_length_6: termin
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TE
-description_extra_no_space_upper_length_3: TER
-description_extra_no_space_upper_length_4: TERM
-description_extra_no_space_upper_length_5: TERMI
-description_extra_no_space_upper_length_6: TERMIN
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TE
-description_extra_upper_length_3: TER
-description_extra_upper_length_4: TERM
-description_extra_upper_length_5: TERMI
-description_extra_upper_length_6: TERMIN
 description_main: terminalblock_phoenix
-description_main_length_1: t
-description_main_length_2: te
-description_main_length_3: ter
-description_main_length_4: term
-description_main_length_5: termi
-description_main_length_6: termin
-description_main_name: Terminalblock Phoenix
-description_main_no_space_length_1: t
-description_main_no_space_length_2: te
-description_main_no_space_length_3: ter
-description_main_no_space_length_4: term
-description_main_no_space_length_5: termi
-description_main_no_space_length_6: termin
-description_main_no_space_upper_length_1: T
-description_main_no_space_upper_length_2: TE
-description_main_no_space_upper_length_3: TER
-description_main_no_space_upper_length_4: TERM
-description_main_no_space_upper_length_5: TERMI
-description_main_no_space_upper_length_6: TERMIN
-description_main_upper_length_1: T
-description_main_upper_length_2: TE
-description_main_upper_length_3: TER
-description_main_upper_length_4: TERM
-description_main_upper_length_5: TERMI
-description_main_upper_length_6: TERMIN
-directory: parts/eda_kicad_footprint_kicad_default_terminalblock_phoenix_terminalblock_phoenix_mkds_1_5_3_5_08_1x03_p5_08mm_horizontal
 footprint_id: eda_kicad_footprint_kicad_default_terminalblock_phoenix_terminalblock_phoenix_mkds_1_5_3_5_08_1x03_p5_08mm_horizontal
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -277,70 +200,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_terminalblock_phoenix_terminalblock_phoenix_mkds_1_5_3_5_08_1x03_p5_08mm_horizontal
 id: eda_kicad_footprint_kicad_default_terminalblock_phoenix_terminalblock_phoenix_mkds_1_5_3_5_08_1x03_p5_08mm_horizontal
-id_no_class: eda_kicad_default_terminalblock_phoenix_terminalblock_phoenix_mkds_1_5_3_5_08_1x03_p5_08mm_horizontal
-id_no_color: edaterminalblockphoenixterminalblockphoenixmkds1535081x03p508mmhorizontal
-id_no_size: edaterminalblockphoenixterminalblockphoenixmkds1535081x03p508mmhorizontal
-id_no_type: eda_terminalblock_phoenix_terminalblock_phoenix_mkds_1_5_3_5_08_1x03_p5_08mm_horizontal
 manufacturer: ''
-manufacturer_name: ''
-md5: f487669705902fca211f9dfb0c3ff9c4
-md5_10: f487669705
-md5_10_upper: F487669705
-md5_5: f4876
-md5_5_upper: F4876
-md5_6: f48766
-md5_6_alpha: 9jhba
-md5_6_alpha_upper: 9JHBA
-md5_6_upper: F48766
-name: Eda Kicad Footprint Kicad Default Terminalblock Phoenix Terminalblock Phoenix
-  Mkds 1 5 3 5 08 1X03 P5 08mm Horizontal
-name_no_class: Eda Kicad Default Terminalblock Phoenix Terminalblock Phoenix Mkds
-  1 5 3 5 08 1X03 P5 08mm Horizontal
-name_no_color: Edaterminalblockphoenixterminalblockphoenixmkds1535081X03P508mmhorizontal
-name_no_size: Edaterminalblockphoenixterminalblockphoenixmkds1535081X03P508mmhorizontal
-name_no_type: Eda Terminalblock Phoenix Terminalblock Phoenix Mkds 1 5 3 5 08 1X03
-  P5 08mm Horizontal
-oomp_key: oomp_eda_kicad_footprint_kicad_default_terminalblock_phoenix_terminalblock_phoenix_mkds_1_5_3_5_08_1x03_p5_08mm_horizontal
-oomp_word: three toilet leaves
-oomp_word_emoji: ':three: :toilet: :leaves:'
-oomp_word_emoji_list:
-- ':three:'
-- ':toilet:'
-- ':leaves:'
-oomp_word_list:
-- three
-- toilet
-- leaves
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

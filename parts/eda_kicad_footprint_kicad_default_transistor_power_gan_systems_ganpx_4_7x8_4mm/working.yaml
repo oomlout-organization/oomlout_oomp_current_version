@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: gan_systems_ganpx_4_7x8_4mm
-description_extra_length_1: g
-description_extra_length_2: ga
-description_extra_length_3: gan
-description_extra_length_4: gan_
-description_extra_length_5: gan_s
-description_extra_length_6: gan_sy
-description_extra_name: Gan Systems Ganpx 4 7X8 4mm
-description_extra_no_space_length_1: g
-description_extra_no_space_length_2: ga
-description_extra_no_space_length_3: gan
-description_extra_no_space_length_4: gans
-description_extra_no_space_length_5: gansy
-description_extra_no_space_length_6: gansys
-description_extra_no_space_upper_length_1: G
-description_extra_no_space_upper_length_2: GA
-description_extra_no_space_upper_length_3: GAN
-description_extra_no_space_upper_length_4: GANS
-description_extra_no_space_upper_length_5: GANSY
-description_extra_no_space_upper_length_6: GANSYS
-description_extra_upper_length_1: G
-description_extra_upper_length_2: GA
-description_extra_upper_length_3: GAN
-description_extra_upper_length_4: GAN_
-description_extra_upper_length_5: GAN_S
-description_extra_upper_length_6: GAN_SY
 description_main: transistor_power
-description_main_length_1: t
-description_main_length_2: tr
-description_main_length_3: tra
-description_main_length_4: tran
-description_main_length_5: trans
-description_main_length_6: transi
-description_main_name: Transistor Power
-description_main_no_space_length_1: t
-description_main_no_space_length_2: tr
-description_main_no_space_length_3: tra
-description_main_no_space_length_4: tran
-description_main_no_space_length_5: trans
-description_main_no_space_length_6: transi
-description_main_no_space_upper_length_1: T
-description_main_no_space_upper_length_2: TR
-description_main_no_space_upper_length_3: TRA
-description_main_no_space_upper_length_4: TRAN
-description_main_no_space_upper_length_5: TRANS
-description_main_no_space_upper_length_6: TRANSI
-description_main_upper_length_1: T
-description_main_upper_length_2: TR
-description_main_upper_length_3: TRA
-description_main_upper_length_4: TRAN
-description_main_upper_length_5: TRANS
-description_main_upper_length_6: TRANSI
-directory: parts/eda_kicad_footprint_kicad_default_transistor_power_gan_systems_ganpx_4_7x8_4mm
 footprint_id: eda_kicad_footprint_kicad_default_transistor_power_gan_systems_ganpx_4_7x8_4mm
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -264,67 +187,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_transistor_power_gan_systems_ganpx_4_7x8_4mm
 id: eda_kicad_footprint_kicad_default_transistor_power_gan_systems_ganpx_4_7x8_4mm
-id_no_class: eda_kicad_default_transistor_power_gan_systems_ganpx_4_7x8_4mm
-id_no_color: edatransistorpowergansystemsganpx47x84mm
-id_no_size: edatransistorpowergansystemsganpx47x84mm
-id_no_type: eda_transistor_power_gan_systems_ganpx_4_7x8_4mm
 manufacturer: ''
-manufacturer_name: ''
-md5: ac596fb851caa9108f2d37e2a6c5595e
-md5_10: ac596fb851
-md5_10_upper: AC596FB851
-md5_5: ac596
-md5_5_upper: AC596
-md5_6: ac596f
-md5_6_alpha: 6q3cf
-md5_6_alpha_upper: 6Q3CF
-md5_6_upper: AC596F
-name: Eda Kicad Footprint Kicad Default Transistor Power Gan Systems Ganpx 4 7X8 4mm
-name_no_class: Eda Kicad Default Transistor Power Gan Systems Ganpx 4 7X8 4mm
-name_no_color: Edatransistorpowergansystemsganpx47X84mm
-name_no_size: Edatransistorpowergansystemsganpx47X84mm
-name_no_type: Eda Transistor Power Gan Systems Ganpx 4 7X8 4mm
-oomp_key: oomp_eda_kicad_footprint_kicad_default_transistor_power_gan_systems_ganpx_4_7x8_4mm
-oomp_word: shirt dragon moon
-oomp_word_emoji: ':shirt: :dragon: :moon:'
-oomp_word_emoji_list:
-- ':shirt:'
-- ':dragon:'
-- ':moon:'
-oomp_word_list:
-- shirt
-- dragon
-- moon
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

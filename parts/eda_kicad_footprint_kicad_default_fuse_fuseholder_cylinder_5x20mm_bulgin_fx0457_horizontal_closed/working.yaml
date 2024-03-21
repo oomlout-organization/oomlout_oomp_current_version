@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: fuseholder_cylinder_5x20mm_bulgin_fx0457_horizontal_closed
-description_extra_length_1: f
-description_extra_length_2: fu
-description_extra_length_3: fus
-description_extra_length_4: fuse
-description_extra_length_5: fuseh
-description_extra_length_6: fuseho
-description_extra_name: Fuseholder Cylinder 5X20mm Bulgin Fx0457 Horizontal Closed
-description_extra_no_space_length_1: f
-description_extra_no_space_length_2: fu
-description_extra_no_space_length_3: fus
-description_extra_no_space_length_4: fuse
-description_extra_no_space_length_5: fuseh
-description_extra_no_space_length_6: fuseho
-description_extra_no_space_upper_length_1: F
-description_extra_no_space_upper_length_2: FU
-description_extra_no_space_upper_length_3: FUS
-description_extra_no_space_upper_length_4: FUSE
-description_extra_no_space_upper_length_5: FUSEH
-description_extra_no_space_upper_length_6: FUSEHO
-description_extra_upper_length_1: F
-description_extra_upper_length_2: FU
-description_extra_upper_length_3: FUS
-description_extra_upper_length_4: FUSE
-description_extra_upper_length_5: FUSEH
-description_extra_upper_length_6: FUSEHO
 description_main: fuse
-description_main_length_1: f
-description_main_length_2: fu
-description_main_length_3: fus
-description_main_length_4: fuse
-description_main_length_5: fuse
-description_main_length_6: fuse
-description_main_name: Fuse
-description_main_no_space_length_1: f
-description_main_no_space_length_2: fu
-description_main_no_space_length_3: fus
-description_main_no_space_length_4: fuse
-description_main_no_space_length_5: fuse
-description_main_no_space_length_6: fuse
-description_main_no_space_upper_length_1: F
-description_main_no_space_upper_length_2: FU
-description_main_no_space_upper_length_3: FUS
-description_main_no_space_upper_length_4: FUSE
-description_main_no_space_upper_length_5: FUSE
-description_main_no_space_upper_length_6: FUSE
-description_main_upper_length_1: F
-description_main_upper_length_2: FU
-description_main_upper_length_3: FUS
-description_main_upper_length_4: FUSE
-description_main_upper_length_5: FUSE
-description_main_upper_length_6: FUSE
-directory: parts/eda_kicad_footprint_kicad_default_fuse_fuseholder_cylinder_5x20mm_bulgin_fx0457_horizontal_closed
 footprint_id: eda_kicad_footprint_kicad_default_fuse_fuseholder_cylinder_5x20mm_bulgin_fx0457_horizontal_closed
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -192,69 +115,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_fuse_fuseholder_cylinder_5x20mm_bulgin_fx0457_horizontal_closed
 id: eda_kicad_footprint_kicad_default_fuse_fuseholder_cylinder_5x20mm_bulgin_fx0457_horizontal_closed
-id_no_class: eda_kicad_default_fuse_fuseholder_cylinder_5x20mm_bulgin_fx0457_horizontal_closed
-id_no_color: edafusefuseholdercylinder5x20mmbulginfx0457horizontalclosed
-id_no_size: edafusefuseholdercylinder5x20mmbulginfx0457horizontalclosed
-id_no_type: eda_fuse_fuseholder_cylinder_5x20mm_bulgin_fx0457_horizontal_closed
 manufacturer: ''
-manufacturer_name: ''
-md5: 65fbffbac7e8efa2dc45cd84dec9df40
-md5_10: 65fbffbac7
-md5_10_upper: 65FBFFBAC7
-md5_5: 65fbf
-md5_5_upper: 65FBF
-md5_6: 65fbff
-md5_6_alpha: 3z94v
-md5_6_alpha_upper: 3Z94V
-md5_6_upper: 65FBFF
-name: Eda Kicad Footprint Kicad Default Fuse Fuseholder Cylinder 5X20mm Bulgin Fx0457
-  Horizontal Closed
-name_no_class: Eda Kicad Default Fuse Fuseholder Cylinder 5X20mm Bulgin Fx0457 Horizontal
-  Closed
-name_no_color: Edafusefuseholdercylinder5X20mmbulginfx0457Horizontalclosed
-name_no_size: Edafusefuseholdercylinder5X20mmbulginfx0457Horizontalclosed
-name_no_type: Eda Fuse Fuseholder Cylinder 5X20mm Bulgin Fx0457 Horizontal Closed
-oomp_key: oomp_eda_kicad_footprint_kicad_default_fuse_fuseholder_cylinder_5x20mm_bulgin_fx0457_horizontal_closed
-oomp_word: maple_leaf ok trident
-oomp_word_emoji: ':maple_leaf: :ok: :trident:'
-oomp_word_emoji_list:
-- ':maple_leaf:'
-- ':ok:'
-- ':trident:'
-oomp_word_list:
-- maple_leaf
-- ok
-- trident
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: nina_b111
-description_extra_length_1: n
-description_extra_length_2: ni
-description_extra_length_3: nin
-description_extra_length_4: nina
-description_extra_length_5: nina_
-description_extra_length_6: nina_b
-description_extra_name: Nina B111
-description_extra_no_space_length_1: n
-description_extra_no_space_length_2: ni
-description_extra_no_space_length_3: nin
-description_extra_no_space_length_4: nina
-description_extra_no_space_length_5: ninab
-description_extra_no_space_length_6: ninab1
-description_extra_no_space_upper_length_1: N
-description_extra_no_space_upper_length_2: NI
-description_extra_no_space_upper_length_3: NIN
-description_extra_no_space_upper_length_4: NINA
-description_extra_no_space_upper_length_5: NINAB
-description_extra_no_space_upper_length_6: NINAB1
-description_extra_upper_length_1: N
-description_extra_upper_length_2: NI
-description_extra_upper_length_3: NIN
-description_extra_upper_length_4: NINA
-description_extra_upper_length_5: NINA_
-description_extra_upper_length_6: NINA_B
 description_main: rf_module
-description_main_length_1: r
-description_main_length_2: rf
-description_main_length_3: rf_
-description_main_length_4: rf_m
-description_main_length_5: rf_mo
-description_main_length_6: rf_mod
-description_main_name: Rf Module
-description_main_no_space_length_1: r
-description_main_no_space_length_2: rf
-description_main_no_space_length_3: rfm
-description_main_no_space_length_4: rfmo
-description_main_no_space_length_5: rfmod
-description_main_no_space_length_6: rfmodu
-description_main_no_space_upper_length_1: R
-description_main_no_space_upper_length_2: RF
-description_main_no_space_upper_length_3: RFM
-description_main_no_space_upper_length_4: RFMO
-description_main_no_space_upper_length_5: RFMOD
-description_main_no_space_upper_length_6: RFMODU
-description_main_upper_length_1: R
-description_main_upper_length_2: RF
-description_main_upper_length_3: RF_
-description_main_upper_length_4: RF_M
-description_main_upper_length_5: RF_MO
-description_main_upper_length_6: RF_MOD
-directory: parts/eda_kicad_footprint_kicad_default_rf_module_nina_b111
 footprint_id: eda_kicad_footprint_kicad_default_rf_module_nina_b111
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -488,67 +411,9 @@ footprint_string:
     angle=None, unlocked=False), Position(X=5, Y=5.3, angle=None, unlocked=False),
     Position(X=5, Y=-5.3, angle=None, unlocked=False), Position(X=5.35, Y=-5.3, angle=None,
     unlocked=False)])], filledPolygons=[], fillSegments=None)]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_rf_module_nina_b111
 id: eda_kicad_footprint_kicad_default_rf_module_nina_b111
-id_no_class: eda_kicad_default_rf_module_nina_b111
-id_no_color: edarfmoduleninab111
-id_no_size: edarfmoduleninab111
-id_no_type: eda_rf_module_nina_b111
 manufacturer: ''
-manufacturer_name: ''
-md5: ecf21d7b355285a7d45ebd76d0d6aed7
-md5_10: ecf21d7b35
-md5_10_upper: ECF21D7B35
-md5_5: ecf21
-md5_5_upper: ECF21
-md5_6: ecf21d
-md5_6_alpha: 98tul
-md5_6_alpha_upper: 98TUL
-md5_6_upper: ECF21D
-name: Eda Kicad Footprint Kicad Default Rf Module Nina B111
-name_no_class: Eda Kicad Default Rf Module Nina B111
-name_no_color: Edarfmoduleninab111
-name_no_size: Edarfmoduleninab111
-name_no_type: Eda Rf Module Nina B111
-oomp_key: oomp_eda_kicad_footprint_kicad_default_rf_module_nina_b111
-oomp_word: taxi one baby
-oomp_word_emoji: ':taxi: :one: :baby:'
-oomp_word_emoji_list:
-- ':taxi:'
-- ':one:'
-- ':baby:'
-oomp_word_list:
-- taxi
-- one
-- baby
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

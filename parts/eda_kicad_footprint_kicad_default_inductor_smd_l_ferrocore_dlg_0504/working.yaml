@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: l_ferrocore_dlg_0504
-description_extra_length_1: l
-description_extra_length_2: l_
-description_extra_length_3: l_f
-description_extra_length_4: l_fe
-description_extra_length_5: l_fer
-description_extra_length_6: l_ferr
-description_extra_name: L Ferrocore Dlg 0504
-description_extra_no_space_length_1: l
-description_extra_no_space_length_2: lf
-description_extra_no_space_length_3: lfe
-description_extra_no_space_length_4: lfer
-description_extra_no_space_length_5: lferr
-description_extra_no_space_length_6: lferro
-description_extra_no_space_upper_length_1: L
-description_extra_no_space_upper_length_2: LF
-description_extra_no_space_upper_length_3: LFE
-description_extra_no_space_upper_length_4: LFER
-description_extra_no_space_upper_length_5: LFERR
-description_extra_no_space_upper_length_6: LFERRO
-description_extra_upper_length_1: L
-description_extra_upper_length_2: L_
-description_extra_upper_length_3: L_F
-description_extra_upper_length_4: L_FE
-description_extra_upper_length_5: L_FER
-description_extra_upper_length_6: L_FERR
 description_main: inductor_smd
-description_main_length_1: i
-description_main_length_2: in
-description_main_length_3: ind
-description_main_length_4: indu
-description_main_length_5: induc
-description_main_length_6: induct
-description_main_name: Inductor SMD
-description_main_no_space_length_1: i
-description_main_no_space_length_2: in
-description_main_no_space_length_3: ind
-description_main_no_space_length_4: indu
-description_main_no_space_length_5: induc
-description_main_no_space_length_6: induct
-description_main_no_space_upper_length_1: I
-description_main_no_space_upper_length_2: IN
-description_main_no_space_upper_length_3: IND
-description_main_no_space_upper_length_4: INDU
-description_main_no_space_upper_length_5: INDUC
-description_main_no_space_upper_length_6: INDUCT
-description_main_upper_length_1: I
-description_main_upper_length_2: IN
-description_main_upper_length_3: IND
-description_main_upper_length_4: INDU
-description_main_upper_length_5: INDUC
-description_main_upper_length_6: INDUCT
-directory: parts/eda_kicad_footprint_kicad_default_inductor_smd_l_ferrocore_dlg_0504
 footprint_id: eda_kicad_footprint_kicad_default_inductor_smd_l_ferrocore_dlg_0504
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -161,67 +84,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_inductor_smd_l_ferrocore_dlg_0504
 id: eda_kicad_footprint_kicad_default_inductor_smd_l_ferrocore_dlg_0504
-id_no_class: eda_kicad_default_inductor_smd_l_ferrocore_dlg_0504
-id_no_color: edainductorsmdlferrocoredlg0504
-id_no_size: edainductorsmdlferrocoredlg0504
-id_no_type: eda_inductor_smd_l_ferrocore_dlg_0504
 manufacturer: ''
-manufacturer_name: ''
-md5: 60723474a1d02dc0b2a29d44c84d9c93
-md5_10: 60723474a1
-md5_10_upper: 60723474A1
-md5_5: '60723'
-md5_5_upper: '60723'
-md5_6: '607234'
-md5_6_alpha: 3rh2s
-md5_6_alpha_upper: 3RH2S
-md5_6_upper: '607234'
-name: Eda Kicad Footprint Kicad Default Inductor SMD L Ferrocore Dlg 0504
-name_no_class: Eda Kicad Default Inductor SMD L Ferrocore Dlg 0504
-name_no_color: Edainductorsmdlferrocoredlg0504
-name_no_size: Edainductorsmdlferrocoredlg0504
-name_no_type: Eda Inductor SMD L Ferrocore Dlg 0504
-oomp_key: oomp_eda_kicad_footprint_kicad_default_inductor_smd_l_ferrocore_dlg_0504
-oomp_word: poodle dolls mouse
-oomp_word_emoji: ':poodle: :dolls: :mouse:'
-oomp_word_emoji_list:
-- ':poodle:'
-- ':dolls:'
-- ':mouse:'
-oomp_word_list:
-- poodle
-- dolls
-- mouse
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

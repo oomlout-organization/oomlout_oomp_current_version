@@ -1,0 +1,230 @@
+classification: kicad_footprint
+classification_length_1: k
+classification_length_2: ki
+classification_length_3: kic
+classification_length_4: kica
+classification_length_5: kicad
+classification_length_6: kicad_
+classification_name: Kicad Footprint
+classification_no_space_length_1: k
+classification_no_space_length_2: ki
+classification_no_space_length_3: kic
+classification_no_space_length_4: kica
+classification_no_space_length_5: kicad
+classification_no_space_length_6: kicadf
+classification_no_space_upper_length_1: K
+classification_no_space_upper_length_2: KI
+classification_no_space_upper_length_3: KIC
+classification_no_space_upper_length_4: KICA
+classification_no_space_upper_length_5: KICAD
+classification_no_space_upper_length_6: KICADF
+classification_upper_length_1: K
+classification_upper_length_2: KI
+classification_upper_length_3: KIC
+classification_upper_length_4: KICA
+classification_upper_length_5: KICAD
+classification_upper_length_6: KICAD_
+color: ''
+color_name: ''
+description: eda
+description_extra: l_1008_2520metric_pad1_43x2_20mm_handsolder
+description_extra_length_1: l
+description_extra_length_2: l_
+description_extra_length_3: l_1
+description_extra_length_4: l_10
+description_extra_length_5: l_100
+description_extra_length_6: l_1008
+description_extra_name: L 1008 2520Metric Pad1 43X2 20mm Handsolder
+description_extra_no_space_length_1: l
+description_extra_no_space_length_2: l1
+description_extra_no_space_length_3: l10
+description_extra_no_space_length_4: l100
+description_extra_no_space_length_5: l1008
+description_extra_no_space_length_6: l10082
+description_extra_no_space_upper_length_1: L
+description_extra_no_space_upper_length_2: L1
+description_extra_no_space_upper_length_3: L10
+description_extra_no_space_upper_length_4: L100
+description_extra_no_space_upper_length_5: L1008
+description_extra_no_space_upper_length_6: L10082
+description_extra_upper_length_1: L
+description_extra_upper_length_2: L_
+description_extra_upper_length_3: L_1
+description_extra_upper_length_4: L_10
+description_extra_upper_length_5: L_100
+description_extra_upper_length_6: L_1008
+description_main: inductor_smd
+description_main_length_1: i
+description_main_length_2: in
+description_main_length_3: ind
+description_main_length_4: indu
+description_main_length_5: induc
+description_main_length_6: induct
+description_main_name: Inductor SMD
+description_main_no_space_length_1: i
+description_main_no_space_length_2: in
+description_main_no_space_length_3: ind
+description_main_no_space_length_4: indu
+description_main_no_space_length_5: induc
+description_main_no_space_length_6: induct
+description_main_no_space_upper_length_1: I
+description_main_no_space_upper_length_2: IN
+description_main_no_space_upper_length_3: IND
+description_main_no_space_upper_length_4: INDU
+description_main_no_space_upper_length_5: INDUC
+description_main_no_space_upper_length_6: INDUCT
+description_main_upper_length_1: I
+description_main_upper_length_2: IN
+description_main_upper_length_3: IND
+description_main_upper_length_4: INDU
+description_main_upper_length_5: INDUC
+description_main_upper_length_6: INDUCT
+directory: parts/eda_kicad_footprint_kicad_default_inductor_smd_l_1008_2520metric_pad1_43x2_20mm_handsolder
+footprint_id: eda_kicad_footprint_kicad_default_inductor_smd_l_1008_2520metric_pad1_43x2_20mm_handsolder
+footprint_string:
+  attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: 'Inductor SMD 1008 (2520 Metric), square (rectangular) end terminal,
+    IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://ecsxtal.com/store/pdf/ECS-MPI2520-SMD-POWER-INDUCTOR.pdf),
+    generated with kicad-footprint-generator'
+  entryName: L_1008_2520Metric_Pad1.43x2.20mm_HandSolder
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-0.261252, Y=-1.11, angle=None, unlocked=False),
+    end=Position(X=0.261252, Y=-1.11, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-0.261252, Y=1.11, angle=None, unlocked=False),
+    end=Position(X=0.261252, Y=1.11, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-2.12, Y=-1.35, angle=None, unlocked=False),
+    end=Position(X=2.12, Y=-1.35, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-2.12, Y=1.35, angle=None, unlocked=False),
+    end=Position(X=-2.12, Y=-1.35, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=2.12, Y=-1.35, angle=None, unlocked=False),
+    end=Position(X=2.12, Y=1.35, angle=None, unlocked=False), layer=''F.CrtYd'', width=None,
+    stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=2.12, Y=1.35, angle=None, unlocked=False), end=Position(X=-2.12,
+    Y=1.35, angle=None, unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-1.25,
+    Y=-1, angle=None, unlocked=False), end=Position(X=1.25, Y=-1, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-1.25, Y=1, angle=None, unlocked=False),
+    end=Position(X=-1.25, Y=-1, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=1.25, Y=-1, angle=None, unlocked=False), end=Position(X=1.25,
+    Y=1, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=1.25,
+    Y=1, angle=None, unlocked=False), end=Position(X=-1.25, Y=1, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpText(type=''user'', text=''${REFERENCE}'', position=Position(X=0,
+    Y=0, angle=0, unlocked=False), layer=''F.Fab'', hide=False, effects=Effects(font=Font(face=None,
+    height=0.62, width=0.62, thickness=0.09, bold=False, italic=False, lineSpacing=None,
+    color=None), justify=Justify(horizontally=None, vertically=None, mirror=False),
+    hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_1008_2520Metric.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number=''1'', type=''smd'', shape=''roundrect'', position=Position(X=-1.1625,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=1.425, Y=2.2,
+    angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''],
+    property=None, removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=0.175439,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''2'', type=''smd'', shape=''roundrect'',
+    position=Position(X=1.1625, Y=0, angle=None, unlocked=False), locked=False, size=Position(X=1.425,
+    Y=2.2, angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'',
+    ''F.Mask''], property=None, removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=0.175439,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''L_1008_2520Metric_Pad1.43x2.20mm_HandSolder'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: inductor handsolder
+  tedit: 65faf87e
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_inductor_smd_l_1008_2520metric_pad1_43x2_20mm_handsolder
+id: eda_kicad_footprint_kicad_default_inductor_smd_l_1008_2520metric_pad1_43x2_20mm_handsolder
+id_no_class: eda_kicad_default_inductor_smd_l_1008_2520metric_pad1_43x2_20mm_handsolder
+id_no_color: edainductorsmdl10082520metricpad143x220mmhandsolder
+id_no_size: edainductorsmdl10082520metricpad143x220mmhandsolder
+id_no_type: eda_inductor_smd_l_1008_2520metric_pad1_43x2_20mm_handsolder
+manufacturer: ''
+manufacturer_name: ''
+md5: a4b34b0964023096bcf160e3986e8c02
+md5_10: a4b34b0964
+md5_10_upper: A4B34B0964
+md5_5: a4b34
+md5_5_upper: A4B34
+md5_6: a4b34b
+md5_6_alpha: 6fcjv
+md5_6_alpha_upper: 6FCJV
+md5_6_upper: A4B34B
+name: Eda Kicad Footprint Kicad Default Inductor SMD L 1008 2520Metric Pad1 43X2 20mm
+  Handsolder
+name_no_class: Eda Kicad Default Inductor SMD L 1008 2520Metric Pad1 43X2 20mm Handsolder
+name_no_color: Edainductorsmdl10082520Metricpad143X220mmhandsolder
+name_no_size: Edainductorsmdl10082520Metricpad143X220mmhandsolder
+name_no_type: Eda Inductor SMD L 1008 2520Metric Pad1 43X2 20mm Handsolder
+oomp_key: oomp_eda_kicad_footprint_kicad_default_inductor_smd_l_1008_2520metric_pad1_43x2_20mm_handsolder
+oomp_word: book eyeglasses penguin
+oomp_word_emoji: ':book: :eyeglasses: :penguin:'
+oomp_word_emoji_list:
+- ':book:'
+- ':eyeglasses:'
+- ':penguin:'
+oomp_word_list:
+- book
+- eyeglasses
+- penguin
+part_number: ''
+part_number_name: ''
+short_name: ''
+size: ''
+size_name: ''
+type: kicad_default
+type_length_1: k
+type_length_2: ki
+type_length_3: kic
+type_length_4: kica
+type_length_5: kicad
+type_length_6: kicad_
+type_name: Kicad Default
+type_no_space_length_1: k
+type_no_space_length_2: ki
+type_no_space_length_3: kic
+type_no_space_length_4: kica
+type_no_space_length_5: kicad
+type_no_space_length_6: kicadd
+type_no_space_upper_length_1: K
+type_no_space_upper_length_2: KI
+type_no_space_upper_length_3: KIC
+type_no_space_upper_length_4: KICA
+type_no_space_upper_length_5: KICAD
+type_no_space_upper_length_6: KICADD
+type_upper_length_1: K
+type_upper_length_2: KI
+type_upper_length_3: KIC
+type_upper_length_4: KICA
+type_upper_length_5: KICAD
+type_upper_length_6: KICAD_

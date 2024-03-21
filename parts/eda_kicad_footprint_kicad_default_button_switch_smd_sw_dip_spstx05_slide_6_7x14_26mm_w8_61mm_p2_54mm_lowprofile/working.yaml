@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: sw_dip_spstx05_slide_6_7x14_26mm_w8_61mm_p2_54mm_lowprofile
-description_extra_length_1: s
-description_extra_length_2: sw
-description_extra_length_3: sw_
-description_extra_length_4: sw_d
-description_extra_length_5: sw_di
-description_extra_length_6: sw_dip
-description_extra_name: Sw Dip Spstx05 Slide 6 7X14 26mm W8 61mm P2 54mm Lowprofile
-description_extra_no_space_length_1: s
-description_extra_no_space_length_2: sw
-description_extra_no_space_length_3: swd
-description_extra_no_space_length_4: swdi
-description_extra_no_space_length_5: swdip
-description_extra_no_space_length_6: swdips
-description_extra_no_space_upper_length_1: S
-description_extra_no_space_upper_length_2: SW
-description_extra_no_space_upper_length_3: SWD
-description_extra_no_space_upper_length_4: SWDI
-description_extra_no_space_upper_length_5: SWDIP
-description_extra_no_space_upper_length_6: SWDIPS
-description_extra_upper_length_1: S
-description_extra_upper_length_2: SW
-description_extra_upper_length_3: SW_
-description_extra_upper_length_4: SW_D
-description_extra_upper_length_5: SW_DI
-description_extra_upper_length_6: SW_DIP
 description_main: button_switch_smd
-description_main_length_1: b
-description_main_length_2: bu
-description_main_length_3: but
-description_main_length_4: butt
-description_main_length_5: butto
-description_main_length_6: button
-description_main_name: Button Switch SMD
-description_main_no_space_length_1: b
-description_main_no_space_length_2: bu
-description_main_no_space_length_3: but
-description_main_no_space_length_4: butt
-description_main_no_space_length_5: butto
-description_main_no_space_length_6: button
-description_main_no_space_upper_length_1: B
-description_main_no_space_upper_length_2: BU
-description_main_no_space_upper_length_3: BUT
-description_main_no_space_upper_length_4: BUTT
-description_main_no_space_upper_length_5: BUTTO
-description_main_no_space_upper_length_6: BUTTON
-description_main_upper_length_1: B
-description_main_upper_length_2: BU
-description_main_upper_length_3: BUT
-description_main_upper_length_4: BUTT
-description_main_upper_length_5: BUTTO
-description_main_upper_length_6: BUTTON
-directory: parts/eda_kicad_footprint_kicad_default_button_switch_smd_sw_dip_spstx05_slide_6_7x14_26mm_w8_61mm_p2_54mm_lowprofile
 footprint_id: eda_kicad_footprint_kicad_default_button_switch_smd_sw_dip_spstx05_slide_6_7x14_26mm_w8_61mm_p2_54mm_lowprofile
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -743,70 +666,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_button_switch_smd_sw_dip_spstx05_slide_6_7x14_26mm_w8_61mm_p2_54mm_lowprofile
 id: eda_kicad_footprint_kicad_default_button_switch_smd_sw_dip_spstx05_slide_6_7x14_26mm_w8_61mm_p2_54mm_lowprofile
-id_no_class: eda_kicad_default_button_switch_smd_sw_dip_spstx05_slide_6_7x14_26mm_w8_61mm_p2_54mm_lowprofile
-id_no_color: edabuttonswitchsmdswdipspstx05slide67x1426mmw861mmp254mmlowprofile
-id_no_size: edabuttonswitchsmdswdipspstx05slide67x1426mmw861mmp254mmlowprofile
-id_no_type: eda_button_switch_smd_sw_dip_spstx05_slide_6_7x14_26mm_w8_61mm_p2_54mm_lowprofile
 manufacturer: ''
-manufacturer_name: ''
-md5: a5d411a5bedd5b9c380abad1506f982c
-md5_10: a5d411a5be
-md5_10_upper: A5D411A5BE
-md5_5: a5d41
-md5_5_upper: A5D41
-md5_6: a5d411
-md5_6_alpha: 6gxld
-md5_6_alpha_upper: 6GXLD
-md5_6_upper: A5D411
-name: Eda Kicad Footprint Kicad Default Button Switch SMD Sw Dip Spstx05 Slide 6 7X14
-  26mm W8 61mm P2 54mm Lowprofile
-name_no_class: Eda Kicad Default Button Switch SMD Sw Dip Spstx05 Slide 6 7X14 26mm
-  W8 61mm P2 54mm Lowprofile
-name_no_color: Edabuttonswitchsmdswdipspstx05Slide67X1426mmw861mmp254mmlowprofile
-name_no_size: Edabuttonswitchsmdswdipspstx05Slide67X1426mmw861mmp254mmlowprofile
-name_no_type: Eda Button Switch SMD Sw Dip Spstx05 Slide 6 7X14 26mm W8 61mm P2 54mm
-  Lowprofile
-oomp_key: oomp_eda_kicad_footprint_kicad_default_button_switch_smd_sw_dip_spstx05_slide_6_7x14_26mm_w8_61mm_p2_54mm_lowprofile
-oomp_word: headphones corn dizzy
-oomp_word_emoji: ':headphones: :corn: :dizzy:'
-oomp_word_emoji_list:
-- ':headphones:'
-- ':corn:'
-- ':dizzy:'
-oomp_word_list:
-- headphones
-- corn
-- dizzy
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

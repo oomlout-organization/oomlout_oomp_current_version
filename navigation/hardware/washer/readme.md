@@ -15,6 +15,8 @@
 * [m5](m5)
   * [penny](m5/penny)
 * [m6](m6)
+  * [nylon_white](m6/nylon_white)
+    * [12_mm_outer_diameter_1_5_mm_depth](m6/nylon_white/12_mm_outer_diameter_1_5_mm_depth)
   * [penny](m6/penny)
 * [m8](m8)
   * [penny](m8/penny)

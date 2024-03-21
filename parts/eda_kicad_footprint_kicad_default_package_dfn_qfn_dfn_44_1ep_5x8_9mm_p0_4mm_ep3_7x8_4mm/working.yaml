@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: dfn_44_1ep_5x8_9mm_p0_4mm_ep3_7x8_4mm
-description_extra_length_1: d
-description_extra_length_2: df
-description_extra_length_3: dfn
-description_extra_length_4: dfn_
-description_extra_length_5: dfn_4
-description_extra_length_6: dfn_44
-description_extra_name: Dfn 44 1Ep 5X8 9mm P0 4mm Ep3 7X8 4mm
-description_extra_no_space_length_1: d
-description_extra_no_space_length_2: df
-description_extra_no_space_length_3: dfn
-description_extra_no_space_length_4: dfn4
-description_extra_no_space_length_5: dfn44
-description_extra_no_space_length_6: dfn441
-description_extra_no_space_upper_length_1: D
-description_extra_no_space_upper_length_2: DF
-description_extra_no_space_upper_length_3: DFN
-description_extra_no_space_upper_length_4: DFN4
-description_extra_no_space_upper_length_5: DFN44
-description_extra_no_space_upper_length_6: DFN441
-description_extra_upper_length_1: D
-description_extra_upper_length_2: DF
-description_extra_upper_length_3: DFN
-description_extra_upper_length_4: DFN_
-description_extra_upper_length_5: DFN_4
-description_extra_upper_length_6: DFN_44
 description_main: package_dfn_qfn
-description_main_length_1: p
-description_main_length_2: pa
-description_main_length_3: pac
-description_main_length_4: pack
-description_main_length_5: packa
-description_main_length_6: packag
-description_main_name: Package Dfn Qfn
-description_main_no_space_length_1: p
-description_main_no_space_length_2: pa
-description_main_no_space_length_3: pac
-description_main_no_space_length_4: pack
-description_main_no_space_length_5: packa
-description_main_no_space_length_6: packag
-description_main_no_space_upper_length_1: P
-description_main_no_space_upper_length_2: PA
-description_main_no_space_upper_length_3: PAC
-description_main_no_space_upper_length_4: PACK
-description_main_no_space_upper_length_5: PACKA
-description_main_no_space_upper_length_6: PACKAG
-description_main_upper_length_1: P
-description_main_upper_length_2: PA
-description_main_upper_length_3: PAC
-description_main_upper_length_4: PACK
-description_main_upper_length_5: PACKA
-description_main_upper_length_6: PACKAG
-directory: parts/eda_kicad_footprint_kicad_default_package_dfn_qfn_dfn_44_1ep_5x8_9mm_p0_4mm_ep3_7x8_4mm
 footprint_id: eda_kicad_footprint_kicad_default_package_dfn_qfn_dfn_44_1ep_5x8_9mm_p0_4mm_ep3_7x8_4mm
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -591,69 +514,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_package_dfn_qfn_dfn_44_1ep_5x8_9mm_p0_4mm_ep3_7x8_4mm
 id: eda_kicad_footprint_kicad_default_package_dfn_qfn_dfn_44_1ep_5x8_9mm_p0_4mm_ep3_7x8_4mm
-id_no_class: eda_kicad_default_package_dfn_qfn_dfn_44_1ep_5x8_9mm_p0_4mm_ep3_7x8_4mm
-id_no_color: edapackagedfnqfndfn441ep5x89mmp04mmep37x84mm
-id_no_size: edapackagedfnqfndfn441ep5x89mmp04mmep37x84mm
-id_no_type: eda_package_dfn_qfn_dfn_44_1ep_5x8_9mm_p0_4mm_ep3_7x8_4mm
 manufacturer: ''
-manufacturer_name: ''
-md5: 5a53f84233ce3eaf98df7d018a732412
-md5_10: 5a53f84233
-md5_10_upper: 5A53F84233
-md5_5: 5a53f
-md5_5_upper: 5A53F
-md5_6: 5a53f8
-md5_6_alpha: 3ivp4
-md5_6_alpha_upper: 3IVP4
-md5_6_upper: 5A53F8
-name: Eda Kicad Footprint Kicad Default Package Dfn Qfn Dfn 44 1Ep 5X8 9mm P0 4mm
-  Ep3 7X8 4mm
-name_no_class: Eda Kicad Default Package Dfn Qfn Dfn 44 1Ep 5X8 9mm P0 4mm Ep3 7X8
-  4mm
-name_no_color: Edapackagedfnqfndfn441Ep5X89mmp04mmep37X84mm
-name_no_size: Edapackagedfnqfndfn441Ep5X89mmp04mmep37X84mm
-name_no_type: Eda Package Dfn Qfn Dfn 44 1Ep 5X8 9mm P0 4mm Ep3 7X8 4mm
-oomp_key: oomp_eda_kicad_footprint_kicad_default_package_dfn_qfn_dfn_44_1ep_5x8_9mm_p0_4mm_ep3_7x8_4mm
-oomp_word: goat fish seven
-oomp_word_emoji: ':goat: :fish: :seven:'
-oomp_word_emoji_list:
-- ':goat:'
-- ':fish:'
-- ':seven:'
-oomp_word_list:
-- goat
-- fish
-- seven
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

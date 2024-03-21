@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: wuerth_wr_wtb_64800811622_1x08_p1_50mm_vertical
-description_extra_length_1: w
-description_extra_length_2: wu
-description_extra_length_3: wue
-description_extra_length_4: wuer
-description_extra_length_5: wuert
-description_extra_length_6: wuerth
-description_extra_name: Wuerth Wr Wtb 64800811622 1X08 P1 50mm Vertical
-description_extra_no_space_length_1: w
-description_extra_no_space_length_2: wu
-description_extra_no_space_length_3: wue
-description_extra_no_space_length_4: wuer
-description_extra_no_space_length_5: wuert
-description_extra_no_space_length_6: wuerth
-description_extra_no_space_upper_length_1: W
-description_extra_no_space_upper_length_2: WU
-description_extra_no_space_upper_length_3: WUE
-description_extra_no_space_upper_length_4: WUER
-description_extra_no_space_upper_length_5: WUERT
-description_extra_no_space_upper_length_6: WUERTH
-description_extra_upper_length_1: W
-description_extra_upper_length_2: WU
-description_extra_upper_length_3: WUE
-description_extra_upper_length_4: WUER
-description_extra_upper_length_5: WUERT
-description_extra_upper_length_6: WUERTH
 description_main: connector_wuerth
-description_main_length_1: c
-description_main_length_2: co
-description_main_length_3: con
-description_main_length_4: conn
-description_main_length_5: conne
-description_main_length_6: connec
-description_main_name: Connector Wuerth
-description_main_no_space_length_1: c
-description_main_no_space_length_2: co
-description_main_no_space_length_3: con
-description_main_no_space_length_4: conn
-description_main_no_space_length_5: conne
-description_main_no_space_length_6: connec
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CO
-description_main_no_space_upper_length_3: CON
-description_main_no_space_upper_length_4: CONN
-description_main_no_space_upper_length_5: CONNE
-description_main_no_space_upper_length_6: CONNEC
-description_main_upper_length_1: C
-description_main_upper_length_2: CO
-description_main_upper_length_3: CON
-description_main_upper_length_4: CONN
-description_main_upper_length_5: CONNE
-description_main_upper_length_6: CONNEC
-directory: parts/eda_kicad_footprint_kicad_default_connector_wuerth_wuerth_wr_wtb_64800811622_1x08_p1_50mm_vertical
 footprint_id: eda_kicad_footprint_kicad_default_connector_wuerth_wuerth_wr_wtb_64800811622_1x08_p1_50mm_vertical
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -265,69 +188,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_connector_wuerth_wuerth_wr_wtb_64800811622_1x08_p1_50mm_vertical
 id: eda_kicad_footprint_kicad_default_connector_wuerth_wuerth_wr_wtb_64800811622_1x08_p1_50mm_vertical
-id_no_class: eda_kicad_default_connector_wuerth_wuerth_wr_wtb_64800811622_1x08_p1_50mm_vertical
-id_no_color: edaconnectorwuerthwuerthwrwtb648008116221x08p150mmvertical
-id_no_size: edaconnectorwuerthwuerthwrwtb648008116221x08p150mmvertical
-id_no_type: eda_connector_wuerth_wuerth_wr_wtb_64800811622_1x08_p1_50mm_vertical
 manufacturer: ''
-manufacturer_name: ''
-md5: fb7de69ce8e097d44679849ffceae180
-md5_10: fb7de69ce8
-md5_10_upper: FB7DE69CE8
-md5_5: fb7de
-md5_5_upper: FB7DE
-md5_6: fb7de6
-md5_6_alpha: 9t9eu
-md5_6_alpha_upper: 9T9EU
-md5_6_upper: FB7DE6
-name: Eda Kicad Footprint Kicad Default Connector Wuerth Wuerth Wr Wtb 64800811622
-  1X08 P1 50mm Vertical
-name_no_class: Eda Kicad Default Connector Wuerth Wuerth Wr Wtb 64800811622 1X08 P1
-  50mm Vertical
-name_no_color: Edaconnectorwuerthwuerthwrwtb648008116221X08P150mmvertical
-name_no_size: Edaconnectorwuerthwuerthwrwtb648008116221X08P150mmvertical
-name_no_type: Eda Connector Wuerth Wuerth Wr Wtb 64800811622 1X08 P1 50mm Vertical
-oomp_key: oomp_eda_kicad_footprint_kicad_default_connector_wuerth_wuerth_wr_wtb_64800811622_1x08_p1_50mm_vertical
-oomp_word: ok phone airplane
-oomp_word_emoji: ':ok: :phone: :airplane:'
-oomp_word_emoji_list:
-- ':ok:'
-- ':phone:'
-- ':airplane:'
-oomp_word_list:
-- ok
-- phone
-- airplane
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: converter_dcdc_silvertel_ag5810
-description_extra_length_1: c
-description_extra_length_2: co
-description_extra_length_3: con
-description_extra_length_4: conv
-description_extra_length_5: conve
-description_extra_length_6: conver
-description_extra_name: Converter Dcdc Silvertel Ag5810
-description_extra_no_space_length_1: c
-description_extra_no_space_length_2: co
-description_extra_no_space_length_3: con
-description_extra_no_space_length_4: conv
-description_extra_no_space_length_5: conve
-description_extra_no_space_length_6: conver
-description_extra_no_space_upper_length_1: C
-description_extra_no_space_upper_length_2: CO
-description_extra_no_space_upper_length_3: CON
-description_extra_no_space_upper_length_4: CONV
-description_extra_no_space_upper_length_5: CONVE
-description_extra_no_space_upper_length_6: CONVER
-description_extra_upper_length_1: C
-description_extra_upper_length_2: CO
-description_extra_upper_length_3: CON
-description_extra_upper_length_4: CONV
-description_extra_upper_length_5: CONVE
-description_extra_upper_length_6: CONVER
 description_main: converter_dcdc
-description_main_length_1: c
-description_main_length_2: co
-description_main_length_3: con
-description_main_length_4: conv
-description_main_length_5: conve
-description_main_length_6: conver
-description_main_name: Converter Dcdc
-description_main_no_space_length_1: c
-description_main_no_space_length_2: co
-description_main_no_space_length_3: con
-description_main_no_space_length_4: conv
-description_main_no_space_length_5: conve
-description_main_no_space_length_6: conver
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CO
-description_main_no_space_upper_length_3: CON
-description_main_no_space_upper_length_4: CONV
-description_main_no_space_upper_length_5: CONVE
-description_main_no_space_upper_length_6: CONVER
-description_main_upper_length_1: C
-description_main_upper_length_2: CO
-description_main_upper_length_3: CON
-description_main_upper_length_4: CONV
-description_main_upper_length_5: CONVE
-description_main_upper_length_6: CONVER
-directory: parts/eda_kicad_footprint_kicad_default_converter_dcdc_converter_dcdc_silvertel_ag5810
 footprint_id: eda_kicad_footprint_kicad_default_converter_dcdc_converter_dcdc_silvertel_ag5810
 footprint_string:
   attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
@@ -1478,67 +1401,9 @@ footprint_string:
     angle=None, unlocked=False), Position(X=56.475, Y=-9.85, angle=None, unlocked=False),
     Position(X=59.475, Y=-9.875, angle=None, unlocked=False)])], filledPolygons=[],
     fillSegments=None)]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_converter_dcdc_converter_dcdc_silvertel_ag5810
 id: eda_kicad_footprint_kicad_default_converter_dcdc_converter_dcdc_silvertel_ag5810
-id_no_class: eda_kicad_default_converter_dcdc_converter_dcdc_silvertel_ag5810
-id_no_color: edaconverterdcdcconverterdcdcsilvertelag5810
-id_no_size: edaconverterdcdcconverterdcdcsilvertelag5810
-id_no_type: eda_converter_dcdc_converter_dcdc_silvertel_ag5810
 manufacturer: ''
-manufacturer_name: ''
-md5: 8dcebb0207a8e61e7210082188cb3c34
-md5_10: 8dcebb0207
-md5_10_upper: 8DCEBB0207
-md5_5: 8dceb
-md5_5_upper: 8DCEB
-md5_6: 8dcebb
-md5_6_alpha: 5j6wr
-md5_6_alpha_upper: 5J6WR
-md5_6_upper: 8DCEBB
-name: Eda Kicad Footprint Kicad Default Converter Dcdc Converter Dcdc Silvertel Ag5810
-name_no_class: Eda Kicad Default Converter Dcdc Converter Dcdc Silvertel Ag5810
-name_no_color: Edaconverterdcdcconverterdcdcsilvertelag5810
-name_no_size: Edaconverterdcdcconverterdcdcsilvertelag5810
-name_no_type: Eda Converter Dcdc Converter Dcdc Silvertel Ag5810
-oomp_key: oomp_eda_kicad_footprint_kicad_default_converter_dcdc_converter_dcdc_silvertel_ag5810
-oomp_word: scroll peach curry
-oomp_word_emoji: ':scroll: :peach: :curry:'
-oomp_word_emoji_list:
-- ':scroll:'
-- ':peach:'
-- ':curry:'
-oomp_word_list:
-- scroll
-- peach
-- curry
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

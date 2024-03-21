@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: d_powermite_ka
-description_extra_length_1: d
-description_extra_length_2: d_
-description_extra_length_3: d_p
-description_extra_length_4: d_po
-description_extra_length_5: d_pow
-description_extra_length_6: d_powe
-description_extra_name: D Powermite Ka
-description_extra_no_space_length_1: d
-description_extra_no_space_length_2: dp
-description_extra_no_space_length_3: dpo
-description_extra_no_space_length_4: dpow
-description_extra_no_space_length_5: dpowe
-description_extra_no_space_length_6: dpower
-description_extra_no_space_upper_length_1: D
-description_extra_no_space_upper_length_2: DP
-description_extra_no_space_upper_length_3: DPO
-description_extra_no_space_upper_length_4: DPOW
-description_extra_no_space_upper_length_5: DPOWE
-description_extra_no_space_upper_length_6: DPOWER
-description_extra_upper_length_1: D
-description_extra_upper_length_2: D_
-description_extra_upper_length_3: D_P
-description_extra_upper_length_4: D_PO
-description_extra_upper_length_5: D_POW
-description_extra_upper_length_6: D_POWE
 description_main: diode_smd
-description_main_length_1: d
-description_main_length_2: di
-description_main_length_3: dio
-description_main_length_4: diod
-description_main_length_5: diode
-description_main_length_6: diode_
-description_main_name: Diode SMD
-description_main_no_space_length_1: d
-description_main_no_space_length_2: di
-description_main_no_space_length_3: dio
-description_main_no_space_length_4: diod
-description_main_no_space_length_5: diode
-description_main_no_space_length_6: diodes
-description_main_no_space_upper_length_1: D
-description_main_no_space_upper_length_2: DI
-description_main_no_space_upper_length_3: DIO
-description_main_no_space_upper_length_4: DIOD
-description_main_no_space_upper_length_5: DIODE
-description_main_no_space_upper_length_6: DIODES
-description_main_upper_length_1: D
-description_main_upper_length_2: DI
-description_main_upper_length_3: DIO
-description_main_upper_length_4: DIOD
-description_main_upper_length_5: DIODE
-description_main_upper_length_6: DIODE_
-directory: parts/eda_kicad_footprint_kicad_default_diode_smd_d_powermite_ka
 footprint_id: eda_kicad_footprint_kicad_default_diode_smd_d_powermite_ka
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -224,67 +147,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_diode_smd_d_powermite_ka
 id: eda_kicad_footprint_kicad_default_diode_smd_d_powermite_ka
-id_no_class: eda_kicad_default_diode_smd_d_powermite_ka
-id_no_color: edadiodesmddpowermiteka
-id_no_size: edadiodesmddpowermiteka
-id_no_type: eda_diode_smd_d_powermite_ka
 manufacturer: ''
-manufacturer_name: ''
-md5: 33373a7ebf6127e4f95a8befd156f112
-md5_10: 33373a7ebf
-md5_10_upper: 33373A7EBF
-md5_5: '33373'
-md5_5_upper: '33373'
-md5_6: 33373a
-md5_6_alpha: 1zxve
-md5_6_alpha_upper: 1ZXVE
-md5_6_upper: 33373A
-name: Eda Kicad Footprint Kicad Default Diode SMD D Powermite Ka
-name_no_class: Eda Kicad Default Diode SMD D Powermite Ka
-name_no_color: Edadiodesmddpowermiteka
-name_no_size: Edadiodesmddpowermiteka
-name_no_type: Eda Diode SMD D Powermite Ka
-oomp_key: oomp_eda_kicad_footprint_kicad_default_diode_smd_d_powermite_ka
-oomp_word: dog wolf koala
-oomp_word_emoji: ':dog: :wolf: :koala:'
-oomp_word_emoji_list:
-- ':dog:'
-- ':wolf:'
-- ':koala:'
-oomp_word_list:
-- dog
-- wolf
-- koala
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_

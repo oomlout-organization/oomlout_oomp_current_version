@@ -1,85 +1,8 @@
 classification: kicad_footprint
-classification_length_1: k
-classification_length_2: ki
-classification_length_3: kic
-classification_length_4: kica
-classification_length_5: kicad
-classification_length_6: kicad_
-classification_name: Kicad Footprint
-classification_no_space_length_1: k
-classification_no_space_length_2: ki
-classification_no_space_length_3: kic
-classification_no_space_length_4: kica
-classification_no_space_length_5: kicad
-classification_no_space_length_6: kicadf
-classification_no_space_upper_length_1: K
-classification_no_space_upper_length_2: KI
-classification_no_space_upper_length_3: KIC
-classification_no_space_upper_length_4: KICA
-classification_no_space_upper_length_5: KICAD
-classification_no_space_upper_length_6: KICADF
-classification_upper_length_1: K
-classification_upper_length_2: KI
-classification_upper_length_3: KIC
-classification_upper_length_4: KICA
-classification_upper_length_5: KICAD
-classification_upper_length_6: KICAD_
 color: ''
-color_name: ''
 description: eda
 description_extra: c_1825_4564metric_pad1_57x6_80mm_handsolder
-description_extra_length_1: c
-description_extra_length_2: c_
-description_extra_length_3: c_1
-description_extra_length_4: c_18
-description_extra_length_5: c_182
-description_extra_length_6: c_1825
-description_extra_name: C 1825 4564Metric Pad1 57X6 80mm Handsolder
-description_extra_no_space_length_1: c
-description_extra_no_space_length_2: c1
-description_extra_no_space_length_3: c18
-description_extra_no_space_length_4: c182
-description_extra_no_space_length_5: c1825
-description_extra_no_space_length_6: c18254
-description_extra_no_space_upper_length_1: C
-description_extra_no_space_upper_length_2: C1
-description_extra_no_space_upper_length_3: C18
-description_extra_no_space_upper_length_4: C182
-description_extra_no_space_upper_length_5: C1825
-description_extra_no_space_upper_length_6: C18254
-description_extra_upper_length_1: C
-description_extra_upper_length_2: C_
-description_extra_upper_length_3: C_1
-description_extra_upper_length_4: C_18
-description_extra_upper_length_5: C_182
-description_extra_upper_length_6: C_1825
 description_main: capacitor_smd
-description_main_length_1: c
-description_main_length_2: ca
-description_main_length_3: cap
-description_main_length_4: capa
-description_main_length_5: capac
-description_main_length_6: capaci
-description_main_name: Capacitor SMD
-description_main_no_space_length_1: c
-description_main_no_space_length_2: ca
-description_main_no_space_length_3: cap
-description_main_no_space_length_4: capa
-description_main_no_space_length_5: capac
-description_main_no_space_length_6: capaci
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CA
-description_main_no_space_upper_length_3: CAP
-description_main_no_space_upper_length_4: CAPA
-description_main_no_space_upper_length_5: CAPAC
-description_main_no_space_upper_length_6: CAPACI
-description_main_upper_length_1: C
-description_main_upper_length_2: CA
-description_main_upper_length_3: CAP
-description_main_upper_length_4: CAPA
-description_main_upper_length_5: CAPAC
-description_main_upper_length_6: CAPACI
-directory: parts/eda_kicad_footprint_kicad_default_capacitor_smd_c_1825_4564metric_pad1_57x6_80mm_handsolder
 footprint_id: eda_kicad_footprint_kicad_default_capacitor_smd_c_1825_4564metric_pad1_57x6_80mm_handsolder
 footprint_string:
   attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
@@ -165,68 +88,9 @@ footprint_string:
   version: '20240108'
   zoneConnect: None
   zones: '[]'
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/eda_kicad_footprint_kicad_default_capacitor_smd_c_1825_4564metric_pad1_57x6_80mm_handsolder
 id: eda_kicad_footprint_kicad_default_capacitor_smd_c_1825_4564metric_pad1_57x6_80mm_handsolder
-id_no_class: eda_kicad_default_capacitor_smd_c_1825_4564metric_pad1_57x6_80mm_handsolder
-id_no_color: edacapacitorsmdc18254564metricpad157x680mmhandsolder
-id_no_size: edacapacitorsmdc18254564metricpad157x680mmhandsolder
-id_no_type: eda_capacitor_smd_c_1825_4564metric_pad1_57x6_80mm_handsolder
 manufacturer: ''
-manufacturer_name: ''
-md5: ef8f9ec23de32199b93037b457dc860f
-md5_10: ef8f9ec23d
-md5_10_upper: EF8F9EC23D
-md5_5: ef8f9
-md5_5_upper: EF8F9
-md5_6: ef8f9e
-md5_6_alpha: 9ci3i
-md5_6_alpha_upper: 9CI3I
-md5_6_upper: EF8F9E
-name: Eda Kicad Footprint Kicad Default Capacitor SMD C 1825 4564Metric Pad1 57X6
-  80mm Handsolder
-name_no_class: Eda Kicad Default Capacitor SMD C 1825 4564Metric Pad1 57X6 80mm Handsolder
-name_no_color: Edacapacitorsmdc18254564Metricpad157X680mmhandsolder
-name_no_size: Edacapacitorsmdc18254564Metricpad157X680mmhandsolder
-name_no_type: Eda Capacitor SMD C 1825 4564Metric Pad1 57X6 80mm Handsolder
-oomp_key: oomp_eda_kicad_footprint_kicad_default_capacitor_smd_c_1825_4564metric_pad1_57x6_80mm_handsolder
-oomp_word: truck calendar clubs
-oomp_word_emoji: ':truck: :calendar: :clubs:'
-oomp_word_emoji_list:
-- ':truck:'
-- ':calendar:'
-- ':clubs:'
-oomp_word_list:
-- truck
-- calendar
-- clubs
 part_number: ''
-part_number_name: ''
 short_name: ''
 size: ''
-size_name: ''
 type: kicad_default
-type_length_1: k
-type_length_2: ki
-type_length_3: kic
-type_length_4: kica
-type_length_5: kicad
-type_length_6: kicad_
-type_name: Kicad Default
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kic
-type_no_space_length_4: kica
-type_no_space_length_5: kicad
-type_no_space_length_6: kicadd
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIC
-type_no_space_upper_length_4: KICA
-type_no_space_upper_length_5: KICAD
-type_no_space_upper_length_6: KICADD
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIC
-type_upper_length_4: KICA
-type_upper_length_5: KICAD
-type_upper_length_6: KICAD_
