@@ -1,3 +1,7 @@
+* [amazon_fire](amazon_fire)
+  * [max_11](amazon_fire/max_11)
+    * [amazon](amazon_fire/max_11/amazon)
+      * [kfsnwi](amazon_fire/max_11/amazon/kfsnwi)
 * [microsoft_surface](microsoft_surface)
   * [pro_3](microsoft_surface/pro_3)
     * [microsoft](microsoft_surface/pro_3/microsoft)

@@ -3,6 +3,7 @@ company_oomlout_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_
 computer_docking_station_microsoft_surface_microsoft_1661,,Computer Docking Station Microsoft Surface Microsoft 1661,computer,docking_station,microsoft_surface,,,,microsoft,1661
 computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749,,Computer Power Supply Microsoft Surface Docking Station Microsoft Model 1749,computer,power_supply,microsoft_surface,,docking_station,,microsoft,model_1749
 computer_power_supply_microsoft_surface_standalone_microsoft_model_1625,,Computer Power Supply Microsoft Surface Standalone Microsoft Model 1625,computer,power_supply,microsoft_surface,,standalone,,microsoft,model_1625
+computer_tablet_amazon_fire_max_11_amazon_kfsnwi,,Computer Tablet Amazon Fire Max 11 Amazon Kfsnwi,computer,tablet,amazon_fire,,max_11,,amazon,kfsnwi
 computer_tablet_microsoft_surface_pro_3_microsoft_1631,,Computer Tablet Microsoft Surface Pro 3 Microsoft 1631,computer,tablet,microsoft_surface,,pro_3,,microsoft,1631
 computer_tablet_microsoft_surface_pro_3_microsoft_model_1631,,Computer Tablet Microsoft Surface Pro 3 Microsoft Model 1631,computer,tablet,microsoft_surface,,pro_3,,microsoft,model_1631
 computer_tablet_microsoft_surface_pro_4_microsoft_model_1724,,Computer Tablet Microsoft Surface Pro 4 Microsoft Model 1724,computer,tablet,microsoft_surface,,pro_4,,microsoft,model_1724
@@ -98,4 +99,3 @@ electronic_header_1_mm_jst_sh_3_pin_surface_mount,hjsh3psm,Electronic Header 1 m
 electronic_header_1_mm_jst_sh_3_pin_surface_mount_right_angle,hjsh3psmra,Electronic Header 1 mm Jst Sh 3 Pin Surface Mount Right Angle,electronic,header,1_mm_jst_sh,,3_pin,surface_mount_right_angle,,
 electronic_header_1_mm_jst_sh_4_pin_surface_mount,hjsh4psm,Electronic Header 1 mm Jst Sh 4 Pin Surface Mount,electronic,header,1_mm_jst_sh,,4_pin,surface_mount,,
 electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle,hjsh4psmra,Electronic Header 1 mm Jst Sh 4 Pin Surface Mount Right Angle,electronic,header,1_mm_jst_sh,,4_pin,surface_mount_right_angle,,
-electronic_header_1_mm_jst_sh_5_pin_surface_mount,hjsh5psm,Electronic Header 1 mm Jst Sh 5 Pin Surface Mount,electronic,header,1_mm_jst_sh,,5_pin,surface_mount,,
