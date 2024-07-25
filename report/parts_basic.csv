@@ -1,6 +1,9 @@
 id,short_code,name,classification,type,size,color,description_main,description_extra,manufacturer,part_number
 company_oomlout_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_oomlout_ptcs3bhv1,,Company Oomlout Product Prototyping Tin Hardware Screw Countersunk M3 Black Hex Head Version 1 Oomlout Ptcs3Bhv1,company_oomlout,product,prototyping_tin,,hardware_screw_countersunk_m3_black_hex_head_version_1,,oomlout,ptcs3bhv1
 computer_docking_station_microsoft_surface_microsoft_1661,,Computer Docking Station Microsoft Surface Microsoft 1661,computer,docking_station,microsoft_surface,,,,microsoft,1661
+computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt,,Computer Monitor 508 mm Screen Diagonal 1680 Pixel Width 1050 Pixel Height Dell E2009Wt,computer,monitor,508_mm_screen_diagonal,,1680_pixel_width_1050_pixel_height,,dell,e2009wt
+computer_monitor_558_8_mm_screen_diagonal_1920_pixel_width_1080_pixel_height_dell_e2211hb,,Computer Monitor 558 8 mm Screen Diagonal 1920 Pixel Width 1080 Pixel Height Dell E2211Hb,computer,monitor,558_8_mm_screen_diagonal,,1920_pixel_width_1080_pixel_height,,dell,e2211hb
+computer_monitor_mount_vesa_100_mm_width_100_mm_height,,Computer Monitor Mount Vesa 100 mm Width 100 mm Height,computer,monitor_mount,vesa,,100_mm_width_100_mm_height,,,
 computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749,,Computer Power Supply Microsoft Surface Docking Station Microsoft Model 1749,computer,power_supply,microsoft_surface,,docking_station,,microsoft,model_1749
 computer_power_supply_microsoft_surface_standalone_microsoft_model_1625,,Computer Power Supply Microsoft Surface Standalone Microsoft Model 1625,computer,power_supply,microsoft_surface,,standalone,,microsoft,model_1625
 computer_tablet_amazon_fire_max_11_amazon_kfsnwi,,Computer Tablet Amazon Fire Max 11 Amazon Kfsnwi,computer,tablet,amazon_fire,,max_11,,amazon,kfsnwi
@@ -96,6 +99,3 @@ electronic_header_1_mm_jst_sh_10_pin_surface_mount_right_angle,hjsh10psmra,Elect
 electronic_header_1_mm_jst_sh_2_pin_surface_mount,hjsh2psm,Electronic Header 1 mm Jst Sh 2 Pin Surface Mount,electronic,header,1_mm_jst_sh,,2_pin,surface_mount,,
 electronic_header_1_mm_jst_sh_2_pin_surface_mount_right_angle,hjsh2psmra,Electronic Header 1 mm Jst Sh 2 Pin Surface Mount Right Angle,electronic,header,1_mm_jst_sh,,2_pin,surface_mount_right_angle,,
 electronic_header_1_mm_jst_sh_3_pin_surface_mount,hjsh3psm,Electronic Header 1 mm Jst Sh 3 Pin Surface Mount,electronic,header,1_mm_jst_sh,,3_pin,surface_mount,,
-electronic_header_1_mm_jst_sh_3_pin_surface_mount_right_angle,hjsh3psmra,Electronic Header 1 mm Jst Sh 3 Pin Surface Mount Right Angle,electronic,header,1_mm_jst_sh,,3_pin,surface_mount_right_angle,,
-electronic_header_1_mm_jst_sh_4_pin_surface_mount,hjsh4psm,Electronic Header 1 mm Jst Sh 4 Pin Surface Mount,electronic,header,1_mm_jst_sh,,4_pin,surface_mount,,
-electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle,hjsh4psmra,Electronic Header 1 mm Jst Sh 4 Pin Surface Mount Right Angle,electronic,header,1_mm_jst_sh,,4_pin,surface_mount_right_angle,,
